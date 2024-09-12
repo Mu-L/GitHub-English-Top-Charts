@@ -1,22 +1,22 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Software > MATLAB
-<sub>Updated: 2024-09-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-09-12&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03)|-|10382|162|2024-08-05|
-|2|[ShiArthur03-thu/ShiArthur03-thu](https://github.com/ShiArthur03-thu/ShiArthur03-thu)|Backup of the repository https://github.com/ShiArthur03/ShiArthur03.|13|3|2024-09-06|
-|3|[Kaushalvala/SpreadSpectrumTech](https://github.com/Kaushalvala/SpreadSpectrumTech)|-|3|3|2024-09-09|
-|4|[taroz/ge-gnss-visibility](https://github.com/taroz/ge-gnss-visibility)|GNSS satellite visibility simulation from Google Earth|96|2|2024-09-06|
-|5|[TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)|OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.|6834|2|2024-06-01|
-|6|[NerdsWithAttitudes/WarpFactory](https://github.com/NerdsWithAttitudes/WarpFactory)|WarpFactory is a numerical toolkit for analyzing warp drive spacetimes.|271|2|2024-05-24|
-|7|[matlab-deep-learning/2D-Differentiable-Rendering-Example](https://github.com/matlab-deep-learning/2D-Differentiable-Rendering-Example)|-|11|1|2024-09-04|
-|8|[liuboxun/LLM4CP](https://github.com/liuboxun/LLM4CP)|-|58|1|2024-07-30|
-|9|[Time9Y/Matlab-Machine](https://github.com/Time9Y/Matlab-Machine)|-|685|1|2024-08-23|
-|10|[Linfeng-Tang/Image-Fusion](https://github.com/Linfeng-Tang/Image-Fusion)|Deep Learning-based Image Fusion: A Survey|751|1|2024-08-30|
+|1|[ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03)|-|10382|157|2024-08-05|
+|2|[taroz/ge-gnss-visibility](https://github.com/taroz/ge-gnss-visibility)|GNSS satellite visibility simulation from Google Earth|97|2|2024-09-06|
+|3|[TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)|OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.|6839|2|2024-06-01|
+|4|[NerdsWithAttitudes/WarpFactory](https://github.com/NerdsWithAttitudes/WarpFactory)|WarpFactory is a numerical toolkit for analyzing warp drive spacetimes.|272|2|2024-05-24|
+|5|[ShiArthur03-thu/ShiArthur03-thu](https://github.com/ShiArthur03-thu/ShiArthur03-thu)|Backup of the repository https://github.com/ShiArthur03/ShiArthur03.|14|2|2024-09-06|
+|6|[simscape/Formula-Student-Vehicle-Simscape](https://github.com/simscape/Formula-Student-Vehicle-Simscape)|Vehicle templates with multibody suspension and electric powertrain sized for Formula Student competitions.|3|1|2024-09-06|
+|7|[liuboxun/LLM4CP](https://github.com/liuboxun/LLM4CP)|-|61|1|2024-07-30|
+|8|[Time9Y/Matlab-Machine](https://github.com/Time9Y/Matlab-Machine)|-|689|1|2024-08-23|
+|9|[Kaushalvala/SpreadSpectrumTech](https://github.com/Kaushalvala/SpreadSpectrumTech)|-|3|1|2024-09-09|
+|10|[Linfeng-Tang/Image-Fusion](https://github.com/Linfeng-Tang/Image-Fusion)|Deep Learning-based Image Fusion: A Survey|754|1|2024-08-30|
 |11|[hankyang94/SOS_examples](https://github.com/hankyang94/SOS_examples)|-|5|1|2024-09-05|
-|12|[BIMK/PlatEMO](https://github.com/BIMK/PlatEMO)|Evolutionary multi-objective optimization platform|1563|1|2024-09-05|
+|12|[BIMK/PlatEMO](https://github.com/BIMK/PlatEMO)|Evolutionary multi-objective optimization platform|1565|1|2024-09-05|
 |13|[MengZ-tech/FDS-MOMEDA](https://github.com/MengZ-tech/FDS-MOMEDA)|FDS-MOMEDA: Optimization-Blind Deconvolution in Finite High-Dimensional Spaces for Extracting Pulse Signal in Rolling Bearing Fault Diagnosis|9|0|2024-05-29|
 |14|[yanqin26/Reproduction_of_wavelet_denoising_2](https://github.com/yanqin26/Reproduction_of_wavelet_denoising_2)|Reproduction of paper named An improved wavelet threshold denoising approach for surface electromyography signal|4|0|2024-04-27|
 |15|[HanwenWang95/QSPIO-TNBC](https://github.com/HanwenWang95/QSPIO-TNBC)|This repository contains the latest QSP platform for TNBC/NSCLC developed by the Popel Systems Biology Laboratory |3|0|2024-04-30|
@@ -35,17 +35,17 @@
 |28|[aylward/ITKTubeTK-CTHead-Perfusion](https://github.com/aylward/ITKTubeTK-CTHead-Perfusion)|-|7|0|2024-05-03|
 |29|[FluidStructure/hydrofoil-stability](https://github.com/FluidStructure/hydrofoil-stability)|Matlab/Octave code for the calculation of Eignemodes / Eigenvectors of an inverted "T" hydrofoil at high speed|4|0|2024-03-14|
 |30|[sccn/fMRIb](https://github.com/sccn/fMRIb)|fMRI artifact correction|9|0|2024-08-02|
-|31|[xds0112/5G_based_System_level_Integrated_Sensing_and_Communication_Simulator](https://github.com/xds0112/5G_based_System_level_Integrated_Sensing_and_Communication_Simulator)|System-level Simulator for 5G NR-based Integrated Sensing and Communication (ISAC)|76|0|2024-09-09|
+|31|[xds0112/5G_based_System_level_Integrated_Sensing_and_Communication_Simulator](https://github.com/xds0112/5G_based_System_level_Integrated_Sensing_and_Communication_Simulator)|System-level Simulator for 5G NR-based Integrated Sensing and Communication (ISAC)|77|0|2024-09-09|
 |32|[WPT-Lab124/Modified-Diode-Model](https://github.com/WPT-Lab124/Modified-Diode-Model)|The Modified Diode Model for Perovskite Photovoltaics|3|0|2024-04-12|
 |33|[mad-stat/CPSC-001](https://github.com/mad-stat/CPSC-001)|-|4|0|2024-05-27|
 |34|[mhamilt/CoupledFDPlateAndString](https://github.com/mhamilt/CoupledFDPlateAndString)|Finite difference modelling of Kirchhoff thin plate coupled with stiff string(s)|10|0|2024-05-20|
 |35|[paulpanwang/Underwater-Image-De-Scattering](https://github.com/paulpanwang/Underwater-Image-De-Scattering)|De-scattering and edge enhancing are critical procedures for underwater images which surfer from serious detail loss, color deviation and blurring. In this work, a novel method has been proposed to en ...|53|0|2024-06-03|
 |36|[Bracktus/bits-n-bobs](https://github.com/Bracktus/bits-n-bobs)|Some university work and other stuff|4|0|2024-07-01|
 |37|[ChenFengling/HiCpipe](https://github.com/ChenFengling/HiCpipe)|an efficient Hi-C data processing pipeline|15|0|2024-03-26|
-|38|[msiplab/SaivDr](https://github.com/msiplab/SaivDr)|System object definitions for sparsity-aware image and volumetric data restoration|6|0|2024-09-09|
+|38|[msiplab/SaivDr](https://github.com/msiplab/SaivDr)|System object definitions for sparsity-aware image and volumetric data restoration|6|0|2024-09-11|
 |39|[verivital/nnv](https://github.com/verivital/nnv)|Neural Network Verification Software Tool|108|0|2024-08-28|
 |40|[KaiChengDM/Kriging-and-GE-Kriging-model-toolbox](https://github.com/KaiChengDM/Kriging-and-GE-Kriging-model-toolbox)|Gradient-enhanced Kriging surrogate model|10|0|2024-03-26|
-|41|[ashleylk/CODA](https://github.com/ashleylk/CODA)|version 1 scripts for CODA |28|0|2024-05-07|
+|41|[ashleylk/CODA](https://github.com/ashleylk/CODA)|version 1 scripts for CODA |30|0|2024-05-07|
 |42|[golshanilab/UCLA_2P_Miniscope](https://github.com/golshanilab/UCLA_2P_Miniscope)|UCLA Multiphoton Miniature Microscope|7|0|2024-06-25|
 |43|[mathworks/Simscape-Backhoe-Arm](https://github.com/mathworks/Simscape-Backhoe-Arm)|Backhoe model, including hydraulic actuators for arm and bucket tilt, and multibody dynamics.|5|0|2024-08-18|
 |44|[ebenetce/SBTi_MATLAB](https://github.com/ebenetce/SBTi_MATLAB)|-|4|0|2024-06-12|
@@ -70,7 +70,7 @@
 |63|[ami-iit/matlab-whole-body-simulator](https://github.com/ami-iit/matlab-whole-body-simulator)|A robot simulator running on simulink|30|0|2024-05-29|
 |64|[lixixibj/DeepTVAR-data-code](https://github.com/lixixibj/DeepTVAR-data-code)|-|4|0|2024-06-13|
 |65|[mathworks/Industrial-Robots-Simscape](https://github.com/mathworks/Industrial-Robots-Simscape)|Manipulator and mobile robot models for trajectory planning and actuator analysis.|48|0|2024-08-18|
-|66|[swcarpentry/matlab-novice-inflammation](https://github.com/swcarpentry/matlab-novice-inflammation)|Programming with MATLAB|32|0|2024-09-03|
+|66|[swcarpentry/matlab-novice-inflammation](https://github.com/swcarpentry/matlab-novice-inflammation)|Programming with MATLAB|32|0|2024-09-10|
 |67|[ethanhe42/panorama](https://github.com/ethanhe42/panorama)|Image alignment and stitching with MATLAB|181|0|2024-05-02|
 |68|[Pseudomoaner/Defector](https://github.com/Pseudomoaner/Defector)|Analysis of topological defects|4|0|2024-05-14|
 |69|[ZehuaJia/Tube-based-MPC-for-nonlinear-systems](https://github.com/ZehuaJia/Tube-based-MPC-for-nonlinear-systems)|The reproduction of tube-based MPC for nonlinear systems|33|0|2024-05-15|
@@ -94,7 +94,7 @@
 |87|[bhqasx/1D-Shallow_exact](https://github.com/bhqasx/1D-Shallow_exact)|exact Riemann solver for 1D shallow water equations|4|0|2024-05-29|
 |88|[amaurigmartins/GroundCalc](https://github.com/amaurigmartins/GroundCalc)|MATLAB toolbox designed for analysis of grounding grids (grounding impedance, GPR, leakage currents, touch voltage, step voltage distributions. and safe limits).|5|0|2024-07-29|
 |89|[universitymarr/Robotics1](https://github.com/universitymarr/Robotics1)|-|16|0|2024-08-05|
-|90|[ramlab22/AV_Motion_Discrimination_Experiment](https://github.com/ramlab22/AV_Motion_Discrimination_Experiment)|-|4|0|2024-07-16|
+|90|[ramlab22/AV_Motion_Discrimination_Experiment](https://github.com/ramlab22/AV_Motion_Discrimination_Experiment)|-|4|0|2024-09-10|
 |91|[AET-MetallicGlass/Supplementary-Data-Codes](https://github.com/AET-MetallicGlass/Supplementary-Data-Codes)|This folder contains the source codes and data for the metallic glass paper|26|0|2024-08-30|
 |92|[mathworks/WordPress_Publishing_Tool](https://github.com/mathworks/WordPress_Publishing_Tool)|This MATLAB® App provides a fast and easy way for users to publish their MATLAB® live scripts as blog posts to their WordPress sites. What the users type in live script is what the users will see in W ...|14|0|2024-06-07|
 |93|[eepperly/Iterative-Sketching-Is-Stable](https://github.com/eepperly/Iterative-Sketching-Is-Stable)|-|6|0|2024-04-16|
@@ -109,7 +109,7 @@
 |102|[GiannakopoulosIlias/MieScattering](https://github.com/GiannakopoulosIlias/MieScattering)|Matlab software for the Mie Scattering of PEC and Homogeneous Spheres Irradiated by a Linearly Polarized Plane Wave|8|0|2024-05-23|
 |103|[ShenLH93/PDS](https://github.com/ShenLH93/PDS)|-|3|0|2024-06-14|
 |104|[michaled/PH-CPF](https://github.com/michaled/PH-CPF)|MATLAB implementation of "PH-CPF: Planar Hexagonal Meshing using Coordinate Power Fields" by Kacper Pluta, Michal Edelstein, Amir Vaxman and Mirela Ben-Chen.|6|0|2024-04-12|
-|105|[bhebert/TheZeroBetaRate](https://github.com/bhebert/TheZeroBetaRate)|Code for "The Zero Beta Rate" (Di Tella, Hebert, Kurlat, Wang)|4|0|2024-09-05|
+|105|[bhebert/TheZeroBetaRate](https://github.com/bhebert/TheZeroBetaRate)|Code for "The Zero Beta Rate" (Di Tella, Hebert, Kurlat, Wang)|5|0|2024-09-05|
 |106|[Rc-W024/SAR_Ship_detection_CFAR](https://github.com/Rc-W024/SAR_Ship_detection_CFAR)|✨✨ 🛰️ Official repository of paper on improved two-parameter CFAR algorithm based on Rayleigh distribution and Mathematical Morphology for SAR ship detection. ✨✨|79|0|2024-06-25|
 |107|[juangburgos/FitSumExponentials](https://github.com/juangburgos/FitSumExponentials)|Repo to license code for fitting a sum of exponentials as described in https://math.stackexchange.com/questions/1428566/fit-sum-of-exponentials/3808325#3808325|8|0|2024-05-16|
 |108|[JakubicekRoman/CTDeepRot](https://github.com/JakubicekRoman/CTDeepRot)|A tool for automatic rotation of CT data into a standardized (HFS) patient position. The proposed method is based on the prediction of rotation angle with CNN, and it achieved nearly perfect results w ...|3|0|2024-06-18|
@@ -117,7 +117,7 @@
 |110|[LaibinChang/Enhancement-Registration-Homogenization](https://github.com/LaibinChang/Enhancement-Registration-Homogenization)|-|3|0|2024-06-30|
 |111|[renweidian/GTNN](https://github.com/renweidian/GTNN)|-|5|0|2024-04-12|
 |112|[vancesteven/PlanetProfile](https://github.com/vancesteven/PlanetProfile)|Construct 1D interior structure models based on planetary properties. Self-consistent thermodynamics are used for fluid, rock, and mineral phases. Sound speeds, attenuation, and electrical conductivit ...|18|0|2024-08-04|
-|113|[LimHyungTae/paper_quality_plot.matlab](https://github.com/LimHyungTae/paper_quality_plot.matlab)|paper_quality_plot.matlab|44|0|2024-08-31|
+|113|[LimHyungTae/paper_quality_plot.matlab](https://github.com/LimHyungTae/paper_quality_plot.matlab)|paper_quality_plot.matlab|45|0|2024-08-31|
 |114|[YZCU/REPS](https://github.com/YZCU/REPS)|[JAG 2024] REPS: Rotation Equivariant Siamese Network Enhanced by Probability Segmentation for Satellite Video Tracking|17|0|2024-03-26|
 |115|[PerkLab/SlicerMatlabBridge](https://github.com/PerkLab/SlicerMatlabBridge)|MatlabBridge extension for 3D Slicer|17|0|2024-04-23|
 |116|[ngandng/GA_MRTA](https://github.com/ngandng/GA_MRTA)|Centralized Genetic Algorithm for Multi Robot Task Allocation|4|0|2024-08-30|
@@ -146,12 +146,12 @@
 |139|[ehancer06/DENCA](https://github.com/ehancer06/DENCA)|An evolutionary filter approach to feature selection|3|0|2024-03-25|
 |140|[zfyuan/EpiProfile2.0_Family](https://github.com/zfyuan/EpiProfile2.0_Family)|EpiProfile 2.0: A Computational Platform for Processing Epi-Proteomics Mass Spectrometry Data|4|0|2024-08-23|
 |141|[pliumath/dependencies](https://github.com/pliumath/dependencies)|-|6|0|2024-04-05|
-|142|[ISET/isetauto](https://github.com/ISET/isetauto)|Testing how networks perform when data are collected using different cameras|10|0|2024-09-05|
+|142|[ISET/isetauto](https://github.com/ISET/isetauto)|Testing how networks perform when data are collected using different cameras|10|0|2024-09-10|
 |143|[darian-7/Wind-Turbine-Nacelle-Design](https://github.com/darian-7/Wind-Turbine-Nacelle-Design)|Designed a wind turbine nacelle and carried out calculations involving turbine power outputs. Created a mathematical model on MATLAB that calculated wind power output based on external factors such as ...|5|0|2024-06-20|
 |144|[rlrangel/FEMOOLab](https://github.com/rlrangel/FEMOOLab)|Finite Element Method Object-Oriented Laboratory (FEMOOLab) is a MATLAB program for performing FEM-based numerical simulations, implemented in a modular OOP framework to allow different types of model ...|7|0|2024-03-20|
 |145|[XiaodongMa-MRI/Denoising](https://github.com/XiaodongMa-MRI/Denoising)|A Matlab toolbox for denoising magnitude dMRI|5|0|2024-08-15|
 |146|[mathworks/Mars-Rover-Terrain-Simscape](https://github.com/mathworks/Mars-Rover-Terrain-Simscape)|Six-wheeled electrically-driven rover that navigates uneven terrain to retrieve a sample.|29|0|2024-08-18|
-|147|[JulieTremblay3/LIONirs](https://github.com/JulieTremblay3/LIONirs)|-|15|0|2024-09-07|
+|147|[JulieTremblay3/LIONirs](https://github.com/JulieTremblay3/LIONirs)|-|15|0|2024-09-10|
 |148|[MarineBioAcousticsRC/silbido](https://github.com/MarineBioAcousticsRC/silbido)|-|6|0|2024-05-20|
 |149|[ashkanpakzad/AirQuant](https://github.com/ashkanpakzad/AirQuant)|AirQuant is a framework based in MATLAB primarily for extracting airway measurements from fully segmented airways of a chest CT.|17|0|2024-08-01|
 |150|[paradisetosan/ShiArthur03_Backup](https://github.com/paradisetosan/ShiArthur03_Backup)|-|14|0|2024-07-13|
@@ -162,49 +162,49 @@
 |155|[Xiangyu-Gao/mmWave-radar-signal-processing-and-microDoppler-classification](https://github.com/Xiangyu-Gao/mmWave-radar-signal-processing-and-microDoppler-classification)|Codes and template data for paper "Experiments with mmWave Automotive Radar Test-bed"|266|0|2024-08-16|
 |156|[anassabbou/Evaluation-of-Routing-Protocol-Performances-in-ns2](https://github.com/anassabbou/Evaluation-of-Routing-Protocol-Performances-in-ns2)|Performance evaluation of clustering protocols in ns2|3|0|2024-05-18|
 |157|[Shane1911/Dynamic](https://github.com/Shane1911/Dynamic)|Matlab code|3|0|2024-06-03|
-|158|[roahmlab/ConstrainedSysID](https://github.com/roahmlab/ConstrainedSysID)|System Identification For Constrained Robots|4|0|2024-08-19|
-|159|[samsrf/samsrf](https://github.com/samsrf/samsrf)|-|14|0|2024-08-08|
-|160|[I-STAR/MTFTools](https://github.com/I-STAR/MTFTools)|Tools for 2D and 3D MTF measurement.|10|0|2024-03-16|
-|161|[fehlers94/Polygon-informed-cross-track-altimetry-PICTA](https://github.com/fehlers94/Polygon-informed-cross-track-altimetry-PICTA)|A method to derive river water level profiles from Sentinel-6 altimetry data.|3|0|2024-08-02|
-|162|[TUMcps/CORA](https://github.com/TUMcps/CORA)|Toolbox for Reachability Analysis|100|0|2024-09-01|
-|163|[adevine2147/CPPDBF23-24](https://github.com/adevine2147/CPPDBF23-24)|fuselage-ver3_final_real_production_USETHIS(4).sldprt|3|0|2024-06-12|
-|164|[cpp-lln-lab/CPP_PTB](https://github.com/cpp-lln-lab/CPP_PTB)|a set of function to make it easier to create behavioral, EEG, fMRI experiment with psychtoolbox|12|0|2024-05-08|
-|165|[HaiyangJin/PTB-Exp-Builder](https://github.com/HaiyangJin/PTB-Exp-Builder)|Custom codes for building psychological experiments based on PsychoToolbox. |5|0|2024-04-27|
-|166|[Eremes1641/DSDA_MATLAB](https://github.com/Eremes1641/DSDA_MATLAB)|A example code for Discrete-Time Sliding Mode Control with Disturbance Compensation & Auxiliary state|4|0|2024-06-08|
-|167|[jdanielhoyos/AirfoilOptimization](https://github.com/jdanielhoyos/AirfoilOptimization)|Airfoil Optimization by XFOIL Matlab|6|0|2024-03-29|
-|168|[gaozhen16/Source-Code-L.Qiao](https://github.com/gaozhen16/Source-Code-L.Qiao)|-|6|0|2024-04-30|
-|169|[araujoms/qkd](https://github.com/araujoms/qkd)|Supporting files for paper "Quantum key distribution rates from semidefinite programming"|6|0|2024-03-14|
-|170|[joelsimon/omnia](https://github.com/joelsimon/omnia)|Analyze complex and noisy time series with particular emphasis given to seismoacoustic MERMAID signals|8|0|2024-08-29|
-|171|[zhiqianZ/supCPM](https://github.com/zhiqianZ/supCPM)|The algorithm, supervised Capacity Mapping (supCPM), to visualize scRNA-seq data|6|0|2024-08-25|
-|172|[ami-iit/paper_Mohamed_2023_humanoids_nonlinear-ft-calibration](https://github.com/ami-iit/paper_Mohamed_2023_humanoids_nonlinear-ft-calibration)|Humanoids 2023 Paper|4|0|2024-05-06|
-|173|[hm-li0420/MVDR-Speech-Enhancement](https://github.com/hm-li0420/MVDR-Speech-Enhancement)|This is C code for speech enhancement based on Minimum Variance Distortionless Response(MVDR).|4|0|2024-04-10|
-|174|[nasa/CARA_Analysis_Tools](https://github.com/nasa/CARA_Analysis_Tools)|-|59|0|2024-07-23|
-|175|[Zapit-Optostim/zapit](https://github.com/Zapit-Optostim/zapit)|General purpose optostimulation system |6|0|2024-08-19|
-|176|[MATPOWER/mips](https://github.com/MATPOWER/mips)|MIPS – MATPOWER Interior Point Solver for nonlinear optimization problems.|16|0|2024-05-21|
-|177|[kowyo/matlab-progress-bar](https://github.com/kowyo/matlab-progress-bar)|A tqdm alternative in MATLAB|4|0|2024-06-18|
-|178|[RasitEvduzen/KalmanFilter](https://github.com/RasitEvduzen/KalmanFilter)|-|21|0|2024-08-11|
-|179|[BrainWanderLab/TSN-VGLCM](https://github.com/BrainWanderLab/TSN-VGLCM)|Texture similarity network (TSN) is the individual-level construction approach of the SCN based on the sMRI-derived voxel-wise 3D gray‐level co‐occurrence matrix (VGLCM) texture feature maps, which ca ...|3|0|2024-03-13|
-|180|[lcnbeapp/beapp](https://github.com/lcnbeapp/beapp)|The Batch Electroencephalography Automated Processing Platform (BEAPP)|35|0|2024-08-09|
-|181|[Hadrien-Montanelli/lsmlab](https://github.com/Hadrien-Montanelli/lsmlab)|MATLAB package for solving inverse acoustic problems with the LSM|4|0|2024-07-02|
-|182|[trendscenter/fit](https://github.com/trendscenter/fit)|Fusion ICA Toolbox (MATLAB)|24|0|2024-08-28|
-|183|[mikafabricius/lumped_mass_spring_cable_model](https://github.com/mikafabricius/lumped_mass_spring_cable_model)|MATLAB and Simulink simulation for underwater lumped-mass-spring cable model.|9|0|2024-04-14|
-|184|[abhranildas/gx2](https://github.com/abhranildas/gx2)|Matlab toolbox to compute the statistics, pdf, cdf, inverse cdf and random numbers of the generalized chi-square distribution.|8|0|2024-09-03|
-|185|[thomasxiaodongwu/SomeCNNBymatLab](https://github.com/thomasxiaodongwu/SomeCNNBymatLab)|BILSTM，GRU，LSTM|10|0|2024-05-19|
-|186|[dqrobotics/matlab](https://github.com/dqrobotics/matlab)|The DQ Robotics library in MATLAB|25|0|2024-08-16|
-|187|[qiskit-community/Qiskit-runtime-primitives-with-MATLAB](https://github.com/qiskit-community/Qiskit-runtime-primitives-with-MATLAB)|Qiskit Runtime Primitives through Matlab|6|0|2024-05-06|
-|188|[cecilianorgren/pic-matlab](https://github.com/cecilianorgren/pic-matlab)|Matlab routines for analysis and visualization of data from numerical particle-in-cell simulations.|4|0|2024-07-08|
-|189|[WEC-Sim/WEC-Sim_Applications](https://github.com/WEC-Sim/WEC-Sim_Applications)|This repository is a collection of WEC-Sim applications. These application cases demonstrate advanced features of the WEC-Sim code. |21|0|2024-09-05|
-|190|[ixilai/MFIF-MMIF](https://github.com/ixilai/MFIF-MMIF)|Codes for Bridging the Gap between Multi-focus and Multi-modal: A Focused Integration Framework for Multi-modal Image Fusion. (WACV 2024)|13|0|2024-05-24|
-|191|[FrancisBlackLee/TEM_SIMU_MATLAB](https://github.com/FrancisBlackLee/TEM_SIMU_MATLAB)|TEM&STEM simulation in matlab|13|0|2024-09-09|
-|192|[acuoci/OpenSMOKEpp_SurrogateOptimizer](https://github.com/acuoci/OpenSMOKEpp_SurrogateOptimizer)|Optimizer for fuel surrogates|3|0|2024-06-28|
-|193|[jumanamirza/LR-FHSS-receiver](https://github.com/jumanamirza/LR-FHSS-receiver)|Long-Range Frequency Hopping Spread Spectrum (LR-FHSS) receiver that able to decode LR-FHSS packets|7|0|2024-08-16|
-|194|[cocoanlab/humanfmri_preproc_bids](https://github.com/cocoanlab/humanfmri_preproc_bids)|Codes for preprocessing human fmri data collected in the cocoanlab. The data structure will be compatible with the Brain Imaging Data Structure (BIDS) and this mainly uses SPM12 as the main tool.|8|0|2024-06-21|
-|195|[next4years/MyAirportsSearchGRSL](https://github.com/next4years/MyAirportsSearchGRSL)|a simple demo for paper 'Airport Detection in Large-Scale SAR Images via Line Segment Grouping and Saliency Analysis'|11|0|2024-07-06|
-|196|[VidetteMakes/RaptorExtruder](https://github.com/VidetteMakes/RaptorExtruder)|Instructions to modify an Ender-3 3D printer to print from raw pellets|3|0|2024-06-08|
-|197|[PLC-TJU/RAVE](https://github.com/PLC-TJU/RAVE)|Riemannian geometry-based adaptive boosting and voting ensemble (RAVE)|3|0|2024-06-15|
-|198|[mdhumphries/HierarchicalConsensusClustering](https://github.com/mdhumphries/HierarchicalConsensusClustering)|MATLAB toolbox for hierarchical consensus clustering|5|0|2024-05-23|
-|199|[tungakantarci/Teaching](https://github.com/tungakantarci/Teaching)|Lecture slides in econometrics, econometric exercises in MATLAB, Workshops for MATLAB, R, Stata|3|0|2024-09-09|
-|200|[MathWorks-Teaching-Resources/DC-Circuit-Analysis](https://github.com/MathWorks-Teaching-Resources/DC-Circuit-Analysis)|Virtual labs for DC circuit analysis.|17|0|2024-08-29|
+|158|[cmahulea/RobotMotionToolbox-RMTool-under-MATLAB](https://github.com/cmahulea/RobotMotionToolbox-RMTool-under-MATLAB)|Robot Motion Toolbox for MATLAB|6|0|2024-09-11|
+|159|[roahmlab/ConstrainedSysID](https://github.com/roahmlab/ConstrainedSysID)|System Identification For Constrained Robots|4|0|2024-08-19|
+|160|[samsrf/samsrf](https://github.com/samsrf/samsrf)|-|14|0|2024-09-11|
+|161|[I-STAR/MTFTools](https://github.com/I-STAR/MTFTools)|Tools for 2D and 3D MTF measurement.|10|0|2024-03-16|
+|162|[fehlers94/Polygon-informed-cross-track-altimetry-PICTA](https://github.com/fehlers94/Polygon-informed-cross-track-altimetry-PICTA)|A method to derive river water level profiles from Sentinel-6 altimetry data.|3|0|2024-08-02|
+|163|[TUMcps/CORA](https://github.com/TUMcps/CORA)|Toolbox for Reachability Analysis|100|0|2024-09-01|
+|164|[adevine2147/CPPDBF23-24](https://github.com/adevine2147/CPPDBF23-24)|fuselage-ver3_final_real_production_USETHIS(4).sldprt|3|0|2024-06-12|
+|165|[cpp-lln-lab/CPP_PTB](https://github.com/cpp-lln-lab/CPP_PTB)|a set of function to make it easier to create behavioral, EEG, fMRI experiment with psychtoolbox|12|0|2024-05-08|
+|166|[HaiyangJin/PTB-Exp-Builder](https://github.com/HaiyangJin/PTB-Exp-Builder)|Custom codes for building psychological experiments based on PsychoToolbox. |5|0|2024-04-27|
+|167|[Eremes1641/DSDA_MATLAB](https://github.com/Eremes1641/DSDA_MATLAB)|A example code for Discrete-Time Sliding Mode Control with Disturbance Compensation & Auxiliary state|4|0|2024-06-08|
+|168|[jdanielhoyos/AirfoilOptimization](https://github.com/jdanielhoyos/AirfoilOptimization)|Airfoil Optimization by XFOIL Matlab|6|0|2024-03-29|
+|169|[gaozhen16/Source-Code-L.Qiao](https://github.com/gaozhen16/Source-Code-L.Qiao)|-|6|0|2024-04-30|
+|170|[araujoms/qkd](https://github.com/araujoms/qkd)|Supporting files for paper "Quantum key distribution rates from semidefinite programming"|6|0|2024-03-14|
+|171|[joelsimon/omnia](https://github.com/joelsimon/omnia)|Analyze complex and noisy time series with particular emphasis given to seismoacoustic MERMAID signals|8|0|2024-08-29|
+|172|[zhiqianZ/supCPM](https://github.com/zhiqianZ/supCPM)|The algorithm, supervised Capacity Mapping (supCPM), to visualize scRNA-seq data|6|0|2024-08-25|
+|173|[ami-iit/paper_Mohamed_2023_humanoids_nonlinear-ft-calibration](https://github.com/ami-iit/paper_Mohamed_2023_humanoids_nonlinear-ft-calibration)|Humanoids 2023 Paper|4|0|2024-05-06|
+|174|[hm-li0420/MVDR-Speech-Enhancement](https://github.com/hm-li0420/MVDR-Speech-Enhancement)|This is C code for speech enhancement based on Minimum Variance Distortionless Response(MVDR).|4|0|2024-04-10|
+|175|[nasa/CARA_Analysis_Tools](https://github.com/nasa/CARA_Analysis_Tools)|-|59|0|2024-07-23|
+|176|[Zapit-Optostim/zapit](https://github.com/Zapit-Optostim/zapit)|General purpose optostimulation system |6|0|2024-08-19|
+|177|[MATPOWER/mips](https://github.com/MATPOWER/mips)|MIPS – MATPOWER Interior Point Solver for nonlinear optimization problems.|16|0|2024-05-21|
+|178|[kowyo/matlab-progress-bar](https://github.com/kowyo/matlab-progress-bar)|A tqdm alternative in MATLAB|4|0|2024-06-18|
+|179|[RasitEvduzen/KalmanFilter](https://github.com/RasitEvduzen/KalmanFilter)|-|21|0|2024-08-11|
+|180|[BrainWanderLab/TSN-VGLCM](https://github.com/BrainWanderLab/TSN-VGLCM)|Texture similarity network (TSN) is the individual-level construction approach of the SCN based on the sMRI-derived voxel-wise 3D gray‐level co‐occurrence matrix (VGLCM) texture feature maps, which ca ...|3|0|2024-03-13|
+|181|[lcnbeapp/beapp](https://github.com/lcnbeapp/beapp)|The Batch Electroencephalography Automated Processing Platform (BEAPP)|35|0|2024-08-09|
+|182|[Hadrien-Montanelli/lsmlab](https://github.com/Hadrien-Montanelli/lsmlab)|MATLAB package for solving inverse acoustic problems with the LSM|4|0|2024-07-02|
+|183|[trendscenter/fit](https://github.com/trendscenter/fit)|Fusion ICA Toolbox (MATLAB)|24|0|2024-08-28|
+|184|[mikafabricius/lumped_mass_spring_cable_model](https://github.com/mikafabricius/lumped_mass_spring_cable_model)|MATLAB and Simulink simulation for underwater lumped-mass-spring cable model.|9|0|2024-04-14|
+|185|[abhranildas/gx2](https://github.com/abhranildas/gx2)|Matlab toolbox to compute the statistics, pdf, cdf, inverse cdf and random numbers of the generalized chi-square distribution.|8|0|2024-09-03|
+|186|[thomasxiaodongwu/SomeCNNBymatLab](https://github.com/thomasxiaodongwu/SomeCNNBymatLab)|BILSTM，GRU，LSTM|10|0|2024-05-19|
+|187|[dqrobotics/matlab](https://github.com/dqrobotics/matlab)|The DQ Robotics library in MATLAB|26|0|2024-08-16|
+|188|[qiskit-community/Qiskit-runtime-primitives-with-MATLAB](https://github.com/qiskit-community/Qiskit-runtime-primitives-with-MATLAB)|Qiskit Runtime Primitives through Matlab|7|0|2024-09-10|
+|189|[cecilianorgren/pic-matlab](https://github.com/cecilianorgren/pic-matlab)|Matlab routines for analysis and visualization of data from numerical particle-in-cell simulations.|4|0|2024-07-08|
+|190|[WEC-Sim/WEC-Sim_Applications](https://github.com/WEC-Sim/WEC-Sim_Applications)|This repository is a collection of WEC-Sim applications. These application cases demonstrate advanced features of the WEC-Sim code. |21|0|2024-09-05|
+|191|[ixilai/MFIF-MMIF](https://github.com/ixilai/MFIF-MMIF)|Codes for Bridging the Gap between Multi-focus and Multi-modal: A Focused Integration Framework for Multi-modal Image Fusion. (WACV 2024)|13|0|2024-05-24|
+|192|[FrancisBlackLee/TEM_SIMU_MATLAB](https://github.com/FrancisBlackLee/TEM_SIMU_MATLAB)|TEM&STEM simulation in matlab|13|0|2024-09-09|
+|193|[acuoci/OpenSMOKEpp_SurrogateOptimizer](https://github.com/acuoci/OpenSMOKEpp_SurrogateOptimizer)|Optimizer for fuel surrogates|3|0|2024-06-28|
+|194|[jumanamirza/LR-FHSS-receiver](https://github.com/jumanamirza/LR-FHSS-receiver)|Long-Range Frequency Hopping Spread Spectrum (LR-FHSS) receiver that able to decode LR-FHSS packets|7|0|2024-08-16|
+|195|[cocoanlab/humanfmri_preproc_bids](https://github.com/cocoanlab/humanfmri_preproc_bids)|Codes for preprocessing human fmri data collected in the cocoanlab. The data structure will be compatible with the Brain Imaging Data Structure (BIDS) and this mainly uses SPM12 as the main tool.|8|0|2024-06-21|
+|196|[next4years/MyAirportsSearchGRSL](https://github.com/next4years/MyAirportsSearchGRSL)|a simple demo for paper 'Airport Detection in Large-Scale SAR Images via Line Segment Grouping and Saliency Analysis'|11|0|2024-07-06|
+|197|[VidetteMakes/RaptorExtruder](https://github.com/VidetteMakes/RaptorExtruder)|Instructions to modify an Ender-3 3D printer to print from raw pellets|3|0|2024-06-08|
+|198|[PLC-TJU/RAVE](https://github.com/PLC-TJU/RAVE)|Riemannian geometry-based adaptive boosting and voting ensemble (RAVE)|3|0|2024-06-15|
+|199|[mdhumphries/HierarchicalConsensusClustering](https://github.com/mdhumphries/HierarchicalConsensusClustering)|MATLAB toolbox for hierarchical consensus clustering|5|0|2024-05-23|
+|200|[tungakantarci/Teaching](https://github.com/tungakantarci/Teaching)|Lecture slides in econometrics, econometric exercises in MATLAB, Workshops for MATLAB, R, Stata|3|0|2024-09-09|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
