@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Perl
-<sub>Updated: 2024-09-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-09-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -16,8 +16,7 @@
 |9|[cheoljoo/doxygen_perlmod_python](https://github.com/cheoljoo/doxygen_perlmod_python)|gives more python examples and usage when you set GENERATE_PERLMOD in doxygen|2|2024-06-19|2024-04-02|
 |10|[Jake-perl/perl](https://github.com/Jake-perl/perl)|Learning/experimenting with Perl.|2|2024-05-09|2024-02-17|
 |11|[gzqx/stupid_rss_generate](https://github.com/gzqx/stupid_rss_generate)|Generate rss subscription from abitrary serial book website.|2|2024-04-06|2024-02-17|
-|12|[matthewlarkin/bare.sh](https://github.com/matthewlarkin/bare.sh)|bare.sh is a collection of bare bones shell scripts for simplifying various tasks such as API calls (OpenAI, Stripe, Postmark, etc), video and audio processing, and much more.|2|2024-03-11|2024-02-10|
-|13|[lauradekker/Assembly_annotation](https://github.com/lauradekker/Assembly_annotation)|Scripts for courses 473637 Genome & Transcriptome Assembly and SBL.30004 Organization & Annotation of Eukaryote Genomes|2|2024-05-28|2024-01-31|
+|12|[lauradekker/Assembly_annotation](https://github.com/lauradekker/Assembly_annotation)|Scripts for courses 473637 Genome & Transcriptome Assembly and SBL.30004 Organization & Annotation of Eukaryote Genomes|2|2024-05-28|2024-01-31|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

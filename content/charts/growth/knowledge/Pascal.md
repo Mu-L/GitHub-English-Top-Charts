@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Pascal
-<sub>Updated: 2024-09-12&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-09-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -18,9 +18,9 @@
 |11|[PhrozenIO/Snippets](https://github.com/PhrozenIO/Snippets)|Repository that will progressively hold tiny projects and code snippets.|12|0|2024-05-22|
 |12|[michael-ring/pico-fpcexamples](https://github.com/michael-ring/pico-fpcexamples)|Examples for programming the raspberry pi pico with FreePascal|18|0|2024-08-22|
 |13|[Diskmaster/ModernPrecombines](https://github.com/Diskmaster/ModernPrecombines)|Modernized documentation on how to generate Fallout 4 Precombines and Previsual information through the command line.|20|0|2024-08-16|
-|14|[jimmckeeth/DelphiPatterns](https://github.com/jimmckeeth/DelphiPatterns)|Complete set of all the GoF design patterns implemented in Delphi language|161|0|2024-07-29|
+|14|[jimmckeeth/DelphiPatterns](https://github.com/jimmckeeth/DelphiPatterns)|Complete set of all the GoF design patterns implemented in Delphi language|162|0|2024-07-29|
 |15|[Embarcadero/DelphiBlogExamples](https://github.com/Embarcadero/DelphiBlogExamples)|Delphi examples used in Embarcadero Blogs|9|0|2024-07-08|
-|16|[dpradov/keynote-nf](https://github.com/dpradov/keynote-nf)|Tabbed notebook with RichText editor, multi-level notes and strong encryption.|250|0|2024-08-28|
+|16|[dpradov/keynote-nf](https://github.com/dpradov/keynote-nf)|Tabbed notebook with RichText editor, multi-level notes and strong encryption.|251|0|2024-08-28|
 |17|[delphidabbler/code-snippets](https://github.com/delphidabbler/code-snippets)|Collections of reusable code snippets, mainly in Pascal.|27|0|2024-04-11|
 |18|[rail5/bookthief](https://github.com/rail5/bookthief)|Prepares PDFs to be home-printed as booklets [GUI front-end for Liesel]|3|0|2024-08-27|
 |19|[tdebaets/common](https://github.com/tdebaets/common)|Common code/utilities/scripts... that are shared among my other projects|4|0|2024-06-13|
@@ -38,7 +38,7 @@
 |31|[jdtech3/SSB-Demod](https://github.com/jdtech3/SSB-Demod)|SSB demodulator, part of ECE295 course at the University of Toronto|2|0|2024-05-25|
 |32|[lukaszcz/pascaladt](https://github.com/lukaszcz/pascaladt)|A library of algorithms and data structures for the Free Pascal Compiler.|3|0|2024-08-10|
 |33|[frones/ACBr](https://github.com/frones/ACBr)|Projeto ACBr - O branch master é um repositório espelho do SVN original (svn://svn.code.sf.net/p/acbr/code/trunk2), criado e mantido com git-svn.|150|0|2024-07-24|
-|34|[aruijter/delphi-web-library](https://github.com/aruijter/delphi-web-library)|A Delphi Web Library including JOSE, ACME, OAuth2, MySQL, etc and of course a fully functional Restful Web Server|7|0|2024-09-10|
+|34|[aruijter/delphi-web-library](https://github.com/aruijter/delphi-web-library)|A Delphi Web Library including JOSE, ACME, OAuth2, MySQL, etc and of course a fully functional Restful Web Server|7|0|2024-09-12|
 |35|[TOSUN-Shanghai/TSMaster_MiniProgram_SDK](https://github.com/TOSUN-Shanghai/TSMaster_MiniProgram_SDK)|TSMaster mini program library SDK for various programming languages|6|0|2024-08-23|
 |36|[NickHodges/NickBookCode](https://github.com/NickHodges/NickBookCode)|The code for all three of Nick Hodges' Delphi Books|10|0|2024-06-10|
 |37|[DjoCoding/Djo-Lang](https://github.com/DjoCoding/Djo-Lang)|a small programming language built for learning purposes|5|0|2024-04-26|

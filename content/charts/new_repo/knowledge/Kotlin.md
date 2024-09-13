@@ -1,29 +1,29 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Kotlin
-<sub>Updated: 2024-09-12&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-09-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[apple/pkl-pantry](https://github.com/apple/pkl-pantry)|Shared Pkl packages|227|2024-06-04|2024-01-19|
-|2|[Acclorite/book-story](https://github.com/Acclorite/book-story)|Material3 eBook reader - Book's Story. Built with Jetpack Compose. Free & Open Source & Ad Free. 7 supported file formats (.txt, .pdf, .epub, .fb2, .zip, .html, .htm), 5 supported languages. Lots of c ...|208|2024-09-11|2023-12-29|
-|3|[JohnnySC/ZeroToHeroAndroidTDD](https://github.com/JohnnySC/ZeroToHeroAndroidTDD)|Learn Android by solving TDD tasks|162|2024-08-20|2023-10-18|
-|4|[langerhans/OdinTools](https://github.com/langerhans/OdinTools)|Collection of utilities for the AYN Odin 2|123|2024-05-25|2024-01-08|
+|2|[Acclorite/book-story](https://github.com/Acclorite/book-story)|Material3 eBook reader - Book's Story. Built with Jetpack Compose. Free & Open Source & Ad Free. 7 supported file formats (.txt, .pdf, .epub, .fb2, .zip, .html, .htm), 5 supported languages. Lots of c ...|209|2024-09-11|2023-12-29|
+|3|[JohnnySC/ZeroToHeroAndroidTDD](https://github.com/JohnnySC/ZeroToHeroAndroidTDD)|Learn Android by solving TDD tasks|162|2024-09-12|2023-10-18|
+|4|[langerhans/OdinTools](https://github.com/langerhans/OdinTools)|Collection of utilities for the AYN Odin 2|124|2024-05-25|2024-01-08|
 |5|[petros-efthymiou/DailyPulse](https://github.com/petros-efthymiou/DailyPulse)|Education repo offered as material in the courses: Kotlin Multiplatform & Compose Multiplatform Masterclasses.|115|2024-05-02|2023-11-24|
-|6|[fethij/Rijksmuseum](https://github.com/fethij/Rijksmuseum)|Delve into the rich collection of masterpieces.|106|2024-07-25|2024-05-29|
+|6|[fethij/Rijksmuseum](https://github.com/fethij/Rijksmuseum)|Delve into the rich collection of masterpieces.|108|2024-07-25|2024-05-29|
 |7|[fibelatti/photo-widget](https://github.com/fibelatti/photo-widget)|Photo Widget is as simple as it can be: an Android home screen widget to display a photo or collection of photos. It is a free, no-ads, open source alternative for people who want to customize their h ...|101|2024-09-07|2023-10-24|
 |8|[realityexpander/How_to_program_from_ground_up](https://github.com/realityexpander/How_to_program_from_ground_up)|Live code-along document to support my video series about Learning to Program Computers From The Ground Up With Minimal BS.|97|2024-09-10|2024-02-06|
 |9|[KieronQuinn/SmartspacerPlugins](https://github.com/KieronQuinn/SmartspacerPlugins)|A collection of plugins for Smartspacer|91|2024-08-28|2023-10-22|
 |10|[abualgait/BookStoreKMP](https://github.com/abualgait/BookStoreKMP)|📚 Welcome to BookStoreKMP! This kotlin-platform gem blends cutting-edge tech, sleek UI via Jetpack Compose, Ktor for networking, SqlDelight for database magic, and Koin for dependency injection. 🚀💻 |89|2024-06-17|2024-01-24|
 |11|[GetStream/Android-Video-Samples](https://github.com/GetStream/Android-Video-Samples)|📘 Provides a collection of samples that utilize modern Android tech stacks and Stream Video SDK for Kotlin and Compose.|88|2024-09-11|2024-04-08|
-|12|[B1ays/BHub](https://github.com/B1ays/BHub)|Download, Install and Share mods easily|83|2024-06-25|2024-06-24|
+|12|[B1ays/BHub](https://github.com/B1ays/BHub)|Download, Install and Share mods easily|86|2024-06-25|2024-06-24|
 |13|[aloussase/AlexandriaApp](https://github.com/aloussase/AlexandriaApp)|:book: Search for books and download and convert them to different formats|69|2024-06-20|2024-02-19|
 |14|[eslamfaisal/android-development-training](https://github.com/eslamfaisal/android-development-training)|Online Android development training to move you from basics to production ready, learning android concepts to create and maintains android projects|53|2024-08-08|2024-02-14|
 |15|[SEAbdulbasit/Camera-KMP](https://github.com/SEAbdulbasit/Camera-KMP)|This repository provides a comprehensive example of how to use the camera in a Kotlin Multiplatform (KMP) project. It demonstrates the implementation of camera functionality across multiple platforms, ...|42|2024-06-02|2024-05-25|
-|16|[wisemuji/compose-would-you-rather-game](https://github.com/wisemuji/compose-would-you-rather-game)|📱 Compose Multiplatform, 100% UI shared by Compose, generates contents by Gemini|38|2024-09-05|2024-07-25|
-|17|[nain-F49FF806/sharepaste.oo](https://github.com/nain-F49FF806/sharepaste.oo)|Share pastes privately, with end to end encryption.|38|2024-09-11|2024-04-05|
-|18|[ChathuraHettiarachchi/SharedTransitionScope-JetpackCompose-Try](https://github.com/ChathuraHettiarachchi/SharedTransitionScope-JetpackCompose-Try)|Try out new SharedTransitionScope API on Jetpack Compose. This is not well coded, just for testing the API, so don't think much about the implementation :p|37|2024-04-19|2024-04-19|
-|19|[enmanuel52/Pop-Corns](https://github.com/enmanuel52/Pop-Corns)|Can you guess the best way to eat them? Of course watching a movie :).|37|2024-08-31|2023-10-11|
+|16|[nain-F49FF806/sharepaste.oo](https://github.com/nain-F49FF806/sharepaste.oo)|Share pastes privately, with end to end encryption.|39|2024-09-11|2024-04-05|
+|17|[wisemuji/compose-would-you-rather-game](https://github.com/wisemuji/compose-would-you-rather-game)|📱 Compose Multiplatform, 100% UI shared by Compose, generates contents by Gemini|38|2024-09-05|2024-07-25|
+|18|[enmanuel52/Pop-Corns](https://github.com/enmanuel52/Pop-Corns)|Can you guess the best way to eat them? Of course watching a movie :).|38|2024-08-31|2023-10-11|
+|19|[ChathuraHettiarachchi/SharedTransitionScope-JetpackCompose-Try](https://github.com/ChathuraHettiarachchi/SharedTransitionScope-JetpackCompose-Try)|Try out new SharedTransitionScope API on Jetpack Compose. This is not well coded, just for testing the API, so don't think much about the implementation :p|37|2024-04-19|2024-04-19|
 |20|[issever22/iCore](https://github.com/issever22/iCore)|iCore is a comprehensive Android library designed to streamline the development process by providing a robust set of modular components. With built-in support for the Model-View-ViewModel (MVVM) archi ...|32|2024-07-26|2024-06-03|
 |21|[joost-klitsie/DataLoadingExample](https://github.com/joost-klitsie/DataLoadingExample)|An example how to use a reactive way of data loading inside your view models, while consuming the data from a Composable view.|28|2024-07-29|2024-07-26|
 |22|[devexpert-io/compose-recompositions](https://github.com/devexpert-io/compose-recompositions)|Some samples to explain how recompisitions work and how to optimize the implementation|26|2024-08-14|2024-08-14|
@@ -35,8 +35,8 @@
 |28|[w2sv/Composed](https://github.com/w2sv/Composed)| A collection of utils to facilitate development with Jetpack Compose. |21|2024-06-24|2024-02-29|
 |29|[amsavarthan/reaction-picker](https://github.com/amsavarthan/reaction-picker)|💙 Facebook-like reaction picker library for Android using Jetpack compose|20|2024-04-17|2024-04-01|
 |30|[nomisRev/KotlinConf2024Example](https://github.com/nomisRev/KotlinConf2024Example)|Full production example of: Unlocking the Power of Arrow 2.0: A Comprehensive Guide|17|2024-05-28|2024-05-19|
-|31|[MohamedRejeb/ChessGameKmp](https://github.com/MohamedRejeb/ChessGameKmp)|Kotlin Design Patterns & Best Practices - Part 1: Chess Game|15|2024-07-22|2024-07-22|
-|32|[rschattauer/compose_multiplatform](https://github.com/rschattauer/compose_multiplatform)|This project shows how to use kotlin multiplatform with compose and custom ui components for each platform|15|2024-08-21|2024-01-24|
+|31|[rschattauer/compose_multiplatform](https://github.com/rschattauer/compose_multiplatform)|This project shows how to use kotlin multiplatform with compose and custom ui components for each platform|16|2024-08-21|2024-01-24|
+|32|[MohamedRejeb/ChessGameKmp](https://github.com/MohamedRejeb/ChessGameKmp)|Kotlin Design Patterns & Best Practices - Part 1: Chess Game|15|2024-07-22|2024-07-22|
 |33|[jiemojiemo/LearnMediaCodec](https://github.com/jiemojiemo/LearnMediaCodec)|A Android MediaCodec Tutorial|15|2024-05-28|2024-01-09|
 |34|[rkudryashov/event-driven-architecture](https://github.com/rkudryashov/event-driven-architecture)|Event-driven architecture (Transactional outbox, Inbox, and Saga patterns) on the modern stack of Java  technologies.|14|2024-08-13|2024-07-01|
 |35|[bimalkaf/JetpackCompose_Playground](https://github.com/bimalkaf/JetpackCompose_Playground)|Jetpack Compose code to learn it from scratch |14|2024-06-21|2024-02-22|
@@ -44,9 +44,9 @@
 |37|[B1ays/ficbook-reader](https://github.com/B1ays/ficbook-reader)|Клиент для сайта ficbook.net|13|2024-08-24|2023-10-26|
 |38|[tunjid/composables](https://github.com/tunjid/composables)|A collection of utility composable functions|10|2024-09-07|2024-03-05|
 |39|[marwaniaaj/AuthLoginJetpackCompose](https://github.com/marwaniaaj/AuthLoginJetpackCompose)|This project is demo on how to use Firebase Authentication in Jetpack Compose project|10|2024-04-04|2023-12-04|
-|40|[isfaaghyth/gemini-ai-kmp](https://github.com/isfaaghyth/gemini-ai-kmp)|Gemini AI with Book Summarization Use Case using KMP|9|2024-05-05|2024-05-03|
-|41|[Rapter1990/couriertracking](https://github.com/Rapter1990/couriertracking)|Case Study - Courier Tracking (Kotlin, Spring Boot, Mapstruct, JUnit Tests, Integration Tests, Docker, CI/CD - Github Actions, Gradle)|8|2024-07-31|2024-07-26|
-|42|[devtiro/course-kotlin-spring-boot](https://github.com/devtiro/course-kotlin-spring-boot)|Source code for Devtiro's Kotlin & Spring Boot course|8|2024-07-17|2024-07-17|
+|40|[devtiro/course-kotlin-spring-boot](https://github.com/devtiro/course-kotlin-spring-boot)|Source code for Devtiro's Kotlin & Spring Boot course|9|2024-07-17|2024-07-17|
+|41|[isfaaghyth/gemini-ai-kmp](https://github.com/isfaaghyth/gemini-ai-kmp)|Gemini AI with Book Summarization Use Case using KMP|9|2024-05-05|2024-05-03|
+|42|[Rapter1990/couriertracking](https://github.com/Rapter1990/couriertracking)|Case Study - Courier Tracking (Kotlin, Spring Boot, Mapstruct, JUnit Tests, Integration Tests, Docker, CI/CD - Github Actions, Gradle)|8|2024-07-31|2024-07-26|
 |43|[hexagontk/kotlin_walk_through](https://github.com/hexagontk/kotlin_walk_through)|Code snippets guiding you through the Kotlin language syntax|8|2024-08-07|2024-05-26|
 |44|[ml-opensource/android-mosaic](https://github.com/ml-opensource/android-mosaic)|Collection of UI Components for Android|8|2024-09-09|2024-02-20|
 

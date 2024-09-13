@@ -1,16 +1,16 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > C++
-<sub>Updated: 2024-09-12&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-09-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[Xacone/BestEdrOfTheMarket](https://github.com/Xacone/BestEdrOfTheMarket)|Little user-mode AV/EDR evasion lab for training & learning purposes|973|2024-05-02|2023-11-12|
+|1|[Xacone/BestEdrOfTheMarket](https://github.com/Xacone/BestEdrOfTheMarket)|Little user-mode AV/EDR evasion lab for training & learning purposes|974|2024-05-02|2023-11-12|
 |2|[efchatz/pandora](https://github.com/efchatz/pandora)|A red team tool that assists into extracting/dumping master credentials and/or entries from different password managers.|565|2024-06-12|2023-11-03|
-|3|[Lyall/MGSHDFix](https://github.com/Lyall/MGSHDFix)|A fix that adds custom resolutions, ultrawide support and much more to the Metal Gear Solid Master Collection.|408|2024-06-08|2023-10-25|
+|3|[Lyall/MGSHDFix](https://github.com/Lyall/MGSHDFix)|A fix that adds custom resolutions, ultrawide support and much more to the Metal Gear Solid Master Collection.|409|2024-06-08|2023-10-25|
 |4|[luigifreda/slamplay](https://github.com/luigifreda/slamplay)|slamplay is a collection of powerful tools to start playing and experimenting with SLAM in C++|385|2024-08-27|2023-09-16|
 |5|[dexter11x2/EFT-ESP-hack](https://github.com/dexter11x2/EFT-ESP-hack)|wallpaper-engine-crack free-wallpaper-engine wallpaper-engine-full-version live-wallpapers desktop-customization free-download-wallpaper-engine wallpaper-engine-premium customizable-wallpapers audio-r ...|381|2024-06-24|2024-06-24|
-|6|[koide3/small_gicp](https://github.com/koide3/small_gicp)|Efficient and parallel algorithms for point cloud registration [C++, Python]|367|2024-08-12|2024-03-22|
+|6|[koide3/small_gicp](https://github.com/koide3/small_gicp)|Efficient and parallel algorithms for point cloud registration [C++, Python]|368|2024-08-12|2024-03-22|
 |7|[webspiderkoresh1/Notcoin-crypto-bot](https://github.com/webspiderkoresh1/Notcoin-crypto-bot)|notcoin-bot-installation notcoin-crypto-bot notcoin-trading-bot notcoin-bot-setup notcoin-bot-guide|347|2024-06-17|2024-06-17|
 |8|[dzslinks/Crypto-Wallet-Recovery](https://github.com/dzslinks/Crypto-Wallet-Recovery)|A crypto wallet recovery tool or software is designed to help users regain access to their cryptocurrency wallets in the event of lost or forgotten passwords, seed phrases, or private keys. These tool ...|336|2024-09-02|2024-09-02|
 |9|[AryaGo2016/Crypto-Wallet-Recovery](https://github.com/AryaGo2016/Crypto-Wallet-Recovery)|A crypto wallet recovery tool or software is designed to help users regain access to their cryptocurrency wallets in the event of lost or forgotten passwords, seed phrases, or private keys. These tool ...|336|2024-09-01|2024-09-01|
@@ -50,8 +50,8 @@
 |43|[KaOzAnd/Phasmophobia-undetect-hack](https://github.com/KaOzAnd/Phasmophobia-undetect-hack)|phasmophobiaundetecthack, phasmophobiaundetecthackfeatures, speedhackphasmophobiaundetecthack, bestphasmophobiahack, phasmophobiaenhancedgame, phasmophobiahackguide, phasmophobiaaimbot, phasmophobiawa ...|150|2024-06-28|2024-06-28|
 |44|[KnightsAV/Team-Fortress-2-undetect-hack](https://github.com/KnightsAV/Team-Fortress-2-undetect-hack)|team-fortress-2-undetect-hack, team-fortress-2-undetect-hack-speedhack, team-fortress-2-undetect-hack-aimbot, team-fortress-2-undetect-hack-wallhack, team-fortress-2-undetect-hack-features, team-fortr ...|150|2024-06-28|2024-06-28|
 |45|[channber/Dead-by-Daylight-undetect-hack](https://github.com/channber/Dead-by-Daylight-undetect-hack)|dead-by-daylight-undetect-hack-promotion, dead-by-daylight-undetect-hack-features, dead-by-daylight-undetect-hack-benefits, dead-by-daylight-undetect-hack-play-safe, dead-by-daylight-undetect-hack-ins ...|147|2024-06-28|2024-06-28|
-|46|[koide3/gtsam_points](https://github.com/koide3/gtsam_points)|A collection of GTSAM factors and optimizers for point cloud SLAM|146|2024-08-29|2024-06-24|
-|47|[fan-ziqi/rl_sar](https://github.com/fan-ziqi/rl_sar)|Simulation verification and physical deployment of robot reinforcement learning algorithms, suitable for quadruped robots, wheeled robots, and humanoid robots. "sar" stands for "simulation and real"|144|2024-08-26|2024-03-06|
+|46|[koide3/gtsam_points](https://github.com/koide3/gtsam_points)|A collection of GTSAM factors and optimizers for point cloud SLAM|146|2024-09-12|2024-06-24|
+|47|[fan-ziqi/rl_sar](https://github.com/fan-ziqi/rl_sar)|Simulation verification and physical deployment of robot reinforcement learning algorithms, suitable for quadruped robots, wheeled robots, and humanoid robots. "sar" stands for "simulation and real"|146|2024-08-26|2024-03-06|
 |48|[ivi-developer/Adobe-Animate-Activation](https://github.com/ivi-developer/Adobe-Animate-Activation)|adobe-animate-install, adobe-activate-2024-guide, adobe-animate-activation-download, free-adobe-animate, adobe-animate-2024-tutorial, download-adobe-animate-2024, adobe-animate-tips, how-to-activate-a ...|143|2024-06-28|2024-06-28|
 |49|[Bogdanctx/Radar-Contact](https://github.com/Bogdanctx/Radar-Contact)|Radar Contact is a 2D Air Traffic Controller game where you have to control an airspace and guide airplanes and helicopters to arrive safely to their destination avoiding storms and collisions. The we ...|139|2024-09-03|2024-04-08|
 |50|[Xtampleq/Adobe-Spark-Activation](https://github.com/Xtampleq/Adobe-Spark-Activation)|adobe-spark-download, adobe-spark-activation, adobe-spark-free, adobe-spark-installer, adobe-spark-2024, adobe-spark-how-to-download, adobe-spark-guide, adobe-spark-step-by-step, adobe-spark-unlock, a ...|134|2024-06-28|2024-06-28|
