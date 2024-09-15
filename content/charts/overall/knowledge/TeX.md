@@ -1,42 +1,42 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > TeX
-<sub>Updated: 2024-09-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-09-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[tuhdo/os01](https://github.com/tuhdo/os01)|Bootstrap yourself to write an OS from scratch. A book for self-learner.|11851|2024-03-26|
-|2|[sysprog21/lkmpg](https://github.com/sysprog21/lkmpg)|The Linux Kernel Module Programming Guide (updated for 5.0+ kernels)|7518|2024-08-12|
-|3|[awesome-NeRF/awesome-NeRF](https://github.com/awesome-NeRF/awesome-NeRF)|A curated list of awesome neural radiance fields papers|6429|2024-07-03|
+|1|[tuhdo/os01](https://github.com/tuhdo/os01)|Bootstrap yourself to write an OS from scratch. A book for self-learner.|11852|2024-03-26|
+|2|[sysprog21/lkmpg](https://github.com/sysprog21/lkmpg)|The Linux Kernel Module Programming Guide (updated for 5.0+ kernels)|7520|2024-08-12|
+|3|[awesome-NeRF/awesome-NeRF](https://github.com/awesome-NeRF/awesome-NeRF)|A curated list of awesome neural radiance fields papers|6430|2024-07-03|
 |4|[liuxinyu95/AlgoXY](https://github.com/liuxinyu95/AlgoXY)|Book of Elementary Functional Algorithms and Data structures|6054|2024-08-21|
 |5|[rstudio/cheatsheets](https://github.com/rstudio/cheatsheets)|Posit Cheat Sheets - Can also be found at https://posit.co/resources/cheatsheets/.|5775|2024-09-07|
-|6|[openmlsys/openmlsys-zh](https://github.com/openmlsys/openmlsys-zh)|《Machine Learning Systems: Design and Implementation》- Chinese Version|3949|2024-04-13|
+|6|[openmlsys/openmlsys-zh](https://github.com/openmlsys/openmlsys-zh)|《Machine Learning Systems: Design and Implementation》- Chinese Version|3953|2024-04-13|
 |7|[pllk/cphb](https://github.com/pllk/cphb)|Competitive Programmer's Handbook|2901|2024-08-01|
-|8|[hendricius/the-sourdough-framework](https://github.com/hendricius/the-sourdough-framework)|Open source book dedicated to helping you to make the best possible sourdough bread at home.|2609|2024-08-21|
+|8|[hendricius/the-sourdough-framework](https://github.com/hendricius/the-sourdough-framework)|Open source book dedicated to helping you to make the best possible sourdough bread at home.|2610|2024-08-21|
 |9|[hadley/adv-r](https://github.com/hadley/adv-r)|Advanced R: a book|2347|2024-05-11|
 |10|[avehtari/BDA_course_Aalto](https://github.com/avehtari/BDA_course_Aalto)|Bayesian Data Analysis course at Aalto|2145|2024-09-07|
-|11|[dendibakh/perf-book](https://github.com/dendibakh/perf-book)|The book "Performance Analysis and Tuning on Modern CPU"|2097|2024-09-13|
-|12|[HoTT/book](https://github.com/HoTT/book)|A textbook on informal homotopy type theory|2015|2024-06-17|
+|11|[dendibakh/perf-book](https://github.com/dendibakh/perf-book)|The book "Performance Analysis and Tuning on Modern CPU"|2097|2024-09-14|
+|12|[HoTT/book](https://github.com/HoTT/book)|A textbook on informal homotopy type theory|2016|2024-06-17|
 |13|[the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)|Host repository for The Turing Way: a how to guide for reproducible data science|1872|2024-09-11|
-|14|[Tufte-LaTeX/tufte-latex](https://github.com/Tufte-LaTeX/tufte-latex)|A Tufte-inspired LaTeX class for producing handouts, papers, and books|1674|2024-07-14|
+|14|[Tufte-LaTeX/tufte-latex](https://github.com/Tufte-LaTeX/tufte-latex)|A Tufte-inspired LaTeX class for producing handouts, papers, and books|1675|2024-07-14|
 |15|[hithesis/hithesis](https://github.com/hithesis/hithesis)|嗨！thesis！哈尔滨工业大学毕业论文LaTeX模板|1641|2024-07-29|
 |16|[premAI-io/state-of-open-source-ai](https://github.com/premAI-io/state-of-open-source-ai)|:closed_book: Clarity in the current fast-paced mess of Open Source innovation|1504|2024-04-02|
-|17|[bdebye/thesisuestc](https://github.com/bdebye/thesisuestc)|ThesisUESTC-电子科技大学毕业论文模板|1338|2024-07-15|
+|17|[bdebye/thesisuestc](https://github.com/bdebye/thesisuestc)|ThesisUESTC-电子科技大学毕业论文模板|1339|2024-07-15|
 |18|[dgrtwo/tidy-text-mining](https://github.com/dgrtwo/tidy-text-mining)|Manuscript of the book "Tidy Text Mining with R" by Julia Silge and David Robinson|1312|2024-08-13|
-|19|[winitzki/sofp](https://github.com/winitzki/sofp)|A free book: "The Science of Functional Programming"|1304|2024-09-04|
+|19|[winitzki/sofp](https://github.com/winitzki/sofp)|A free book: "The Science of Functional Programming"|1305|2024-09-04|
 |20|[IUCompilerCourse/Essentials-of-Compilation](https://github.com/IUCompilerCourse/Essentials-of-Compilation)|A book about compiling Racket and Python to x86-64 assembly|1280|2024-08-27|
-|21|[jemmybutton/byrne-euclid](https://github.com/jemmybutton/byrne-euclid)|MetaPost + TeX rendition of Oliver Byrne's "The first six books of the Elements of Euclid"|1185|2024-09-05|
+|21|[jemmybutton/byrne-euclid](https://github.com/jemmybutton/byrne-euclid)|MetaPost + TeX rendition of Oliver Byrne's "The first six books of the Elements of Euclid"|1185|2024-09-14|
 |22|[rafalab/dsbook](https://github.com/rafalab/dsbook)|Repository for data science book|1086|2024-05-16|
 |23|[OpenLogicProject/OpenLogic](https://github.com/OpenLogicProject/OpenLogic)|An open-source, customizable intermediate logic textbook|1042|2024-08-29|
 |24|[abntex/abntex2](https://github.com/abntex/abntex2)|:books: Classe LaTeX e estilo bibliográfico compatíveis com as normas da ABNT|1030|2024-07-09|
-|25|[chaofengc/Awesome-Image-Quality-Assessment](https://github.com/chaofengc/Awesome-Image-Quality-Assessment)|A comprehensive collection of IQA papers|919|2024-08-06|
-|26|[boazbk/tcs](https://github.com/boazbk/tcs)|Book in preparation: introduction to theoretical computer science|904|2024-03-18|
-|27|[harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book)|Collaborative book Machine Learning Systems|900|2024-09-12|
-|28|[fmarotta/kaobook](https://github.com/fmarotta/kaobook)|A LaTeX class for books, reports or theses based on https://github.com/kenohori/thesis and https://github.com/Tufte-LaTeX/tufte-latex.|824|2024-07-30|
+|25|[chaofengc/Awesome-Image-Quality-Assessment](https://github.com/chaofengc/Awesome-Image-Quality-Assessment)|A comprehensive collection of IQA papers|921|2024-08-06|
+|26|[boazbk/tcs](https://github.com/boazbk/tcs)|Book in preparation: introduction to theoretical computer science|905|2024-03-18|
+|27|[harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book)|Collaborative book Machine Learning Systems|902|2024-09-14|
+|28|[fmarotta/kaobook](https://github.com/fmarotta/kaobook)|A LaTeX class for books, reports or theses based on https://github.com/kenohori/thesis and https://github.com/Tufte-LaTeX/tufte-latex.|825|2024-07-30|
 |29|[ismayc/thesisdown](https://github.com/ismayc/thesisdown)|An updated R Markdown thesis template using the bookdown package|807|2024-04-01|
 |30|[KastnerRG/pp4fpgas](https://github.com/KastnerRG/pp4fpgas)|Parallel Programming for FPGAs -- An open-source high-level synthesis book|782|2024-05-15|
 |31|[Just-A-Visitor/Algorithmic-Pseudocode](https://github.com/Just-A-Visitor/Algorithmic-Pseudocode)|This repository contains the pseudocode(pdf) of various algorithms and data structures necessary for Interview Preparation and Competitive Coding|758|2024-04-21|
-|32|[ysymyth/awesome-language-agents](https://github.com/ysymyth/awesome-language-agents)|List of language agents based on paper "Cognitive Architectures for Language Agents"|697|2024-08-28|
+|32|[ysymyth/awesome-language-agents](https://github.com/ysymyth/awesome-language-agents)|List of language agents based on paper "Cognitive Architectures for Language Agents"|698|2024-08-28|
 |33|[BITNP/BIThesis](https://github.com/BITNP/BIThesis)|📖 北京理工大学非官方 LaTeX 模板集合，包含本科、研究生毕业设计模板及更多。🎉 （更多文档请访问 wiki 和 release 中的手册）|684|2024-09-02|
 |34|[illinois-cs241/coursebook](https://github.com/illinois-cs241/coursebook)|Open Source Introductory Systems Programming Textbook for the University of Illinois|678|2024-08-29|
 |35|[acl-org/acl-style-files](https://github.com/acl-org/acl-style-files)|Official style files for papers submitted to venues of the Association for Computational Linguistics|669|2024-05-20|
@@ -52,17 +52,17 @@
 |45|[jemmybutton/fiziko](https://github.com/jemmybutton/fiziko)|MetaPost library initially written to automate some elements of black and white illustrations for a physics textbook|364|2024-06-14|
 |46|[NWPUMetaphysicsOffice/Yet-Another-LaTeX-Template-for-NPU-Thesis](https://github.com/NWPUMetaphysicsOffice/Yet-Another-LaTeX-Template-for-NPU-Thesis)|西北工业大学硕博学位论文模版   Yet Another Thesis Template for Northwestern Polytechnical University|359|2024-07-16|
 |47|[latextemplates/scientific-thesis-template](https://github.com/latextemplates/scientific-thesis-template)|LaTeX template for Master, Bachelor, Diploma, and Student Theses|357|2024-08-19|
-|48|[sisl/tufte_algorithms_book](https://github.com/sisl/tufte_algorithms_book)|A template for textbooks in the same style as Algorithms for Optimization|349|2024-06-20|
+|48|[sisl/tufte_algorithms_book](https://github.com/sisl/tufte_algorithms_book)|A template for textbooks in the same style as Algorithms for Optimization|350|2024-06-20|
 |49|[tinoryj/UESTC-Thesis-Latex-Template](https://github.com/tinoryj/UESTC-Thesis-Latex-Template)|UESTC Thesis Latex Template 2023. It fully supports the latest format specification in 2023, supports independent symbol table, abbreviation table, and complete and fully customizable Academic/Profess ...|347|2024-03-18|
 |50|[liubenyuan/nudtpaper](https://github.com/liubenyuan/nudtpaper)|A LaTeX template for Master/PhD Thesis of NUDT|337|2024-08-19|
 |51|[ZihengZZH/awesome-multimodal-knowledge-graph](https://github.com/ZihengZZH/awesome-multimodal-knowledge-graph)|A curated list of AWESOME papers, datasets and tutorials within Multimodal Knowledge Graph.|327|2024-07-22|
-|52|[AlonzoLeeeooo/awesome-text-to-image-studies](https://github.com/AlonzoLeeeooo/awesome-text-to-image-studies)|A collection of awesome text-to-image generation studies.|322|2024-09-12|
+|52|[AlonzoLeeeooo/awesome-text-to-image-studies](https://github.com/AlonzoLeeeooo/awesome-text-to-image-studies)|A collection of awesome text-to-image generation studies.|325|2024-09-12|
 |53|[pprevos/emacs-writing-studio](https://github.com/pprevos/emacs-writing-studio)|Emacs configuration for authors who research, write and publish articles, books and websites.|313|2024-08-01|
 |54|[KSESEU/LLMPapers](https://github.com/KSESEU/LLMPapers)|Papers & Works for large languange models (ChatGPT, GPT-3, Codex etc.).|300|2024-08-17|
 |55|[CompCogNeuro/book](https://github.com/CompCogNeuro/book)|Computational Cognitive Neuroscience textbook|297|2024-09-12|
 |56|[HandsOnDataViz/book](https://github.com/HandsOnDataViz/book)|Hands-On Data Visualization: Interactive Storytelling from Spreadsheets to Code is an open-access book, also published with O'Reilly Media.|295|2024-09-09|
-|57|[mengchaoheng/SCUT_thesis](https://github.com/mengchaoheng/SCUT_thesis)|华南理工大学硕博士学位论文LaTeX模板。Latex templates for the thesis of South China University of Technology|284|2024-05-27|
-|58|[SHI-Yu-Zhe/awesome-agi-cocosci](https://github.com/SHI-Yu-Zhe/awesome-agi-cocosci)|An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.|276|2024-09-13|
+|57|[mengchaoheng/SCUT_thesis](https://github.com/mengchaoheng/SCUT_thesis)|华南理工大学硕博士学位论文模板(LaTeX)。Latex templates for the thesis of South China University of Technology|284|2024-05-27|
+|58|[SHI-Yu-Zhe/awesome-agi-cocosci](https://github.com/SHI-Yu-Zhe/awesome-agi-cocosci)|An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.|277|2024-09-14|
 |59|[AllenDowney/LittleBookOfSemaphores](https://github.com/AllenDowney/LittleBookOfSemaphores)|LaTeX source and supporting code for The Little Book of Semaphores, by Allen Downey.|266|2024-05-26|
 |60|[carloocchiena/the_statistics_handbook](https://github.com/carloocchiena/the_statistics_handbook)|the statistics handbook open source repository|257|2024-05-28|
 |61|[geocompx/geocompy](https://github.com/geocompx/geocompy)|Geocomputation with Python: an open source book and online resource for getting started in this space|253|2024-07-11|
@@ -70,30 +70,30 @@
 |63|[Lakens/statistical_inferences](https://github.com/Lakens/statistical_inferences)|Repository for the textbook 'Improving Your Statistical Inferences'  by Daniel Lakens|245|2024-07-10|
 |64|[YangLaTeX/hitszthesis](https://github.com/YangLaTeX/hitszthesis)|A dissertation template for Harbin Institute of Technology, ShenZhen (HITSZ), including bachelor, master and doctor dissertations.|234|2024-09-11|
 |65|[OpenMP/Examples](https://github.com/OpenMP/Examples)|LaTeX Examples Document Source|227|2024-07-16|
-|66|[jovyntls/cheatsheets](https://github.com/jovyntls/cheatsheets)|NUS CS, math & statistics cheatsheets|225|2024-05-20|
+|66|[jovyntls/cheatsheets](https://github.com/jovyntls/cheatsheets)|NUS CS, math & statistics cheatsheets|226|2024-05-20|
 |67|[milaan9/LaTeX4Everyone](https://github.com/milaan9/LaTeX4Everyone)|Learn LaTeX from scratch in an easy-to-follow but highly effective way. Get up to the level of professional document writeup, presentation creation and even generating graphics and figures in LaTeX.|223|2024-04-20|
 |68|[DivadNojnarg/outstanding-shiny-ui](https://github.com/DivadNojnarg/outstanding-shiny-ui)|Outstanding User Interfaces with Shiny CRC Press book online version|223|2024-05-09|
-|69|[pablo14/data-science-live-book](https://github.com/pablo14/data-science-live-book)|An open source book to learn data science, data analysis and machine learning, suitable for all ages!|220|2024-04-14|
-|70|[ancailliau/sans-indexes](https://github.com/ancailliau/sans-indexes)|Indexes for SANS Courses and GIAC Certifications|219|2024-05-26|
-|71|[wojtask/clrs4e-solutions](https://github.com/wojtask/clrs4e-solutions)|Solutions to exercises and problems from "Introduction to Algorithms", Fourth Edition by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein|217|2024-06-27|
+|69|[wojtask/clrs4e-solutions](https://github.com/wojtask/clrs4e-solutions)|Solutions to exercises and problems from "Introduction to Algorithms", Fourth Edition by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein|221|2024-06-27|
+|70|[pablo14/data-science-live-book](https://github.com/pablo14/data-science-live-book)|An open source book to learn data science, data analysis and machine learning, suitable for all ages!|220|2024-04-14|
+|71|[ancailliau/sans-indexes](https://github.com/ancailliau/sans-indexes)|Indexes for SANS Courses and GIAC Certifications|219|2024-05-26|
 |72|[alexpovel/latex-cookbook](https://github.com/alexpovel/latex-cookbook)|A comprehensive LaTeX template with examples for theses, books and more, employing the 'latest and greatest' (UTF8, glossaries, fonts, ...). The PDF artifact is built using CI/CD, with a Python testin ...|217|2024-03-20|
 |73|[pmichaillat/latex-paper](https://github.com/pmichaillat/latex-paper)|Minimalist LaTeX template for academic papers|214|2024-07-16|
 |74|[oscarlevin/discrete-book](https://github.com/oscarlevin/discrete-book)|An open textbook for Discrete Mathematics, as taught at the University of Northern Colorado|208|2024-09-12|
 |75|[cambridge/thesis](https://github.com/cambridge/thesis)|A LaTeX document class that conforms to the Computer Laboratory's PhD thesis formatting guidelines.|206|2024-04-06|
-|76|[becarpenter/book6](https://github.com/becarpenter/book6)|A collaborative IPv6 book|201|2024-09-13|
+|76|[becarpenter/book6](https://github.com/becarpenter/book6)|A collaborative IPv6 book|203|2024-09-13|
 |77|[pgf-tikz/pgfplots](https://github.com/pgf-tikz/pgfplots)|pgfplots - A TeX package to draw normal and/or logarithmic plots directly in TeX in two and three dimensions with a user-friendly interface and pgfplotstable - a TeX package to round and format numeri ...|196|2024-07-29|
-|78|[NicklasVraa/LiX](https://github.com/NicklasVraa/LiX)|Compose papers, dissertations, textbooks, novels, newspapers etc. quicker using abstractions to the standard LaTeX document classes - or create your own classes easily.|195|2024-07-05|
-|79|[TJ-CSCCG/tongji-undergrad-thesis](https://github.com/TJ-CSCCG/tongji-undergrad-thesis)|:page_facing_up: 同济大学本科生毕业设计论文模板   Tongji University Undergraduate Thesis Template   Overleaf / Mac / Linux / Windows / Workshop / Docker|195|2024-06-01|
-|80|[fabiotosi92/Awesome-Deep-Stereo-Matching](https://github.com/fabiotosi92/Awesome-Deep-Stereo-Matching)|A curated list of awesome Deep Stereo Matching resources |194|2024-09-12|
-|81|[dranov/protocol-bugs-list](https://github.com/dranov/protocol-bugs-list)|List of bugs found in distributed protocols|190|2024-05-15|
-|82|[SUSTech-CRA/sustech-master-thesis](https://github.com/SUSTech-CRA/sustech-master-thesis)|南方科技大学研究生学位论文LaTeX模板|190|2024-09-13|
+|78|[fabiotosi92/Awesome-Deep-Stereo-Matching](https://github.com/fabiotosi92/Awesome-Deep-Stereo-Matching)|A curated list of awesome Deep Stereo Matching resources |195|2024-09-12|
+|79|[NicklasVraa/LiX](https://github.com/NicklasVraa/LiX)|Compose papers, dissertations, textbooks, novels, newspapers etc. quicker using abstractions to the standard LaTeX document classes - or create your own classes easily.|195|2024-07-05|
+|80|[TJ-CSCCG/tongji-undergrad-thesis](https://github.com/TJ-CSCCG/tongji-undergrad-thesis)|:page_facing_up: 同济大学本科生毕业设计论文模板   Tongji University Undergraduate Thesis Template   Overleaf / Mac / Linux / Windows / Workshop / Docker|195|2024-06-01|
+|81|[SUSTech-CRA/sustech-master-thesis](https://github.com/SUSTech-CRA/sustech-master-thesis)|南方科技大学研究生学位论文LaTeX模板|191|2024-09-13|
+|82|[dranov/protocol-bugs-list](https://github.com/dranov/protocol-bugs-list)|List of bugs found in distributed protocols|190|2024-05-15|
 |83|[starpos/develop-transaction-system](https://github.com/starpos/develop-transaction-system)|Source code of the book "Develop A Transaction System" (in Japanese).|186|2024-03-22|
 |84|[r-causal/causal-inference-in-R](https://github.com/r-causal/causal-inference-in-R)|Causal Inference in R: A book!|184|2024-09-13|
 |85|[kaist-comet/LaTeX-Paper-Guide](https://github.com/kaist-comet/LaTeX-Paper-Guide)|A LaTeX template / tutorial|182|2024-08-16|
 |86|[yun-long/Foundations-of-Robotics](https://github.com/yun-long/Foundations-of-Robotics)|Learn fundamental knowledge in robotics |181|2024-06-16|
 |87|[wkjarosz/rendering-bib](https://github.com/wkjarosz/rendering-bib)|My master bibliography file with publications mostly in computer graphics, rendering, transport theory, and statistics.|180|2024-07-30|
 |88|[YuZhang/cryptography](https://github.com/YuZhang/cryptography)|Cryptography course slides at Harbin Institute of Technology|173|2024-05-07|
-|89|[wardvanwanrooij/thecbook](https://github.com/wardvanwanrooij/thecbook)|The C Book|167|2024-04-18|
+|89|[wardvanwanrooij/thecbook](https://github.com/wardvanwanrooij/thecbook)|The C Book|168|2024-04-18|
 |90|[hsf-training/cpluspluscourse](https://github.com/hsf-training/cpluspluscourse)|C++ Course Taught at CERN, from Sebastien Ponce (LHCb)|166|2024-08-26|
 |91|[kramse/security-courses](https://github.com/kramse/security-courses)|various courses, presentation etc.|162|2024-09-08|
 |92|[disco-lang/disco](https://github.com/disco-lang/disco)|Functional teaching language for use in a discrete mathematics course|160|2024-09-13|
@@ -103,16 +103,16 @@
 |96|[BlackArch/blackarch-guide](https://github.com/BlackArch/blackarch-guide)|BlackArch Linux Guide for Users and Developers|150|2024-07-20|
 |97|[RoboCupAtHome/RuleBook](https://github.com/RoboCupAtHome/RuleBook)|Rulebook for RoboCup @Home 2024|147|2024-09-10|
 |98|[Scinawa/quantumalgorithms.org](https://github.com/Scinawa/quantumalgorithms.org)|This is the repository for https://quantumalgorithms.org|140|2024-05-02|
-|99|[yy/dviz-course](https://github.com/yy/dviz-course)|Data visualization course material|135|2024-08-29|
-|100|[feifeiobama/Awesome-Continual-Learning](https://github.com/feifeiobama/Awesome-Continual-Learning)|A curated list of Continual Learning papers and BibTeX entries|134|2024-08-14|
+|99|[feifeiobama/Awesome-Continual-Learning](https://github.com/feifeiobama/Awesome-Continual-Learning)|A curated list of Continual Learning papers and BibTeX entries|135|2024-08-14|
+|100|[yy/dviz-course](https://github.com/yy/dviz-course)|Data visualization course material|135|2024-08-29|
 |101|[spamegg1/Math-for-CS-solutions](https://github.com/spamegg1/Math-for-CS-solutions)|Solutions to In-Class questions, Problem Sets and Exams of MIT Mathematics for Computer Science 2015 (same as 2019 Open Learning Library)|132|2024-09-02|
 |102|[vjousse/vim-for-humans-book](https://github.com/vjousse/vim-for-humans-book)|The vim for humans book|132|2024-06-14|
 |103|[royal-statistical-society/datavisguide](https://github.com/royal-statistical-society/datavisguide)|Introductory guide to the art and science of data visualisation. Insights, advice, and examples (with code) to make data outputs more readable, accessible, and impactful.|129|2024-04-04|
 |104|[hadipourh/course-cryptanalysis](https://github.com/hadipourh/course-cryptanalysis)|A Course in Cryptanalysis|128|2024-08-16|
-|105|[uwdata/living-papers](https://github.com/uwdata/living-papers)|Authoring tools for scholarly communication. Create interactive web pages or formal research papers from markdown source.|128|2024-09-05|
+|105|[uwdata/living-papers](https://github.com/uwdata/living-papers)|Authoring tools for scholarly communication. Create interactive web pages or formal research papers from markdown source.|128|2024-09-14|
 |106|[abntex/biblatex-abnt](https://github.com/abntex/biblatex-abnt)|:books: Estilo para BibLaTeX compatível com as normas da ABNT|126|2024-07-10|
 |107|[svmiller/stevetemplates](https://github.com/svmiller/stevetemplates)|My collection of R Markdown templates, as an R package.|125|2024-08-21|
-|108|[AlonzoLeeeooo/awesome-image-inpainting-studies](https://github.com/AlonzoLeeeooo/awesome-image-inpainting-studies)|A collection of awesome image inpainting studies.|122|2024-08-24|
+|108|[AlonzoLeeeooo/awesome-image-inpainting-studies](https://github.com/AlonzoLeeeooo/awesome-image-inpainting-studies)|A collection of awesome image inpainting studies.|122|2024-09-14|
 |109|[mortennobel/CMake-Cheatsheet](https://github.com/mortennobel/CMake-Cheatsheet)|Short introduction to CMake with some examples.|120|2024-05-29|
 |110|[ai4eda/awesome-AI4EDA](https://github.com/ai4eda/awesome-AI4EDA)|This repo awesome-AI4EDA contains the source for the webpage: https://ai4eda.github.io, which is a curated paper list of awesome AI for EDA.|117|2024-06-19|
 |111|[COD1995/A-Comprehensive-Note-on-Machine-Learning](https://github.com/COD1995/A-Comprehensive-Note-on-Machine-Learning)|These notes are for personal and educational use only. Any redistribution or sharing without my explicit consent is prohibited. They serve as a private learning and reference resource.|116|2024-03-31|
@@ -133,7 +133,7 @@
 |126|[alan-turing-institute/environmental-ds-book](https://github.com/alan-turing-institute/environmental-ds-book)|A computational notebook community for open environmental data science 🌎|95|2024-08-23|
 |127|[COPCSE-NTNU/thesis-NTNU](https://github.com/COPCSE-NTNU/thesis-NTNU)|An NTNU thesis LaTeX document class for bachelor, master, and PhD theses|94|2024-06-28|
 |128|[tsouanas/fmcbook](https://github.com/tsouanas/fmcbook)|Matemática Fundacional para Computação: book by Thanos Tsouanas (in portuguese)|94|2024-07-10|
-|129|[zeramorphic/cambridge-maths-notes](https://github.com/zeramorphic/cambridge-maths-notes)|LaTeX sources for notes for the maths courses at Cambridge.|91|2024-06-12|
+|129|[zeramorphic/cambridge-maths-notes](https://github.com/zeramorphic/cambridge-maths-notes)|LaTeX sources for notes for the maths courses at Cambridge.|92|2024-06-12|
 |130|[samcarter/tikzlings](https://github.com/samcarter/tikzlings)|Collection of animals and other beings drawn in TikZ |89|2024-08-14|
 |131|[informatik-mannheim/thesis-template](https://github.com/informatik-mannheim/thesis-template)|Template for a bachelor or master thesis in LaTeX or Lyx|89|2024-09-07|
 |132|[phys-sim-book/mdbook-src](https://github.com/phys-sim-book/mdbook-src)|The mdbook source of a free online book on the theory and algorithms of physics-based simulations. You are welcome to make contributions by submitting pull requests or directly contacting the authors.|88|2024-08-12|
@@ -149,7 +149,7 @@
 |142|[burakbayramli/classnotes](https://github.com/burakbayramli/classnotes)|ODE, Çok Değişkenli Calculus, Lineer Cebir, Hesapsal Bilim, İstatistik, Fonksiyonel Analiz, Yapay Zeka ders notlari. Lecture notes, tutorials on Linear Algebra, Computational Science, Computer Science ...|73|2024-09-13|
 |143|[Spacial/csstuff](https://github.com/Spacial/csstuff)|CS Stuff is an awesome collection of Computer Science Stuff.|71|2024-06-27|
 |144|[Mixtape-Sessions/Shift-Share](https://github.com/Mixtape-Sessions/Shift-Share)|Shift-Share Instrument  Mixtape Track taught by Peter Hull|69|2024-03-16|
-|145|[blackjax-devs/sampling-book](https://github.com/blackjax-devs/sampling-book)|Tutorials and sampling algorithm comparisons|67|2024-09-13|
+|145|[blackjax-devs/sampling-book](https://github.com/blackjax-devs/sampling-book)|Tutorials and sampling algorithm comparisons|67|2024-09-14|
 |146|[Sjors/nado-book](https://github.com/Sjors/nado-book)|Bitcoin: A Work in Progress (book source code)|66|2024-07-10|
 |147|[isagila/tesc](https://github.com/isagila/tesc)|Study materials|61|2024-08-07|
 |148|[r-devel/rdevguide](https://github.com/r-devel/rdevguide)|A guide for contributing to R core development|60|2024-08-31|
@@ -157,9 +157,9 @@
 |150|[r-barnes/MatrixForensics](https://github.com/r-barnes/MatrixForensics)|Collection of Matrix/Linear Algebra Information|59|2024-05-07|
 |151|[oscarperpinan/bookvis](https://github.com/oscarperpinan/bookvis)|Sources of the book "Displaying time series, spatial and space-time data with R" (2nd Edition)|58|2024-09-01|
 |152|[spamegg1/Epp-Discrete-Math-5th-solutions](https://github.com/spamegg1/Epp-Discrete-Math-5th-solutions)|Solutions to Susanna Epp's Discrete Mathematics book, 5th Edition|57|2024-09-06|
-|153|[jirilebl/ra](https://github.com/jirilebl/ra)|Basic Analysis, undergraduate real analysis textbook|57|2024-09-06|
-|154|[jirilebl/diffyqs](https://github.com/jirilebl/diffyqs)|Notes on Diffy Qs, a textbook for differential equations|57|2024-09-12|
-|155|[suomela/da2020](https://github.com/suomela/da2020)|Juho Hirvonen and Jukka Suomela: Distributed Algorithms 2020|56|2024-04-23|
+|153|[suomela/da2020](https://github.com/suomela/da2020)|Juho Hirvonen and Jukka Suomela: Distributed Algorithms 2020|57|2024-04-23|
+|154|[jirilebl/ra](https://github.com/jirilebl/ra)|Basic Analysis, undergraduate real analysis textbook|57|2024-09-06|
+|155|[jirilebl/diffyqs](https://github.com/jirilebl/diffyqs)|Notes on Diffy Qs, a textbook for differential equations|57|2024-09-12|
 |156|[mcserep/elteikthesis](https://github.com/mcserep/elteikthesis)|ELTE FI bachelor and master thesis template.|55|2024-04-26|
 |157|[holdenlee/number-theory](https://github.com/holdenlee/number-theory)|Open-source number theory textbook|55|2024-08-05|
 |158|[cgnieder/leadsheets](https://github.com/cgnieder/leadsheets)|A LaTeX package for creating leadsheets and songbooks|55|2024-03-20|
@@ -175,17 +175,17 @@
 |168|[arechnitzer/CLP1](https://github.com/arechnitzer/CLP1)|"CLP-1 Differential Calculus" open source textbook|50|2024-08-15|
 |169|[algmyr/e-maxx-eng-book](https://github.com/algmyr/e-maxx-eng-book)|Book version of e-maxx-eng|49|2024-04-22|
 |170|[wmutschl/Computational-Macroeconomics](https://github.com/wmutschl/Computational-Macroeconomics)|A graduate course on Computational Macroeconomics|48|2024-06-19|
-|171|[rmathsphys/latex-templates](https://github.com/rmathsphys/latex-templates)|A handmade collection of latex templates, classes and style files|48|2024-09-04|
-|172|[schoolofdevops/kubernetes-labguide](https://github.com/schoolofdevops/kubernetes-labguide)|Kubernetes Lab Guide 2020|48|2024-09-10|
-|173|[DSLsofMath/FPClimate](https://github.com/DSLsofMath/FPClimate)|PhD course on Functional Programming and Climate Impact Research|47|2024-05-13|
-|174|[UBA-PSI/psi-thesis-guide](https://github.com/UBA-PSI/psi-thesis-guide)|Guidelines for creating a high-quality scientific thesis with tips and examples for layout, figures, and tables|47|2024-09-09|
+|171|[UBA-PSI/psi-thesis-guide](https://github.com/UBA-PSI/psi-thesis-guide)|Guidelines for creating a high-quality scientific thesis with tips and examples for layout, figures, and tables|48|2024-09-09|
+|172|[rmathsphys/latex-templates](https://github.com/rmathsphys/latex-templates)|A handmade collection of latex templates, classes and style files|48|2024-09-04|
+|173|[schoolofdevops/kubernetes-labguide](https://github.com/schoolofdevops/kubernetes-labguide)|Kubernetes Lab Guide 2020|48|2024-09-10|
+|174|[DSLsofMath/FPClimate](https://github.com/DSLsofMath/FPClimate)|PhD course on Functional Programming and Climate Impact Research|47|2024-05-13|
 |175|[ProgramacionCompetitivaUFPS/notebook](https://github.com/ProgramacionCompetitivaUFPS/notebook)|Notebook para competencias de programación - Universidad Francisco de Paula Santander, Cúcuta, Colombia, 2021.|47|2024-05-26|
 |176|[nmfs-opensci/quarto-thesis](https://github.com/nmfs-opensci/quarto-thesis)|Quarto extension for a masters or PhD thesis|46|2024-03-31|
 |177|[apehex/lathex-template](https://github.com/apehex/lathex-template)|A modern book template for Latex|46|2024-04-25|
 |178|[csnwc/Notes](https://github.com/csnwc/Notes)|Course Notes for COMSM1201 @ the University of Bristol|45|2024-09-13|
 |179|[DonneyF/formula-sheets](https://github.com/DonneyF/formula-sheets)|A collection of formula sheets I've used at my time in UBC|45|2024-05-09|
 |180|[stefvanbuuren/fimdbook](https://github.com/stefvanbuuren/fimdbook)|Flexible Imputation of Missing Data - bookdown source|45|2024-08-09|
-|181|[FabienPetitEconomics/WorkingPaperTemplate](https://github.com/FabienPetitEconomics/WorkingPaperTemplate)|WorkingPaperTemplate is a LaTeX template for working papers and presentations.|42|2024-04-12|
+|181|[FabienPetitEconomics/WorkingPaperTemplate](https://github.com/FabienPetitEconomics/WorkingPaperTemplate)|WorkingPaperTemplate is a LaTeX template for working papers and presentations.|43|2024-04-12|
 |182|[ropensci/statistical-software-review-book](https://github.com/ropensci/statistical-software-review-book)|Guide for development and peer-review of statistical software|42|2024-03-20|
 |183|[dcernst/IBL-IntroToProof](https://github.com/dcernst/IBL-IntroToProof)|A textbook for the transition to proof course for mathematics majors utilizing IBL.|42|2024-07-29|
 |184|[pantelis/data-mining](https://github.com/pantelis/data-mining)|The contents of my data-mining course|41|2024-04-03|
@@ -193,7 +193,7 @@
 |186|[gobid/knowledge-map-cheatsheets](https://github.com/gobid/knowledge-map-cheatsheets)|cheatsheets for all courses (all established knowledge), by LD Talent|41|2024-07-09|
 |187|[karask/bitcoin-textbook](https://github.com/karask/bitcoin-textbook)|Bitcoin Programming Textbook|40|2024-04-21|
 |188|[vinhphunguyen/how-to-write-a-paper](https://github.com/vinhphunguyen/how-to-write-a-paper)|How to write a high quality scientific article using LaTeX. Source code included.|40|2024-06-03|
-|189|[langcog/experimentology](https://github.com/langcog/experimentology)|Experimentology textbook|39|2024-09-11|
+|189|[langcog/experimentology](https://github.com/langcog/experimentology)|Experimentology textbook|39|2024-09-13|
 |190|[florian-rabe/Teaching](https://github.com/florian-rabe/Teaching)|My lecture notes and other course materials|39|2024-07-05|
 |191|[geordi/upr-course](https://github.com/geordi/upr-course)|UPR course at VSB|38|2024-09-11|
 |192|[DanySK/Template-LaTeX-Elsevier-CAS-DC](https://github.com/DanySK/Template-LaTeX-Elsevier-CAS-DC)|A template repository for quickly setting up papers to be submitted to Elsevier Journals|37|2024-06-13|
@@ -202,7 +202,7 @@
 |195|[psych252/psych252book](https://github.com/psych252/psych252book)|Course notes|35|2024-08-17|
 |196|[CMU-program-analysis/CMU-program-analysis.github.io](https://github.com/CMU-program-analysis/CMU-program-analysis.github.io)|Public-facing course info for program analysis materials. |35|2024-09-12|
 |197|[fredguth/tufte-quarto](https://github.com/fredguth/tufte-quarto)|Tufte book layout for Quarto|34|2024-07-17|
-|198|[artyom-poptsov/SPARC](https://github.com/artyom-poptsov/SPARC)|Science, Programming, Art and Radioelectronics Club (SPARC) book.|34|2024-09-13|
+|198|[artyom-poptsov/SPARC](https://github.com/artyom-poptsov/SPARC)|Science, Programming, Art and Radioelectronics Club (SPARC) book.|34|2024-09-14|
 |199|[FAU-AMMN/fau-beamer](https://github.com/FAU-AMMN/fau-beamer)|Beamer template according to the FAU corporate style guide 2021|34|2024-06-04|
 |200|[courses-at-nju-by-hfwei/compilers-problem-set](https://github.com/courses-at-nju-by-hfwei/compilers-problem-set)|Problem Set for Course Compilers@software.nju.edu|34|2024-06-20|
 

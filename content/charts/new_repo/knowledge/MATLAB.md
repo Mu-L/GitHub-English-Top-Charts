@@ -1,15 +1,15 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > MATLAB
-<sub>Updated: 2024-09-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-09-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[lzz19980125/awesome-time-series-segmentation-papers](https://github.com/lzz19980125/awesome-time-series-segmentation-papers)|This repository contains a reading list of papers on Time Series Segmentation. This repository is still being continuously improved.|411|2024-09-03|2024-01-27|
+|1|[lzz19980125/awesome-time-series-segmentation-papers](https://github.com/lzz19980125/awesome-time-series-segmentation-papers)|This repository contains a reading list of papers on Time Series Segmentation. This repository is still being continuously improved.|412|2024-09-03|2024-01-27|
 |2|[emilbjornson/mimobook](https://github.com/emilbjornson/mimobook)|Simulation code and accompanying material for the textbook "Introduction to Multiple Antenna Communications and Reconfigurable Surfaces" by Emil Björnson and Özlem Tuğfe Demir, Boston-Delft: now publi ...|61|2024-05-17|2024-01-11|
 |3|[KSKelvin-Github/Qspice](https://github.com/KSKelvin-Github/Qspice)|Qspice technique, symbols and examples|25|2024-09-01|2023-10-13|
 |4|[SQY2021/Estimation_IEEE-TIE](https://github.com/SQY2021/Estimation_IEEE-TIE)|Parameter Estimation of DAB Converter Using Intelligent Algorithms and Steady-State Modeling Considering Nonidealities (IEEE Transactions on Industrial Electronics (*IEEE TIE*))|20|2024-05-09|2023-11-02|
-|5|[schnitzer-lab/ActSort-public](https://github.com/schnitzer-lab/ActSort-public)|ActSort is an active learning accelerated cell sorter tool for calcium imaging.|17|2024-08-28|2024-08-19|
+|5|[schnitzer-lab/ActSort-public](https://github.com/schnitzer-lab/ActSort-public)|ActSort is an active learning accelerated cell sorter tool for calcium imaging.|18|2024-08-28|2024-08-19|
 |6|[nasa/Rigid-Geometric-Algebra](https://github.com/nasa/Rigid-Geometric-Algebra)|A collection of Matlab classes implementing the Geometric Algebra G(3,0,1) for homogeneous transformations of 3D rigid bodies in 4D projective space, primarily based on Lengyel's convention.|15|2024-04-09|2024-02-09|
 |7|[mahdieslaminet/turbo_codes](https://github.com/mahdieslaminet/turbo_codes)|Understanding turbo codes: A signal processing study|12|2024-08-18|2024-07-26|
 |8|[MColbrook/DMD-Multiverse](https://github.com/MColbrook/DMD-Multiverse)|MATLAB packages accompanying the review article "The Multiverse of Dynamic Mode Decomposition Algorithms"|12|2024-05-01|2023-11-20|
@@ -56,18 +56,17 @@
 |49|[Abdo-Mohammed-10/Introduction-to-Computer-Vision](https://github.com/Abdo-Mohammed-10/Introduction-to-Computer-Vision)|Course With Coursera |3|2024-05-13|2024-05-12|
 |50|[CharrafiMed/optimization_algorithms](https://github.com/CharrafiMed/optimization_algorithms)|implementation of  optimization algorithms using matlab/octave |3|2024-04-22|2024-04-22|
 |51|[Filippos-Dakis/Semiconductor-Optoelectronic-Devices-assignments](https://github.com/Filippos-Dakis/Semiconductor-Optoelectronic-Devices-assignments)|This resiprocity contains my assignments on the graduate level course Semiconductor Optoelectronic Devices.|3|2024-06-02|2024-03-20|
-|52|[buschman-lab/CompositionalTasks](https://github.com/buschman-lab/CompositionalTasks)|This is the repository for code supporting all of the analysis and figures related to Tafazoli et al, Building compositional tasks with shared neural subspaces, bioRxiv 2024,https://www.biorxiv.org/co ...|3|2024-03-15|2024-03-15|
-|53|[jonaylton/mpc-missile](https://github.com/jonaylton/mpc-missile)|Matlab Files for Master Thesis of Jonaylton at IME (Controle Preditivo Não-Linear Aplicado ao Sistema de Piloto Automático de Mísseis)|3|2024-08-02|2024-02-21|
-|54|[Zheng-Meng/Parameter-Tracking-with-Machine-Learning](https://github.com/Zheng-Meng/Parameter-Tracking-with-Machine-Learning)|Codes for ''Machine-learning parameter tracking with partial state observation'', which published in Physical Review Research.|3|2024-04-02|2024-02-21|
-|55|[cesardsalvador/SpatialAcousticsLibraryMATLAB](https://github.com/cesardsalvador/SpatialAcousticsLibraryMATLAB)|A collection of MATLAB functions and scripts for spatial acoustic signal processing.|3|2024-05-02|2024-02-11|
-|56|[Image-X-Institute/DiaphragmTracking](https://github.com/Image-X-Institute/DiaphragmTracking)|MATLAB code for real-time, direct diaphragm tracking during image-guided radiotherapy|3|2024-04-02|2024-01-21|
-|57|[pollycoder/astrodynamics](https://github.com/pollycoder/astrodynamics)|The repository is for Astrodynamics course in Tsinghua University, it is designed to help learners of this course to do experiements with what is taught in course through visualization and examples, s ...|3|2024-04-01|2024-01-13|
-|58|[amir-cardiolab/XAI_FDA](https://github.com/amir-cardiolab/XAI_FDA)|Interpretable operator learning and posthoc/by-design XAI|3|2024-04-17|2024-01-08|
-|59|[SpringNuance/Numerical-Methods-In-Engineering](https://github.com/SpringNuance/Numerical-Methods-In-Engineering)|This course covers the theory behind classical numerical methods (for example: Newton-Raphson, Runge-Kutta and LU factorisation), and uses Matlab as a tool to solve, analyse and visualise computationa ...|3|2024-03-19|2023-12-24|
-|60|[YuFengshuo/gas_electric_early_warning](https://github.com/YuFengshuo/gas_electric_early_warning)|Case study of the gas-electric early warning system in Zhejiang Province|3|2024-04-24|2023-11-28|
-|61|[RalfZimmermannSDU/RiemannGrassmannLog](https://github.com/RalfZimmermannSDU/RiemannGrassmannLog)|Code associated with the paper "A Grassmann Manifold Handbook: Basic Geometry and Computational Aspects", T. Bendokat , R. Zimmermann, P.-A. Absil|3|2024-04-09|2023-10-31|
-|62|[LC-cpu866/DPCV](https://github.com/LC-cpu866/DPCV)|Ding, S., Du, W., Li, C. et al. Density peaks clustering algorithm based on improved similarity and allocation strategy. Int. J. Mach. Learn. & Cyber. 14, 1527–1542 (2023). https://doi.org/10.1007/s13 ...|3|2024-08-02|2023-10-10|
-|63|[AhmedElzein9/GNSS-Adjustment-Optimization-Codes](https://github.com/AhmedElzein9/GNSS-Adjustment-Optimization-Codes)|This repository contains a collection of optimization algorithms implemented for the adjustment of Global Navigation Satellite Systems (GNSS) networks.|3|2024-08-29|2023-09-19|
+|52|[jonaylton/mpc-missile](https://github.com/jonaylton/mpc-missile)|Matlab Files for Master Thesis of Jonaylton at IME (Controle Preditivo Não-Linear Aplicado ao Sistema de Piloto Automático de Mísseis)|3|2024-08-02|2024-02-21|
+|53|[Zheng-Meng/Parameter-Tracking-with-Machine-Learning](https://github.com/Zheng-Meng/Parameter-Tracking-with-Machine-Learning)|Codes for ''Machine-learning parameter tracking with partial state observation'', which published in Physical Review Research.|3|2024-04-02|2024-02-21|
+|54|[cesardsalvador/SpatialAcousticsLibraryMATLAB](https://github.com/cesardsalvador/SpatialAcousticsLibraryMATLAB)|A collection of MATLAB functions and scripts for spatial acoustic signal processing.|3|2024-05-02|2024-02-11|
+|55|[Image-X-Institute/DiaphragmTracking](https://github.com/Image-X-Institute/DiaphragmTracking)|MATLAB code for real-time, direct diaphragm tracking during image-guided radiotherapy|3|2024-04-02|2024-01-21|
+|56|[pollycoder/astrodynamics](https://github.com/pollycoder/astrodynamics)|The repository is for Astrodynamics course in Tsinghua University, it is designed to help learners of this course to do experiements with what is taught in course through visualization and examples, s ...|3|2024-04-01|2024-01-13|
+|57|[amir-cardiolab/XAI_FDA](https://github.com/amir-cardiolab/XAI_FDA)|Interpretable operator learning and posthoc/by-design XAI|3|2024-04-17|2024-01-08|
+|58|[SpringNuance/Numerical-Methods-In-Engineering](https://github.com/SpringNuance/Numerical-Methods-In-Engineering)|This course covers the theory behind classical numerical methods (for example: Newton-Raphson, Runge-Kutta and LU factorisation), and uses Matlab as a tool to solve, analyse and visualise computationa ...|3|2024-03-19|2023-12-24|
+|59|[YuFengshuo/gas_electric_early_warning](https://github.com/YuFengshuo/gas_electric_early_warning)|Case study of the gas-electric early warning system in Zhejiang Province|3|2024-04-24|2023-11-28|
+|60|[RalfZimmermannSDU/RiemannGrassmannLog](https://github.com/RalfZimmermannSDU/RiemannGrassmannLog)|Code associated with the paper "A Grassmann Manifold Handbook: Basic Geometry and Computational Aspects", T. Bendokat , R. Zimmermann, P.-A. Absil|3|2024-04-09|2023-10-31|
+|61|[LC-cpu866/DPCV](https://github.com/LC-cpu866/DPCV)|Ding, S., Du, W., Li, C. et al. Density peaks clustering algorithm based on improved similarity and allocation strategy. Int. J. Mach. Learn. & Cyber. 14, 1527–1542 (2023). https://doi.org/10.1007/s13 ...|3|2024-08-02|2023-10-10|
+|62|[AhmedElzein9/GNSS-Adjustment-Optimization-Codes](https://github.com/AhmedElzein9/GNSS-Adjustment-Optimization-Codes)|This repository contains a collection of optimization algorithms implemented for the adjustment of Global Navigation Satellite Systems (GNSS) networks.|3|2024-08-29|2023-09-19|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

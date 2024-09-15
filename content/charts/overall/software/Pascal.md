@@ -1,27 +1,27 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Software > Pascal
-<sub>Updated: 2024-09-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-09-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[cheat-engine/cheat-engine](https://github.com/cheat-engine/cheat-engine)|Cheat Engine. A development environment focused on modding|14647|2024-08-25|
-|2|[stascorp/rdpwrap](https://github.com/stascorp/rdpwrap)|RDP Wrapper Library|14452|2024-06-18|
+|1|[cheat-engine/cheat-engine](https://github.com/cheat-engine/cheat-engine)|Cheat Engine. A development environment focused on modding|14651|2024-08-25|
+|2|[stascorp/rdpwrap](https://github.com/stascorp/rdpwrap)|RDP Wrapper Library|14455|2024-06-18|
 |3|[HeidiSQL/HeidiSQL](https://github.com/HeidiSQL/HeidiSQL)|A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL, SQLite, Interbase and Firebird, written in Delphi|4721|2024-09-09|
-|4|[jrsoftware/issrc](https://github.com/jrsoftware/issrc)|Inno Setup is a free installer for Windows programs. First introduced in 1997, Inno Setup today rivals and even surpasses many commercial installers in feature set and stability.|4208|2024-09-02|
-|5|[peazip/PeaZip](https://github.com/peazip/PeaZip)|Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ ...|4065|2024-08-29|
-|6|[doublecmd/doublecmd](https://github.com/doublecmd/doublecmd)|Double Commander is a free cross platform open source file manager with two panels side by side.|2596|2024-09-13|
-|7|[Embarcadero/Dev-Cpp](https://github.com/Embarcadero/Dev-Cpp)|A fast, portable, simple, and free C/C++ IDE|2497|2024-06-17|
-|8|[red-prig/fpPS4](https://github.com/red-prig/fpPS4)|PS4 compatibility layer (emulator) on Free Pascal|2012|2024-08-23|
+|4|[jrsoftware/issrc](https://github.com/jrsoftware/issrc)|Inno Setup is a free installer for Windows programs. First introduced in 1997, Inno Setup today rivals and even surpasses many commercial installers in feature set and stability.|4209|2024-09-02|
+|5|[peazip/PeaZip](https://github.com/peazip/PeaZip)|Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ ...|4064|2024-08-29|
+|6|[doublecmd/doublecmd](https://github.com/doublecmd/doublecmd)|Double Commander is a free cross platform open source file manager with two panels side by side.|2598|2024-09-14|
+|7|[Embarcadero/Dev-Cpp](https://github.com/Embarcadero/Dev-Cpp)|A fast, portable, simple, and free C/C++ IDE|2498|2024-06-17|
+|8|[red-prig/fpPS4](https://github.com/red-prig/fpPS4)|PS4 compatibility layer (emulator) on Free Pascal|2013|2024-08-23|
 |9|[opensoldat/opensoldat](https://github.com/opensoldat/opensoldat)|OpenSoldat is a unique 2D (side-view) multiplayer action game|1419|2024-05-26|
-|10|[robhagemans/hoard-of-bitfonts](https://github.com/robhagemans/hoard-of-bitfonts)|turns out I like bitmap fonts|1328|2024-08-06|
-|11|[danieleteti/delphimvcframework](https://github.com/danieleteti/delphimvcframework)|DMVCFramework (for short) is a popular and powerful framework for WEB API in Delphi. Supports RESTful and JSON-RPC WEB APIs development.|1226|2024-09-13|
-|12|[salvadordf/CEF4Delphi](https://github.com/salvadordf/CEF4Delphi)|CEF4Delphi is an open source project to embed Chromium-based browsers in applications made with Delphi or Lazarus/FPC for Windows, Linux and MacOS.|1206|2024-09-12|
+|10|[robhagemans/hoard-of-bitfonts](https://github.com/robhagemans/hoard-of-bitfonts)|turns out I like bitmap fonts|1329|2024-08-06|
+|11|[danieleteti/delphimvcframework](https://github.com/danieleteti/delphimvcframework)|DMVCFramework (for short) is a popular and powerful framework for WEB API in Delphi. Supports RESTful and JSON-RPC WEB APIs development.|1229|2024-09-14|
+|12|[salvadordf/CEF4Delphi](https://github.com/salvadordf/CEF4Delphi)|CEF4Delphi is an open source project to embed Chromium-based browsers in applications made with Delphi or Lazarus/FPC for Windows, Linux and MacOS.|1206|2024-09-14|
 |13|[HashLoad/horse](https://github.com/HashLoad/horse)|Fast, opinionated, minimalist web framework for Delphi|1143|2024-07-30|
-|14|[pyscripter/pyscripter](https://github.com/pyscripter/pyscripter)|Pyscripter is a feature-rich but lightweight Python IDE|975|2024-09-10|
-|15|[MagicFoundation/Alcinoe](https://github.com/MagicFoundation/Alcinoe)|Alcinoe Component Library For Delphi. Full opengl video player, WebRTC delphi wrapper, native ios/android TEdit, Improuved firemonkey controls, Firebase cloud messaging, Android/ios facebook sdk login ...|973|2024-09-10|
-|16|[castle-engine/castle-engine](https://github.com/castle-engine/castle-engine)|Cross-platform (desktop, mobile, console) 3D and 2D game engine. Powerful visual editor. Support for glTF, X3D, Spine and more. Fast clean code using modern Pascal. Free and open-source.|945|2024-09-13|
-|17|[pyscripter/python4delphi](https://github.com/pyscripter/python4delphi)|Free components that wrap up Python into Delphi and Lazarus (FPC)|904|2024-07-18|
+|14|[pyscripter/pyscripter](https://github.com/pyscripter/pyscripter)|Pyscripter is a feature-rich but lightweight Python IDE|976|2024-09-13|
+|15|[MagicFoundation/Alcinoe](https://github.com/MagicFoundation/Alcinoe)|Alcinoe Component Library For Delphi. Full opengl video player, WebRTC delphi wrapper, native ios/android TEdit, Improuved firemonkey controls, Firebase cloud messaging, Android/ios facebook sdk login ...|974|2024-09-10|
+|16|[castle-engine/castle-engine](https://github.com/castle-engine/castle-engine)|Cross-platform (desktop, mobile, console) 3D and 2D game engine. Powerful visual editor. Support for glTF, X3D, Spine and more. Fast clean code using modern Pascal. Free and open-source.|946|2024-09-14|
+|17|[pyscripter/python4delphi](https://github.com/pyscripter/python4delphi)|Free components that wrap up Python into Delphi and Lazarus (FPC)|905|2024-07-18|
 |18|[nofeletru/UsbAsp-flash](https://github.com/nofeletru/UsbAsp-flash)|Program allow you to program flash memory on the protocols spi, I2C, MicroWire. Supports CH341a, UsbAsp, AVRISP(LUFA), Arduino, FT232H.|880|2024-09-07|
 |19|[UltraStar-Deluxe/USDX](https://github.com/UltraStar-Deluxe/USDX)|The free and open source karaoke singing game UltraStar Deluxe, inspired by Sony SingStar™|831|2024-09-11|
 |20|[synopse/mORMot](https://github.com/synopse/mORMot)|Synopse mORMot 1 ORM/SOA/MVC framework - Please upgrade to mORMot 2 !|785|2024-07-09|
@@ -30,7 +30,7 @@
 |23|[benibela/xidel](https://github.com/benibela/xidel)|Command line tool to download and extract data from HTML/XML pages or JSON-APIs, using CSS, XPath 3.0, XQuery 3.0, JSONiq or pattern matching.  It can also create new or transformed XML/HTML/JSON docu ...|674|2024-04-20|
 |24|[project-jedi/jcl](https://github.com/project-jedi/jcl)|JEDI Code Library|654|2024-06-19|
 |25|[viniciussanchez/dataset-serialize](https://github.com/viniciussanchez/dataset-serialize)|JSON to DataSet and DataSet to JSON converter for Delphi and Lazarus (FPC)|641|2024-07-24|
-|26|[JAM-Software/Virtual-TreeView](https://github.com/JAM-Software/Virtual-TreeView)|Virtual Treeview is a Delphi treeview control|639|2024-09-01|
+|26|[JAM-Software/Virtual-TreeView](https://github.com/JAM-Software/Virtual-TreeView)|Virtual Treeview is a Delphi treeview control|640|2024-09-01|
 |27|[exilon/QuickLib](https://github.com/exilon/QuickLib)|Quick development library (AutoMapper, LinQ, IOC Dependency Injection, MemoryCache, Scheduled tasks, Json and Yml Config and Options pattern, Serializers, etc) with crossplatform support for Delphi/Fi ...|621|2024-08-08|
 |28|[vhanla/winxcorners](https://github.com/vhanla/winxcorners)|Hot corners for Windows 10 & 11|605|2024-07-27|
 |29|[project-jedi/jvcl](https://github.com/project-jedi/jvcl)|JEDI Visual Component Library|599|2024-08-01|
@@ -38,9 +38,9 @@
 |31|[benjamimgois/goverlay](https://github.com/benjamimgois/goverlay)|GOverlay is an opensource project that aims to create a Graphical UI to help manage Linux overlays.|575|2024-08-04|
 |32|[cnpack/cnwizards](https://github.com/cnpack/cnwizards)|CnPack IDE Wizards|572|2024-09-13|
 |33|[diversenok/TokenUniverse](https://github.com/diversenok/TokenUniverse)|An advanced tool for working with access tokens and Windows security policy.|558|2024-07-20|
-|34|[devlooped/GitInfo](https://github.com/devlooped/GitInfo)|Git and SemVer Info from MSBuild, C# and VB|548|2024-09-11|
+|34|[devlooped/GitInfo](https://github.com/devlooped/GitInfo)|Git and SemVer Info from MSBuild, C# and VB|548|2024-09-14|
 |35|[viniciussanchez/RESTRequest4Delphi](https://github.com/viniciussanchez/RESTRequest4Delphi)|API to consume REST services written in any programming language with support to Lazarus and Delphi|520|2024-09-10|
-|36|[synopse/mORMot2](https://github.com/synopse/mORMot2)|OpenSource RESTful ORM/SOA/MVC Framework for Delphi and FreePascal|509|2024-09-13|
+|36|[synopse/mORMot2](https://github.com/synopse/mORMot2)|OpenSource RESTful ORM/SOA/MVC Framework for Delphi and FreePascal|509|2024-09-14|
 |37|[Laex/Delphi-OpenCV](https://github.com/Laex/Delphi-OpenCV)|Project Delphi-OpenCV. Translation of OpenCV library header files in Delphi|500|2024-06-12|
 |38|[DelphiWorlds/Kastri](https://github.com/DelphiWorlds/Kastri)|Cross-platform library for Delphi|486|2024-09-12|
 |39|[LongDirtyAnimAlf/fpcupdeluxe](https://github.com/LongDirtyAnimAlf/fpcupdeluxe)|A GUI based installer for FPC and Lazarus|484|2024-08-21|
@@ -50,19 +50,19 @@
 |43|[foxlox/GIUDA](https://github.com/foxlox/GIUDA)|Ask a TGS on behalf of another user without password|456|2024-07-26|
 |44|[IndySockets/Indy](https://github.com/IndySockets/Indy)|Indy - Internet Direct|448|2024-09-12|
 |45|[remobjects/pascalscript](https://github.com/remobjects/pascalscript)|pascalscript|447|2024-08-20|
-|46|[pleriche/FastMM4](https://github.com/pleriche/FastMM4)|A memory manager for Delphi and C++ Builder with powerful debugging facilities|443|2024-04-27|
-|47|[paolo-rossi/delphi-jose-jwt](https://github.com/paolo-rossi/delphi-jose-jwt)|Delphi implementation of JOSE (JSON Object Signing and Encryption) and JWT (JSON Web Token)|442|2024-09-04|
+|46|[paolo-rossi/delphi-jose-jwt](https://github.com/paolo-rossi/delphi-jose-jwt)|Delphi implementation of JOSE (JSON Object Signing and Encryption) and JWT (JSON Web Token)|444|2024-09-04|
+|47|[pleriche/FastMM4](https://github.com/pleriche/FastMM4)|A memory manager for Delphi and C++ Builder with powerful debugging facilities|443|2024-04-27|
 |48|[tobya/DocTo](https://github.com/tobya/DocTo)|Simple command line utility for converting .doc & .xls files to any supported format such as Text, RTF, CSV or PDF|440|2024-06-03|
 |49|[ahausladen/JsonDataObjects](https://github.com/ahausladen/JsonDataObjects)|JSON parser for Delphi 2009 and newer|413|2024-07-20|
 |50|[winddriver/Delphi-Cross-Socket](https://github.com/winddriver/Delphi-Cross-Socket)|Delphi cross platform socket library|402|2024-09-04|
 |51|[HemulGM/ChatGPT](https://github.com/HemulGM/ChatGPT)|ChatGPT Native Application (Windows, Mac, Android, iOS, and Linux)|401|2024-05-03|
 |52|[bgrabitmap/lazpaint](https://github.com/bgrabitmap/lazpaint)|🎨 Cross-platform image editor with raster and vector layers similar to Paint.Net written in Lazarus (Free Pascal)|401|2024-09-08|
 |53|[graphics32/graphics32](https://github.com/graphics32/graphics32)|Graphics32 is a graphics library for Delphi and Lazarus. Optimized for 32-bit pixel formats, it provides fast operations with pixels and graphic primitives. In most cases Graphics32 considerably outpe ...|398|2024-09-02|
-|54|[keymanapp/keyman](https://github.com/keymanapp/keyman)|Keyman cross platform input methods system running on Android, iOS, Linux, macOS, Windows and mobile and desktop web|387|2024-09-13|
+|54|[keymanapp/keyman](https://github.com/keymanapp/keyman)|Keyman cross platform input methods system running on Android, iOS, Linux, macOS, Windows and mobile and desktop web|387|2024-09-14|
 |55|[tomboy-notes/tomboy-ng](https://github.com/tomboy-notes/tomboy-ng)|Next generation of Tomboy|386|2024-09-13|
 |56|[VSoftTechnologies/DUnitX](https://github.com/VSoftTechnologies/DUnitX)|Delphi Unit Test Framework|381|2024-07-29|
 |57|[fabriciocolombo/delphi-rest-client-api](https://github.com/fabriciocolombo/delphi-rest-client-api)|A Delphi REST client API to consume REST services written in any programming language. |380|2024-03-18|
-|58|[exilon/QuickLogger](https://github.com/exilon/QuickLogger)|Powerful and flexible library for logging on files, console, memory, email, rest, eventlog, syslog, slack, telegram, redis, logstash, elasticsearch, influxdb, graylog, Sentry, Twilio, ide debug messag ...|373|2024-07-09|
+|58|[exilon/QuickLogger](https://github.com/exilon/QuickLogger)|Powerful and flexible library for logging on files, console, memory, email, rest, eventlog, syslog, slack, telegram, redis, logstash, elasticsearch, influxdb, graylog, Sentry, Twilio, ide debug messag ...|374|2024-07-09|
 |59|[MahdiSafsafi/DDetours](https://github.com/MahdiSafsafi/DDetours)|Delphi Detours Library|370|2024-07-02|
 |60|[joaopauloschuler/neural-api](https://github.com/joaopauloschuler/neural-api)|CAI NEURAL API - Pascal based deep learning neural network API optimized for AVX, AVX2 and AVX512 instruction sets plus OpenCL capable devices including AMD, Intel and NVIDIA.|369|2024-09-07|
 |61|[andrea-magni/MARS](https://github.com/andrea-magni/MARS)|MARS-Curiosity Delphi REST Library|362|2024-09-11|
@@ -71,13 +71,13 @@
 |64|[Hendi48/Magicmida](https://github.com/Hendi48/Magicmida)|Themida unpacker|333|2024-08-04|
 |65|[RRUZ/vcl-styles-utils](https://github.com/RRUZ/vcl-styles-utils)|Extend and improve the Delphi VCL Styles|329|2024-07-17|
 |66|[PascalCoinDev/PascalCoin](https://github.com/PascalCoinDev/PascalCoin)|P2P cryptocurrency without need of historical operations|327|2024-09-03|
-|67|[EtheaDev/SVGIconImageList](https://github.com/EtheaDev/SVGIconImageList)|Three engines to render SVG (Delphi Image32, Skia4Delphi, Direct2D wrapper) and four components to simplify use of SVG images (resize, fixedcolor, grayscale...)|320|2024-08-27|
-|68|[FrankBijnen/ExifToolGui](https://github.com/FrankBijnen/ExifToolGui)|A GUI for ExifTool|315|2024-09-08|
+|67|[EtheaDev/SVGIconImageList](https://github.com/EtheaDev/SVGIconImageList)|Three engines to render SVG (Delphi Image32, Skia4Delphi, Direct2D wrapper) and four components to simplify use of SVG images (resize, fixedcolor, grayscale...)|320|2024-09-14|
+|68|[FrankBijnen/ExifToolGui](https://github.com/FrankBijnen/ExifToolGui)|A GUI for ExifTool|315|2024-09-14|
 |69|[danieleteti/delphiredisclient](https://github.com/danieleteti/delphiredisclient)|Redis client for Delphi|307|2024-06-06|
 |70|[paolo-rossi/delphi-neon](https://github.com/paolo-rossi/delphi-neon)|JSON Serialization library for Delphi|302|2024-07-31|
 |71|[synopse/SynPDF](https://github.com/synopse/SynPDF)|Synopse PDF engine is a fully featured Open Source PDF document creation library for Delphi, embedded in one unit|290|2024-07-08|
 |72|[pleriche/FastMM5](https://github.com/pleriche/FastMM5)|FastMM is a fast replacement memory manager for Embarcadero Delphi applications that scales well across multiple threads and CPU cores, is not prone to memory fragmentation, and supports shared memory ...|283|2024-08-28|
-|73|[salvadordf/WebView4Delphi](https://github.com/salvadordf/WebView4Delphi)|WebView4Delphi is an open source project created by Salvador Díaz Fau to embed Chromium-based browsers in applications made with Delphi or Lazarus/FPC for Windows.|280|2024-09-03|
+|73|[salvadordf/WebView4Delphi](https://github.com/salvadordf/WebView4Delphi)|WebView4Delphi is an open source project created by Salvador Díaz Fau to embed Chromium-based browsers in applications made with Delphi or Lazarus/FPC for Windows.|280|2024-09-14|
 |74|[SuperDisk/hUGETracker](https://github.com/SuperDisk/hUGETracker)|The music composition suite for the Nintendo Game Boy|280|2024-07-15|
 |75|[indyansyari/UAS-Visual-2](https://github.com/indyansyari/UAS-Visual-2)|2210010526 - Muhammad Indy Ansyari|267|2024-07-09|
 |76|[indyansyari/UTS-Visual-2](https://github.com/indyansyari/UTS-Visual-2)|2210010526 - Muhammad Indy Ansyari|267|2024-07-09|
@@ -85,7 +85,7 @@
 |78|[sasgis/sas.planet.src](https://github.com/sasgis/sas.planet.src)|-|254|2024-09-12|
 |79|[jmpessoa/lazandroidmodulewizard](https://github.com/jmpessoa/lazandroidmodulewizard)|LAMW: Lazarus Android Module Wizard: Form Designer and Components development model!|247|2024-07-13|
 |80|[mikelustosa/Projeto-TInject](https://github.com/mikelustosa/Projeto-TInject)|Projeto TInject|246|2024-07-12|
-|81|[zamtmn/zcad](https://github.com/zamtmn/zcad)|Simple CAD program|246|2024-09-13|
+|81|[zamtmn/zcad](https://github.com/zamtmn/zcad)|Simple CAD program|246|2024-09-14|
 |82|[AliDehbansiahkarbon/ChatGPTWizard](https://github.com/AliDehbansiahkarbon/ChatGPTWizard)|A ChatGPT, WriteSonic, YouChat, and Ollama(offline) plug-in for Embarcadero RAD Studio IDE XE5 to 12.1. https://getitnow.embarcadero.com/chatgptwizard|245|2024-09-13|
 |83|[grijjy/GrijjyFoundation](https://github.com/grijjy/GrijjyFoundation)|Foundation classes used by other Grijjy repositories|244|2024-03-22|
 |84|[PackOrganization/Pack](https://github.com/PackOrganization/Pack)|Pack|243|2024-03-30|
@@ -96,7 +96,7 @@
 |89|[delphi-blocks/WiRL](https://github.com/delphi-blocks/WiRL)|WiRL: RESTful Library for Delphi|230|2024-07-11|
 |90|[TurboPack/SynEdit](https://github.com/TurboPack/SynEdit)|SynEdit is a syntax highlighting edit control, not based on the Windows common controls.|221|2024-05-10|
 |91|[norgepaul/TChromeTabs](https://github.com/norgepaul/TChromeTabs)|Comprehensive Delphi implementation of Chrome's tab system|218|2024-06-13|
-|92|[EtheaDev/IconFontsImageList](https://github.com/EtheaDev/IconFontsImageList)|Four advanced components to simplify use of Icon Fonts as images and ImageList: TIconFontImage, TIconFontsImageCollection, TIconFontsVirtualImageList, TIconFontsImageList (for VCL and FMX). Full suppo ...|216|2024-05-03|
+|92|[EtheaDev/IconFontsImageList](https://github.com/EtheaDev/IconFontsImageList)|Four advanced components to simplify use of Icon Fonts as images and ImageList: TIconFontImage, TIconFontsImageCollection, TIconFontsVirtualImageList, TIconFontsImageList (for VCL and FMX). Full suppo ...|217|2024-05-03|
 |93|[Villavu/Simba](https://github.com/Villavu/Simba)|Simba is a program used to repeat certain (complicated) tasks. Typically these tasks involve using the mouse and keyboard. Simba is programmable, which means you can design your own logic and steps th ...|216|2024-09-11|
 |94|[glscene/GLScene](https://github.com/glscene/GLScene)|GLScene is a graphics engine based on OpenGL with VCL components for Delphi & C++ Builder. |215|2024-09-12|
 |95|[WinFF/winff](https://github.com/WinFF/winff)|Automatically exported from code.google.com/p/winff|214|2024-04-19|
@@ -107,7 +107,7 @@
 |100|[bgrabitmap/bgrabitmap](https://github.com/bgrabitmap/bgrabitmap)|📜 BGRABitmap graphics library made with Lazarus (Free Pascal).|196|2024-08-28|
 |101|[emilybache/Theatrical-Players-Refactoring-Kata](https://github.com/emilybache/Theatrical-Players-Refactoring-Kata)|Example from first chapter of 'Refactoring' by Martin Fowler, with tests and translations|194|2024-08-14|
 |102|[foxitsoftware/DelphiZXingQRCode](https://github.com/foxitsoftware/DelphiZXingQRCode)|Delphi port of QR Code functionality from ZXing, a barcode image processing library.|194|2024-03-17|
-|103|[BeRo1985/pasvulkan](https://github.com/BeRo1985/pasvulkan)|Vulkan header generator, OOP-style API wrapper, framework and prospective Vulkan-based game engine for Object Pascal|191|2024-09-13|
+|103|[BeRo1985/pasvulkan](https://github.com/BeRo1985/pasvulkan)|Vulkan header generator, OOP-style API wrapper, framework and prospective Vulkan-based game engine for Object Pascal|191|2024-09-14|
 |104|[digao-dalpiaz/DzHTMLText](https://github.com/digao-dalpiaz/DzHTMLText)|Delphi and Lazarus HTML Label component|184|2024-03-28|
 |105|[bgrabitmap/bgracontrols](https://github.com/bgrabitmap/bgracontrols)|🆗 BGRA Controls is a set of graphical UI elements that you can use with Lazarus LCL applications.|182|2024-08-28|
 |106|[RRUZ/wmi-delphi-code-creator](https://github.com/RRUZ/wmi-delphi-code-creator)|Generate Object Pascal (Delphi, FPC), Oxygene, C++ and C# code to access the WMI|182|2024-06-15|
@@ -122,15 +122,15 @@
 |115|[Delphier/DxAutoInstaller](https://github.com/Delphier/DxAutoInstaller)|DevExpress VCL Components Automatic Installer|169|2024-06-25|
 |116|[errorcalc/FreeEsVclComponents](https://github.com/errorcalc/FreeEsVclComponents)|Free ErrorSoft Components for Delphi (VCL) & EsVclCore lib|168|2024-05-16|
 |117|[Cooler2/ApusGameEngine](https://github.com/Cooler2/ApusGameEngine)|An open source Delphi/Pascal game engine|167|2024-05-22|
-|118|[EricGrange/DWScript](https://github.com/EricGrange/DWScript)|Delphi Web Script general purpose scripting engine|166|2024-09-12|
-|119|[ahausladen/PdfiumLib](https://github.com/ahausladen/PdfiumLib)|PDF VCL Control using PDFium|165|2024-08-03|
+|118|[ahausladen/PdfiumLib](https://github.com/ahausladen/PdfiumLib)|PDF VCL Control using PDFium|166|2024-08-03|
+|119|[EricGrange/DWScript](https://github.com/EricGrange/DWScript)|Delphi Web Script general purpose scripting engine|166|2024-09-12|
 |120|[madorin/fibplus](https://github.com/madorin/fibplus)|FibPlus Library for Delphi and C++Builder. Data access components for Firebird & Interbase.|164|2024-07-23|
 |121|[galfar/deskew](https://github.com/galfar/deskew)|Deskew is a command line tool for deskewing scanned text documents. It uses Hough transform to detect "text lines" in the image. As an output, you get an image rotated so that the lines are horizontal ...|163|2024-07-24|
 |122|[ultibohub/Core](https://github.com/ultibohub/Core)|Ultibo Core|159|2024-09-06|
 |123|[landrix/The-Drag-and-Drop-Component-Suite-for-Delphi](https://github.com/landrix/The-Drag-and-Drop-Component-Suite-for-Delphi)|-|159|2024-08-05|
 |124|[NeftaliDelphi/GLibWMI](https://github.com/NeftaliDelphi/GLibWMI)|GLibWMI is a Delphi library of components, focused on the Administration of Windows Systems. They are based on Windows WMI (Windows Management Instrumentation). GLibWMI es una librería/biblioteca de c ...|154|2024-04-03|
-|125|[Alexey-T/ATSynEdit](https://github.com/Alexey-T/ATSynEdit)|Multi-line editor control, with syntax highlighting, for Lazarus|154|2024-09-08|
-|126|[Droptop-Four/Droptop-Four](https://github.com/Droptop-Four/Droptop-Four)|Popular dropdown menu bar & app launcher for Windows & Rainmeter|153|2024-09-10|
+|125|[Alexey-T/ATSynEdit](https://github.com/Alexey-T/ATSynEdit)|Multi-line editor control, with syntax highlighting, for Lazarus|154|2024-09-14|
+|126|[Droptop-Four/Droptop-Four](https://github.com/Droptop-Four/Droptop-Four)|Popular dropdown menu bar & app launcher for Windows & Rainmeter|153|2024-09-14|
 |127|[michaelJustin/daraja-framework](https://github.com/michaelJustin/daraja-framework)|A lightweight HTTP server framework for Object Pascal (Delphi 2009+/Free Pascal 3.2) based on Indy|153|2024-06-02|
 |128|[ZXDunny/SpecBAS](https://github.com/ZXDunny/SpecBAS)|An enhanced Sinclair  BASIC interpreter for modern PCs|152|2024-09-07|
 |129|[michaliskambi/modern-pascal-introduction](https://github.com/michaliskambi/modern-pascal-introduction)|Modern Object Pascal Introduction for Programmers, in AsciiDoc|152|2024-07-30|
@@ -153,11 +153,11 @@
 |146|[svanas/delphereum](https://github.com/svanas/delphereum)|web3 implementation for the Delphi programming language|132|2024-08-29|
 |147|[ultrastares/ultrastar-worldparty](https://github.com/ultrastares/ultrastar-worldparty)|UltraStar WorldParty. A karaoke game inspired by SingStar™|132|2024-09-01|
 |148|[sempare/sempare-delphi-template-engine](https://github.com/sempare/sempare-delphi-template-engine)|Sempare Template Engine for Delphi allows for flexible dynamic text generation. It can be used for generating email, html, reports, source code, xml, configuration, etc.|131|2024-09-10|
-|149|[AngusJohnson/Image32](https://github.com/AngusJohnson/Image32)|A 2D graphics library written in Delphi Pascal|130|2024-09-07|
+|149|[AngusJohnson/Image32](https://github.com/AngusJohnson/Image32)|A 2D graphics library written in Delphi Pascal|130|2024-09-14|
 |150|[ahausladen/DDevExtensions](https://github.com/ahausladen/DDevExtensions)|Delphi IDE Plugin|129|2024-08-27|
 |151|[ok2cqr/cqrlog](https://github.com/ok2cqr/cqrlog)|Linux logging program for amateur radio operators|128|2024-08-18|
 |152|[landgraf-dev/aws-sdk-delphi](https://github.com/landgraf-dev/aws-sdk-delphi)|AWS (Amazon Web Services) SDK for Delphi.|125|2024-08-29|
-|153|[EtheaDev/SVGShellExtensions](https://github.com/EtheaDev/SVGShellExtensions)|Shell extensions for SVG files (Preview Panel, Thumbnail Icon, SVG Editor)|125|2024-08-27|
+|153|[EtheaDev/SVGShellExtensions](https://github.com/EtheaDev/SVGShellExtensions)|Shell extensions for SVG files (Preview Panel, Thumbnail Icon, SVG Editor)|125|2024-09-14|
 |154|[abysshint/tor-control-panel](https://github.com/abysshint/tor-control-panel)|Windows GUI Client for Tor Expert Bundle|124|2024-05-29|
 |155|[BGforgeNet/FO2tweaks](https://github.com/BGforgeNet/FO2tweaks)|Fallout 2 tweaks|124|2024-08-03|
 |156|[fangq/mcx](https://github.com/fangq/mcx)|Monte Carlo eXtreme (MCX) - GPU-accelerated photon transport simulator|124|2024-09-13|
@@ -168,7 +168,7 @@
 |161|[NIKJOO/WarpOnWarp-Windows-Client](https://github.com/NIKJOO/WarpOnWarp-Windows-Client)|Warp on Warp Windows Client|120|2024-05-05|
 |162|[sysrpl/Tiny.Sim](https://github.com/sysrpl/Tiny.Sim)|A cross platform real time 2D/3D graphics and 2D physics simulation library for Free Pascal|119|2024-06-24|
 |163|[mse-org/mseide-msegui](https://github.com/mse-org/mseide-msegui)|MSEide is a Rapid Application Development IDE for platform independent rich GUI applications in the Pascal language. It comes with its own GUI toolkit called MSEgui. Binaries: https://github.com/mse-o ...|119|2024-09-04|
-|164|[tebe6502/Mad-Pascal](https://github.com/tebe6502/Mad-Pascal)|Mad Pascal Compiler for 6502 (Atari XE/XL, C64, C4Plus, Neo6502)|119|2024-09-13|
+|164|[tebe6502/Mad-Pascal](https://github.com/tebe6502/Mad-Pascal)|Mad Pascal Compiler for 6502 (Atari XE/XL, C64, C4Plus, Neo6502)|119|2024-09-14|
 |165|[TurboPack/Abbrevia](https://github.com/TurboPack/Abbrevia)|Abbrevia is a compression toolkit for Delphi and C++Builder.|119|2024-06-04|
 |166|[TurboPack/PowerPDF](https://github.com/TurboPack/PowerPDF)|PowerPdf is a VCL component to create PDF docment visually. Like Forms, you can design PDF document easily on Delphi or C++Builder IDE. |119|2024-04-09|
 |167|[ibv/LDAP-Admin](https://github.com/ibv/LDAP-Admin)|LDAP Admin for Linux|117|2024-08-27|
@@ -182,11 +182,11 @@
 |175|[mike-lischke/GraphicEx](https://github.com/mike-lischke/GraphicEx)|GraphicEx - a Delphi image loader library|110|2024-07-31|
 |176|[MobyGamer/total-dos-launcher](https://github.com/MobyGamer/total-dos-launcher)|A system for easily loading and running thousands of DOS programs on vintage hardware|109|2024-04-02|
 |177|[TurboPack/VirtualTreeView](https://github.com/TurboPack/VirtualTreeView)|Virtual Treeview is a Delphi treeview control built from ground up. Many years of development made it one of the most flexible and advanced tree controls available today. Virtual Treeview starts off w ...|109|2024-04-09|
-|178|[BeRo1985/kraft](https://github.com/BeRo1985/kraft)|Kraft Physics Engine is an open source Object Pascal physics engine library that can be used in 3D games.|106|2024-09-13|
+|178|[BeRo1985/kraft](https://github.com/BeRo1985/kraft)|Kraft Physics Engine is an open source Object Pascal physics engine library that can be used in 3D games.|106|2024-09-14|
 |179|[TurboPack/LockBox](https://github.com/TurboPack/LockBox)|LockBox is a Delphi and C++Builder library for cryptography.|106|2024-04-09|
-|180|[salvadordf/WebUI4Delphi](https://github.com/salvadordf/WebUI4Delphi)|WebUI4Delphi is a WebUI wrapper, which allows you to use any web browser as a GUI, with Delphi or Lazarus/FPC in the backend and HTML5 in the frontend.|105|2024-09-12|
+|180|[salvadordf/WebUI4Delphi](https://github.com/salvadordf/WebUI4Delphi)|WebUI4Delphi is a WebUI wrapper, which allows you to use any web browser as a GUI, with Delphi or Lazarus/FPC in the backend and HTML5 in the frontend.|105|2024-09-14|
 |181|[adrianosantostreina/MobilePermissions](https://github.com/adrianosantostreina/MobilePermissions)|This is a component to turn more easy the request permission in Android 8.x or later.|104|2024-05-27|
-|182|[OpenSourceCommunityBrasil/Aegys-Acesso-Remoto](https://github.com/OpenSourceCommunityBrasil/Aegys-Acesso-Remoto)|Aegys Suporte Remoto é um projeto Open Source de acesso remoto multiplataforma|102|2024-05-23|
+|182|[OpenSourceCommunityBrasil/Aegys-Acesso-Remoto](https://github.com/OpenSourceCommunityBrasil/Aegys-Acesso-Remoto)|Aegys Suporte Remoto é um projeto Open Source de acesso remoto multiplataforma|103|2024-05-23|
 |183|[diversenok/NtUtilsLibrary](https://github.com/diversenok/NtUtilsLibrary)|Delphi library for system programming on Windows using Native API|101|2024-09-05|
 |184|[HashLoad/jhonson](https://github.com/HashLoad/jhonson)|Middleware for parse JSON in HORSE|101|2024-09-06|
 |185|[TurboPack/AsyncPro](https://github.com/TurboPack/AsyncPro)|Async Professional is a comprehensive communications toolkit for Embarcadero Delphi and C++Builder.|101|2024-04-09|
@@ -198,13 +198,13 @@
 |191|[salvadorbs/Asuite](https://github.com/salvadorbs/Asuite)|ASuite is a simple open source portable launcher for Microsoft Windows.|98|2024-03-18|
 |192|[DelphiPackageManager/DPM](https://github.com/DelphiPackageManager/DPM)|A Package Manager for Delphi|97|2024-08-30|
 |193|[paolo-rossi/OpenAPI-Delphi](https://github.com/paolo-rossi/OpenAPI-Delphi)|The Delphi-OpenAPI library is an OpenAPI 3.0 document generator and parser for Delphi|96|2024-05-04|
-|194|[academiadocodigo/Router4Delphi](https://github.com/academiadocodigo/Router4Delphi)|Framework para Criação de Rotas de Telas para FMX e VCL|95|2024-07-05|
-|195|[fastplaz/fastplaz](https://github.com/fastplaz/fastplaz)|FastPlaz - Pascal Web Framework|95|2024-09-10|
-|196|[fpc/Lazarus](https://github.com/fpc/Lazarus)|Lazarus IDE ----- READ-ONLY Mirror of https://gitlab.com/freepascal.org/lazarus/lazarus|94|2024-09-13|
+|194|[fpc/Lazarus](https://github.com/fpc/Lazarus)|Lazarus IDE ----- READ-ONLY Mirror of https://gitlab.com/freepascal.org/lazarus/lazarus|95|2024-09-14|
+|195|[academiadocodigo/Router4Delphi](https://github.com/academiadocodigo/Router4Delphi)|Framework para Criação de Rotas de Telas para FMX e VCL|95|2024-07-05|
+|196|[fastplaz/fastplaz](https://github.com/fastplaz/fastplaz)|FastPlaz - Pascal Web Framework|95|2024-09-10|
 |197|[PascalGameDevelopment/SDL2-for-Pascal](https://github.com/PascalGameDevelopment/SDL2-for-Pascal)|Unit files for building Free Pascal and Delphi applications using the SDL2 library|94|2024-08-04|
 |198|[BeRo1985/flre](https://github.com/BeRo1985/flre)| FLRE - Fast Light Regular Expressions - A fast light regular expression library|94|2024-04-26|
-|199|[mikerabat/mrmath](https://github.com/mikerabat/mrmath)|Delphi matrix library|93|2024-08-09|
-|200|[sb53systems/G-Code-Flow-Temperature-Controller](https://github.com/sb53systems/G-Code-Flow-Temperature-Controller)|A post processing script for slic3r based Slicers and Klipper Printers|92|2024-09-13|
+|199|[sb53systems/G-Code-Flow-Temperature-Controller](https://github.com/sb53systems/G-Code-Flow-Temperature-Controller)|A post processing script for slic3r based Slicers and Klipper Printers|93|2024-09-14|
+|200|[mikerabat/mrmath](https://github.com/mikerabat/mrmath)|Delphi matrix library|93|2024-08-09|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

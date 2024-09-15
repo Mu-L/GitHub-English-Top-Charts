@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Pascal
-<sub>Updated: 2024-09-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-09-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[Fr0sT-Brutal/awesome-pascal](https://github.com/Fr0sT-Brutal/awesome-pascal)|A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!|1797|2024-04-25|
-|2|[dpradov/keynote-nf](https://github.com/dpradov/keynote-nf)|Tabbed notebook with RichText editor, multi-level notes and strong encryption.|251|2024-08-28|
+|1|[Fr0sT-Brutal/awesome-pascal](https://github.com/Fr0sT-Brutal/awesome-pascal)|A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!|1799|2024-04-25|
+|2|[dpradov/keynote-nf](https://github.com/dpradov/keynote-nf)|Tabbed notebook with RichText editor, multi-level notes and strong encryption.|251|2024-09-14|
 |3|[gabr42/GpDelphiUnits](https://github.com/gabr42/GpDelphiUnits)|A collection of my open sourced Delphi units|168|2024-06-12|
 |4|[jimmckeeth/DelphiPatterns](https://github.com/jimmckeeth/DelphiPatterns)|Complete set of all the GoF design patterns implemented in Delphi language|162|2024-07-29|
 |5|[frones/ACBr](https://github.com/frones/ACBr)|Projeto ACBr - O branch master é um repositório espelho do SVN original (svn://svn.code.sf.net/p/acbr/code/trunk2), criado e mantido com git-svn.|150|2024-07-24|
@@ -34,7 +34,7 @@
 |27|[aruijter/delphi-web-library](https://github.com/aruijter/delphi-web-library)|A Delphi Web Library including JOSE, ACME, OAuth2, MySQL, etc and of course a fully functional Restful Web Server|7|2024-09-12|
 |28|[bero/InterFaceWithGUI](https://github.com/bero/InterFaceWithGUI)|Small demo shoing how to use interfaces with modal dialog|6|2024-07-28|
 |29|[fraurino/casesexamples](https://github.com/fraurino/casesexamples)|Cases Examples in Pascal|6|2024-07-31|
-|30|[TOSUN-Shanghai/TSMaster_MiniProgram_SDK](https://github.com/TOSUN-Shanghai/TSMaster_MiniProgram_SDK)|TSMaster mini program library SDK for various programming languages|6|2024-08-23|
+|30|[TOSUN-Shanghai/TSMaster_MiniProgram_SDK](https://github.com/TOSUN-Shanghai/TSMaster_MiniProgram_SDK)|TSMaster mini program library SDK for various programming languages|6|2024-09-14|
 |31|[TheLazyTomcat/lib.SimpleNamedValues](https://github.com/TheLazyTomcat/lib.SimpleNamedValues)|Very simple library providing a list of name-value pairs. Intended to be used for argument passing.|6|2024-09-13|
 |32|[wp-xyz/GeoPattern](https://github.com/wp-xyz/GeoPattern)|Generator for geometric patterns|5|2024-05-19|
 |33|[DjoCoding/Djo-Lang](https://github.com/DjoCoding/Djo-Lang)|a small programming language built for learning purposes|5|2024-04-26|
@@ -43,7 +43,7 @@
 |36|[castle-engine/2015-deprecated-cge-tutorial-web3d-conference](https://github.com/castle-engine/2015-deprecated-cge-tutorial-web3d-conference)|Castle Game Engine tutorial for Web3D 2015 conference|5|2024-08-05|
 |37|[lukaszcz/pascaladt](https://github.com/lukaszcz/pascaladt)|A library of algorithms and data structures for the Free Pascal Compiler.|4|2024-08-10|
 |38|[zbyna/AudioBookConverter](https://github.com/zbyna/AudioBookConverter)|Split and / or convert multimedia files using a built-in media player, manually or according to the internal chapters of source. Generating a playlist for split parts is possible. |4|2024-05-22|
-|39|[tdebaets/common](https://github.com/tdebaets/common)|Common code/utilities/scripts... that are shared among my other projects|4|2024-06-13|
+|39|[tdebaets/common](https://github.com/tdebaets/common)|Common code/utilities/scripts... that are shared among my other projects|4|2024-09-14|
 |40|[johndempster/SESComponentsXE](https://github.com/johndempster/SESComponentsXE)|Delphi XEn version of shared components package for Strathclyde Electrophysiology Software programs|4|2024-06-24|
 |41|[BitmasterXor/Smart-Screen-Bypass](https://github.com/BitmasterXor/Smart-Screen-Bypass)|This project shows how to add and remove Zone ID's so that a  PE Binary (.EXE) can run without  triggering Microsoft Windows Smart Screen.|3|2024-09-07|
 |42|[TheLazyTomcat/lib.NamedSharedItems](https://github.com/TheLazyTomcat/lib.NamedSharedItems)|Class designed to be used for allocation of small named memory blocks of equal size (items) in a shared memory.|3|2024-09-13|
