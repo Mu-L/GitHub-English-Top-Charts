@@ -1,43 +1,43 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Dart
-<sub>Updated: 2024-09-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-09-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[bagisto/opensource-ecommerce-mobile-app](https://github.com/bagisto/opensource-ecommerce-mobile-app)|This open-source mobile ecommerce app seamlessly transforms your Bagisto store into a powerful mobile platform, providing real-time synchronization of products and categories. |4785|2024-08-17|2023-10-25|
-|2|[Mobile-Artificial-Intelligence/maid](https://github.com/Mobile-Artificial-Intelligence/maid)|Maid is a cross-platform Flutter app for interfacing with GGUF / llama.cpp models locally, and with Ollama and OpenAI models remotely. |1253|2024-08-28|2023-10-17|
-|3|[nank1ro/flutter-shadcn-ui](https://github.com/nank1ro/flutter-shadcn-ui)|shadcn-ui ported in Flutter. Awesome UI components for Flutter, fully customizable.|877|2024-09-12|2024-01-05|
-|4|[kangpeiqin/bilivideo_down](https://github.com/kangpeiqin/bilivideo_down)|A cross-platform（Win / MacOS） BiliBili Video downloader   一款基于 Flutter 开发的桌面端 B 站视频下载器|741|2024-09-01|2024-06-13|
+|1|[bagisto/opensource-ecommerce-mobile-app](https://github.com/bagisto/opensource-ecommerce-mobile-app)|This open-source mobile ecommerce app seamlessly transforms your Bagisto store into a powerful mobile platform, providing real-time synchronization of products and categories. |4792|2024-08-17|2023-10-25|
+|2|[Mobile-Artificial-Intelligence/maid](https://github.com/Mobile-Artificial-Intelligence/maid)|Maid is a cross-platform Flutter app for interfacing with GGUF / llama.cpp models locally, and with Ollama and OpenAI models remotely. |1257|2024-08-28|2023-10-17|
+|3|[nank1ro/flutter-shadcn-ui](https://github.com/nank1ro/flutter-shadcn-ui)|shadcn-ui ported in Flutter. Awesome UI components for Flutter, fully customizable.|879|2024-09-12|2024-01-05|
+|4|[kangpeiqin/bilivideo_down](https://github.com/kangpeiqin/bilivideo_down)|A cross-platform（Win / MacOS） BiliBili Video downloader   一款基于 Flutter 开发的桌面端 B 站视频下载器|742|2024-09-01|2024-06-13|
 |5|[flutter/games](https://github.com/flutter/games)|Home of the Flutter Casual Games Toolkit and other Flutter gaming templates|585|2024-09-10|2023-10-18|
-|6|[google-gemini/generative-ai-dart](https://github.com/google-gemini/generative-ai-dart)|The official Dart library for the Google Gemini API|543|2024-09-04|2023-12-11|
-|7|[dagmawibabi/ScholArxiv](https://github.com/dagmawibabi/ScholArxiv)|ScholArxiv is an open-source aesthetic and minimal app that allows users to search, read, bookmark, share, download and view summaries of academic papers from the arXiv repository.|541|2024-09-09|2024-08-03|
+|6|[google-gemini/generative-ai-dart](https://github.com/google-gemini/generative-ai-dart)|The official Dart library for the Google Gemini API|545|2024-09-04|2023-12-11|
+|7|[dagmawibabi/ScholArxiv](https://github.com/dagmawibabi/ScholArxiv)|ScholArxiv is an open-source aesthetic and minimal app that allows users to search, read, bookmark, share, download and view summaries of academic papers from the arXiv repository.|543|2024-09-09|2024-08-03|
 |8|[MostafaElSafy/Flutter-QR-Attendance-App](https://github.com/MostafaElSafy/Flutter-QR-Attendance-App)|-|538|2024-03-29|2023-12-24|
-|9|[Tencent/tdesign-flutter](https://github.com/Tencent/tdesign-flutter)|A Flutter UI components lib for TDesign.|526|2024-09-11|2023-11-28|
-|10|[reqable/re-editor](https://github.com/reqable/re-editor)|Re-Editor is a powerful lightweight text and code editor widget.|485|2024-09-06|2024-02-05|
+|9|[Tencent/tdesign-flutter](https://github.com/Tencent/tdesign-flutter)|A Flutter UI components lib for TDesign.|527|2024-09-11|2023-11-28|
+|10|[reqable/re-editor](https://github.com/reqable/re-editor)|Re-Editor is a powerful lightweight text and code editor widget.|486|2024-09-06|2024-02-05|
 |11|[FilledStacks/expression-ui](https://github.com/FilledStacks/expression-ui)|A framework that allows you to  build UI's using animation software|452|2024-07-02|2024-03-21|
-|12|[rodydavis/signals.dart](https://github.com/rodydavis/signals.dart)|Reactive programming made simple for Dart and Flutter|428|2024-09-12|2023-11-18|
+|12|[rodydavis/signals.dart](https://github.com/rodydavis/signals.dart)|Reactive programming made simple for Dart and Flutter|429|2024-09-12|2023-11-18|
 |13|[ChatBot-All/chatbot-app](https://github.com/ChatBot-All/chatbot-app)|"ChatBot" mobile private ChatGPT application, supporting GPT,  Gemini Pro & Ollama models.  拥有自己的移动端 ChatGPT/Gemini 应用。|409|2024-05-28|2024-04-27|
 |14|[mirarr-app/mirarr](https://github.com/mirarr-app/mirarr)|-|391|2024-08-28|2024-07-14|
-|15|[JHubi1/ollama-app](https://github.com/JHubi1/ollama-app)|A modern and easy-to-use client for Ollama|376|2024-09-14|2024-05-23|
+|15|[JHubi1/ollama-app](https://github.com/JHubi1/ollama-app)|A modern and easy-to-use client for Ollama|384|2024-09-14|2024-05-23|
 |16|[KNKPA/KNKPAnime](https://github.com/KNKPA/KNKPAnime)|KNKPAnime：支持多番剧源与弹幕的看番软件。|341|2024-07-25|2024-04-20|
 |17|[azkadev/whatsapp](https://github.com/azkadev/whatsapp)|Whatsapp Client Tidak Resmi Untuk DART & FLUTTER (hanya support desktop only)|339|2024-08-22|2023-12-28|
 |18|[azkadev/telegraph](https://github.com/azkadev/telegraph)|Telegraph Client Api in dart support cross platform flutter apps|333|2024-08-22|2023-10-25|
 |19|[azkadev/dart_vercel](https://github.com/azkadev/dart_vercel)|-|332|2024-04-13|2023-10-27|
 |20|[azkadev/docker](https://github.com/azkadev/docker)|Docker dart library |331|2024-08-22|2023-11-22|
-|21|[forus-labs/forui](https://github.com/forus-labs/forui)|Forus Lab's Flutter UI library|324|2024-09-14|2024-02-25|
+|21|[forus-labs/forui](https://github.com/forus-labs/forui)|Forus Lab's Flutter UI library|325|2024-09-15|2024-02-25|
 |22|[mu-fazil-vk/FluxTube](https://github.com/mu-fazil-vk/FluxTube)|A powerful and ad-free YouTube client built using Flutter. Watch YouTube videos without ads, subscribe to channels, retrieve video dislikes, read comments, save videos, and much more.|306|2024-08-23|2024-06-30|
-|23|[TolyFx/toly_ui](https://github.com/TolyFx/toly_ui)|The All-Platform Responsive ui library for flutter.|305|2024-08-28|2024-04-10|
-|24|[raj457036/copycat_clipboard](https://github.com/raj457036/copycat_clipboard)|Copycat Clipboard is an intuitive clipboard manager designed to enhance your workflow. Seamlessly switch between documents, apps, and devices while keeping all your copied items organized and accessib ...|298|2024-09-11|2024-04-02|
-|25|[fluttergems/awesome-open-source-flutter-apps](https://github.com/fluttergems/awesome-open-source-flutter-apps)|A curated list of awesome open source Flutter apps|292|2024-09-05|2024-04-27|
+|23|[TolyFx/toly_ui](https://github.com/TolyFx/toly_ui)|The All-Platform Responsive ui library for flutter.|306|2024-08-28|2024-04-10|
+|24|[raj457036/copycat_clipboard](https://github.com/raj457036/copycat_clipboard)|Copycat Clipboard is an intuitive clipboard manager designed to enhance your workflow. Seamlessly switch between documents, apps, and devices while keeping all your copied items organized and accessib ...|300|2024-09-11|2024-04-02|
+|25|[fluttergems/awesome-open-source-flutter-apps](https://github.com/fluttergems/awesome-open-source-flutter-apps)|A curated list of awesome open source Flutter apps|295|2024-09-05|2024-04-27|
 |26|[sobujislam01/dice_game](https://github.com/sobujislam01/dice_game)|-|287|2024-03-24|2024-03-17|
 |27|[felangel/data_class](https://github.com/felangel/data_class)|Experimental support for data classes in Dart using macros.|281|2024-07-09|2024-05-16|
-|28|[HemantKArya/BloomeeTunes](https://github.com/HemantKArya/BloomeeTunes)|🌸Bloomee is a cross-platform music app designed to bring you ad-free tunes from various sources. 🌼🎵|253|2024-09-11|2023-12-07|
-|29|[didi/Unify](https://github.com/didi/Unify)|An efficient, flexible Flutter-Native hybrid communication framework for seamless module integration and automatic code generation.|251|2024-09-13|2024-02-01|
-|30|[justkawal/UI](https://github.com/justkawal/UI)|Flutter Apps Collection|247|2024-08-29|2023-12-29|
+|28|[HemantKArya/BloomeeTunes](https://github.com/HemantKArya/BloomeeTunes)|🌸Bloomee is a cross-platform music app designed to bring you ad-free tunes from various sources. 🌼🎵|255|2024-09-11|2023-12-07|
+|29|[didi/Unify](https://github.com/didi/Unify)|An efficient, flexible Flutter-Native hybrid communication framework for seamless module integration and automatic code generation.|252|2024-09-13|2024-02-01|
+|30|[justkawal/UI](https://github.com/justkawal/UI)|Flutter Apps Collection|249|2024-08-29|2023-12-29|
 |31|[opxica/modular-ui](https://github.com/opxica/modular-ui)|Create consistent and responsive cross-platform Flutter app interfaces in a snap with Modular UI's flexible building blocks.|242|2024-05-21|2023-12-28|
 |32|[paidworkco/solana-worken-sdk-flutter](https://github.com/paidworkco/solana-worken-sdk-flutter)|Solana Flutter SDK & Plugin for Worken|237|2024-05-15|2024-02-04|
-|33|[celest-dev/celest](https://github.com/celest-dev/celest)|The Flutter cloud platform|233|2024-09-11|2023-11-13|
+|33|[celest-dev/celest](https://github.com/celest-dev/celest)|The Flutter cloud platform|233|2024-09-15|2023-11-13|
 |34|[renancaraujo/turi](https://github.com/renancaraujo/turi)|A Fragment shader based game using Flame and Flutter|222|2024-09-11|2023-10-18|
 |35|[MustafaKammel/last5](https://github.com/MustafaKammel/last5)|-|217|2024-06-11|2024-06-11|
 |36|[MustafaKammel/last4](https://github.com/MustafaKammel/last4)|-|217|2024-06-10|2024-06-10|
@@ -46,21 +46,21 @@
 |39|[ksh-b/raven](https://github.com/ksh-b/raven)|News Aggregator|203|2024-08-03|2023-12-23|
 |40|[BrutalCoding/aub.ai](https://github.com/BrutalCoding/aub.ai)|AubAI brings you on-device gen-AI capabilities, including offline text generation and more, directly within your app.|202|2024-04-27|2023-12-04|
 |41|[Telosnex/fonnx](https://github.com/Telosnex/fonnx)|ONNX runtime for Flutter.|199|2024-08-28|2023-10-07|
-|42|[fujidaiti/smooth_sheets](https://github.com/fujidaiti/smooth_sheets)|Sheet widgets with smooth motion and great flexibility.|195|2024-09-14|2023-12-26|
+|42|[fujidaiti/smooth_sheets](https://github.com/fujidaiti/smooth_sheets)|Sheet widgets with smooth motion and great flexibility.|195|2024-09-15|2023-12-26|
 |43|[JosephinCrafter/ahl_remake](https://github.com/JosephinCrafter/ahl_remake)|This is the source code of the dominican sisters of our Lady of Delivrande named "Aujourd'hui l'avenir".|193|2024-07-03|2024-03-13|
-|44|[K3vinb5/Unyo](https://github.com/K3vinb5/Unyo)|🐙 Anime streaming and Manga reader desktop app without ads. |191|2024-09-12|2024-03-24|
+|44|[K3vinb5/Unyo](https://github.com/K3vinb5/Unyo)|🐙 Anime streaming and Manga reader desktop app without ads. |192|2024-09-15|2024-03-24|
 |45|[harleyjones/Quacker](https://github.com/harleyjones/Quacker)|The continuation of fritter with feeds|190|2024-06-22|2024-03-08|
 |46|[vania-dart/framework](https://github.com/vania-dart/framework)|Fast, simple, and powerful backend framework for Dart built with ❤️|175|2024-09-11|2024-01-13|
 |47|[Sameera-Perera/Flutter-TDD-Clean-Architecture-E-Commerce-App](https://github.com/Sameera-Perera/Flutter-TDD-Clean-Architecture-E-Commerce-App)|A modern E-Commerce mobile application built with Flutter, TDD, Clean Architecture, and BLoC.|168|2024-04-17|2023-09-29|
 |48|[babakcode/flutter_gemini](https://github.com/babakcode/flutter_gemini)|Flutter Google Gemini SDK|166|2024-08-14|2023-12-15|
 |49|[Sinneida/glassdown](https://github.com/Sinneida/glassdown)|-|162|2024-07-09|2024-02-07|
-|50|[jellyflix-app/jellyflix](https://github.com/jellyflix-app/jellyflix)|Jellyfix is an easy-to-use Jellyfin client for movies and shows. It's cross-platform and supports Mobile (iOS, Android) and Desktop (Windows, Mac, Linux).|158|2024-09-14|2023-12-10|
-|51|[davidmigloz/pixels2flutter](https://github.com/davidmigloz/pixels2flutter)|Convert a screenshot to a working Flutter app.|157|2024-09-01|2023-11-17|
-|52|[omarahmedx14/flutter_advanced_course](https://github.com/omarahmedx14/flutter_advanced_course)|-|157|2024-08-05|2023-11-12|
-|53|[lollipopkit/flutter_gpt_box](https://github.com/lollipopkit/flutter_gpt_box)|GPTBox - a third-party client for OpenAI API.|156|2024-09-13|2023-12-25|
-|54|[netdur/llama_cpp_dart](https://github.com/netdur/llama_cpp_dart)|dart binding for llama.cpp|138|2024-07-15|2024-01-08|
+|50|[jellyflix-app/jellyflix](https://github.com/jellyflix-app/jellyflix)|Jellyfix is an easy-to-use Jellyfin client for movies and shows. It's cross-platform and supports Mobile (iOS, Android) and Desktop (Windows, Mac, Linux).|159|2024-09-14|2023-12-10|
+|51|[omarahmedx14/flutter_advanced_course](https://github.com/omarahmedx14/flutter_advanced_course)|-|158|2024-08-05|2023-11-12|
+|52|[davidmigloz/pixels2flutter](https://github.com/davidmigloz/pixels2flutter)|Convert a screenshot to a working Flutter app.|157|2024-09-01|2023-11-17|
+|53|[lollipopkit/flutter_gpt_box](https://github.com/lollipopkit/flutter_gpt_box)|GPTBox - a third-party client for OpenAI API.|156|2024-09-15|2023-12-25|
+|54|[netdur/llama_cpp_dart](https://github.com/netdur/llama_cpp_dart)|dart binding for llama.cpp|139|2024-07-15|2024-01-08|
 |55|[AlejandroAndroidDev/five_crk](https://github.com/AlejandroAndroidDev/five_crk)|-|138|2024-03-25|2023-10-16|
-|56|[DJDoubleD/refreezer](https://github.com/DJDoubleD/refreezer)|An alternative Deezer music streaming & downloading client, based on Freezer.|135|2024-09-13|2024-07-21|
+|56|[DJDoubleD/refreezer](https://github.com/DJDoubleD/refreezer)|An alternative Deezer music streaming & downloading client, based on Freezer.|136|2024-09-14|2024-07-21|
 |57|[taxze6/flutter-chat-craft](https://github.com/taxze6/flutter-chat-craft)|-|135|2024-04-14|2023-11-28|
 |58|[jankuss/genq](https://github.com/jankuss/genq)|Instant Data Class Generation for Dart|133|2024-07-11|2024-02-24|
 |59|[gskinnerTeam/flutter_custom_carousel](https://github.com/gskinnerTeam/flutter_custom_carousel)|A Flutter widget for creating fully custom, animated scrollable lists. It manages all of the tricky logic surrounding scroll interactions and physics, and leaves the visual presentation of items up to ...|132|2024-04-27|2024-04-13|
@@ -80,21 +80,21 @@
 |73|[CodingWithLewis/RecreatedApps](https://github.com/CodingWithLewis/RecreatedApps)|-|109|2024-03-19|2024-03-19|
 |74|[omegaui/cliptopia](https://github.com/omegaui/cliptopia)|Cliptopia is a beautiful state-of-the-art clipboard management software for linux desktops that turns your simple clipboard into a full-fledged ⚡power house⚡|108|2024-05-12|2023-12-12|
 |75|[rainyl/opencv_dart](https://github.com/rainyl/opencv_dart)|OpenCV bindings for Dart language and Flutter. Support Asynchronous Now!|107|2024-09-12|2024-02-03|
-|76|[omegaui/app_fleet](https://github.com/omegaui/app_fleet)|A brilliant workspace manager & launch automation tool specially designed for GNOME.|107|2024-07-11|2023-10-07|
-|77|[arcnations-united/evolve](https://github.com/arcnations-united/evolve)|A modern GTK Theme Manager for GNOME with GTK 4.0 support and some cool features.|106|2024-08-21|2024-01-15|
-|78|[bggRGjQaUbCoE/c001apk-flutter](https://github.com/bggRGjQaUbCoE/c001apk-flutter)|-|103|2024-09-10|2024-08-07|
+|76|[arcnations-united/evolve](https://github.com/arcnations-united/evolve)|A modern GTK Theme Manager for GNOME with GTK 4.0 support and some cool features.|107|2024-08-21|2024-01-15|
+|77|[omegaui/app_fleet](https://github.com/omegaui/app_fleet)|A brilliant workspace manager & launch automation tool specially designed for GNOME.|107|2024-07-11|2023-10-07|
+|78|[bggRGjQaUbCoE/c001apk-flutter](https://github.com/bggRGjQaUbCoE/c001apk-flutter)|-|105|2024-09-10|2024-08-07|
 |79|[tejasbadone/flutterzon_bloc](https://github.com/tejasbadone/flutterzon_bloc)|Flutterzon is a full-stack e-commerce application that tries to mirror the functionality and user experience of the Amazon mobile app. Built using Flutter, Node.js, MongoDB, and Bloc for state managem ...|102|2024-08-16|2023-11-15|
 |80|[Gambley1/flutter-instagram-offline-first-clone](https://github.com/Gambley1/flutter-instagram-offline-first-clone)| Offline Instagram? No problem! Dive into this Flutter clone with seamless sync and all your favorite features, even when you're off the grid. ✨ Explore posts, create content, interact with friends –  ...|100|2024-09-11|2024-01-02|
 |81|[espresso3389/pdfrx](https://github.com/espresso3389/pdfrx)|pdfrx is yet another PDF viewer implementation that built on the top of PDFium. The plugin currently supports Android, iOS, Windows, macOS, Linux, and Web.|100|2024-09-11|2023-11-18|
 |82|[poppingmoon/aria](https://github.com/poppingmoon/aria)|A cross-platform Misskey client built with Flutter|97|2024-09-13|2024-03-30|
-|83|[Nabinji/100-DaysOf-Futter](https://github.com/Nabinji/100-DaysOf-Futter)|Flutter UI design |95|2024-06-21|2024-02-26|
-|84|[hm21/pro_image_editor](https://github.com/hm21/pro_image_editor)|The pro_image_editor is a Flutter widget designed for image editing within your application. It provides a flexible and convenient way to integrate image editing capabilities into your Flutter project ...|95|2024-08-28|2024-01-02|
-|85|[JICA98/DailyAL](https://github.com/JICA98/DailyAL)|DailyAL - MyAnimeList Client|94|2024-09-14|2024-01-22|
+|83|[Nabinji/100-DaysOf-Futter](https://github.com/Nabinji/100-DaysOf-Futter)|Flutter UI design |97|2024-06-21|2024-02-26|
+|84|[JICA98/DailyAL](https://github.com/JICA98/DailyAL)|DailyAL - MyAnimeList Client|95|2024-09-14|2024-01-22|
+|85|[hm21/pro_image_editor](https://github.com/hm21/pro_image_editor)|The pro_image_editor is a Flutter widget designed for image editing within your application. It provides a flexible and convenient way to integrate image editing capabilities into your Flutter project ...|95|2024-08-28|2024-01-02|
 |86|[Sivan22/otzaria](https://github.com/Sivan22/otzaria)|A modern app that brings the jewish library to any device|93|2024-09-09|2024-02-01|
 |87|[cj0x39e/flutter_confetti](https://github.com/cj0x39e/flutter_confetti)|🎉 confetti animation in Flutter🎉|91|2024-08-09|2024-08-03|
 |88|[Flutterando/calamidade](https://github.com/Flutterando/calamidade)|-|91|2024-05-27|2024-05-13|
-|89|[m-r-davari/flutter_3d_controller](https://github.com/m-r-davari/flutter_3d_controller)|A Flutter package for rendering interactive 3D models in different formats(glb, gltf, fbx, obj), with ability to control animations, textures and camera.|89|2024-09-08|2023-11-18|
-|90|[mustfa-magdy-mohamed-nasr/news](https://github.com/mustfa-magdy-mohamed-nasr/news)|-|88|2024-06-21|2024-05-14|
+|89|[mustfa-magdy-mohamed-nasr/news](https://github.com/mustfa-magdy-mohamed-nasr/news)|-|88|2024-06-21|2024-05-14|
+|90|[m-r-davari/flutter_3d_controller](https://github.com/m-r-davari/flutter_3d_controller)|A Flutter package for rendering interactive 3D models in different formats(glb, gltf, fbx, obj), with ability to control animations, textures and camera.|88|2024-09-08|2023-11-18|
 |91|[mustfa-magdy-mohamed-nasr/YouTube_Clone](https://github.com/mustfa-magdy-mohamed-nasr/YouTube_Clone)|-|87|2024-07-02|2024-06-30|
 |92|[mustfa-magdy-mohamed-nasr/al_kitaab](https://github.com/mustfa-magdy-mohamed-nasr/al_kitaab)|-|87|2024-06-26|2024-06-09|
 |93|[mustfa-magdy-mohamed-nasr/Wether-app](https://github.com/mustfa-magdy-mohamed-nasr/Wether-app)|-|87|2024-05-08|2024-05-08|
@@ -103,108 +103,108 @@
 |96|[VaibhavCodeClub/learn](https://github.com/VaibhavCodeClub/learn)|Learning app for kids|85|2024-08-06|2024-02-08|
 |97|[morn-fun/crayon](https://github.com/morn-fun/crayon)|Rich text editor build by flutter!|84|2024-06-27|2024-03-14|
 |98|[VGVentures/io_crossword](https://github.com/VGVentures/io_crossword)|Google I/O 2024 Crossword game built with Flutter, Firebase & Gemini|84|2024-08-28|2024-02-19|
-|99|[maelchiotti/LocalMaterialNotes](https://github.com/maelchiotti/LocalMaterialNotes)|Simple, local, material design notes|84|2024-09-12|2024-02-04|
-|100|[mahdinazmi/Spotify-Clone-With-Flutter](https://github.com/mahdinazmi/Spotify-Clone-With-Flutter)|-|81|2024-07-16|2024-06-30|
+|99|[maelchiotti/LocalMaterialNotes](https://github.com/maelchiotti/LocalMaterialNotes)|Simple, local, material design notes|84|2024-09-15|2024-02-04|
+|100|[mahdinazmi/Spotify-Clone-With-Flutter](https://github.com/mahdinazmi/Spotify-Clone-With-Flutter)|-|82|2024-07-16|2024-06-30|
 |101|[vanvixi/flutter-momo-sliver-appbar](https://github.com/vanvixi/flutter-momo-sliver-appbar)|Replicating MoMo app's Collapsing Toolbar effect in Flutter for a smooth, intuitive user experience.|79|2024-06-09|2024-06-02|
 |102|[PlugFox/octopus](https://github.com/PlugFox/octopus)|A cross-platform declarative router for Flutter with a focus on state and nested navigation. Made with ❤️ by PlugFox.|79|2024-09-02|2023-11-17|
 |103|[Hamad-Anwar/Flutter-Music-Player-App-With-BLoc](https://github.com/Hamad-Anwar/Flutter-Music-Player-App-With-BLoc)|A Flutter music streaming application that allows users to play audio files from local storage. The app features a beautiful neumorphic UI design and provides a smooth user experience for browsing and ...|77|2024-05-11|2024-02-21|
 |104|[AquaWallet/aqua-wallet](https://github.com/AquaWallet/aqua-wallet)|https://aquawallet.io|76|2024-08-13|2024-01-14|
-|105|[azkadev/server_universe](https://github.com/azkadev/server_universe)|Server Universe Library For Help you make server rest api on cross platform support edge functions Supabase, Vercel, Netlify, cloud Flare and more|75|2024-08-22|2024-04-22|
-|106|[RodrigoBertotti/flutter_chat_app_with_nodejs](https://github.com/RodrigoBertotti/flutter_chat_app_with_nodejs)|A Flutter Chat App built with Node.js, MySQL, and WebSockets.|75|2024-08-09|2023-09-18|
-|107|[rohitsangwan01/uni_control_hub](https://github.com/rohitsangwan01/uni_control_hub)|UniControlHub: Seamlessly Bridge Your Devices|74|2024-08-18|2024-06-23|
-|108|[jacky4631/sfb](https://github.com/jacky4631/sfb)|可能是功能最完善的淘宝客商城APP系统，包含完整APP的所有页面。基于Flutter的淘宝客APP源码，苏分宝店流宝开源淘客商城APP系统，集成淘宝联盟、京东京粉、拼多多多多进宝、抖音优惠券、唯品会唯享客优惠券、美团外卖红包美团分销联盟CPS，获取优惠商品信息，快速实现流量变现。服务端基于Java(SpringBoot)开发。|74|2024-09-11|2024-02-18|
-|109|[gerry-momo/flutter_startup](https://github.com/gerry-momo/flutter_startup)|-|74|2024-07-04|2023-11-07|
-|110|[Kxmrg/flutter_getx_scaffold](https://github.com/Kxmrg/flutter_getx_scaffold)|Rapid development of scaffolding based on getx|73|2024-09-14|2024-06-28|
-|111|[wgh136/pixes](https://github.com/wgh136/pixes)|Unofficial pixiv app|73|2024-06-29|2024-05-13|
-|112|[kananinirav/Indian-IPTV-App](https://github.com/kananinirav/Indian-IPTV-App)|Watch 500+ live india TV channels with IPTV Android Application|73|2024-08-15|2024-02-22|
+|105|[rohitsangwan01/uni_control_hub](https://github.com/rohitsangwan01/uni_control_hub)|UniControlHub: Seamlessly Bridge Your Devices|75|2024-08-18|2024-06-23|
+|106|[azkadev/server_universe](https://github.com/azkadev/server_universe)|Server Universe Library For Help you make server rest api on cross platform support edge functions Supabase, Vercel, Netlify, cloud Flare and more|75|2024-08-22|2024-04-22|
+|107|[RodrigoBertotti/flutter_chat_app_with_nodejs](https://github.com/RodrigoBertotti/flutter_chat_app_with_nodejs)|A Flutter Chat App built with Node.js, MySQL, and WebSockets.|75|2024-08-09|2023-09-18|
+|108|[kananinirav/Indian-IPTV-App](https://github.com/kananinirav/Indian-IPTV-App)|Watch 500+ live india TV channels with IPTV Android Application|74|2024-08-15|2024-02-22|
+|109|[jacky4631/sfb](https://github.com/jacky4631/sfb)|可能是功能最完善的淘宝客商城APP系统，包含完整APP的所有页面。基于Flutter的淘宝客APP源码，苏分宝店流宝开源淘客商城APP系统，集成淘宝联盟、京东京粉、拼多多多多进宝、抖音优惠券、唯品会唯享客优惠券、美团外卖红包美团分销联盟CPS，获取优惠商品信息，快速实现流量变现。服务端基于Java(SpringBoot)开发。|74|2024-09-11|2024-02-18|
+|110|[gerry-momo/flutter_startup](https://github.com/gerry-momo/flutter_startup)|-|74|2024-07-04|2023-11-07|
+|111|[Kxmrg/flutter_getx_scaffold](https://github.com/Kxmrg/flutter_getx_scaffold)|Rapid development of scaffolding based on getx|73|2024-09-14|2024-06-28|
+|112|[wgh136/pixes](https://github.com/wgh136/pixes)|Unofficial pixiv app|73|2024-06-29|2024-05-13|
 |113|[romain-girou/pizza_app](https://github.com/romain-girou/pizza_app)|-|71|2024-03-30|2024-01-25|
-|114|[martin-bertele/ftcon24eu](https://github.com/martin-bertele/ftcon24eu)|Content from the FlutterCon Europe 2024|68|2024-08-14|2024-07-05|
-|115|[azkadev/database_universe](https://github.com/azkadev/database_universe)|-|68|2024-08-22|2024-04-27|
-|116|[muhammadsufyan786/Home-Animation-App](https://github.com/muhammadsufyan786/Home-Animation-App)|-|68|2024-04-07|2024-04-07|
-|117|[onlyGuo/chatgpt_desktop](https://github.com/onlyGuo/chatgpt_desktop)|ChatGPT desktop by flutter|68|2024-06-06|2024-02-28|
-|118|[JGeek00/linkdy](https://github.com/JGeek00/linkdy)|Linkding client created with Flutter.|68|2024-07-18|2024-02-21|
+|114|[JGeek00/linkdy](https://github.com/JGeek00/linkdy)|Linkding client created with Flutter.|70|2024-07-18|2024-02-21|
+|115|[martin-bertele/ftcon24eu](https://github.com/martin-bertele/ftcon24eu)|Content from the FlutterCon Europe 2024|68|2024-08-14|2024-07-05|
+|116|[azkadev/database_universe](https://github.com/azkadev/database_universe)|-|68|2024-08-22|2024-04-27|
+|117|[muhammadsufyan786/Home-Animation-App](https://github.com/muhammadsufyan786/Home-Animation-App)|-|68|2024-04-07|2024-04-07|
+|118|[onlyGuo/chatgpt_desktop](https://github.com/onlyGuo/chatgpt_desktop)|ChatGPT desktop by flutter|68|2024-06-06|2024-02-28|
 |119|[azkadev/telegram_x](https://github.com/azkadev/telegram_x)|WIP Telegram X Unofficial Port To Flutter With Telegram Client Tdlib Based Ultra FAST|67|2024-04-29|2024-04-29|
 |120|[Aniketkhote/refreshed](https://github.com/Aniketkhote/refreshed)|Enhanced GetX for Flutter: Stability, Performance, Beginner-Friendly.|67|2024-09-09|2024-02-16|
 |121|[Nutcake/ReCon](https://github.com/Nutcake/ReCon)|-|67|2024-08-27|2023-10-03|
 |122|[gtbluesky/dsbridge_flutter](https://github.com/gtbluesky/dsbridge_flutter)|A modern cross-platform JavaScript bridge, through which you can invoke each other's functions synchronously or asynchronously between JavaScript and Dart.|67|2024-07-27|2023-09-26|
-|123|[khanifzyen/dart-basics](https://github.com/khanifzyen/dart-basics)|Materi Dart Basics untuk mata kuliah Pemrograman Mobile Teknik Informatika UNISNU Jepara 2023|66|2024-03-16|2023-11-28|
+|123|[chengyangkj/ROS_Flutter_Gui_App](https://github.com/chengyangkj/ROS_Flutter_Gui_App)|-|66|2024-09-08|2023-11-09|
 |124|[QuantumPhysique/trale](https://github.com/QuantumPhysique/trale)|trale – a simple body weight diary app respecting your privacy|66|2024-09-08|2023-10-11|
-|125|[chengyangkj/ROS_Flutter_Gui_App](https://github.com/chengyangkj/ROS_Flutter_Gui_App)|-|65|2024-09-08|2023-11-09|
-|126|[mo7amedaliEbaid/nibbles-ecommerce-food](https://github.com/mo7amedaliEbaid/nibbles-ecommerce-food)|Ecommerce - Complex UI - Food App - Firebase Firestore /Auth -  FCM  - Bloc Pattern - Qr Code|64|2024-07-15|2023-12-01|
-|127|[tharwatsamy/flutter_paypal_payment_checkout](https://github.com/tharwatsamy/flutter_paypal_payment_checkout)|-|64|2024-07-19|2023-10-14|
-|128|[renancaraujo/omesh](https://github.com/renancaraujo/omesh)| O'Mesh is a fast and highly customizable vector animated Mesh Gradients implementation. |63|2024-08-25|2024-08-04|
-|129|[Tienisto/rhttp](https://github.com/Tienisto/rhttp)|Make HTTP requests using Rust from Flutter.|63|2024-09-04|2024-08-01|
-|130|[mahdinazmi/Ecommerce-App-With-Flutter](https://github.com/mahdinazmi/Ecommerce-App-With-Flutter)|-|63|2024-08-21|2024-07-02|
-|131|[YarosMallorca/adobe_deactivation_bypass](https://github.com/YarosMallorca/adobe_deactivation_bypass)|A CLI tool to bypass Adobe's deactivation prompt for cracked Adobe software|63|2024-08-31|2024-05-15|
-|132|[kspo/super_cupertino_navigation_bar](https://github.com/kspo/super_cupertino_navigation_bar)|This package offers a collapsible app bar along with an attractive search bar animation, enhancing the visual appeal of your Flutter app with an iOS-inspired design. This package is versatile, allowin ...|63|2024-09-01|2023-10-16|
-|133|[mo7amedaliEbaid/piiicks-ecommerce](https://github.com/mo7amedaliEbaid/piiicks-ecommerce)|Flutter ecommerce built with clean architecture and bloc state management.|62|2024-07-15|2023-11-13|
-|134|[Flutter-Bounty-Hunters/swift_ui](https://github.com/Flutter-Bounty-Hunters/swift_ui)|Flutter port of Swift UI|62|2024-07-24|2023-09-23|
-|135|[hyper-designed/hyper_effects](https://github.com/hyper-designed/hyper_effects)|Create beautiful effects and animations with just a few lines of code.|60|2024-06-21|2023-09-29|
-|136|[zapstore/zapstore](https://github.com/zapstore/zapstore)|Permissionless app store powered by your social network|59|2024-09-07|2024-02-21|
-|137|[surtecha/karman](https://github.com/surtecha/karman)|The Swiss-army knife of productivity.|57|2024-09-14|2024-06-11|
+|125|[Tienisto/rhttp](https://github.com/Tienisto/rhttp)|Make HTTP requests using Rust from Flutter.|64|2024-09-15|2024-08-01|
+|126|[mahdinazmi/Ecommerce-App-With-Flutter](https://github.com/mahdinazmi/Ecommerce-App-With-Flutter)|-|64|2024-08-21|2024-07-02|
+|127|[mo7amedaliEbaid/nibbles-ecommerce-food](https://github.com/mo7amedaliEbaid/nibbles-ecommerce-food)|Ecommerce - Complex UI - Food App - Firebase Firestore /Auth -  FCM  - Bloc Pattern - Qr Code|64|2024-07-15|2023-12-01|
+|128|[tharwatsamy/flutter_paypal_payment_checkout](https://github.com/tharwatsamy/flutter_paypal_payment_checkout)|-|64|2024-07-19|2023-10-14|
+|129|[renancaraujo/omesh](https://github.com/renancaraujo/omesh)| O'Mesh is a fast and highly customizable vector animated Mesh Gradients implementation. |63|2024-08-25|2024-08-04|
+|130|[YarosMallorca/adobe_deactivation_bypass](https://github.com/YarosMallorca/adobe_deactivation_bypass)|A CLI tool to bypass Adobe's deactivation prompt for cracked Adobe software|63|2024-08-31|2024-05-15|
+|131|[kspo/super_cupertino_navigation_bar](https://github.com/kspo/super_cupertino_navigation_bar)|This package offers a collapsible app bar along with an attractive search bar animation, enhancing the visual appeal of your Flutter app with an iOS-inspired design. This package is versatile, allowin ...|63|2024-09-01|2023-10-16|
+|132|[mo7amedaliEbaid/piiicks-ecommerce](https://github.com/mo7amedaliEbaid/piiicks-ecommerce)|Flutter ecommerce built with clean architecture and bloc state management.|62|2024-07-15|2023-11-13|
+|133|[Flutter-Bounty-Hunters/swift_ui](https://github.com/Flutter-Bounty-Hunters/swift_ui)|Flutter port of Swift UI|62|2024-07-24|2023-09-23|
+|134|[surtecha/karman](https://github.com/surtecha/karman)|The Swiss-army knife of productivity.|60|2024-09-15|2024-06-11|
+|135|[zapstore/zapstore](https://github.com/zapstore/zapstore)|Permissionless app store powered by your social network|60|2024-09-07|2024-02-21|
+|136|[hyper-designed/hyper_effects](https://github.com/hyper-designed/hyper_effects)|Create beautiful effects and animations with just a few lines of code.|60|2024-06-21|2023-09-29|
+|137|[GoogleCloudPlatform/Open_Data_QnA](https://github.com/GoogleCloudPlatform/Open_Data_QnA)|The Open Data QnA python library enables you to chat with your databases by leveraging LLM Agents on Google Cloud.  Open Data QnA enables a conversational approach to interacting with your data. |59|2024-09-11|2024-02-29|
 |138|[azkadev/github_sponsor](https://github.com/azkadev/github_sponsor)|WIP GITHUB SPONSOR ACTION|57|2024-08-22|2024-05-12|
-|139|[GoogleCloudPlatform/Open_Data_QnA](https://github.com/GoogleCloudPlatform/Open_Data_QnA)|The Open Data QnA python library enables you to chat with your databases by leveraging LLM Agents on Google Cloud.  Open Data QnA enables a conversational approach to interacting with your data. |57|2024-09-11|2024-02-29|
-|140|[Mubashir-19/Flutter-Blogging-App](https://github.com/Mubashir-19/Flutter-Blogging-App)|-|56|2024-06-21|2023-11-26|
+|139|[Mubashir-19/Flutter-Blogging-App](https://github.com/Mubashir-19/Flutter-Blogging-App)|-|56|2024-06-21|2023-11-26|
+|140|[ychisbest/AnyNote](https://github.com/ychisbest/AnyNote)| A lightweight, self-hosted note-taking app with a simple interface and markdown support for personal note management.📝|54|2024-09-15|2024-08-29|
 |141|[944095635/DMC](https://github.com/944095635/DMC)|cctv?|54|2024-04-09|2023-11-10|
 |142|[Flutterando/routefly](https://github.com/Flutterando/routefly)|Folder-based route manager inspired by NextJS and created by the Flutterando community.|53|2024-06-23|2023-10-13|
 |143|[thelooter/labplus_for_gitlab](https://github.com/thelooter/labplus_for_gitlab)|Lab+ for Gitlab is an App to manage your interactions with your Gitlab Instance from your phone or Desktop|52|2024-09-03|2024-03-25|
-|144|[ychisbest/AnyNote](https://github.com/ychisbest/AnyNote)| A lightweight, self-hosted note-taking app with a simple interface and markdown support for personal note management.📝|51|2024-09-14|2024-08-29|
-|145|[Qubic-Hub/qubic-wallet](https://github.com/Qubic-Hub/qubic-wallet)|A multiplatform (Android and Windows, soon linux, iOS and MacOS) wallet for Qubic.|51|2024-06-08|2023-11-02|
-|146|[luizgasparetto/flutter_auto_cache](https://github.com/luizgasparetto/flutter_auto_cache)|🚀 Automated cache management with encryption, substitution/invalidation policies and efficient size handling.|51|2024-08-15|2023-09-18|
-|147|[judemont/reciper](https://github.com/judemont/reciper)|🍳 Your Ultimate Kitchen Companion! 📱|50|2024-09-04|2024-04-01|
-|148|[mkobuolys/ai-photo-scavenger-hunt](https://github.com/mkobuolys/ai-photo-scavenger-hunt)|A fun photo scavenger hunt game implemented using Flutter and Google AI Dart SDK.|50|2024-08-10|2024-02-16|
-|149|[dhafinrayhan/dummymart](https://github.com/dhafinrayhan/dummymart)|An example Flutter project that uses Riverpod, go_router, flutter_hooks, and Freezed.|50|2024-08-31|2023-11-08|
-|150|[StarCitizenToolBox/app](https://github.com/StarCitizenToolBox/app)|为 "StarCitizen" 的玩家设计，提供诸多便捷功能。 Designed for "StarCitizen" players, providing many convenient functions.|50|2024-09-11|2023-10-09|
-|151|[brandonp2412/FitBook](https://github.com/brandonp2412/FitBook)|Track your calorie intake - Completely offline|49|2024-08-18|2024-05-14|
-|152|[melodysdreamj/june](https://github.com/melodysdreamj/june)|-|48|2024-08-01|2024-02-20|
-|153|[herowws/flutter_popup](https://github.com/herowws/flutter_popup)|-|48|2024-05-23|2023-11-08|
+|144|[Qubic-Hub/qubic-wallet](https://github.com/Qubic-Hub/qubic-wallet)|A multiplatform (Android and Windows, soon linux, iOS and MacOS) wallet for Qubic.|51|2024-06-08|2023-11-02|
+|145|[luizgasparetto/flutter_auto_cache](https://github.com/luizgasparetto/flutter_auto_cache)|🚀 Automated cache management with encryption, substitution/invalidation policies and efficient size handling.|51|2024-08-15|2023-09-18|
+|146|[judemont/reciper](https://github.com/judemont/reciper)|🍳 Your Ultimate Kitchen Companion! 📱|50|2024-09-04|2024-04-01|
+|147|[mkobuolys/ai-photo-scavenger-hunt](https://github.com/mkobuolys/ai-photo-scavenger-hunt)|A fun photo scavenger hunt game implemented using Flutter and Google AI Dart SDK.|50|2024-08-10|2024-02-16|
+|148|[dhafinrayhan/dummymart](https://github.com/dhafinrayhan/dummymart)|An example Flutter project that uses Riverpod, go_router, flutter_hooks, and Freezed.|50|2024-08-31|2023-11-08|
+|149|[StarCitizenToolBox/app](https://github.com/StarCitizenToolBox/app)|为 "StarCitizen" 的玩家设计，提供诸多便捷功能。 Designed for "StarCitizen" players, providing many convenient functions.|50|2024-09-11|2023-10-09|
+|150|[brandonp2412/FitBook](https://github.com/brandonp2412/FitBook)|Track your calorie intake - Completely offline|49|2024-08-18|2024-05-14|
+|151|[melodysdreamj/june](https://github.com/melodysdreamj/june)|-|48|2024-08-01|2024-02-20|
+|152|[herowws/flutter_popup](https://github.com/herowws/flutter_popup)|-|48|2024-05-23|2023-11-08|
+|153|[sunarya-thito/shadcn_flutter](https://github.com/sunarya-thito/shadcn_flutter)|Shadcn/UI ported to Flutter|47|2024-09-14|2024-02-12|
 |154|[leancodepl/arb_translate](https://github.com/leancodepl/arb_translate)|A command-line tool for automatically adding missing message translations to ARB files using Google Gemini LLM by LeanCode|47|2024-09-08|2024-02-04|
 |155|[foxanna/productive_code_gen](https://github.com/foxanna/productive_code_gen)|This Flutter project demonstrates the usage of various code-generating packages and applies some maintenance best practices.|47|2024-06-18|2024-01-29|
 |156|[gree/patapata](https://github.com/gree/patapata)|Patapata is a framework built on Flutter for creating applications of production quality quickly and reliably. It provides a collection of best-practices built directly in to the various APIs so you c ...|47|2024-06-18|2023-11-30|
 |157|[dart-lang/macros](https://github.com/dart-lang/macros)|A Dart mono-repo for macro development.|46|2024-09-10|2024-06-13|
 |158|[sanika391/SpoonShare_](https://github.com/sanika391/SpoonShare_)|SpoonShare: An app connecting users to share free food, donate, and access local ngo, supporting the UN's Zero Hunger goal.|46|2024-08-04|2024-03-24|
-|159|[sunarya-thito/shadcn_flutter](https://github.com/sunarya-thito/shadcn_flutter)|Shadcn/UI ported to Flutter|46|2024-09-14|2024-02-12|
-|160|[Rahiche/leather_background](https://github.com/Rahiche/leather_background)|Leather background shader demo in Flutter|46|2024-08-05|2024-01-27|
-|161|[Navideck/universal_ble](https://github.com/Navideck/universal_ble)|A cross-platform Android/iOS/macOS/Windows/Linux/Web Bluetooth Low Energy (BLE) plugin for Flutter|46|2024-09-03|2024-01-24|
-|162|[leanflutter/flutter_apps](https://github.com/leanflutter/flutter_apps)|A collection of apps built on Flutter.|46|2024-03-25|2024-01-22|
-|163|[mhdmoh/redacted](https://github.com/mhdmoh/redacted)|-|46|2024-07-20|2023-09-27|
-|164|[bahrie127/flutter_antrian_app](https://github.com/bahrie127/flutter_antrian_app)|-|45|2024-07-21|2024-07-21|
-|165|[maxonflutter/eCommerce-App-with-Flutter-Firebase-and-Stripe](https://github.com/maxonflutter/eCommerce-App-with-Flutter-Firebase-and-Stripe)|A simple eCommerce app to showcase how to connect a Flutter app with Firebase and Stripe to process payments. |45|2024-06-27|2024-01-16|
-|166|[definev/widget_canvas](https://github.com/definev/widget_canvas)|An infinity widget canvas built on top of 2D scrolling API|45|2024-06-29|2023-12-13|
+|159|[Rahiche/leather_background](https://github.com/Rahiche/leather_background)|Leather background shader demo in Flutter|46|2024-08-05|2024-01-27|
+|160|[Navideck/universal_ble](https://github.com/Navideck/universal_ble)|A cross-platform Android/iOS/macOS/Windows/Linux/Web Bluetooth Low Energy (BLE) plugin for Flutter|46|2024-09-15|2024-01-24|
+|161|[leanflutter/flutter_apps](https://github.com/leanflutter/flutter_apps)|A collection of apps built on Flutter.|46|2024-03-25|2024-01-22|
+|162|[mhdmoh/redacted](https://github.com/mhdmoh/redacted)|-|46|2024-07-20|2023-09-27|
+|163|[bahrie127/flutter_antrian_app](https://github.com/bahrie127/flutter_antrian_app)|-|45|2024-07-21|2024-07-21|
+|164|[maxonflutter/eCommerce-App-with-Flutter-Firebase-and-Stripe](https://github.com/maxonflutter/eCommerce-App-with-Flutter-Firebase-and-Stripe)|A simple eCommerce app to showcase how to connect a Flutter app with Firebase and Stripe to process payments. |45|2024-06-27|2024-01-16|
+|165|[definev/widget_canvas](https://github.com/definev/widget_canvas)|An infinity widget canvas built on top of 2D scrolling API|45|2024-06-29|2023-12-13|
+|166|[eventlOwOp/zerotier-magisk](https://github.com/eventlOwOp/zerotier-magisk)|ZeroTier for magisk ✅ App controller ✅|44|2024-07-19|2023-10-06|
 |167|[Ibrahim12699/food_shop](https://github.com/Ibrahim12699/food_shop)|-|43|2024-06-10|2024-06-10|
 |168|[invertase/dart_docker](https://github.com/invertase/dart_docker)|🐋 A Dart client for the Docker API via local unix socket.|43|2024-04-17|2024-03-12|
 |169|[mhadaily/flutterengineering_examples](https://github.com/mhadaily/flutterengineering_examples)|All code snippets and sample app from FlutterEngineering book - Check FlutterEngineering.io|43|2024-06-05|2024-01-16|
-|170|[eventlOwOp/zerotier-magisk](https://github.com/eventlOwOp/zerotier-magisk)|ZeroTier for magisk ✅ App controller ✅|43|2024-07-19|2023-10-06|
-|171|[josiahsrc/flutter_zustand](https://github.com/josiahsrc/flutter_zustand)|🐻 Bear necessities for state management in Flutter|42|2024-08-13|2024-03-20|
-|172|[developerjamiu/smart-text-flutter](https://github.com/developerjamiu/smart-text-flutter)|A Flutter plugin used to detect links in texts using NSDataDetector on iOS and TextClassifier on Android|42|2024-08-05|2024-03-10|
+|170|[josiahsrc/flutter_zustand](https://github.com/josiahsrc/flutter_zustand)|🐻 Bear necessities for state management in Flutter|42|2024-08-13|2024-03-20|
+|171|[developerjamiu/smart-text-flutter](https://github.com/developerjamiu/smart-text-flutter)|A Flutter plugin used to detect links in texts using NSDataDetector on iOS and TextClassifier on Android|42|2024-08-05|2024-03-10|
+|172|[Mobile-Artificial-Intelligence/maid_llm](https://github.com/Mobile-Artificial-Intelligence/maid_llm)|maid_llm is a dart implementation of llama.cpp used by the mobile artificial intelligence distribution (maid)|42|2024-08-27|2024-02-29|
 |173|[blopker/alic](https://github.com/blopker/alic)|a little image compressor|42|2024-09-08|2024-02-07|
 |174|[Fabrice-Fabio/movie-app-tdd-clean-archi](https://github.com/Fabrice-Fabio/movie-app-tdd-clean-archi)|-|42|2024-04-20|2023-11-03|
 |175|[enesakbal/Flutter-Clean-Architecture-Example](https://github.com/enesakbal/Flutter-Clean-Architecture-Example)|Flutter Clean Architecture Example|42|2024-06-09|2023-09-22|
 |176|[SuTechs/abcd_architecture_flutter](https://github.com/SuTechs/abcd_architecture_flutter)|ABCD Architecture Flutter - Easy & Fast Way to Start Your Flutter Project|41|2024-08-23|2024-08-23|
-|177|[Mobile-Artificial-Intelligence/maid_llm](https://github.com/Mobile-Artificial-Intelligence/maid_llm)|maid_llm is a dart implementation of llama.cpp used by the mobile artificial intelligence distribution (maid)|41|2024-08-27|2024-02-29|
-|178|[tayormi/app_landing_page](https://github.com/tayormi/app_landing_page)|An app landing page built with Jaspr|40|2024-09-06|2024-09-06|
-|179|[paidwork/solana-sdk-flutter](https://github.com/paidwork/solana-sdk-flutter)|-|40|2024-07-11|2024-07-10|
-|180|[Tealseed-Lab/EasySplit](https://github.com/Tealseed-Lab/EasySplit)|Open-source app for easy bill splitting and sharing, with image detection capabilities.|40|2024-08-23|2024-07-02|
-|181|[paulocode/multimesh](https://github.com/paulocode/multimesh)|A cross-platform Meshtastic® client based on Flutter|39|2024-05-09|2024-03-06|
-|182|[axiftaj/Flutter-Bloc-Clean-Coding](https://github.com/axiftaj/Flutter-Bloc-Clean-Coding)|-|39|2024-06-03|2024-02-28|
-|183|[WinKoKo91/weather_clean_architecture_tdd](https://github.com/WinKoKo91/weather_clean_architecture_tdd)|-|39|2024-05-20|2023-10-11|
-|184|[alireza4585/flutter_instagram_clone](https://github.com/alireza4585/flutter_instagram_clone)|build instagram clone with Flutter and firebase|39|2024-05-03|2023-09-16|
-|185|[hammadx02/Doctor-App-Flutter](https://github.com/hammadx02/Doctor-App-Flutter)|Doctor application home screen in Flutter.|38|2024-08-09|2023-09-26|
-|186|[generic-package-manager/gpm](https://github.com/generic-package-manager/gpm)|Directly install applications from their GitHub repository with out-of-the-box support for updates using gpm, the package manager with the superpowers of a cross platform build tool.|37|2024-08-19|2024-05-11|
-|187|[intales/gazelle](https://github.com/intales/gazelle)|Flutter full-stack in seconds.|37|2024-09-13|2024-01-15|
-|188|[jwr1/interstellar](https://github.com/jwr1/interstellar)|An app for Mbin and Lemmy, connecting you to the fediverse.|37|2024-08-19|2023-12-11|
-|189|[moha-b/Clima](https://github.com/moha-b/Clima)|The simplest weather app. It uses Open-Meteo 🌤️ API, integrates Google Maps for location, and employs BLoC for a smooth Flutter experience. Simple, direct, and efficient. 🌦️🗺️|37|2024-04-23|2023-11-10|
-|190|[SpaceTesla/Mivro](https://github.com/SpaceTesla/Mivro)|Cross-Platform App and Web Extension for Personalized Product Profiling |36|2024-09-01|2024-05-02|
-|191|[frostnova721/animestream](https://github.com/frostnova721/animestream)|An app to stream and download anime|36|2024-09-13|2024-02-15|
-|192|[ZhiaDev/mac-proxy-manager](https://github.com/ZhiaDev/mac-proxy-manager)|A macOS Menu Bar app built with Flutter for proxy management.|36|2024-07-12|2023-10-05|
-|193|[babakcode/o3d](https://github.com/babakcode/o3d)|The Flutter 3D objects easy controller ( glb format )|36|2024-06-23|2023-10-03|
-|194|[iampawan/DataFlow](https://github.com/iampawan/DataFlow)| A Reactive State Management Library for Flutter|35|2024-08-30|2024-07-08|
-|195|[ashtanko/nullx](https://github.com/ashtanko/nullx)|nullx is a Dart toolkit that enhances handling of nullable types|35|2024-09-09|2024-05-29|
-|196|[RodrigoBertotti/flutter_group_chat_app_with_firebase](https://github.com/RodrigoBertotti/flutter_group_chat_app_with_firebase)|A complete Flutter Group Chat App with Firebase that supports video calls.  It handles typing, received and read indicators, Group Management, closed app and opened app notifications, security, accoun ...|35|2024-06-16|2023-11-24|
-|197|[HarshAndroid/Ai-Assistant-In-Flutter-Using-ChatGpt](https://github.com/HarshAndroid/Ai-Assistant-In-Flutter-Using-ChatGpt)|AI Chatbot, Image Generator & Language Translator App   OpenAI ChatGPT   AI Assistant   Dart 3 & Flutter 3.13 🚀 with Free OpenAI Trial|35|2024-09-14|2023-10-29|
-|198|[andoriyaprashant/OpSo](https://github.com/andoriyaprashant/OpSo)|OpSo is a Flutter app that provides comprehensive information about various open-source programs|34|2024-09-12|2024-04-30|
-|199|[wabosh/KennyTV](https://github.com/wabosh/KennyTV)|Android TV streaming application for South Park|34|2024-04-22|2024-04-14|
-|200|[maxonflutter/Doctor-Booking-App-With-Flutter](https://github.com/maxonflutter/Doctor-Booking-App-With-Flutter)|A simple doctor booking app with Flutter & BLoC.|34|2024-06-27|2024-03-03|
+|177|[tayormi/app_landing_page](https://github.com/tayormi/app_landing_page)|An app landing page built with Jaspr|40|2024-09-06|2024-09-06|
+|178|[paidwork/solana-sdk-flutter](https://github.com/paidwork/solana-sdk-flutter)|-|40|2024-07-11|2024-07-10|
+|179|[Tealseed-Lab/EasySplit](https://github.com/Tealseed-Lab/EasySplit)|Open-source app for easy bill splitting and sharing, with image detection capabilities.|40|2024-08-23|2024-07-02|
+|180|[paulocode/multimesh](https://github.com/paulocode/multimesh)|A cross-platform Meshtastic® client based on Flutter|39|2024-05-09|2024-03-06|
+|181|[axiftaj/Flutter-Bloc-Clean-Coding](https://github.com/axiftaj/Flutter-Bloc-Clean-Coding)|-|39|2024-06-03|2024-02-28|
+|182|[WinKoKo91/weather_clean_architecture_tdd](https://github.com/WinKoKo91/weather_clean_architecture_tdd)|-|39|2024-05-20|2023-10-11|
+|183|[generic-package-manager/gpm](https://github.com/generic-package-manager/gpm)|Directly install applications from their GitHub repository with out-of-the-box support for updates using gpm, the package manager with the superpowers of a cross platform build tool.|37|2024-08-19|2024-05-11|
+|184|[intales/gazelle](https://github.com/intales/gazelle)|Flutter full-stack in seconds.|37|2024-09-13|2024-01-15|
+|185|[jwr1/interstellar](https://github.com/jwr1/interstellar)|An app for Mbin and Lemmy, connecting you to the fediverse.|37|2024-08-19|2023-12-11|
+|186|[moha-b/Clima](https://github.com/moha-b/Clima)|The simplest weather app. It uses Open-Meteo 🌤️ API, integrates Google Maps for location, and employs BLoC for a smooth Flutter experience. Simple, direct, and efficient. 🌦️🗺️|37|2024-04-23|2023-11-10|
+|187|[hammadx02/Doctor-App-Flutter](https://github.com/hammadx02/Doctor-App-Flutter)|Doctor application home screen in Flutter.|37|2024-08-09|2023-09-26|
+|188|[SpaceTesla/Mivro](https://github.com/SpaceTesla/Mivro)|Cross-Platform App and Web Extension for Personalized Product Profiling |36|2024-09-01|2024-05-02|
+|189|[frostnova721/animestream](https://github.com/frostnova721/animestream)|An app to stream and download anime|36|2024-09-14|2024-02-15|
+|190|[ZhiaDev/mac-proxy-manager](https://github.com/ZhiaDev/mac-proxy-manager)|A macOS Menu Bar app built with Flutter for proxy management.|36|2024-07-12|2023-10-05|
+|191|[babakcode/o3d](https://github.com/babakcode/o3d)|The Flutter 3D objects easy controller ( glb format )|36|2024-06-23|2023-10-03|
+|192|[iampawan/DataFlow](https://github.com/iampawan/DataFlow)| A Reactive State Management Library for Flutter|35|2024-08-30|2024-07-08|
+|193|[ashtanko/nullx](https://github.com/ashtanko/nullx)|nullx is a Dart toolkit that enhances handling of nullable types|35|2024-09-09|2024-05-29|
+|194|[RodrigoBertotti/flutter_group_chat_app_with_firebase](https://github.com/RodrigoBertotti/flutter_group_chat_app_with_firebase)|A complete Flutter Group Chat App with Firebase that supports video calls.  It handles typing, received and read indicators, Group Management, closed app and opened app notifications, security, accoun ...|35|2024-06-16|2023-11-24|
+|195|[HarshAndroid/Ai-Assistant-In-Flutter-Using-ChatGpt](https://github.com/HarshAndroid/Ai-Assistant-In-Flutter-Using-ChatGpt)|AI Chatbot, Image Generator & Language Translator App   OpenAI ChatGPT   AI Assistant   Dart 3 & Flutter 3.13 🚀 with Free OpenAI Trial|35|2024-09-14|2023-10-29|
+|196|[andoriyaprashant/OpSo](https://github.com/andoriyaprashant/OpSo)|OpSo is a Flutter app that provides comprehensive information about various open-source programs|34|2024-09-12|2024-04-30|
+|197|[wabosh/KennyTV](https://github.com/wabosh/KennyTV)|Android TV streaming application for South Park|34|2024-04-22|2024-04-14|
+|198|[maxonflutter/Doctor-Booking-App-With-Flutter](https://github.com/maxonflutter/Doctor-Booking-App-With-Flutter)|A simple doctor booking app with Flutter & BLoC.|34|2024-06-27|2024-03-03|
+|199|[ksenia312/nearby_service](https://github.com/ksenia312/nearby_service)|Nearby Service Flutter Plugin for creating connections in a P2P network.|34|2024-08-18|2024-01-31|
+|200|[hedihadi/zal](https://github.com/hedihadi/zal)|-|34|2024-08-03|2024-01-09|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

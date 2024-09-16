@@ -1,21 +1,21 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > HTML
-<sub>Updated: 2024-09-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-09-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt)|A collection of GPT system prompts and various prompt injection/leaking knowledge.|7972|2024-08-28|2023-11-01|
-|2|[microsoft/Security-101](https://github.com/microsoft/Security-101)|8 Lessons, Kick-start Your Cybersecurity Learning.|4093|2024-08-01|2024-01-31|
-|3|[0xeb/TheBigPromptLibrary](https://github.com/0xeb/TheBigPromptLibrary)|A collection of prompts, system prompts and LLM instructions|982|2024-09-05|2023-11-24|
+|1|[LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt)|A collection of GPT system prompts and various prompt injection/leaking knowledge.|7973|2024-08-28|2023-11-01|
+|2|[microsoft/Security-101](https://github.com/microsoft/Security-101)|8 Lessons, Kick-start Your Cybersecurity Learning.|4094|2024-08-01|2024-01-31|
+|3|[0xeb/TheBigPromptLibrary](https://github.com/0xeb/TheBigPromptLibrary)|A collection of prompts, system prompts and LLM instructions|988|2024-09-05|2023-11-24|
 |4|[HFUT-CHEATER/HFUTCheaterCollection](https://github.com/HFUT-CHEATER/HFUTCheaterCollection)|Hefei University of Technology 投稿、举报、监督、咨询Email:hfutcheater@proton.me https://hfutcheater.gitbook.io/hfutcheater   https://hfut-cheater.github.io 合肥工业大学 安徽 作弊 造假 贪污 论文抄袭 贿赂 包庇 权力寻租 挪用基金 组织舞弊 越南留学生反华 南 ...|852|2024-07-11|2024-02-22|
-|5|[spring-office-hours/resources-learning-spring](https://github.com/spring-office-hours/resources-learning-spring)|Resources for Learning Spring|744|2024-04-28|2024-03-05|
-|6|[iam-veeramalla/ansible-zero-to-hero](https://github.com/iam-veeramalla/ansible-zero-to-hero)|Repository to learn Ansible from Zero. This repository covers the complete Ansible fundamentals along with examples required for a DevOps Engineer.|491|2024-08-16|2024-05-15|
+|5|[spring-office-hours/resources-learning-spring](https://github.com/spring-office-hours/resources-learning-spring)|Resources for Learning Spring|746|2024-04-28|2024-03-05|
+|6|[iam-veeramalla/ansible-zero-to-hero](https://github.com/iam-veeramalla/ansible-zero-to-hero)|Repository to learn Ansible from Zero. This repository covers the complete Ansible fundamentals along with examples required for a DevOps Engineer.|492|2024-08-16|2024-05-15|
 |7|[bojone/papers.cool](https://github.com/bojone/papers.cool)|Cool Papers - Immersive Paper Discovery|352|2024-09-11|2024-01-02|
-|8|[YingqingHe/Awesome-LLMs-meet-Multimodal-Generation](https://github.com/YingqingHe/Awesome-LLMs-meet-Multimodal-Generation)|🔥🔥🔥 A curated list of papers on LLMs-based multimodal generation (image, video, 3D and audio).|292|2024-08-29|2023-11-17|
-|9|[serpapi/awesome-seo-tools](https://github.com/serpapi/awesome-seo-tools)|Curated list of awesome SEO tools|290|2024-08-20|2023-10-17|
-|10|[01-ai/Yi-Coder](https://github.com/01-ai/Yi-Coder)|🌟 Yi-Coder is a series of open-source code language models that delivers state-of-the-art coding performance with fewer than 10 billion parameters.|289|2024-09-06|2024-08-21|
-|11|[bradtraversy/react-crash-2024](https://github.com/bradtraversy/react-crash-2024)|React jobs project from YouTube crash course|284|2024-05-24|2024-03-14|
+|8|[01-ai/Yi-Coder](https://github.com/01-ai/Yi-Coder)|🌟 Yi-Coder is a series of open-source code language models that delivers state-of-the-art coding performance with fewer than 10 billion parameters.|294|2024-09-06|2024-08-21|
+|9|[YingqingHe/Awesome-LLMs-meet-Multimodal-Generation](https://github.com/YingqingHe/Awesome-LLMs-meet-Multimodal-Generation)|🔥🔥🔥 A curated list of papers on LLMs-based multimodal generation (image, video, 3D and audio).|293|2024-08-29|2023-11-17|
+|10|[serpapi/awesome-seo-tools](https://github.com/serpapi/awesome-seo-tools)|Curated list of awesome SEO tools|290|2024-08-20|2023-10-17|
+|11|[bradtraversy/react-crash-2024](https://github.com/bradtraversy/react-crash-2024)|React jobs project from YouTube crash course|285|2024-05-24|2024-03-14|
 |12|[VDIGPKU/GALA3D](https://github.com/VDIGPKU/GALA3D)|[ICML 2024] GALA3D: Towards Text-to-3D Complex Scene Generation via Layout-guided Generative Gaussian Splatting|256|2024-07-25|2024-02-11|
 |13|[anuragverma108/SwapReads](https://github.com/anuragverma108/SwapReads)| This repo is officially accepted for GSSOC'2k24. SwapReads.com is the ultimate online destination for book enthusiasts to connect, exchange favorite reads, and embark on literary adventures. Create y ...|238|2024-08-16|2024-03-09|
 |14|[Sanziee/Javascript-Projects](https://github.com/Sanziee/Javascript-Projects)|Just a repo for projects on javascript to learn basics|231|2024-05-08|2024-05-07|
@@ -24,10 +24,10 @@
 |17|[QuantML-Github/QuantML](https://github.com/QuantML-Github/QuantML)|量化机器学习/深度学习模型（Model Zoo）；Alpha 因子（Factor Zoo）； 量化资源以及相关论文代码|165|2024-07-05|2023-11-06|
 |18|[codingforentrepreneurs/SaaS-Foundations](https://github.com/codingforentrepreneurs/SaaS-Foundations)|Django tutorial integrating TailwindCSS, Neon Postgres, Stripe API, User auth, deployment, & more.|163|2024-09-11|2024-05-20|
 |19|[soda25042004/capcut-pro-for-windows-free](https://github.com/soda25042004/capcut-pro-for-windows-free)|capcut capcut-pro capcut-pc capcut-pro-free capcut-crack capcut-tutorial capcut-pro-download capcut-pro-gratis capcut-pro-for-free capcut-pc-pro-crack capcut-pro-crack-pc crack-capcut-pro-pc capcut-ma ...|163|2024-08-21|2023-12-04|
-|20|[carltheperson/earlgreytv](https://github.com/carltheperson/earlgreytv)|The guide and source code for my custom smart TV|151|2024-07-03|2024-06-16|
+|20|[carltheperson/earlgreytv](https://github.com/carltheperson/earlgreytv)|The guide and source code for my custom smart TV|152|2024-07-03|2024-06-16|
 |21|[Rakesh9100/CalcDiverse](https://github.com/Rakesh9100/CalcDiverse)|CalcDiverse is a customized collection of calculators for various aspects of mathematics. Individuals with basic web development knowledge can create distinctive calculators and submit pull requests.|150|2024-08-15|2023-12-17|
 |22|[Das-Felix/ownshare](https://github.com/Das-Felix/ownshare)|OwnShare is an open-source filesharing software that works like WeTransfer|131|2024-07-25|2024-05-25|
-|23|[hotheadhacker/awesome-selfhost-docker](https://github.com/hotheadhacker/awesome-selfhost-docker)|🚀 Curated list of open-source, self-hosted projects deployable with Docker and docker-compose. Your go-to resource for amazing self-hostable software.|128|2024-07-22|2024-07-15|
+|23|[hotheadhacker/awesome-selfhost-docker](https://github.com/hotheadhacker/awesome-selfhost-docker)|🚀 Curated list of open-source, self-hosted projects deployable with Docker and docker-compose. Your go-to resource for amazing self-hostable software.|129|2024-07-22|2024-07-15|
 |24|[frontend-joe/es6-components](https://github.com/frontend-joe/es6-components)|Collection of components built with HTML, CSS and JavaScript (ES6)|125|2024-08-30|2024-03-15|
 |25|[ashemery/malware-tools](https://github.com/ashemery/malware-tools)|A list of useful tools for Malware Analysis (will be updated regularly)|122|2024-09-02|2024-03-28|
 |26|[r-follador/CubeTrek](https://github.com/r-follador/CubeTrek)|Home for all your GPS Tracks: Visualize, share and manage your GPS tracks.|122|2024-05-31|2023-12-07|
@@ -38,7 +38,7 @@
 |31|[deep-diver/hf-daily-paper-newsletter](https://github.com/deep-diver/hf-daily-paper-newsletter)|Newsletter bot for 🤗 Daily Papers |101|2024-09-13|2024-01-13|
 |32|[JosephBARBIERDARNAL/pypalettes](https://github.com/JosephBARBIERDARNAL/pypalettes)|A large collection of color maps for Python|92|2024-06-24|2024-05-30|
 |33|[expitau/InfiniteCraftWiki](https://github.com/expitau/InfiniteCraftWiki)|A crafting guide for neal.fun's infinite craft|86|2024-08-12|2024-02-17|
-|34|[bradtraversy/vue-crash-2024](https://github.com/bradtraversy/vue-crash-2024)|Vue.js crash course files. Vue Jobs project.|77|2024-08-02|2024-06-30|
+|34|[bradtraversy/vue-crash-2024](https://github.com/bradtraversy/vue-crash-2024)|Vue.js crash course files. Vue Jobs project.|78|2024-08-02|2024-06-30|
 |35|[banship19983t/Fix-Lags-and-Boost-Fps-in-The-First-Descendant](https://github.com/banship19983t/Fix-Lags-and-Boost-Fps-in-The-First-Descendant)|Tutorial: How to Fix Lags and How to boost fps in The First Descendant. |74|2024-07-11|2024-07-11|
 |36|[glowform/reproducible-research](https://github.com/glowform/reproducible-research)|Course material for Reproducible Research UW|71|2024-09-05|2024-02-13|
 |37|[phys-sim-book/phys-sim-book.github.io](https://github.com/phys-sim-book/phys-sim-book.github.io)|A free online book on the theory and algorithms of physics-based simulations. To make a contribution, please submit pull requests on the mdbook-src repository (not this one), or directly contact the a ...|70|2024-08-12|2024-05-30|
@@ -50,8 +50,8 @@
 |43|[LiciaHe/painting_with_plotters](https://github.com/LiciaHe/painting_with_plotters)|Painting With Plotters is a virtual course that introduces Licia He's a method for making generatively-designed, plotter-rendered paintings using a variety of water-based paint.|56|2024-05-23|2024-05-22|
 |44|[JB-Statistical-Consulting/biostatistics](https://github.com/JB-Statistical-Consulting/biostatistics)|Biostatistics resources : reading list, RMarkdown notebooks, and more!|54|2024-09-13|2023-09-30|
 |45|[GoodAI/goodai-ltm-benchmark](https://github.com/GoodAI/goodai-ltm-benchmark)|A library for benchmarking the Long Term Memory and Continual learning capabilities of  LLM based agents. With all the tests and code you need to evaluate your own agents. See more in the blogpost:|53|2024-09-09|2024-01-26|
-|46|[meonkeys/shb](https://github.com/meonkeys/shb)|Source code for an awesome book about self-hosting.|51|2024-09-05|2023-11-10|
-|47|[Eris2025/awesome-flux](https://github.com/Eris2025/awesome-flux)|A curated list of awesome resources for FLUX, the state-of-the-art text-to-image model by Black Forest Labs.|50|2024-08-21|2024-08-17|
+|46|[Eris2025/awesome-flux](https://github.com/Eris2025/awesome-flux)|A curated list of awesome resources for FLUX, the state-of-the-art text-to-image model by Black Forest Labs.|51|2024-08-21|2024-08-17|
+|47|[meonkeys/shb](https://github.com/meonkeys/shb)|Source code for an awesome book about self-hosting.|51|2024-09-05|2023-11-10|
 |48|[video-game-randomizers/rando-list](https://github.com/video-game-randomizers/rando-list)|Collaborative list of video game randomizers|50|2024-09-09|2024-05-13|
 |49|[UK-Biobank/UKB-RAP-Notebooks-Access](https://github.com/UK-Biobank/UKB-RAP-Notebooks-Access)|UKB RAP Notebooks contains a collection of examples of how to use UK Biobank Research Analyses Platform (RAP).|49|2024-09-13|2023-10-13|
 |50|[alopatenko/LLMEvaluation](https://github.com/alopatenko/LLMEvaluation)|A comprehensive guide to LLM evaluation methods designed to assist in identifying the most suitable evaluation techniques for various use cases, promote the adoption of best practices in LLM assessmen ...|48|2024-09-14|2024-04-02|
@@ -75,8 +75,7 @@
 |68|[linkdotnet/LINQMarbles](https://github.com/linkdotnet/LINQMarbles)|LINQ Marbles is a collection of interactive diagrams for learning and experimenting with LINQ.|25|2024-04-01|2023-11-10|
 |69|[iamovi/button-will-react](https://github.com/iamovi/button-will-react)|Collection of Untouchable, harmless, funny Button 🔳 Projects.|24|2024-04-01|2023-10-15|
 |70|[khaouitiabdelhakim/Tasky-Lecture-02-Html-Css-Js](https://github.com/khaouitiabdelhakim/Tasky-Lecture-02-Html-Css-Js)|Frontend Development: Dive into HTML, CSS, and JavaScript, the building blocks of web development. Learn how to create captivating user interfaces and interactive experiences.|23|2024-03-25|2024-03-13|
-|71|[kartiks123/100-Days-of-Code](https://github.com/kartiks123/100-Days-of-Code)|Hey there, this is my journey for 100 Days of Code. Hope I succeed : )|18|2024-03-16|2024-01-23|
-|72|[yeahbread/Ego-Menu-Bookmarklets](https://github.com/yeahbread/Ego-Menu-Bookmarklets)|👁 Ego Menu is a bookmarklet UI with a collection of bookmarklets that enhance user expeirence and improve productivity, especially during school hours.  Ego menu is a proof-of-concept project and is m ...|15|2024-04-05|2023-10-21|
+|71|[yeahbread/Ego-Menu-Bookmarklets](https://github.com/yeahbread/Ego-Menu-Bookmarklets)|👁 Ego Menu is a bookmarklet UI with a collection of bookmarklets that enhance user expeirence and improve productivity, especially during school hours.  Ego menu is a proof-of-concept project and is m ...|15|2024-04-05|2023-10-21|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

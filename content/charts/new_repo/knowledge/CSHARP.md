@@ -1,19 +1,19 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > C#
-<sub>Updated: 2024-09-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-09-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[milanm/DesignPatternsInUse](https://github.com/milanm/DesignPatternsInUse)|Most common Design Patterns you need to know, with examples in C#.|734|2024-08-19|2024-02-12|
 |2|[Unity-Technologies/megacity-metro](https://github.com/Unity-Technologies/megacity-metro)|Megacity-Metro: a thrilling shooter game, using Netcode for Entities for a multiplayer experience supporting 128+ players. Latest DOTS packages and Unity Gaming Services elevate the user experience, d ...|554|2024-09-13|2024-01-05|
 |3|[unity3d-jp/Project_TCC](https://github.com/unity3d-jp/Project_TCC)|TCC stands for Tiny Character Controller. TCC is the best way to make your own game. This repository contains all packages and examples for TCC projects.|513|2024-04-30|2024-02-08|
-|4|[vitoplantamura/HackerNewsRemovals](https://github.com/vitoplantamura/HackerNewsRemovals)|List of stories removed from the Hacker News Front Page, updated in real time.|311|2024-09-14|2024-01-29|
-|5|[maforget/ComicRackCE](https://github.com/maforget/ComicRackCE)|A Community Edition for the legendary Comic Book Manager ComicRack. ComicRack is back from the dead.|283|2024-09-11|2024-01-17|
-|6|[oculus-samples/Unity-Phanto](https://github.com/oculus-samples/Unity-Phanto)|Phanto is a showcase of the Meta Quest Mixed Reality APIs. This project demonstrate how to use Meshes. The Oculus SDK and other supporting material is subject to the Oculus proprietary license.|205|2024-08-15|2023-09-21|
-|7|[toxictoskey/ERC20-SPL-BEP20-Token-Trading-AirDrop-Sniping-Bot](https://github.com/toxictoskey/ERC20-SPL-BEP20-Token-Trading-AirDrop-Sniping-Bot)|Our bot executes trades instantly using sophisticated algorithms and strategies so that you can take advantage of profitable opportunities in the DeFi market. Bot can trading and sniping in BSC, ETH,  ...|193|2024-09-07|2023-11-30|
+|4|[toxictoskey/DeFi-Trading-Sniping-Bot](https://github.com/toxictoskey/DeFi-Trading-Sniping-Bot)|Our bot executes trades instantly using sophisticated algorithms and strategies so that you can take advantage of profitable opportunities in the DeFi market. Bot can trading and sniping in BSC, ETH,  ...|450|2024-09-07|2023-11-30|
+|5|[vitoplantamura/HackerNewsRemovals](https://github.com/vitoplantamura/HackerNewsRemovals)|List of stories removed from the Hacker News Front Page, updated in real time.|311|2024-09-15|2024-01-29|
+|6|[maforget/ComicRackCE](https://github.com/maforget/ComicRackCE)|A Community Edition for the legendary Comic Book Manager ComicRack. ComicRack is back from the dead.|284|2024-09-11|2024-01-17|
+|7|[oculus-samples/Unity-Phanto](https://github.com/oculus-samples/Unity-Phanto)|Phanto is a showcase of the Meta Quest Mixed Reality APIs. This project demonstrate how to use Meshes. The Oculus SDK and other supporting material is subject to the Oculus proprietary license.|205|2024-08-15|2023-09-21|
 |8|[MakesYT/NodifyM.Avalonia](https://github.com/MakesYT/NodifyM.Avalonia)|A collection of controls for node based editors designed for MVVM.|97|2024-07-12|2024-01-23|
-|9|[dotnet-presentations/letslearn-dotnet-aspire](https://github.com/dotnet-presentations/letslearn-dotnet-aspire)|Let's Learn .NET Aspire workshop material!|76|2024-09-09|2024-06-05|
+|9|[dotnet-presentations/letslearn-dotnet-aspire](https://github.com/dotnet-presentations/letslearn-dotnet-aspire)|Let's Learn .NET Aspire workshop material!|77|2024-09-09|2024-06-05|
 |10|[LaresLLC/SuperSharpShares](https://github.com/LaresLLC/SuperSharpShares)|SuperSharpShares is a tool designed to automate enumerating domain shares, allowing for quick verification of accessible shares by your associated domain account.|60|2024-05-03|2024-01-12|
 |11|[thisisnabi/101-Patterns](https://github.com/thisisnabi/101-Patterns)|Design Patterns in Action|59|2024-06-18|2024-02-24|
 |12|[elbruno/semantickernel-localLLMs](https://github.com/elbruno/semantickernel-localLLMs)|Sample on how to run a LLM using LM Studio and interact with the model using Semantic Kernel.|58|2024-04-17|2024-02-07|

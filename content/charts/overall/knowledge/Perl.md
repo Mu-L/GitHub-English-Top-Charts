@@ -1,24 +1,24 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Perl
-<sub>Updated: 2024-09-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-09-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[curl/everything-curl](https://github.com/curl/everything-curl)|The book documenting the curl project, the curl tool, libcurl and more. Simply put: everything curl.|2008|2024-08-23|
-|2|[munin-monitoring/munin](https://github.com/munin-monitoring/munin)|Main repository for munin master / node / plugins|1969|2024-09-05|
+|1|[curl/everything-curl](https://github.com/curl/everything-curl)|The book documenting the curl project, the curl tool, libcurl and more. Simply put: everything curl.|2021|2024-08-23|
+|2|[munin-monitoring/munin](https://github.com/munin-monitoring/munin)|Main repository for munin master / node / plugins|1969|2024-09-15|
 |3|[addy-dclxvi/i3-starterpack](https://github.com/addy-dclxvi/i3-starterpack)|A simple guide (and example of configuration) to install i3 & its and essentials packages, then make them look eye candy.|1442|2024-08-04|
 |4|[percona/percona-toolkit](https://github.com/percona/percona-toolkit)|Percona Toolkit: a collection of advanced open source command-line tools.|1124|2024-09-09|
-|5|[hachiojipm/awesome-perl](https://github.com/hachiojipm/awesome-perl)|A curated list of awesome Perl frameworks and libraries. Come on Pull Requests!|669|2024-08-07|
+|5|[hachiojipm/awesome-perl](https://github.com/hachiojipm/awesome-perl)|A curated list of awesome Perl frameworks and libraries. Come on Pull Requests!|670|2024-08-07|
 |6|[zonemaster/zonemaster](https://github.com/zonemaster/zonemaster)|The Zonemaster Project|444|2024-09-09|
 |7|[centreon/centreon-plugins](https://github.com/centreon/centreon-plugins)|Collection of standard plugins to discover and gather cloud-to-edge metrics and status across your whole IT infrastructure. |310|2024-09-13|
 |8|[openwebwork/webwork2](https://github.com/openwebwork/webwork2)|Course management front end for WeBWorK|143|2024-09-08|
 |9|[davetang/learning_vcf_file](https://github.com/davetang/learning_vcf_file)|Learning the Variant Call Format|137|2024-03-25|
-|10|[trizen/perl-scripts](https://github.com/trizen/perl-scripts)|A nice collection of day-to-day Perl scripts.|130|2024-09-04|
+|10|[trizen/perl-scripts](https://github.com/trizen/perl-scripts)|A nice collection of day-to-day Perl scripts.|130|2024-09-15|
 |11|[davetang/learning_bam_file](https://github.com/davetang/learning_bam_file)|Learning the Sequence Alignment/Map format|111|2024-03-25|
-|12|[mhop/fhem-mirror](https://github.com/mhop/fhem-mirror)|Branch 'master' is an unofficial read-only-mirror of  https://svn.fhem.de/fhem/trunk which is updated once a day. (branch sf_old a mirror of the old repo: svn://svn.code.sf.net/p/fhem/code/trunk)|106|2024-09-14|
+|12|[mhop/fhem-mirror](https://github.com/mhop/fhem-mirror)|Branch 'master' is an unofficial read-only-mirror of  https://svn.fhem.de/fhem/trunk which is updated once a day. (branch sf_old a mirror of the old repo: svn://svn.code.sf.net/p/fhem/code/trunk)|106|2024-09-15|
 |13|[CiscoCXSecurity/udp-proto-scanner](https://github.com/CiscoCXSecurity/udp-proto-scanner)|udp-proto-scanner is a Perl script which discovers UDP services by sending triggers to a list of hosts|96|2024-06-06|
-|14|[dse/monospace-font-list](https://github.com/dse/monospace-font-list)|Work to build a list of monospace/typewriter/coding/fixed-width fonts, with completeness as the goal.|77|2024-09-09|
+|14|[dse/monospace-font-list](https://github.com/dse/monospace-font-list)|Work to build a list of monospace/typewriter/coding/fixed-width fonts, with completeness as the goal.|77|2024-09-15|
 |15|[mschlenstedt/Loxberry](https://github.com/mschlenstedt/Loxberry)|Current stable Branch is: *** Please see Releases *** Current developer Branch is: *** master ***|75|2024-06-27|
 |16|[treeman/why_cryptocurrencies](https://github.com/treeman/why_cryptocurrencies)|Source for the book "Why Cryptocurrencies?"|53|2024-05-10|
 |17|[aprsorg/aprs-deviceid](https://github.com/aprsorg/aprs-deviceid)|APRS device identification data: tocalls.txt + mic-e-types.txt current master allocations (YAML, JSON, XML)|53|2024-07-02|
@@ -38,7 +38,7 @@
 |31|[aspiers/book-indices](https://github.com/aspiers/book-indices)|Indices for music books|29|2024-07-14|
 |32|[snowballstem/snowball-data](https://github.com/snowballstem/snowball-data)|Test data for snowball stemming algorithms|29|2024-09-05|
 |33|[pmarinov/bash-scripting-guide](https://github.com/pmarinov/bash-scripting-guide)|Advanced Bash-Scripting Guide (New edition based on Pollen)|24|2024-08-19|
-|34|[Catch-up-TV-and-More/xmltv](https://github.com/Catch-up-TV-and-More/xmltv)|TV guides - XMLTV|24|2024-09-13|
+|34|[Catch-up-TV-and-More/xmltv](https://github.com/Catch-up-TV-and-More/xmltv)|TV guides - XMLTV|24|2024-09-14|
 |35|[folio-org/folio-install](https://github.com/folio-org/folio-install)|Runbooks for FOLIO installation|22|2024-08-02|
 |36|[graphviz-perl/Graph](https://github.com/graphviz-perl/Graph)|Perl class for direct graph data structures and algorithms|21|2024-09-02|
 |37|[ShephedProject/shepherd](https://github.com/ShephedProject/shepherd)|Shepherd delivers reliable, high-quality Australian TV guide data (EPG).|20|2024-08-14|
@@ -63,19 +63,19 @@
 |56|[CaryMillsap/tracing-oracle](https://github.com/CaryMillsap/tracing-oracle)|Scripts associated with Cary Millsap and Jeff Holt’s “Tracing Oracle” book project.|10|2024-06-24|
 |57|[luiscarlosgph/how-to](https://github.com/luiscarlosgph/how-to)|List of how-to tutorials, mostly for Debian/Ubuntu/Linux related stuff.|10|2024-08-04|
 |58|[gryphonshafer/Quizzing-Rule-Book](https://github.com/gryphonshafer/Quizzing-Rule-Book)|Bible Quizzing Rule Book|10|2024-07-21|
-|59|[hasadna/openlaw-bot](https://github.com/hasadna/openlaw-bot)|Israel updated book of laws|10|2024-09-11|
-|60|[erickcastelli/HLA_genotyping](https://github.com/erickcastelli/HLA_genotyping)|Tutorial for genotyping, haplotyping, and allele calls for HLA genes|9|2024-07-12|
-|61|[Ensembl/ensembl-git-tools](https://github.com/Ensembl/ensembl-git-tools)|A collection of tools which Ensembl uses to work with Git|9|2024-09-09|
-|62|[dincarnato/SHAPEwarp](https://github.com/dincarnato/SHAPEwarp)|SHAPE-guided RNA structural homology search|8|2024-05-02|
-|63|[X4BNet/lists_torexit](https://github.com/X4BNet/lists_torexit)|List of Tor exit nodes built by CI|8|2024-09-14|
-|64|[tykling/ansible-roles](https://github.com/tykling/ansible-roles)|Ansible roles shared between my different Ansible installations|8|2024-09-11|
-|65|[manwar/Dancer2-Cookbook](https://github.com/manwar/Dancer2-Cookbook)|Examples from the official Dancer2 Cookbook.|8|2024-04-20|
-|66|[zonemaster/zonemaster-ldns](https://github.com/zonemaster/zonemaster-ldns)|A Perl interface module for Zonemaster to NLnet Labs' ldns library|8|2024-09-12|
-|67|[TeamDefronix/DefroxPot](https://github.com/TeamDefronix/DefroxPot)|DefroxPot is a honeypot project designed to detect, monitor, and analyze malicious activity in a controlled environment. This project aims to provide cybersecurity enthusiasts and professionals with a ...|7|2024-07-08|
-|68|[agrybauskas/rotag](https://github.com/agrybauskas/rotag)|A collection of tools that generate and analyse side-chain rotamer libraries|7|2024-09-11|
-|69|[LArSoft/larsoft](https://github.com/LArSoft/larsoft)|This code is part of the Liquid Argon Software (LArSoft) project. It contains simulation and reconstruction algorithms for LAr TPC detectors.  If you have a problem, please log a redmine issue: https: ...|7|2024-09-12|
-|70|[perfsonar/perl-shared](https://github.com/perfsonar/perl-shared)|Shared libraries used by perl packages and referenced as a submodule in many git repos|7|2024-09-11|
-|71|[druxorey/dotfiles](https://github.com/druxorey/dotfiles)|This is where I store my dotfiles. It also contains installation scripts and guides for installing Arch and bspwm. This repository is meant to help me and others set up a minimalist and efficient Arch ...|6|2024-03-16|
+|59|[thejud/text-processing-cookbook](https://github.com/thejud/text-processing-cookbook)|A cookbook of tools and techniques for processing text and data at the linux command line|10|2024-09-15|
+|60|[hasadna/openlaw-bot](https://github.com/hasadna/openlaw-bot)|Israel updated book of laws|10|2024-09-11|
+|61|[erickcastelli/HLA_genotyping](https://github.com/erickcastelli/HLA_genotyping)|Tutorial for genotyping, haplotyping, and allele calls for HLA genes|9|2024-07-12|
+|62|[Ensembl/ensembl-git-tools](https://github.com/Ensembl/ensembl-git-tools)|A collection of tools which Ensembl uses to work with Git|9|2024-09-09|
+|63|[dincarnato/SHAPEwarp](https://github.com/dincarnato/SHAPEwarp)|SHAPE-guided RNA structural homology search|8|2024-05-02|
+|64|[X4BNet/lists_torexit](https://github.com/X4BNet/lists_torexit)|List of Tor exit nodes built by CI|8|2024-09-15|
+|65|[tykling/ansible-roles](https://github.com/tykling/ansible-roles)|Ansible roles shared between my different Ansible installations|8|2024-09-11|
+|66|[manwar/Dancer2-Cookbook](https://github.com/manwar/Dancer2-Cookbook)|Examples from the official Dancer2 Cookbook.|8|2024-04-20|
+|67|[zonemaster/zonemaster-ldns](https://github.com/zonemaster/zonemaster-ldns)|A Perl interface module for Zonemaster to NLnet Labs' ldns library|8|2024-09-12|
+|68|[TeamDefronix/DefroxPot](https://github.com/TeamDefronix/DefroxPot)|DefroxPot is a honeypot project designed to detect, monitor, and analyze malicious activity in a controlled environment. This project aims to provide cybersecurity enthusiasts and professionals with a ...|7|2024-07-08|
+|69|[agrybauskas/rotag](https://github.com/agrybauskas/rotag)|A collection of tools that generate and analyse side-chain rotamer libraries|7|2024-09-15|
+|70|[LArSoft/larsoft](https://github.com/LArSoft/larsoft)|This code is part of the Liquid Argon Software (LArSoft) project. It contains simulation and reconstruction algorithms for LAr TPC detectors.  If you have a problem, please log a redmine issue: https: ...|7|2024-09-12|
+|71|[perfsonar/perl-shared](https://github.com/perfsonar/perl-shared)|Shared libraries used by perl packages and referenced as a submodule in many git repos|7|2024-09-11|
 |72|[Drallas/Virtio-fs-Hookscript](https://github.com/Drallas/Virtio-fs-Hookscript)|Hookscript to create Virtio-fs mounts to share a directory tree between a Proxmox host and VMs |6|2024-04-08|
 |73|[PerlToolsTeam/psc](https://github.com/PerlToolsTeam/psc)|List of Perl Steering Council meetings|6|2024-09-06|
 |74|[libwww-perl/HTML-Parser](https://github.com/libwww-perl/HTML-Parser)|The HTML-Parser distribution is is a collection of modules that parse and extract information from HTML documents.|6|2024-08-06|
@@ -104,32 +104,33 @@
 |97|[afonsoguerra/SciPaper_to_eInk_reader](https://github.com/afonsoguerra/SciPaper_to_eInk_reader)|Custom options for using k2pdfopt to convert papers and pdf books to kindle compatible PDFs|4|2024-06-12|
 |98|[mathwiz/sicp](https://github.com/mathwiz/sicp)|Commentary and code examples for SICP|4|2024-05-31|
 |99|[scottwb/dotfiles](https://github.com/scottwb/dotfiles)|My collection of unix dotfiles and other customization goodies.|4|2024-08-24|
-|100|[w1ldc4rd-w1z4rd/command-line-collective](https://github.com/w1ldc4rd-w1z4rd/command-line-collective)|The repository hosts tutorials from the Command Line Collective's meetups, covering shell scripting, AI, data parsing, and automation.|3|2024-05-26|
-|101|[shahariar-shibli/Write-Bangla-or-Bengali-in-Latex](https://github.com/shahariar-shibli/Write-Bangla-or-Bengali-in-Latex)|How to write Bangla/Bengali in Latex/pdflatex|3|2024-03-25|
-|102|[eunjung31/L2K-PronunciationError](https://github.com/eunjung31/L2K-PronunciationError)|Comparison of L2 Korean pronunciation error patterns from five L1 backgrounds by using automatic phonetic transcription|3|2024-06-10|
-|103|[HKS3/HKS3GeoSearch](https://github.com/HKS3/HKS3GeoSearch)|koha plugin to display a map of the geographical location of a book|3|2024-08-09|
-|104|[MoradMMokhtar/MegaLTR](https://github.com/MoradMMokhtar/MegaLTR)|In this study, we introduce MegaLTR, a robust online server that identifies intact LTR -RTs in any target genome, and its local standalone version. MegaLTR is freely available at https://bioinformatic ...|3|2024-05-23|
-|105|[sambacha/blockchain-time](https://github.com/sambacha/blockchain-time)|Papers and Resources for utilizing time on-chain and off-chain|3|2024-08-23|
-|106|[znuny/Znuny4OTRS-OutOfOfficeFilter](https://github.com/znuny/Znuny4OTRS-OutOfOfficeFilter)|PostMaster filter to prevent ticket status changes by out-of-office messages.|3|2024-08-01|
-|107|[jlab/fold-grammars](https://github.com/jlab/fold-grammars)|Collection of bgap code for RNA folding|3|2024-08-12|
-|108|[jimyoshida/self-taught-devops](https://github.com/jimyoshida/self-taught-devops)|Technologies and concepts for advanced DevOps engineers to learn|3|2024-05-26|
-|109|[kwwette/pdflibrarian](https://github.com/kwwette/pdflibrarian)|Manage a library of academic papers in PDF format with embedded BibTeX metadata|3|2024-09-14|
-|110|[jkeenan/devel-git-multibisect](https://github.com/jkeenan/devel-git-multibisect)|Gather and study test output over a range of git commits|3|2024-04-23|
-|111|[bywatersolutions/koha-plugin-records-by-biblionumbers](https://github.com/bywatersolutions/koha-plugin-records-by-biblionumbers)|Koha plugin to download records by an arbitrary list of biblionumbers|3|2024-08-06|
-|112|[tipmaster/tipmaster](https://github.com/tipmaster/tipmaster)|Codebase for the German Soccer Fantasy Game TipMaster|3|2024-07-19|
-|113|[pberry/jwz-youtube](https://github.com/pberry/jwz-youtube)|A small collection of youtube related scripts by jwz (Yes, that jwz)|3|2024-07-04|
-|114|[aitap/scripts](https://github.com/aitap/scripts)|Music and book encoding and stuff|3|2024-06-20|
-|115|[Cizr/PerlCodingToolkit](https://github.com/Cizr/PerlCodingToolkit)|This repository contains a diverse collection of Perl scripts and utilities designed to assist developers in various aspects of programming and problem-solving. |2|2024-04-06|
-|116|[cheoljoo/doxygen_perlmod_python](https://github.com/cheoljoo/doxygen_perlmod_python)|gives more python examples and usage when you set GENERATE_PERLMOD in doxygen|2|2024-06-19|
-|117|[Jake-perl/perl](https://github.com/Jake-perl/perl)|Learning/experimenting with Perl.|2|2024-05-09|
-|118|[gzqx/stupid_rss_generate](https://github.com/gzqx/stupid_rss_generate)|Generate rss subscription from abitrary serial book website.|2|2024-04-06|
-|119|[lauradekker/Assembly_annotation](https://github.com/lauradekker/Assembly_annotation)|Scripts for courses 473637 Genome & Transcriptome Assembly and SBL.30004 Organization & Annotation of Eukaryote Genomes|2|2024-05-28|
-|120|[robotology/yarp-devices-llm](https://github.com/robotology/yarp-devices-llm)|Collection of yarp devices for Large Language Models|2|2024-03-29|
-|121|[AF-1/lms-potpourri](https://github.com/AF-1/lms-potpourri)|PotPourri - a plugin for Lyrion Music Server. A collection of various small features.|2|2024-07-29|
-|122|[poti1/pod-lol](https://github.com/poti1/pod-lol)|Parse Pod into a list of lists (LOL)|2|2024-06-13|
-|123|[ananthchellappa/perl](https://github.com/ananthchellappa/perl)|WIP collection of useful utilities.|2|2024-06-03|
-|124|[JrgMyr/Jogisoft](https://github.com/JrgMyr/Jogisoft)|Shared scripting code|2|2024-07-01|
-|125|[payjp/payjp-perl](https://github.com/payjp/payjp-perl)|Tutorial: |2|2024-05-15|
+|100|[sejongsmarcle/2024_Autumn_Machine_Learning_Study](https://github.com/sejongsmarcle/2024_Autumn_Machine_Learning_Study)|2024 New Senior Track Study, Machine Learning Study|3|2024-09-15|
+|101|[w1ldc4rd-w1z4rd/command-line-collective](https://github.com/w1ldc4rd-w1z4rd/command-line-collective)|The repository hosts tutorials from the Command Line Collective's meetups, covering shell scripting, AI, data parsing, and automation.|3|2024-05-26|
+|102|[shahariar-shibli/Write-Bangla-or-Bengali-in-Latex](https://github.com/shahariar-shibli/Write-Bangla-or-Bengali-in-Latex)|How to write Bangla/Bengali in Latex/pdflatex|3|2024-03-25|
+|103|[eunjung31/L2K-PronunciationError](https://github.com/eunjung31/L2K-PronunciationError)|Comparison of L2 Korean pronunciation error patterns from five L1 backgrounds by using automatic phonetic transcription|3|2024-06-10|
+|104|[HKS3/HKS3GeoSearch](https://github.com/HKS3/HKS3GeoSearch)|koha plugin to display a map of the geographical location of a book|3|2024-08-09|
+|105|[MoradMMokhtar/MegaLTR](https://github.com/MoradMMokhtar/MegaLTR)|In this study, we introduce MegaLTR, a robust online server that identifies intact LTR -RTs in any target genome, and its local standalone version. MegaLTR is freely available at https://bioinformatic ...|3|2024-05-23|
+|106|[sambacha/blockchain-time](https://github.com/sambacha/blockchain-time)|Papers and Resources for utilizing time on-chain and off-chain|3|2024-08-23|
+|107|[znuny/Znuny4OTRS-OutOfOfficeFilter](https://github.com/znuny/Znuny4OTRS-OutOfOfficeFilter)|PostMaster filter to prevent ticket status changes by out-of-office messages.|3|2024-08-01|
+|108|[jlab/fold-grammars](https://github.com/jlab/fold-grammars)|Collection of bgap code for RNA folding|3|2024-08-12|
+|109|[jimyoshida/self-taught-devops](https://github.com/jimyoshida/self-taught-devops)|Technologies and concepts for advanced DevOps engineers to learn|3|2024-05-26|
+|110|[kwwette/pdflibrarian](https://github.com/kwwette/pdflibrarian)|Manage a library of academic papers in PDF format with embedded BibTeX metadata|3|2024-09-15|
+|111|[jkeenan/devel-git-multibisect](https://github.com/jkeenan/devel-git-multibisect)|Gather and study test output over a range of git commits|3|2024-04-23|
+|112|[bywatersolutions/koha-plugin-records-by-biblionumbers](https://github.com/bywatersolutions/koha-plugin-records-by-biblionumbers)|Koha plugin to download records by an arbitrary list of biblionumbers|3|2024-08-06|
+|113|[tipmaster/tipmaster](https://github.com/tipmaster/tipmaster)|Codebase for the German Soccer Fantasy Game TipMaster|3|2024-07-19|
+|114|[pberry/jwz-youtube](https://github.com/pberry/jwz-youtube)|A small collection of youtube related scripts by jwz (Yes, that jwz)|3|2024-07-04|
+|115|[aitap/scripts](https://github.com/aitap/scripts)|Music and book encoding and stuff|3|2024-06-20|
+|116|[Cizr/PerlCodingToolkit](https://github.com/Cizr/PerlCodingToolkit)|This repository contains a diverse collection of Perl scripts and utilities designed to assist developers in various aspects of programming and problem-solving. |2|2024-04-06|
+|117|[cheoljoo/doxygen_perlmod_python](https://github.com/cheoljoo/doxygen_perlmod_python)|gives more python examples and usage when you set GENERATE_PERLMOD in doxygen|2|2024-06-19|
+|118|[Jake-perl/perl](https://github.com/Jake-perl/perl)|Learning/experimenting with Perl.|2|2024-05-09|
+|119|[gzqx/stupid_rss_generate](https://github.com/gzqx/stupid_rss_generate)|Generate rss subscription from abitrary serial book website.|2|2024-04-06|
+|120|[lauradekker/Assembly_annotation](https://github.com/lauradekker/Assembly_annotation)|Scripts for courses 473637 Genome & Transcriptome Assembly and SBL.30004 Organization & Annotation of Eukaryote Genomes|2|2024-05-28|
+|121|[robotology/yarp-devices-llm](https://github.com/robotology/yarp-devices-llm)|Collection of yarp devices for Large Language Models|2|2024-03-29|
+|122|[AF-1/lms-potpourri](https://github.com/AF-1/lms-potpourri)|PotPourri - a plugin for Lyrion Music Server. A collection of various small features.|2|2024-07-29|
+|123|[poti1/pod-lol](https://github.com/poti1/pod-lol)|Parse Pod into a list of lists (LOL)|2|2024-06-13|
+|124|[ananthchellappa/perl](https://github.com/ananthchellappa/perl)|WIP collection of useful utilities.|2|2024-06-03|
+|125|[JrgMyr/Jogisoft](https://github.com/JrgMyr/Jogisoft)|Shared scripting code|2|2024-07-01|
+|126|[payjp/payjp-perl](https://github.com/payjp/payjp-perl)|Tutorial: |2|2024-05-15|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

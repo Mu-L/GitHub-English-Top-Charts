@@ -1,21 +1,21 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > TeX
-<sub>Updated: 2024-09-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-09-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[VincentGranville/Large-Language-Models](https://github.com/VincentGranville/Large-Language-Models)|Large language Models (LLM) |360|2024-09-03|2023-12-17|
-|2|[IAAR-Shanghai/Awesome-Attention-Heads](https://github.com/IAAR-Shanghai/Awesome-Attention-Heads)|An awesome repository & A comprehensive survey on interpretability of LLM attention heads.|207|2024-09-12|2024-07-03|
+|1|[VincentGranville/Large-Language-Models](https://github.com/VincentGranville/Large-Language-Models)|Large language Models (LLM) |361|2024-09-03|2023-12-17|
+|2|[IAAR-Shanghai/Awesome-Attention-Heads](https://github.com/IAAR-Shanghai/Awesome-Attention-Heads)|An awesome repository & A comprehensive survey on interpretability of LLM attention heads.|210|2024-09-12|2024-07-03|
 |3|[kikzontop/SynapseX-free](https://github.com/kikzontop/SynapseX-free)|-|206|2024-04-12|2024-03-23|
 |4|[ImperialCollegeLondon/FLT](https://github.com/ImperialCollegeLondon/FLT)|Ongoing Lean formalisation of the proof of Fermat's Last Theorem|129|2024-06-09|2023-11-19|
-|5|[IIC1253/IIC1253-2024-2](https://github.com/IIC1253/IIC1253-2024-2)|-|128|2024-09-14|2024-08-04|
+|5|[IIC1253/IIC1253-2024-2](https://github.com/IIC1253/IIC1253-2024-2)|-|128|2024-09-15|2024-08-04|
 |6|[aml4td/website](https://github.com/aml4td/website)|Website sources for Applied Machine Learning for Tabular Data|123|2024-08-25|2023-11-20|
-|7|[subidit/rover-resume](https://github.com/subidit/rover-resume)|ATS friendly LaTeX resume template. Create a unique looking CV from scratch. |108|2024-08-12|2023-10-26|
+|7|[subidit/rover-resume](https://github.com/subidit/rover-resume)|ATS friendly LaTeX resume template. Create a unique looking CV from scratch. |110|2024-08-12|2023-10-26|
 |8|[gavofyork/graypaper](https://github.com/gavofyork/graypaper)|The JAM Specification|100|2024-09-13|2024-04-17|
 |9|[jamesfang8499/math6-1](https://github.com/jamesfang8499/math6-1)|-|91|2024-05-30|2024-05-28|
-|10|[IAAR-Shanghai/CTGSurvey](https://github.com/IAAR-Shanghai/CTGSurvey)|Controllable Text Generation for Large Language Models: A Survey|87|2024-08-27|2024-08-21|
-|11|[openlanguagedata/flores](https://github.com/openlanguagedata/flores)|The FLORES+ Machine Translation Benchmark|87|2024-08-20|2023-10-12|
+|10|[openlanguagedata/flores](https://github.com/openlanguagedata/flores)|The FLORES+ Machine Translation Benchmark|88|2024-08-20|2023-10-12|
+|11|[IAAR-Shanghai/CTGSurvey](https://github.com/IAAR-Shanghai/CTGSurvey)|Controllable Text Generation for Large Language Models: A Survey|87|2024-08-27|2024-08-21|
 |12|[sysprog21/concurrency-primer](https://github.com/sysprog21/concurrency-primer)|Concurrency Primer|78|2024-08-01|2024-04-01|
 |13|[jonathandroth/Econ1630_Github](https://github.com/jonathandroth/Econ1630_Github)|-|75|2024-04-26|2024-04-26|
 |14|[ConsequentAI/fneval](https://github.com/ConsequentAI/fneval)|Functional Benchmarks and the Reasoning Gap|74|2024-08-06|2024-02-29|
@@ -29,9 +29,9 @@
 |22|[leduyquang753/uet-graduation-latex](https://github.com/leduyquang753/uet-graduation-latex)|A document class for VNU-UET graduation documents using LaTeX.|55|2024-05-22|2024-05-17|
 |23|[MichaelMaiii/AIGC-Brain](https://github.com/MichaelMaiii/AIGC-Brain)|Brain-Conditional Multimodal Synthesis: A Survey and Taxonomy|54|2024-07-12|2023-10-03|
 |24|[danielle-sopalski/towers](https://github.com/danielle-sopalski/towers)|Miniature, modular, indoor, hydroponic grow towers for home|46|2024-07-12|2023-11-25|
-|25|[jamesfang8499/Trigono](https://github.com/jamesfang8499/Trigono)|-|43|2024-08-12|2024-06-12|
-|26|[aeyakovenko/bunker_coin](https://github.com/aeyakovenko/bunker_coin)|bunker coin|39|2024-04-02|2024-04-01|
-|27|[catppuccin/latex](https://github.com/catppuccin/latex)|✨ Soothing pastel theme for LaTeX|39|2024-08-30|2024-02-14|
+|25|[jamesfang8499/Trigono](https://github.com/jamesfang8499/Trigono)|-|44|2024-08-12|2024-06-12|
+|26|[catppuccin/latex](https://github.com/catppuccin/latex)|✨ Soothing pastel theme for LaTeX|40|2024-08-30|2024-02-14|
+|27|[aeyakovenko/bunker_coin](https://github.com/aeyakovenko/bunker_coin)|bunker coin|39|2024-04-02|2024-04-01|
 |28|[stettberger/notebook](https://github.com/stettberger/notebook)|-|38|2024-04-26|2024-02-26|
 |29|[luckyfan-cs/Template-of-HKUST-GZ-Thesis](https://github.com/luckyfan-cs/Template-of-HKUST-GZ-Thesis)|-|38|2024-07-01|2023-12-19|
 |30|[llms-heart-mir/tutorial](https://github.com/llms-heart-mir/tutorial)|-|36|2024-06-16|2024-04-27|
@@ -67,21 +67,21 @@
 |60|[HarrisonGrodin/ATPL24](https://github.com/HarrisonGrodin/ATPL24)|Notes for Advanced Topics in Foundations of Programming Languages (Spring 2024)|17|2024-07-24|2024-01-23|
 |61|[luatexja/luatexja](https://github.com/luatexja/luatexja)|The LuaTeX-ja package|17|2024-09-10|2023-12-27|
 |62|[NVIDIA/nvbmc-docs](https://github.com/NVIDIA/nvbmc-docs)|Documentation for Nvidia OpenBMC stack|16|2024-08-29|2024-04-18|
-|63|[pelmesh619/itmo_conspects](https://github.com/pelmesh619/itmo_conspects)|Конспекты по разным предметам первого потока ИСy27 университета ИТМО|16|2024-09-13|2024-04-04|
+|63|[pelmesh619/itmo_conspects](https://github.com/pelmesh619/itmo_conspects)|Конспекты по разным предметам первого потока ИСy27 университета ИТМО|16|2024-09-14|2024-04-04|
 |64|[The-Clowder-Project/the-clowder-project](https://github.com/The-Clowder-Project/the-clowder-project)|This is the repository for the Clowder project, an online collaborative resource for category theory and mathematics in general|16|2024-05-03|2024-04-04|
 |65|[rahul3613/ProofNet-lean4](https://github.com/rahul3613/ProofNet-lean4)|ProofNet dataset ported into Lean 4|16|2024-05-07|2024-03-04|
 |66|[jzarnett/mte241](https://github.com/jzarnett/mte241)|MTE 241: Introduction to Computer Structures & Real-Time Systems|16|2024-09-07|2024-03-02|
 |67|[TheEngineer98/LaTeX-Vorlage-Unbranded](https://github.com/TheEngineer98/LaTeX-Vorlage-Unbranded)|Dies ist eine ungebrandete Version meiner LaTeX-Vorlage, die meine Studenten für Projekt- und Abschlussarbeiten ausgehändigt bekommen. Verbesserungspotenzial besteht immer, weshalb dies auch WIP ist.  ...|16|2024-08-10|2024-02-22|
-|68|[teorth/expdb](https://github.com/teorth/expdb)|Exponent pair database|15|2024-09-14|2024-08-05|
+|68|[teorth/expdb](https://github.com/teorth/expdb)|Exponent pair database|15|2024-09-15|2024-08-05|
 |69|[sinaatalay/rendercv-pipeline](https://github.com/sinaatalay/rendercv-pipeline)|A RenderCV pipeline to create and version-control CVs.|15|2024-08-04|2024-05-25|
 |70|[pigworker/MS4P](https://github.com/pigworker/MS4P)|being some thoughts about introductory mathematics for computer science|15|2024-07-22|2024-05-08|
 |71|[Eryc123Y/Math-for-Computer-Science](https://github.com/Eryc123Y/Math-for-Computer-Science)|A math resource for CS student|15|2024-09-10|2024-01-05|
 |72|[zhikh23/iu7-qa](https://github.com/zhikh23/iu7-qa)|Подготовка к РК и экзаменам МГТУ им. Баумана ИУ7 "Программная инженерия"|15|2024-04-05|2023-10-09|
 |73|[elPeiretti/aedd-practica](https://github.com/elPeiretti/aedd-practica)|Repositorio de diapositivas y ejercicios de las clases de práctica de Algoritmos y Estructuras de Datos - UTN FRSF|14|2024-09-09|2024-07-29|
 |74|[emirkaanozdemr/facemood](https://github.com/emirkaanozdemr/facemood)|New Version Available- A library for emotion prediction from camera input.|14|2024-08-31|2024-07-28|
-|75|[Xyz-yuanhf/yuan-resume](https://github.com/Xyz-yuanhf/yuan-resume)|An elegant academic resume template|13|2024-08-15|2024-08-13|
-|76|[emilyriehl/infinity-cosmos](https://github.com/emilyriehl/infinity-cosmos)|A blueprint for a formalization of infinity-cosmos theory in Lean.|13|2024-09-07|2024-08-01|
-|77|[lamalab-org/chembench-paper](https://github.com/lamalab-org/chembench-paper)|-|13|2024-09-08|2024-03-06|
+|75|[lamalab-org/chembench-paper](https://github.com/lamalab-org/chembench-paper)|-|14|2024-09-08|2024-03-06|
+|76|[Xyz-yuanhf/yuan-resume](https://github.com/Xyz-yuanhf/yuan-resume)|An elegant academic resume template|13|2024-08-15|2024-08-13|
+|77|[emilyriehl/infinity-cosmos](https://github.com/emilyriehl/infinity-cosmos)|A blueprint for a formalization of infinity-cosmos theory in Lean.|13|2024-09-07|2024-08-01|
 |78|[StuckiSimon/strahl](https://github.com/StuckiSimon/strahl)|Physically-based Path Tracer using WebGPU and OpenPBR|13|2024-09-13|2024-02-27|
 |79|[DrLAlbertoAngelesH/EstudioDelTrabajoII-2024-1](https://github.com/DrLAlbertoAngelesH/EstudioDelTrabajoII-2024-1)|-|13|2024-06-03|2024-02-23|
 |80|[MBerkayHamurcu/VSCTeX](https://github.com/MBerkayHamurcu/VSCTeX)|An easy-to-use, feature-rich Visual Studio Code Dev Container with a ready-to-use thesis style template for typesetting in LaTeX.|13|2024-09-12|2024-02-04|
@@ -137,31 +137,31 @@
 |130|[BGMP/Thesis](https://github.com/BGMP/Thesis)|My Thesis, written in TeX|9|2024-04-07|2023-10-07|
 |131|[motivationss/Linear_Algebra_Done_Right_4th_ManualSolution](https://github.com/motivationss/Linear_Algebra_Done_Right_4th_ManualSolution)|-|8|2024-09-04|2024-08-28|
 |132|[Consensys/linea-specification](https://github.com/Consensys/linea-specification)|Specification of the constraint system underlying Linea's zk-EVM.|8|2024-07-31|2024-07-31|
-|133|[jamesfang8499/algebra2](https://github.com/jamesfang8499/algebra2)|-|8|2024-07-22|2024-06-30|
-|134|[MazelTovy/image_segmentation_beamer](https://github.com/MazelTovy/image_segmentation_beamer)|Presentation based on the NYU (New York University) beamer template for an undergraduate thesis.|8|2024-06-19|2024-06-18|
-|135|[jialefu/Minimalist-Slides](https://github.com/jialefu/Minimalist-Slides)|A minimalist beamer template.|8|2024-07-19|2024-06-08|
-|136|[Destiny200424/Beamer_sysu_spa_models](https://github.com/Destiny200424/Beamer_sysu_spa_models)|-|8|2024-05-16|2024-05-13|
-|137|[Lodour/wisc-thesis-template](https://github.com/Lodour/wisc-thesis-template)|A Minimum Working Example of the Dissertation Template for UW-Madison.|8|2024-05-04|2024-05-01|
-|138|[chagaz/sdd_2024](https://github.com/chagaz/sdd_2024)|Cours de science des données en 1A à Mines Paris - PSL (2024)|8|2024-06-20|2024-04-26|
-|139|[liantze/beamerthemeMirage](https://github.com/liantze/beamerthemeMirage)|A beamer theme inspired by the "Mirage" song poster|8|2024-05-19|2024-04-14|
-|140|[ShapeOfMatter/MultiChor](https://github.com/ShapeOfMatter/MultiChor)|Type-safe and efficient choreographies for Haskell, with multiply-located values, multi-cast, and location-set polymorphism.|8|2024-09-12|2024-04-03|
-|141|[kogby/LaTeX_Workshop](https://github.com/kogby/LaTeX_Workshop)|Latex Workshop (2024 Spring): More than 140 students enrolled.|8|2024-03-28|2024-03-28|
-|142|[mxpanf/mirea-final-qualifying-work](https://github.com/mxpanf/mirea-final-qualifying-work)|📜 The MIREA final qualifying work on the topic of system for organization and issuance of verified digital diplomas on blockchain.|8|2024-06-23|2024-03-21|
-|143|[NixOS/marketing](https://github.com/NixOS/marketing)|home of the marketing team #marketing:nixos.org|8|2024-05-22|2024-02-22|
-|144|[FastLane-Labs/atlas_whitepaper](https://github.com/FastLane-Labs/atlas_whitepaper)|-|8|2024-09-03|2024-02-01|
-|145|[Urbit-Systems-Technical-Journal/USTJ-Template](https://github.com/Urbit-Systems-Technical-Journal/USTJ-Template)|Template for USTJ LaTeX submissions.|8|2024-04-30|2024-01-11|
-|146|[RSS3-Network/Whitepaper](https://github.com/RSS3-Network/Whitepaper)|The RSS3 Whitepaper defines the architecture of the RSS3 Network and the tokenomics around it.|8|2024-07-22|2023-12-31|
-|147|[TommasoFerrario18/Appunti](https://github.com/TommasoFerrario18/Appunti)|Appunti laurea magistrale UniMib|8|2024-08-13|2023-12-06|
-|148|[simon-pfahler/colorblind](https://github.com/simon-pfahler/colorblind)|Easy colorblind-safe typesetting in LaTeX|8|2024-08-14|2023-11-08|
-|149|[HKU-CG/HKU-CG.github.io](https://github.com/HKU-CG/HKU-CG.github.io)|https://hku-cg.github.io|8|2024-09-07|2023-10-19|
-|150|[bsiepe/ADEMP-PreReg](https://github.com/bsiepe/ADEMP-PreReg)|ADEMP preregistration protocol for simulation studies|8|2024-05-06|2023-10-18|
-|151|[Learning-Robotics/reinforcement-learning-for-legged-robots](https://github.com/Learning-Robotics/reinforcement-learning-for-legged-robots)|Introduction to reinforcement learning in legged robotics|8|2024-05-09|2023-10-16|
-|152|[hadipourh/zeroplus](https://github.com/hadipourh/zeroplus)|Improved Search for Integral, Impossible Differential and Zero-Correlation Attacks: Application to Ascon, ForkSKINNY, SKINNY, MANTIS, PRESENT and QARMAv2|8|2024-04-14|2023-10-16|
-|153|[COLM-org/Template](https://github.com/COLM-org/Template)|-|8|2024-08-20|2023-10-08|
-|154|[DimaTrushin/LinearAlgebraAlgorithms](https://github.com/DimaTrushin/LinearAlgebraAlgorithms)|-|8|2024-09-13|2023-10-02|
-|155|[shd/logic2024](https://github.com/shd/logic2024)|-|7|2024-09-08|2024-09-07|
-|156|[smirki/PhotoOrganizer](https://github.com/smirki/PhotoOrganizer)|Photo Organizer to Move your Photos anywhere you want|7|2024-08-16|2024-08-16|
-|157|[Exception0x0194/SEU-CV](https://github.com/Exception0x0194/SEU-CV)|Southeast University-themed LaTeX CV template.|7|2024-08-16|2024-07-25|
+|133|[Exception0x0194/SEU-CV](https://github.com/Exception0x0194/SEU-CV)|Southeast University-themed LaTeX CV template.|8|2024-08-16|2024-07-25|
+|134|[jamesfang8499/algebra2](https://github.com/jamesfang8499/algebra2)|-|8|2024-07-22|2024-06-30|
+|135|[MazelTovy/image_segmentation_beamer](https://github.com/MazelTovy/image_segmentation_beamer)|Presentation based on the NYU (New York University) beamer template for an undergraduate thesis.|8|2024-06-19|2024-06-18|
+|136|[jialefu/Minimalist-Slides](https://github.com/jialefu/Minimalist-Slides)|A minimalist beamer template.|8|2024-07-19|2024-06-08|
+|137|[Destiny200424/Beamer_sysu_spa_models](https://github.com/Destiny200424/Beamer_sysu_spa_models)|-|8|2024-05-16|2024-05-13|
+|138|[Lodour/wisc-thesis-template](https://github.com/Lodour/wisc-thesis-template)|A Minimum Working Example of the Dissertation Template for UW-Madison.|8|2024-05-04|2024-05-01|
+|139|[chagaz/sdd_2024](https://github.com/chagaz/sdd_2024)|Cours de science des données en 1A à Mines Paris - PSL (2024)|8|2024-06-20|2024-04-26|
+|140|[liantze/beamerthemeMirage](https://github.com/liantze/beamerthemeMirage)|A beamer theme inspired by the "Mirage" song poster|8|2024-05-19|2024-04-14|
+|141|[ShapeOfMatter/MultiChor](https://github.com/ShapeOfMatter/MultiChor)|Type-safe and efficient choreographies for Haskell, with multiply-located values, multi-cast, and location-set polymorphism.|8|2024-09-12|2024-04-03|
+|142|[kogby/LaTeX_Workshop](https://github.com/kogby/LaTeX_Workshop)|Latex Workshop (2024 Spring): More than 140 students enrolled.|8|2024-03-28|2024-03-28|
+|143|[mxpanf/mirea-final-qualifying-work](https://github.com/mxpanf/mirea-final-qualifying-work)|📜 The MIREA final qualifying work on the topic of system for organization and issuance of verified digital diplomas on blockchain.|8|2024-06-23|2024-03-21|
+|144|[NixOS/marketing](https://github.com/NixOS/marketing)|home of the marketing team #marketing:nixos.org|8|2024-05-22|2024-02-22|
+|145|[FastLane-Labs/atlas_whitepaper](https://github.com/FastLane-Labs/atlas_whitepaper)|-|8|2024-09-03|2024-02-01|
+|146|[Urbit-Systems-Technical-Journal/USTJ-Template](https://github.com/Urbit-Systems-Technical-Journal/USTJ-Template)|Template for USTJ LaTeX submissions.|8|2024-04-30|2024-01-11|
+|147|[RSS3-Network/Whitepaper](https://github.com/RSS3-Network/Whitepaper)|The RSS3 Whitepaper defines the architecture of the RSS3 Network and the tokenomics around it.|8|2024-07-22|2023-12-31|
+|148|[TommasoFerrario18/Appunti](https://github.com/TommasoFerrario18/Appunti)|Appunti laurea magistrale UniMib|8|2024-08-13|2023-12-06|
+|149|[simon-pfahler/colorblind](https://github.com/simon-pfahler/colorblind)|Easy colorblind-safe typesetting in LaTeX|8|2024-08-14|2023-11-08|
+|150|[HKU-CG/HKU-CG.github.io](https://github.com/HKU-CG/HKU-CG.github.io)|https://hku-cg.github.io|8|2024-09-07|2023-10-19|
+|151|[bsiepe/ADEMP-PreReg](https://github.com/bsiepe/ADEMP-PreReg)|ADEMP preregistration protocol for simulation studies|8|2024-05-06|2023-10-18|
+|152|[Learning-Robotics/reinforcement-learning-for-legged-robots](https://github.com/Learning-Robotics/reinforcement-learning-for-legged-robots)|Introduction to reinforcement learning in legged robotics|8|2024-05-09|2023-10-16|
+|153|[hadipourh/zeroplus](https://github.com/hadipourh/zeroplus)|Improved Search for Integral, Impossible Differential and Zero-Correlation Attacks: Application to Ascon, ForkSKINNY, SKINNY, MANTIS, PRESENT and QARMAv2|8|2024-04-14|2023-10-16|
+|154|[COLM-org/Template](https://github.com/COLM-org/Template)|-|8|2024-08-20|2023-10-08|
+|155|[DimaTrushin/LinearAlgebraAlgorithms](https://github.com/DimaTrushin/LinearAlgebraAlgorithms)|-|8|2024-09-13|2023-10-02|
+|156|[shd/logic2024](https://github.com/shd/logic2024)|-|7|2024-09-08|2024-09-07|
+|157|[smirki/PhotoOrganizer](https://github.com/smirki/PhotoOrganizer)|Photo Organizer to Move your Photos anywhere you want|7|2024-08-16|2024-08-16|
 |158|[canggihpw/ugm-beamer-template](https://github.com/canggihpw/ugm-beamer-template)|An unofficial Beamer template based on the original PPTX UGM Template|7|2024-07-20|2024-07-16|
 |159|[michiganrobotics/ROB-501-Mathematics-for-Robotics-Textbook-linked-to-GitHub-](https://github.com/michiganrobotics/ROB-501-Mathematics-for-Robotics-Textbook-linked-to-GitHub-)|-|7|2024-07-11|2024-07-11|
 |160|[m1ffyz/random](https://github.com/m1ffyz/random)|-|7|2024-07-26|2024-07-09|
@@ -197,7 +197,7 @@
 |190|[WelkinNi/Automatic-Data-Repair](https://github.com/WelkinNi/Automatic-Data-Repair)|-|7|2024-05-13|2023-10-01|
 |191|[LuciusChen/resume-template](https://github.com/LuciusChen/resume-template)|-|6|2024-09-03|2024-09-03|
 |192|[HugoPhi/texTemplate](https://github.com/HugoPhi/texTemplate)|-|6|2024-08-04|2024-08-04|
-|193|[Leoleojames1/Agent_Chef](https://github.com/Leoleojames1/Agent_Chef)|🍲Agent Chef🥘 is my robust tool for dataset refinement, structuring, and generation. By leveraging procedural and synthetic dataset generation techniques, Agent Chef will enable users to refine and cle ...|6|2024-09-14|2024-07-20|
+|193|[Leoleojames1/Agent_Chef](https://github.com/Leoleojames1/Agent_Chef)|🍲Agent Chef🥘 is my robust tool for dataset refinement, structuring, and generation. By leveraging procedural and synthetic dataset generation techniques, Agent Chef will enable users to refine and cle ...|6|2024-09-15|2024-07-20|
 |194|[jamesfang8499/algebra3](https://github.com/jamesfang8499/algebra3)|-|6|2024-07-15|2024-07-13|
 |195|[michaelleejl/compiler-construction-notes](https://github.com/michaelleejl/compiler-construction-notes)|-|6|2024-09-10|2024-06-16|
 |196|[worm-blossom/reed](https://github.com/worm-blossom/reed)|Specification for an efficient prefix authentication scheme.|6|2024-09-02|2024-06-10|
