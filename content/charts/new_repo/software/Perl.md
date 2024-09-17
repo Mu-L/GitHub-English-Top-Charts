@@ -1,22 +1,22 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Perl
-<sub>Updated: 2024-09-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-09-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[bagder/emails](https://github.com/bagder/emails)|emails I received|225|2024-09-12|2024-01-11|
 |2|[HexaCluster/pgdsat](https://github.com/HexaCluster/pgdsat)|PostgreSQL Database Security Assessment Tool|204|2024-06-10|2024-04-08|
-|3|[ivanreese/2222](https://github.com/ivanreese/2222)|A tiny, silly game that you can program with anything.|47|2024-09-14|2024-07-10|
+|3|[ivanreese/2222](https://github.com/ivanreese/2222)|A tiny, silly game that you can program with anything.|48|2024-09-14|2024-07-10|
 |4|[michaelherger/lms-plugin-tidal](https://github.com/michaelherger/lms-plugin-tidal)|A TIDAL plugin to integrate with the Lyrion Music Server (fka. Logitech Media Server)|43|2024-08-29|2024-02-08|
 |5|[philippe44/lms-deezer](https://github.com/philippe44/lms-deezer)|-|35|2024-07-07|2024-02-17|
 |6|[ZANSIN-sec/ZANSIN](https://github.com/ZANSIN-sec/ZANSIN)|-|29|2024-06-03|2023-12-07|
-|7|[LMS-Community/lms-community.github.io](https://github.com/LMS-Community/lms-community.github.io)|This is the web page for the Lyrion Music Server Community repository|26|2024-09-15|2024-01-08|
+|7|[LMS-Community/lms-community.github.io](https://github.com/LMS-Community/lms-community.github.io)|This is the web page for the Lyrion Music Server Community repository|26|2024-09-16|2024-01-08|
 |8|[Cyclenerd/aws-pricing](https://github.com/Cyclenerd/aws-pricing)|💸 Choose the optimal Amazon EC2 instance type in the many AWS locations|23|2024-09-13|2024-02-22|
 |9|[FZJ-JSC/LLview](https://github.com/FZJ-JSC/LLview)|HPC Monitoring Tool|21|2024-07-10|2023-11-03|
 |10|[joz-k/ios_backup_extractor](https://github.com/joz-k/ios_backup_extractor)|iOS backup media extraction tool (photos, videos)|20|2024-09-06|2023-11-06|
-|11|[ahrefs/jsonschema2atd](https://github.com/ahrefs/jsonschema2atd)|Generate ATD types from a JSON schema / OpenAPI document|19|2024-08-01|2023-12-20|
-|12|[c-skills/passport](https://github.com/c-skills/passport)|-|18|2024-09-12|2024-09-05|
+|11|[c-skills/passport](https://github.com/c-skills/passport)|-|19|2024-09-12|2024-09-05|
+|12|[ahrefs/jsonschema2atd](https://github.com/ahrefs/jsonschema2atd)|Generate ATD types from a JSON schema / OpenAPI document|19|2024-08-01|2023-12-20|
 |13|[DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast](https://github.com/DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast)|English translation patch for the Sega Dreamcast game "Death Crimson 2".|18|2024-08-09|2024-02-12|
 |14|[rhysf/Diamond2GO](https://github.com/rhysf/Diamond2GO)|-|18|2024-08-20|2023-09-30|
 |15|[DerekPascarella/Rabbit-EnglishPatchSaturn](https://github.com/DerekPascarella/Rabbit-EnglishPatchSaturn)|English translation patch for the Sega Saturn game "Rabbit".|17|2024-04-22|2024-03-13|
@@ -26,12 +26,12 @@
 |19|[instriq/security-gate](https://github.com/instriq/security-gate)|Simple and pratical security gate for Github Security Alerts|15|2024-09-11|2023-09-21|
 |20|[uav4geo/Thermal-Tools](https://github.com/uav4geo/Thermal-Tools)|Convert DJI thermal images (RJPEG) into temperature TIFFs for use with WebODM. 🌡|14|2024-07-22|2024-07-07|
 |21|[DerekPascarella/JungRhythm-EnglishPatchSaturn](https://github.com/DerekPascarella/JungRhythm-EnglishPatchSaturn)|English translation patch for the Sega Saturn game "Jung Rhythm".|14|2024-05-28|2024-04-18|
-|22|[fglock/PerlOnJava](https://github.com/fglock/PerlOnJava)|An implementation of the Perl programming language designed to run on the Java platform|13|2024-09-15|2024-08-02|
+|22|[fglock/PerlOnJava](https://github.com/fglock/PerlOnJava)|An implementation of the Perl programming language designed to run on the Java platform|13|2024-09-16|2024-08-02|
 |23|[KylerCondran/WarCappin](https://github.com/KylerCondran/WarCappin)|WiFi Hacking: Autonomously man in the middle deauthenticate WPA2 wireless networks and packet capture the three way handshake for offline cracking using Kali Linux and a WiFi antenna.|13|2024-03-21|2024-03-21|
 |24|[sspiff/lms-plugin-pyrrha](https://github.com/sspiff/lms-plugin-pyrrha)|Pyrrha - Daughter of Pandora|13|2024-05-03|2024-02-10|
 |25|[sishuowang/Solutions_Manual_CME2006_MESA2014](https://github.com/sishuowang/Solutions_Manual_CME2006_MESA2014)|A solutions manual for all excercises in the Ziheng Yang's two seminall books on statistical molecular evolution: Computational Molecular Evolution (Yang 2006) and Molecular Evolution: A Statistical A ...|12|2024-08-16|2023-10-24|
 |26|[dhaneshdutta/dotfiles](https://github.com/dhaneshdutta/dotfiles)|Minimal and pure hyprland configuration.|11|2024-09-03|2024-08-19|
-|27|[mollusc-labs/slapbird](https://github.com/mollusc-labs/slapbird)|SlapbirdAPM 🐦: An APM (Application Performance Monitor) for Perl 5 web-applications|11|2024-09-13|2024-04-02|
+|27|[mollusc-labs/slapbird](https://github.com/mollusc-labs/slapbird)|SlapbirdAPM 🐦: An APM (Application Performance Monitor) for Perl 5 web-applications|11|2024-09-16|2024-04-02|
 |28|[mrstux/hybrid_fan_control](https://github.com/mrstux/hybrid_fan_control)|dual zone CPU and HD fan control for SuperMicro X10/X11 TrueNAS systems|11|2024-05-15|2024-03-15|
 |29|[luxysiv/revanced-nonroot](https://github.com/luxysiv/revanced-nonroot)|YouTube & YouTube Music Revanced. Will patch after 5 minutes ReVanced release |11|2024-05-26|2024-01-03|
 |30|[The-OpenROAD-Project/asap7_pdk_r1p7](https://github.com/The-OpenROAD-Project/asap7_pdk_r1p7)|-|11|2024-07-18|2023-11-02|
@@ -64,47 +64,47 @@
 |57|[qoliber/DevOps](https://github.com/qoliber/DevOps)|-|5|2024-06-02|2024-05-09|
 |58|[pacstall/pacup](https://github.com/pacstall/pacup)|Help maintainers update pacscripts (next-gen Perl rewrite)|5|2024-06-07|2024-04-14|
 |59|[kidclamp/handy-koha-script](https://github.com/kidclamp/handy-koha-script)|Where I stash the little things I write to help in dev/testing|5|2024-04-24|2024-04-02|
-|60|[extism/perl-sdk](https://github.com/extism/perl-sdk)|Extism Perl Host SDK|5|2024-08-09|2024-01-19|
+|60|[extism/perl-sdk](https://github.com/extism/perl-sdk)|Extism Perl Host SDK - easily run WebAssembly modules / plugins from Perl applications|5|2024-08-09|2024-01-19|
 |61|[anhsirk0/rio-themes](https://github.com/anhsirk0/rio-themes)|Modus-themes and Ef-themes for rio terminal.|5|2024-09-08|2023-12-15|
 |62|[k2-fsa/analyze_diagnostics](https://github.com/k2-fsa/analyze_diagnostics)|Scripts for analyzing the output of icefall's "diagnostics.py" code (--print-diagnostics=True option)|5|2024-03-21|2023-11-02|
 |63|[lskatz/dists2trees](https://github.com/lskatz/dists2trees)|Generic distances to trees pipeline|4|2024-08-01|2024-06-26|
 |64|[faraui/transport-layer-tcp-protocol](https://github.com/faraui/transport-layer-tcp-protocol)|Transport layer TCP-protocol template in which the corrupted blocks are identified and resent to the transmitter. Used with QRadioLink or GNU Radio to effeciently communicate via radio transmitters.|4|2024-06-24|2024-06-11|
-|65|[elpop/melate](https://github.com/elpop/melate)|Mexican version of lottery (lotto).|4|2024-09-04|2024-04-22|
-|66|[defihook/clusterflow](https://github.com/defihook/clusterflow)|A pipelining tool to automate and standardise bioinformatics analyses on cluster environments.|4|2024-04-26|2024-04-15|
-|67|[FastNetMon/fastnetmon_ecmp_announces](https://github.com/FastNetMon/fastnetmon_ecmp_announces)| This tool offers an option to annonce multiple BGP routes with different next hop to implement ECMP load balancing|4|2024-04-01|2024-03-31|
-|68|[aKaReZa75/Programing](https://github.com/aKaReZa75/Programing)|با استفاده از لینک زیر یاد میگیرید که چطور از گیت هاب استفاده کنید و چطوری فایل های خودتون رو دانلود کنید: https://youtu.be/BsykgHpmUt8 |4|2024-05-01|2023-11-12|
-|69|[DerekPascarella/Saturn-15bpp-Graphics-Converter](https://github.com/DerekPascarella/Saturn-15bpp-Graphics-Converter)|A utility to convert between SEGA Saturn 15bpp graphic format and bitmaps.|3|2024-09-12|2024-09-12|
-|70|[anhsirk0/exqt](https://github.com/anhsirk0/exqt)|simple code runner script|3|2024-09-09|2024-09-01|
-|71|[chrisarg/task-memmanager](https://github.com/chrisarg/task-memmanager)|-|3|2024-08-25|2024-08-24|
-|72|[Gystek/namaz](https://github.com/Gystek/namaz)|Simple script to calculate namaz times at a given location|3|2024-08-29|2024-08-24|
-|73|[anhsirk0/create-ts-app](https://github.com/anhsirk0/create-ts-app)|Simple script to setup empty ts projects.|3|2024-08-24|2024-08-11|
-|74|[saiftynet/particles](https://github.com/saiftynet/particles)|Simulations for particle motion|3|2024-09-15|2024-08-09|
-|75|[Han-0107/hspice_by_python](https://github.com/Han-0107/hspice_by_python)|There is no PySpice for hspice, so there is the method which uses Python and hspice to simulate circuits|3|2024-08-12|2024-08-03|
-|76|[puppygirlhornypost/icescripts](https://github.com/puppygirlhornypost/icescripts)|scripts for iceshrimp.NET|3|2024-08-13|2024-07-28|
-|77|[Desbeers/ChordProMac](https://github.com/Desbeers/ChordProMac)|A SwiftUI wrapper for the ChordPro program|3|2024-09-15|2024-05-26|
-|78|[Rafaelmdcarneiro/qt](https://github.com/Rafaelmdcarneiro/qt)|-|3|2024-05-24|2024-05-24|
-|79|[ethandicks/cbmsymbols](https://github.com/ethandicks/cbmsymbols)| Lists of ROM entry points and zero page addresses for various CBM 8-bit machines (PET, VIC-20, C64) generated directly from assembler listing files|3|2024-07-08|2024-05-22|
-|80|[rainer042/geteltorito](https://github.com/rainer042/geteltorito)|An El Torito boot image extractor|3|2024-06-04|2024-05-21|
-|81|[madcamel/acmeproxy.pl](https://github.com/madcamel/acmeproxy.pl)|ACME DNS challenge proxy|3|2024-08-11|2024-05-21|
-|82|[BetterWayElectronics/bwe-nor-validator](https://github.com/BetterWayElectronics/bwe-nor-validator)|The original 2013 BwE PS3 NOR Validator v1.31|3|2024-05-01|2024-05-01|
-|83|[GCBL-NIAB/Fasta2Lineage](https://github.com/GCBL-NIAB/Fasta2Lineage)|To assign lineage of FASTA sequences.|3|2024-05-08|2024-04-16|
-|84|[AsadiAhmad/Micro-Processor-Calculator](https://github.com/AsadiAhmad/Micro-Processor-Calculator)|Calculator and Thermometer with ATMega32 Micro Processor|3|2024-04-10|2024-04-10|
-|85|[Eco-Flow/excon](https://github.com/Eco-Flow/excon)|A pipeline to measure gene family expansion and contraction|3|2024-09-10|2024-04-05|
-|86|[TiyisoWolfiez/CGI-script](https://github.com/TiyisoWolfiez/CGI-script)|A CGI script that displays Fibonacci sequence in triplets. it displays both next 3 value and 3 previous values.|3|2024-03-30|2024-03-28|
-|87|[wbic16/exocortex](https://github.com/wbic16/exocortex)|The Exocortex of 2130 -- version 1.0|3|2024-05-16|2024-03-28|
-|88|[odehir/ONT-Kit14_HIV1](https://github.com/odehir/ONT-Kit14_HIV1)|-|3|2024-05-08|2024-03-11|
-|89|[antogit-sys/Simple-Helper-AUR](https://github.com/antogit-sys/Simple-Helper-AUR)|Simple Helper AUR for Arch Linux and derivative|3|2024-03-22|2024-03-06|
-|90|[teaching-genomics/pavia2024](https://github.com/teaching-genomics/pavia2024)|-|3|2024-04-14|2024-03-06|
-|91|[mgit-at/nix-unify](https://github.com/mgit-at/nix-unify)|Use NixOS parts in your host operating-system, for a step-by-step migration|3|2024-08-24|2024-01-24|
-|92|[HantangZhang/MGN](https://github.com/HantangZhang/MGN)|malware detection model MGN|3|2024-06-14|2024-01-16|
-|93|[adeylab/premethyst](https://github.com/adeylab/premethyst)|Primary processing for sciMET data. (fq -> h5)|3|2024-08-13|2024-01-13|
-|94|[malleVF/Use-Case-Catalogue](https://github.com/malleVF/Use-Case-Catalogue)|MITRE ATT&CK, SIGMA and Atomic Red Testing|3|2024-07-31|2024-01-01|
-|95|[mkende/pmarkdown](https://github.com/mkende/pmarkdown)|Very configurable Markdown processor supporting the CommonMark spec and many extensions.|3|2024-05-25|2023-12-27|
-|96|[digimer/Mermaids-Rest](https://github.com/digimer/Mermaids-Rest)|All tools for the Mermaid's Rest open sailing tools|3|2024-05-05|2023-12-27|
-|97|[objectionary/benchmark](https://github.com/objectionary/benchmark)|Java compilation and optimization benchmark that integrates EO, 𝜑-calculus, JEO, OPEO, and INEO optimizers|3|2024-06-17|2023-12-20|
-|98|[AnilAntari/uwuscan](https://github.com/AnilAntari/uwuscan)|uwuscan - a set of scripts for monitoring the status of network MFPs in the terminal.|3|2024-09-12|2023-12-01|
-|99|[victormurcia/PyUMLS_Similarity](https://github.com/victormurcia/PyUMLS_Similarity)|This package computes a variety of similarity metrics between concepts present in the UMLS database. It also serves as a way to interface with the UMLS.|3|2024-07-08|2023-12-01|
-|100|[kg4zow/remarkable.jms1.info](https://github.com/kg4zow/remarkable.jms1.info)|Source code for remarkable.jms1.info site|3|2024-08-18|2023-11-12|
+|65|[madcamel/acmeproxy.pl](https://github.com/madcamel/acmeproxy.pl)|ACME DNS challenge proxy|4|2024-08-11|2024-05-21|
+|66|[elpop/melate](https://github.com/elpop/melate)|Mexican version of lottery (lotto).|4|2024-09-04|2024-04-22|
+|67|[defihook/clusterflow](https://github.com/defihook/clusterflow)|A pipelining tool to automate and standardise bioinformatics analyses on cluster environments.|4|2024-04-26|2024-04-15|
+|68|[FastNetMon/fastnetmon_ecmp_announces](https://github.com/FastNetMon/fastnetmon_ecmp_announces)| This tool offers an option to annonce multiple BGP routes with different next hop to implement ECMP load balancing|4|2024-04-01|2024-03-31|
+|69|[kg4zow/remarkable.jms1.info](https://github.com/kg4zow/remarkable.jms1.info)|Source code for remarkable.jms1.info site|4|2024-08-18|2023-11-12|
+|70|[aKaReZa75/Programing](https://github.com/aKaReZa75/Programing)|با استفاده از لینک زیر یاد میگیرید که چطور از گیت هاب استفاده کنید و چطوری فایل های خودتون رو دانلود کنید: https://youtu.be/BsykgHpmUt8 |4|2024-05-01|2023-11-12|
+|71|[DerekPascarella/Saturn-15bpp-Graphics-Converter](https://github.com/DerekPascarella/Saturn-15bpp-Graphics-Converter)|A utility to convert between SEGA Saturn 15bpp graphic format and bitmaps.|3|2024-09-12|2024-09-12|
+|72|[anhsirk0/exqt](https://github.com/anhsirk0/exqt)|simple code runner script|3|2024-09-09|2024-09-01|
+|73|[chrisarg/task-memmanager](https://github.com/chrisarg/task-memmanager)|-|3|2024-08-25|2024-08-24|
+|74|[Gystek/namaz](https://github.com/Gystek/namaz)|Simple script to calculate namaz times at a given location|3|2024-08-29|2024-08-24|
+|75|[anhsirk0/create-ts-app](https://github.com/anhsirk0/create-ts-app)|Simple script to setup empty ts projects.|3|2024-08-24|2024-08-11|
+|76|[saiftynet/particles](https://github.com/saiftynet/particles)|Simulations for particle motion|3|2024-09-15|2024-08-09|
+|77|[Han-0107/hspice_by_python](https://github.com/Han-0107/hspice_by_python)|There is no PySpice for hspice, so there is the method which uses Python and hspice to simulate circuits|3|2024-08-12|2024-08-03|
+|78|[puppygirlhornypost/icescripts](https://github.com/puppygirlhornypost/icescripts)|scripts for iceshrimp.NET|3|2024-08-13|2024-07-28|
+|79|[Desbeers/ChordProMac](https://github.com/Desbeers/ChordProMac)|A SwiftUI wrapper for the ChordPro program|3|2024-09-15|2024-05-26|
+|80|[Rafaelmdcarneiro/qt](https://github.com/Rafaelmdcarneiro/qt)|-|3|2024-05-24|2024-05-24|
+|81|[ethandicks/cbmsymbols](https://github.com/ethandicks/cbmsymbols)| Lists of ROM entry points and zero page addresses for various CBM 8-bit machines (PET, VIC-20, C64) generated directly from assembler listing files|3|2024-07-08|2024-05-22|
+|82|[rainer042/geteltorito](https://github.com/rainer042/geteltorito)|An El Torito boot image extractor|3|2024-06-04|2024-05-21|
+|83|[BetterWayElectronics/bwe-nor-validator](https://github.com/BetterWayElectronics/bwe-nor-validator)|The original 2013 BwE PS3 NOR Validator v1.31|3|2024-05-01|2024-05-01|
+|84|[GCBL-NIAB/Fasta2Lineage](https://github.com/GCBL-NIAB/Fasta2Lineage)|To assign lineage of FASTA sequences.|3|2024-05-08|2024-04-16|
+|85|[AsadiAhmad/Micro-Processor-Calculator](https://github.com/AsadiAhmad/Micro-Processor-Calculator)|Calculator and Thermometer with ATMega32 Micro Processor|3|2024-04-10|2024-04-10|
+|86|[Eco-Flow/excon](https://github.com/Eco-Flow/excon)|A pipeline to measure gene family expansion and contraction|3|2024-09-10|2024-04-05|
+|87|[TiyisoWolfiez/CGI-script](https://github.com/TiyisoWolfiez/CGI-script)|A CGI script that displays Fibonacci sequence in triplets. it displays both next 3 value and 3 previous values.|3|2024-03-30|2024-03-28|
+|88|[wbic16/exocortex](https://github.com/wbic16/exocortex)|The Exocortex of 2130 -- version 1.0|3|2024-05-16|2024-03-28|
+|89|[odehir/ONT-Kit14_HIV1](https://github.com/odehir/ONT-Kit14_HIV1)|-|3|2024-05-08|2024-03-11|
+|90|[antogit-sys/Simple-Helper-AUR](https://github.com/antogit-sys/Simple-Helper-AUR)|Simple Helper AUR for Arch Linux and derivative|3|2024-03-22|2024-03-06|
+|91|[teaching-genomics/pavia2024](https://github.com/teaching-genomics/pavia2024)|-|3|2024-04-14|2024-03-06|
+|92|[mgit-at/nix-unify](https://github.com/mgit-at/nix-unify)|Use NixOS parts in your host operating-system, for a step-by-step migration|3|2024-08-24|2024-01-24|
+|93|[HantangZhang/MGN](https://github.com/HantangZhang/MGN)|malware detection model MGN|3|2024-06-14|2024-01-16|
+|94|[adeylab/premethyst](https://github.com/adeylab/premethyst)|Primary processing for sciMET data. (fq -> h5)|3|2024-08-13|2024-01-13|
+|95|[malleVF/Use-Case-Catalogue](https://github.com/malleVF/Use-Case-Catalogue)|MITRE ATT&CK, SIGMA and Atomic Red Testing|3|2024-07-31|2024-01-01|
+|96|[mkende/pmarkdown](https://github.com/mkende/pmarkdown)|Very configurable Markdown processor supporting the CommonMark spec and many extensions.|3|2024-05-25|2023-12-27|
+|97|[digimer/Mermaids-Rest](https://github.com/digimer/Mermaids-Rest)|All tools for the Mermaid's Rest open sailing tools|3|2024-05-05|2023-12-27|
+|98|[objectionary/benchmark](https://github.com/objectionary/benchmark)|Java compilation and optimization benchmark that integrates EO, 𝜑-calculus, JEO, OPEO, and INEO optimizers|3|2024-06-17|2023-12-20|
+|99|[AnilAntari/uwuscan](https://github.com/AnilAntari/uwuscan)|uwuscan - a set of scripts for monitoring the status of network MFPs in the terminal.|3|2024-09-12|2023-12-01|
+|100|[victormurcia/PyUMLS_Similarity](https://github.com/victormurcia/PyUMLS_Similarity)|This package computes a variety of similarity metrics between concepts present in the UMLS database. It also serves as a way to interface with the UMLS.|3|2024-07-08|2023-12-01|
 |101|[mkmat/Z1plus-code](https://github.com/mkmat/Z1plus-code)|Supplementary scripts for Z1+ users|3|2024-08-24|2023-10-19|
 |102|[hoytech/md-toc](https://github.com/hoytech/md-toc)|Markdown Table Of Contents Generator|3|2024-06-22|2023-10-17|
 |103|[Xilinx-CNS/sfreport](https://github.com/Xilinx-CNS/sfreport)|AMD Solarflare Linux Diagnostics tool (sfreport)|3|2024-08-15|2023-10-17|

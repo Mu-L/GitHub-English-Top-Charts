@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Objective-C
-<sub>Updated: 2024-09-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-09-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -22,7 +22,7 @@
 |15|[nihalsharma/Clock-Bar](https://github.com/nihalsharma/Clock-Bar)|Macbook   Clock, right on the touch bar|300|0|2024-04-18|
 |16|[lechium/lsdtrip](https://github.com/lechium/lsdtrip)|slightly modified version of jonathan levins lsdtrip bin available at http://newosxbook.com/tools/lsdtrip.html|14|0|2024-03-24|
 |17|[Demine0/Hackintosh-Magicbook-16.1](https://github.com/Demine0/Hackintosh-Magicbook-16.1)|Hackintosh for Honor Magicbook 16.1 HYM-WXX|4|0|2024-06-30|
-|18|[aysecetin/365-days-of-coding-with-Swift](https://github.com/aysecetin/365-days-of-coding-with-Swift)| This repo serves as a resource where I document my Swift learning process. I will share my learnings and projects here as I learn the Swift language and the SwiftUI framework.|3|0|2024-09-10|
+|18|[aysecetin/365-days-of-coding-with-Swift](https://github.com/aysecetin/365-days-of-coding-with-Swift)| This repo serves as a resource where I document my Swift learning process. I will share my learnings and projects here as I learn the Swift language and the SwiftUI framework.|3|0|2024-09-16|
 |19|[freshplanet/ANE-NativeShare](https://github.com/freshplanet/ANE-NativeShare)|Brings up the native share dialog|25|0|2024-03-27|
 |20|[iBurnApp/iBurn-iOS](https://github.com/iBurnApp/iBurn-iOS)|iBurn is an offline map and guide for the Burning Man art festival.|70|0|2024-08-24|
 |21|[autobooks/autobooks-ios](https://github.com/autobooks/autobooks-ios)|Autobooks SDK for iOS|4|0|2024-09-04|
@@ -40,26 +40,24 @@
 |33|[molon/MLLayout](https://github.com/molon/MLLayout)|Flexbox in Objective-C, using Facebook's css-layout.|251|0|2024-04-09|
 |34|[Countly/countly-sample-ios](https://github.com/Countly/countly-sample-ios)|Sample iOS projects to demonstrate how to use Countly SDKs. For Android sample, check Android repository and documentation.|32|0|2024-08-12|
 |35|[ramonpoca/ColorTools](https://github.com/ramonpoca/ColorTools)|Tools for color management in Mac OS X and iOS, supporting Adobe Swatch Exchange and NSColorList formats|245|0|2024-08-26|
-|36|[LacertosusRepo/Open-Source-Tweaks](https://github.com/LacertosusRepo/Open-Source-Tweaks)|Tweaks I've left open, maybe someone can learn from/correct them.|271|0|2024-03-17|
-|37|[synackuk/XDR-Enabler](https://github.com/synackuk/XDR-Enabler)|Fully unlock the brightness of your XDR MacBook, for free.|6|0|2024-08-18|
-|38|[MichaelLedger/ThreadSafeDictionary](https://github.com/MichaelLedger/ThreadSafeDictionary)|NSMutableDictionary of iOS is not threadsafe. You may encountered problem when read/write shared NSMutableDictinary from multiple thread. I want to make fast and threadsafe mutable dictionary.|2|0|2024-06-18|
-|39|[wltrup/Algs-Smoothing-Line-Segments](https://github.com/wltrup/Algs-Smoothing-Line-Segments)|How to smooth a collection of points by interpolating them with Bezier curves.|2|0|2024-04-07|
-|40|[urbanairship/ios-samples](https://github.com/urbanairship/ios-samples)|A collection of samples using the Urban Airship ios-library|25|0|2024-04-30|
-|41|[leszek-s/LSCategories](https://github.com/leszek-s/LSCategories)|LSCategories is a collection of useful Foundation and UIKit iOS categories.|12|0|2024-09-03|
-|42|[cl3m/MauiFlutterBinding](https://github.com/cl3m/MauiFlutterBinding)|An example of how to integrate flutter with .NET MAUI. |5|0|2024-03-17|
-|43|[tillt/KompleteSynthesia](https://github.com/tillt/KompleteSynthesia)|Native Instruments Komplete Kontrol Light Guide support for Synthesia|25|0|2024-04-27|
-|44|[ABTSoftware/SciChart.iOS.Examples](https://github.com/ABTSoftware/SciChart.iOS.Examples)|Examples, Showcase & Tutorials for SciChart.iOS High Performance Charting Library|160|0|2024-06-10|
-|45|[mptcp-apps/mptcp-hello](https://github.com/mptcp-apps/mptcp-hello)|👋 Simple examples of enabling Multipath TCP with different programming languages|13|0|2024-08-15|
-|46|[akwangl/RedmiBook-Pro-15S-hackintosh](https://github.com/akwangl/RedmiBook-Pro-15S-hackintosh)|redmibook-15 5600H hackintosh|4|0|2024-09-04|
-|47|[enieber/rn-db-example](https://github.com/enieber/rn-db-example)|samples how to use database with react native|6|0|2024-09-12|
-|48|[aik002/RSBypass](https://github.com/aik002/RSBypass)|Rocksmith 2014 Remastered Edition dylib patch for loading and playing CDLC|109|0|2024-08-04|
-|49|[hydrixos/cocoaheads-le](https://github.com/hydrixos/cocoaheads-le)|Slides and Examples created for Cocoaheads Leipzig|7|0|2024-09-14|
-|50|[freshplanet/ANE-Facebook](https://github.com/freshplanet/ANE-Facebook)|Air Native Extension (iOS and Android) for the Facebook mobile SDK|221|0|2024-08-16|
-|51|[KpwnZ/my_bugs_and_CVE_collection](https://github.com/KpwnZ/my_bugs_and_CVE_collection)|Collection of my bugs and CVE, with PoC or writeup|48|0|2024-03-31|
-|52|[plaid/plaid-link-examples](https://github.com/plaid/plaid-link-examples)|Plaid Link Webview, ReactNative examples|63|0|2024-04-17|
-|53|[Adaicon/iOS-notes](https://github.com/Adaicon/iOS-notes)|learn iOS from zero|4|0|2024-07-14|
-|54|[timonus/TJActivityViewController](https://github.com/timonus/TJActivityViewController)|Simple customization for the iOS share sheet.|54|0|2024-09-05|
-|55|[barry-ran/learn-macos](https://github.com/barry-ran/learn-macos)|learn macos develop|20|0|2024-08-21|
+|36|[synackuk/XDR-Enabler](https://github.com/synackuk/XDR-Enabler)|Fully unlock the brightness of your XDR MacBook, for free.|6|0|2024-08-18|
+|37|[MichaelLedger/ThreadSafeDictionary](https://github.com/MichaelLedger/ThreadSafeDictionary)|NSMutableDictionary of iOS is not threadsafe. You may encountered problem when read/write shared NSMutableDictinary from multiple thread. I want to make fast and threadsafe mutable dictionary.|2|0|2024-06-18|
+|38|[wltrup/Algs-Smoothing-Line-Segments](https://github.com/wltrup/Algs-Smoothing-Line-Segments)|How to smooth a collection of points by interpolating them with Bezier curves.|2|0|2024-04-07|
+|39|[urbanairship/ios-samples](https://github.com/urbanairship/ios-samples)|A collection of samples using the Urban Airship ios-library|25|0|2024-04-30|
+|40|[leszek-s/LSCategories](https://github.com/leszek-s/LSCategories)|LSCategories is a collection of useful Foundation and UIKit iOS categories.|12|0|2024-09-03|
+|41|[tillt/KompleteSynthesia](https://github.com/tillt/KompleteSynthesia)|Native Instruments Komplete Kontrol Light Guide support for Synthesia|25|0|2024-04-27|
+|42|[ABTSoftware/SciChart.iOS.Examples](https://github.com/ABTSoftware/SciChart.iOS.Examples)|Examples, Showcase & Tutorials for SciChart.iOS High Performance Charting Library|160|0|2024-06-10|
+|43|[mptcp-apps/mptcp-hello](https://github.com/mptcp-apps/mptcp-hello)|👋 Simple examples of enabling Multipath TCP with different programming languages|13|0|2024-08-15|
+|44|[akwangl/RedmiBook-Pro-15S-hackintosh](https://github.com/akwangl/RedmiBook-Pro-15S-hackintosh)|redmibook-15 5600H hackintosh|4|0|2024-09-04|
+|45|[enieber/rn-db-example](https://github.com/enieber/rn-db-example)|samples how to use database with react native|6|0|2024-09-12|
+|46|[aik002/RSBypass](https://github.com/aik002/RSBypass)|Rocksmith 2014 Remastered Edition dylib patch for loading and playing CDLC|109|0|2024-08-04|
+|47|[hydrixos/cocoaheads-le](https://github.com/hydrixos/cocoaheads-le)|Slides and Examples created for Cocoaheads Leipzig|7|0|2024-09-14|
+|48|[freshplanet/ANE-Facebook](https://github.com/freshplanet/ANE-Facebook)|Air Native Extension (iOS and Android) for the Facebook mobile SDK|221|0|2024-08-16|
+|49|[KpwnZ/my_bugs_and_CVE_collection](https://github.com/KpwnZ/my_bugs_and_CVE_collection)|Collection of my bugs and CVE, with PoC or writeup|48|0|2024-03-31|
+|50|[plaid/plaid-link-examples](https://github.com/plaid/plaid-link-examples)|Plaid Link Webview, ReactNative examples|63|0|2024-04-17|
+|51|[Adaicon/iOS-notes](https://github.com/Adaicon/iOS-notes)|learn iOS from zero|4|0|2024-07-14|
+|52|[timonus/TJActivityViewController](https://github.com/timonus/TJActivityViewController)|Simple customization for the iOS share sheet.|54|0|2024-09-05|
+|53|[barry-ran/learn-macos](https://github.com/barry-ran/learn-macos)|learn macos develop|20|0|2024-08-21|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

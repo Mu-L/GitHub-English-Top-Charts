@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > R
-<sub>Updated: 2024-09-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-09-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -21,10 +21,10 @@
 |14|[ropensci/quadkeyr](https://github.com/ropensci/quadkeyr)|An R package designed to create raster images from QuadKey-identified data (Microsoft Bing Maps Tile System), aiming to simplify the analysis of Facebook mobility data.  |12|2024-03-21|2023-12-04|
 |15|[VictoriaKlyueva/Statistic-in-R](https://github.com/VictoriaKlyueva/Statistic-in-R)|Laboratory work of course "Mathematics for Computer Science 3"|11|2024-06-12|2024-05-31|
 |16|[flrsh-dev/flrsh-lessons](https://github.com/flrsh-dev/flrsh-lessons)|{flrsh} lessons|10|2024-05-26|2024-01-23|
-|17|[SiyuanHuang1/ST_Analysis_Handbook](https://github.com/SiyuanHuang1/ST_Analysis_Handbook)|A Guide to the Analysis of Spatial Transcriptomics|10|2024-07-29|2023-12-31|
-|18|[milos-agathon/tree-height-maps-meta](https://github.com/milos-agathon/tree-height-maps-meta)|In this repo, I'll guide you through the process of downloading the latest tree canopy height data from Meta and the World Resources Institute, with a detailed resolution of 1 meter. You'll learn how  ...|9|2024-05-13|2024-05-12|
-|19|[martinmodrak/modelling-in-stan-2024](https://github.com/martinmodrak/modelling-in-stan-2024)|Materials for the course on Bayesian model building run at Second Faculty of Medicine at Charles University in Prague|9|2024-05-06|2024-02-22|
-|20|[lter/ssecr](https://github.com/lter/ssecr)|Synthesis Skills for Early Career Researchers (SSECR) course|9|2024-09-13|2024-01-17|
+|17|[lter/ssecr](https://github.com/lter/ssecr)|Synthesis Skills for Early Career Researchers (SSECR) course|10|2024-09-15|2024-01-17|
+|18|[SiyuanHuang1/ST_Analysis_Handbook](https://github.com/SiyuanHuang1/ST_Analysis_Handbook)|A Guide to the Analysis of Spatial Transcriptomics|10|2024-07-29|2023-12-31|
+|19|[milos-agathon/tree-height-maps-meta](https://github.com/milos-agathon/tree-height-maps-meta)|In this repo, I'll guide you through the process of downloading the latest tree canopy height data from Meta and the World Resources Institute, with a detailed resolution of 1 meter. You'll learn how  ...|9|2024-05-13|2024-05-12|
+|20|[martinmodrak/modelling-in-stan-2024](https://github.com/martinmodrak/modelling-in-stan-2024)|Materials for the course on Bayesian model building run at Second Faculty of Medicine at Charles University in Prague|9|2024-05-06|2024-02-22|
 |21|[andrewheiss/evalsp24.classes.andrewheiss.com](https://github.com/andrewheiss/evalsp24.classes.andrewheiss.com)|📊 🌐 🧑‍🏫 Website for graduate-level course on program evaluation and causal inference using R, built with Quarto|9|2024-07-30|2024-01-02|
 |22|[comp-med/sparse-proteomic-prediction-of-common-and-rare-diseases](https://github.com/comp-med/sparse-proteomic-prediction-of-common-and-rare-diseases)|This repository contains code associated with the study "Proteomic signatures improve risk predictions for common and rare diseases" (DOI pending)  The provided scripts are not designed to work out of ...|8|2024-07-03|2024-06-06|
 |23|[dengxinb2315/CCEP-sRNA](https://github.com/dengxinb2315/CCEP-sRNA)|Study of pan-sRNome and regulatory mechanisms in pseudomonas aeruginosa reveals virulence-related functions of small non-coding RNAs|8|2024-07-08|2024-05-11|
@@ -35,8 +35,9 @@
 |28|[mblstamps/stamps2024](https://github.com/mblstamps/stamps2024)|Materials for the STAMPS 2024 course at the MBL in Woods Hole, MA, USA|6|2024-07-19|2024-03-15|
 |29|[tkolisnik/pyRforest](https://github.com/tkolisnik/pyRforest)|pyRforest: A comprehensive R package for genomic data analysis featuring scikit-learn Random Forests in R|6|2024-08-20|2024-02-18|
 |30|[LucasKook/comets](https://github.com/LucasKook/comets)|Algorithm-agnostic significance testing in supervised learning with multimodal data|6|2024-09-04|2024-01-29|
-|31|[carpentries-incubator/fair-research-software](https://github.com/carpentries-incubator/fair-research-software)|A course on tools and practices for open, sustainable and FAIR (Findable, Accessible, Interoperable and Reusable) research software|6|2024-06-19|2023-10-03|
-|32|[mjfrigaard/sap](https://github.com/mjfrigaard/sap)|A collection of {S}hiny {A}pp-{P}ackages|5|2024-09-14|2023-10-15|
+|31|[Fanyi177/Effects-of-Diets-on-Risks-of-Cancer-and-the-Mediating-role-of-Metabolites](https://github.com/Fanyi177/Effects-of-Diets-on-Risks-of-Cancer-and-the-Mediating-role-of-Metabolites)|Effects of Adherence to Mediterranean and MIND Diets, and the Mediating Effect of Metabolites on Risks of Overall and 22 Specific Cancers: a cohort study in UK Biobank|6|2024-04-10|2024-01-24|
+|32|[carpentries-incubator/fair-research-software](https://github.com/carpentries-incubator/fair-research-software)|A course on tools and practices for open, sustainable and FAIR (Findable, Accessible, Interoperable and Reusable) research software|6|2024-06-19|2023-10-03|
+|33|[mjfrigaard/sap](https://github.com/mjfrigaard/sap)|A collection of {S}hiny {A}pp-{P}ackages|5|2024-09-16|2023-10-15|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
