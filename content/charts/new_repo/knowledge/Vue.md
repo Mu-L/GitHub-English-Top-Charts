@@ -1,36 +1,36 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Vue
-<sub>Updated: 2024-09-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-09-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[nuxt/learn.nuxt.com](https://github.com/nuxt/learn.nuxt.com)|[Work in Progress] An interactive tutorial and playground for Nuxt|527|2024-09-09|2023-11-21|
+|1|[nuxt/learn.nuxt.com](https://github.com/nuxt/learn.nuxt.com)|[Work in Progress] An interactive tutorial and playground for Nuxt|528|2024-09-09|2023-11-21|
 |2|[GradientSurfer/Draw2Img](https://github.com/GradientSurfer/Draw2Img)|A simple web UI for interactive text-guided image to image generation, intended for any age and skill level.|288|2024-06-05|2024-01-03|
 |3|[acalejos/merquery](https://github.com/acalejos/merquery)|Interactive HTTP Client for Livebook w/ power-ups|209|2024-07-06|2024-02-11|
 |4|[themeselection/vue-cheatsheet](https://github.com/themeselection/vue-cheatsheet)|The one and only Vue cheatsheet you will ever need.|169|2024-04-23|2024-01-10|
-|5|[unjs/undocs](https://github.com/unjs/undocs)|Minimal Documentation theme and CLI for shared usage across UnJS projects.|162|2024-09-12|2024-01-12|
+|5|[unjs/undocs](https://github.com/unjs/undocs)|Minimal Documentation theme and CLI for shared usage across UnJS projects.|162|2024-09-17|2024-01-12|
 |6|[wwwAngHua/KingStudy](https://github.com/wwwAngHua/KingStudy)|A personal homepage website that includes blog, portfolio, courses, and photo wall display functions.|143|2024-09-15|2024-05-29|
 |7|[atinux/atidraw](https://github.com/atinux/atidraw)|Share your drawings with the world. Powered by Cloudflare R2 & AI.|141|2024-09-13|2024-06-10|
 |8|[interview-copilot/Interview-Copilot](https://github.com/interview-copilot/Interview-Copilot)|Utilizing GPT to assist interviewees, help answer questions and write code|52|2024-07-02|2023-12-14|
 |9|[fayazara/codeshare](https://github.com/fayazara/codeshare)|Pastebin for developers, paste code and get a link to share with your peers|38|2024-03-29|2024-01-14|
-|10|[BayBreezy/protect-server-api-nuxt3](https://github.com/BayBreezy/protect-server-api-nuxt3)|Learn how to protect your Nuxt 3 API endpoints|36|2024-09-16|2024-01-01|
+|10|[BayBreezy/protect-server-api-nuxt3](https://github.com/BayBreezy/protect-server-api-nuxt3)|Learn how to protect your Nuxt 3 API endpoints|36|2024-09-17|2024-01-01|
 |11|[vueschool/vuejs-masterclass-2024-edition](https://github.com/vueschool/vuejs-masterclass-2024-edition)|Vue.js Master Class 2024 Edition|24|2024-09-13|2024-05-17|
 |12|[dynilath/modern-cpp-primer](https://github.com/dynilath/modern-cpp-primer)|An introductory tutorial to modern CPP|22|2024-08-03|2024-01-30|
 |13|[danielmiessler/augmented-course](https://github.com/danielmiessler/augmented-course)|The website for the AUGMENTED AI course.|20|2024-06-24|2023-12-12|
 |14|[yy4382/genshinvoice-import](https://github.com/yy4382/genshinvoice-import)|将 https://bv2.firefly.matce.cn 中的原神语音导入到小说软件中用于听书。目前完成了爱阅记的配置生成复制。|19|2024-05-15|2024-03-11|
 |15|[ikkkp/ocean](https://github.com/ikkkp/ocean)|Ocean是使用基于大语言模型文本知识向量抽取和Transformer构建的校园开源文库|19|2024-03-27|2023-11-11|
-|16|[bioacoustic-ai/bioacoustics-datasets](https://github.com/bioacoustic-ai/bioacoustics-datasets)|This repository gathers the list of online publicly available bioacoustics datasets that can be used together with deep learning.|16|2024-09-12|2024-07-16|
+|16|[bioacoustic-ai/bioacoustics-datasets](https://github.com/bioacoustic-ai/bioacoustics-datasets)|This repository gathers the list of online publicly available bioacoustics datasets that can be used together with deep learning.|18|2024-09-17|2024-07-16|
 |17|[cheekey0x/nuxt-3-video-game-search](https://github.com/cheekey0x/nuxt-3-video-game-search)|Custom redesign with additional features based on a tutorial on YouTube.|16|2024-05-19|2024-05-19|
 |18|[egghunters/dxf-viewer-examples](https://github.com/egghunters/dxf-viewer-examples)|Examples for the x-viewer SDK, which is a WebGL-based BIM model viewer built on Three.js and Vue3. It is used to view DWG/DXF/PDF files.|15|2024-09-11|2024-01-01|
 |19|[Justin3go/weekly0](https://github.com/Justin3go/weekly0)|优质中文周刊导航网站--收刮中文互联网上的奇迹|14|2024-09-13|2024-06-06|
 |20|[AbdullahBakir97/Django-Vuejs-Courses-Filter](https://github.com/AbdullahBakir97/Django-Vuejs-Courses-Filter)|Udemy Courses Filter Page Clone Using Django , Rest Framework & Vuejs|13|2024-04-16|2024-02-07|
-|21|[MartinsOnuoha/what-should-i-design](https://github.com/MartinsOnuoha/what-should-i-design)|Open source collection of UI/UX design problem statements for you to try.|13|2024-09-16|2023-10-23|
+|21|[MartinsOnuoha/what-should-i-design](https://github.com/MartinsOnuoha/what-should-i-design)|Open source collection of UI/UX design problem statements for you to try.|13|2024-09-17|2023-10-23|
 |22|[highQ77/project-temp-demo](https://github.com/highQ77/project-temp-demo)|design guideline webpage version|12|2024-05-09|2024-04-21|
 |23|[slightlynerd/startupgraveyard.africa](https://github.com/slightlynerd/startupgraveyard.africa)|A full list of startups that have shut down in Africa|12|2024-09-03|2023-12-11|
 |24|[liamdebeasi/contrast](https://github.com/liamdebeasi/contrast)|Contrast - Ensure colors pass WCAG color contrast guidelines|12|2024-09-16|2023-11-10|
-|25|[cilliandevops/kops](https://github.com/cilliandevops/kops)|Kops is a Kubernetes resource management platform that is suitable for learning web development technologies such as Vue.js and Go. |10|2024-09-13|2023-12-01|
-|26|[RustLangES/rustmap](https://github.com/RustLangES/rustmap)|Nuestro Roadmap de Rust|9|2024-09-08|2024-05-03|
+|25|[RustLangES/rustmap](https://github.com/RustLangES/rustmap)|Nuestro Roadmap de Rust|10|2024-09-08|2024-05-03|
+|26|[cilliandevops/kops](https://github.com/cilliandevops/kops)|Kops is a Kubernetes resource management platform that is suitable for learning web development technologies such as Vue.js and Go. |10|2024-09-17|2023-12-01|
 |27|[gptscript-ai/story-book](https://github.com/gptscript-ai/story-book)|Generative story book powered by Nuxt and GPTScript|9|2024-07-02|2024-04-02|
 |28|[kirby-tools/kirby.tools](https://github.com/kirby-tools/kirby.tools)|🧰 A collection of Kirby plugins that empoweres editors and developers alike|9|2024-09-11|2024-03-21|
 |29|[aufarijaal/online-book-store-frontend](https://github.com/aufarijaal/online-book-store-frontend)|Online Book Store frontend repo named Garadia 🍏|9|2024-06-18|2024-01-14|

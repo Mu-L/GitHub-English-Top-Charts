@@ -1,23 +1,23 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Vim script
-<sub>Updated: 2024-09-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-09-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[pasky/claude.vim](https://github.com/pasky/claude.vim)|Claude vim plugin for AI pair programming - a hacker's gateway to LLMs|160|2024-07-27|2024-06-27|
+|1|[pasky/claude.vim](https://github.com/pasky/claude.vim)|Claude vim plugin for AI pair programming - a hacker's gateway to LLMs|162|2024-07-27|2024-06-27|
 |2|[FittenTech/fittencode.vim](https://github.com/FittenTech/fittencode.vim)|Fitten Code AI Programming Assistant for Vim|77|2024-07-01|2024-01-30|
 |3|[girishji/scope.vim](https://github.com/girishji/scope.vim)|Minimal, fast, and extensible fuzzy finder.|62|2024-09-08|2024-03-01|
-|4|[xero/evangelion.nvim](https://github.com/xero/evangelion.nvim)|a colorscheme for {neo,}vim inspired by neon genesis evangelion. supports diagnostics, cmp, fzf, gitsigns, lazy, lsp, lualine, telescope, treesitter, trouble, which-key, & more.|48|2024-09-06|2024-08-31|
+|4|[xero/evangelion.nvim](https://github.com/xero/evangelion.nvim)|a colorscheme for {neo,}vim inspired by neon genesis evangelion. supports diagnostics, cmp, fzf, gitsigns, lazy, lsp, lualine, telescope, treesitter, trouble, which-key, & more.|50|2024-09-06|2024-08-31|
 |5|[theopn/kickstart.vim](https://github.com/theopn/kickstart.vim)|A launch point for your personal vim configuration (Vimscript version of https://github.com/nvim-lua/kickstart.nvim)|46|2024-06-29|2023-09-21|
 |6|[chtenb/helix.vim](https://github.com/chtenb/helix.vim)|Emulate Helix keybindings inside Vim emulators|41|2024-07-18|2023-10-03|
 |7|[laktak/tome](https://github.com/laktak/tome)|🔁 Script playbooks for frequent commands in any terminal application|40|2024-05-09|2024-05-04|
-|8|[girishji/devdocs.vim](https://github.com/girishji/devdocs.vim)|Lookup  API documentation from devdocs.io without leaving Vim.|36|2024-09-03|2024-02-12|
+|8|[girishji/devdocs.vim](https://github.com/girishji/devdocs.vim)|Lookup  API documentation from devdocs.io without leaving Vim.|37|2024-09-03|2024-02-12|
 |9|[SagePtr/openserver-apache-2.4](https://github.com/SagePtr/openserver-apache-2.4)|Apache 2.4 for PHP_8.2-8.3 for OpenServer 5.x|34|2024-04-10|2024-01-23|
 |10|[imaarov/my-vim-config](https://github.com/imaarov/my-vim-config)|my vim config|25|2024-05-26|2024-04-28|
-|11|[rickhowe/wrapwidth](https://github.com/rickhowe/wrapwidth)|Wraps long lines virtually at a specific column|24|2024-03-19|2023-10-09|
-|12|[skywind3000/vim-color-export](https://github.com/skywind3000/vim-color-export)|:rainbow: A tool to backport NeoVim colorschemes to Vim !!|20|2024-06-17|2024-01-30|
-|13|[upszot/UTN-FRA_SO_onBording](https://github.com/upszot/UTN-FRA_SO_onBording)|-|20|2024-08-26|2023-11-14|
+|11|[upszot/UTN-FRA_SO_onBording](https://github.com/upszot/UTN-FRA_SO_onBording)|-|24|2024-09-17|2023-11-14|
+|12|[rickhowe/wrapwidth](https://github.com/rickhowe/wrapwidth)|Wraps long lines virtually at a specific column|24|2024-03-19|2023-10-09|
+|13|[skywind3000/vim-color-export](https://github.com/skywind3000/vim-color-export)|:rainbow: A tool to backport NeoVim colorschemes to Vim !!|20|2024-06-17|2024-01-30|
 |14|[cratelyn/pfil](https://github.com/cratelyn/pfil)|🧚 pfil is a cute, minimal editor theme; for low-light and high-contrast.|19|2024-07-01|2023-11-25|
 |15|[devsjc/vim-jb](https://github.com/devsjc/vim-jb)|Colourscheme for Vim, inspired by JetBrains IDEs.|19|2024-09-06|2023-10-27|
 |16|[keiyakeiya/PapilioDehaanii.vim](https://github.com/keiyakeiya/PapilioDehaanii.vim)|Duotone color scheme for Vim and Neovim.|19|2024-08-03|2023-09-28|
@@ -31,9 +31,9 @@
 |24|[kawarimidoll/autoplay.vim](https://github.com/kawarimidoll/autoplay.vim)|Operate Vim automatically 🛼|16|2024-07-15|2023-12-31|
 |25|[mosesmbadi/k8s-local-lab](https://github.com/mosesmbadi/k8s-local-lab)|Play with Kubernetes Locally|15|2024-06-07|2024-02-29|
 |26|[kawarimidoll/tuskk.vim](https://github.com/kawarimidoll/tuskk.vim)|Tabun Ugoku SKK for vim|15|2024-05-15|2023-12-20|
-|27|[fresh2dev/zellij.vim](https://github.com/fresh2dev/zellij.vim)|Vim plugin for integration with Zellij.|14|2024-09-11|2024-05-25|
-|28|[i18n-ops/os](https://github.com/i18n-ops/os)|-|12|2024-06-25|2024-04-18|
-|29|[grafana/vim-alloy](https://github.com/grafana/vim-alloy)|Grafana Alloy support for Vim/Neovim|12|2024-05-11|2024-03-20|
+|27|[fresh2dev/zellij.vim](https://github.com/fresh2dev/zellij.vim)|Vim plugin for integration with Zellij.|14|2024-09-17|2024-05-25|
+|28|[grafana/vim-alloy](https://github.com/grafana/vim-alloy)|Grafana Alloy support for Vim/Neovim|13|2024-05-11|2024-03-20|
+|29|[i18n-ops/os](https://github.com/i18n-ops/os)|-|12|2024-06-25|2024-04-18|
 |30|[sedm0784/vim-rainbow-trails](https://github.com/sedm0784/vim-rainbow-trails)|Magical rainbows in your Vim|11|2024-04-14|2024-04-04|
 |31|[girishji/fFtT.vim](https://github.com/girishji/fFtT.vim)|More accurate f, F, t, T navigation in Vim.|11|2024-06-06|2024-02-27|
 |32|[joseluisgomes/dotfiles](https://github.com/joseluisgomes/dotfiles)|My Xfce Linux dotfiles|11|2024-04-30|2024-02-16|
@@ -59,7 +59,7 @@
 |52|[HugoPhi/HugoVim](https://github.com/HugoPhi/HugoVim)|structured vim configs that make your vim more beautiful and strong😀🚀|7|2024-08-23|2023-11-22|
 |53|[rickhowe/difffilter](https://github.com/rickhowe/difffilter)|Selectively compare lines as you want in diff mode|6|2024-06-09|2024-04-19|
 |54|[guptarohit/dotfiles](https://github.com/guptarohit/dotfiles)|📍~/. my dotfiles ⚙️ for macOS, iterm2, git, vim, zsh, stow |6|2024-04-07|2024-02-16|
-|55|[Sharpless298/vimrc](https://github.com/Sharpless298/vimrc)|-|6|2024-09-02|2024-02-16|
+|55|[Sharpless298/vimrc](https://github.com/Sharpless298/vimrc)|-|6|2024-09-16|2024-02-16|
 |56|[Togohogo1/dotfiles](https://github.com/Togohogo1/dotfiles)|Linux configuration files. “Just some alien fruit salad to keep you in the zone”!|6|2024-05-05|2024-01-04|
 |57|[ericaviana12/Senac-tat](https://github.com/ericaviana12/Senac-tat)|Repositório de conteúdo das aulas do curso Técnico de Informática - Senac Tatuapé|6|2024-09-13|2023-11-15|
 |58|[lifepillar/vim-keysound](https://github.com/lifepillar/vim-keysound)|Turn Vim into a typewriter!|6|2024-05-05|2023-10-14|
@@ -75,7 +75,7 @@
 |68|[panozzaj/vim-copilot-ignore](https://github.com/panozzaj/vim-copilot-ignore)|Vim plugin to disable Copilot based on .copilotignore|5|2024-06-25|2023-09-25|
 |69|[rickhowe/diffunitsyntax](https://github.com/rickhowe/diffunitsyntax)|Highlight word or character based diff units in diff format|4|2024-09-07|2024-09-07|
 |70|[gerardjensen/jutge_plug](https://github.com/gerardjensen/jutge_plug)|A Vim plugin to interface with jutge.org within Vim.|4|2024-09-03|2024-08-25|
-|71|[sodapopcan/vim-mixer](https://github.com/sodapopcan/vim-mixer)|Elixir text objects + Mix ecosystem tools|4|2024-09-15|2024-07-06|
+|71|[sodapopcan/vim-mixer](https://github.com/sodapopcan/vim-mixer)|Elixir text objects + Mix ecosystem tools|4|2024-09-16|2024-07-06|
 |72|[TheanhPhung/hyprland_dotfiles](https://github.com/TheanhPhung/hyprland_dotfiles)|-|4|2024-07-11|2024-06-23|
 |73|[jecxjo/rest-client.vim](https://github.com/jecxjo/rest-client.vim)|A vim port of the VSCode Rest Client|4|2024-06-13|2024-06-03|
 |74|[m6vrm/gruber.vim](https://github.com/m6vrm/gruber.vim)|Dark Vim colorscheme|4|2024-05-13|2024-04-29|
@@ -109,21 +109,21 @@
 |102|[tribhuwan-kumar/CodeRunner](https://github.com/tribhuwan-kumar/CodeRunner)|Neovim plugin for running different types of files in intergrated Nvim terminal.|3|2024-05-19|2023-12-18|
 |103|[gw31415/mstdn-editor.vim](https://github.com/gw31415/mstdn-editor.vim)|-|3|2024-05-12|2023-12-13|
 |104|[antoine-cha/setup.sh](https://github.com/antoine-cha/setup.sh)|Setup scripts and config files|3|2024-04-26|2023-11-12|
-|105|[shu-vim/Popcorn](https://github.com/shu-vim/Popcorn)|You can define your own pop-up menu.|3|2024-04-17|2023-10-18|
-|106|[aayushx402/MyVim](https://github.com/aayushx402/MyVim)|vimrc config |2|2024-07-09|2024-07-08|
-|107|[rafidoth/obsidian-vault](https://github.com/rafidoth/obsidian-vault)|-|2|2024-09-02|2024-07-06|
-|108|[wolandark/vim-ddgpb](https://github.com/wolandark/vim-ddgpb)|Search DuckDuckGo or Submit Code to PasteBin from Vim|2|2024-07-21|2024-06-23|
-|109|[tenderlove/vim-to-rtf](https://github.com/tenderlove/vim-to-rtf)|Convert code to syntax highlighted RTF|2|2024-06-06|2024-06-06|
-|110|[SergioBonatto/bend-vim](https://github.com/SergioBonatto/bend-vim)|syntax highlighting for bend|2|2024-08-02|2024-05-16|
-|111|[plutolove/vim](https://github.com/plutolove/vim)|VIM C++|2|2024-05-27|2024-05-14|
-|112|[Carlos-Mero/.vim](https://github.com/Carlos-Mero/.vim)|My personal vim configuration.|2|2024-08-14|2024-05-05|
-|113|[Narmis-E/sway-minimal](https://github.com/Narmis-E/sway-minimal)|Optimised swaywm rice for archlinux|2|2024-06-03|2024-04-29|
-|114|[GeorgeWilliamStrong/dotfiles](https://github.com/GeorgeWilliamStrong/dotfiles)|-|2|2024-05-13|2024-02-05|
-|115|[Ryan-Millard/vimrc](https://github.com/Ryan-Millard/vimrc)|-|2|2024-06-27|2024-01-31|
-|116|[alprofmahmoud/termux_config_repo](https://github.com/alprofmahmoud/termux_config_repo)|This repository for my configurations files of termux.|2|2024-09-06|2024-01-04|
-|117|[dam9000/colorscheme-midnightblue](https://github.com/dam9000/colorscheme-midnightblue)|A colorful theme with a dark midnightblue background for Vim and Neovim|2|2024-05-16|2023-11-20|
-|118|[willgreen946/cfg](https://github.com/willgreen946/cfg)|My config files, I want to keep this repo clean|2|2024-06-10|2023-11-19|
-|119|[Treeniks/isabelle-syn.nvim](https://github.com/Treeniks/isabelle-syn.nvim)|-|2|2024-05-15|2023-11-10|
+|105|[Treeniks/isabelle-syn.nvim](https://github.com/Treeniks/isabelle-syn.nvim)|-|3|2024-05-15|2023-11-10|
+|106|[shu-vim/Popcorn](https://github.com/shu-vim/Popcorn)|You can define your own pop-up menu.|3|2024-04-17|2023-10-18|
+|107|[aayushx402/MyVim](https://github.com/aayushx402/MyVim)|vimrc config |2|2024-07-09|2024-07-08|
+|108|[rafidoth/obsidian-vault](https://github.com/rafidoth/obsidian-vault)|-|2|2024-09-02|2024-07-06|
+|109|[wolandark/vim-ddgpb](https://github.com/wolandark/vim-ddgpb)|Search DuckDuckGo or Submit Code to PasteBin from Vim|2|2024-07-21|2024-06-23|
+|110|[tenderlove/vim-to-rtf](https://github.com/tenderlove/vim-to-rtf)|Convert code to syntax highlighted RTF|2|2024-06-06|2024-06-06|
+|111|[SergioBonatto/bend-vim](https://github.com/SergioBonatto/bend-vim)|syntax highlighting for bend|2|2024-08-02|2024-05-16|
+|112|[plutolove/vim](https://github.com/plutolove/vim)|VIM C++|2|2024-05-27|2024-05-14|
+|113|[Carlos-Mero/.vim](https://github.com/Carlos-Mero/.vim)|My personal vim configuration.|2|2024-08-14|2024-05-05|
+|114|[Narmis-E/sway-minimal](https://github.com/Narmis-E/sway-minimal)|Optimised swaywm rice for archlinux|2|2024-06-03|2024-04-29|
+|115|[GeorgeWilliamStrong/dotfiles](https://github.com/GeorgeWilliamStrong/dotfiles)|-|2|2024-05-13|2024-02-05|
+|116|[Ryan-Millard/vimrc](https://github.com/Ryan-Millard/vimrc)|-|2|2024-06-27|2024-01-31|
+|117|[alprofmahmoud/termux_config_repo](https://github.com/alprofmahmoud/termux_config_repo)|This repository for my configurations files of termux.|2|2024-09-06|2024-01-04|
+|118|[dam9000/colorscheme-midnightblue](https://github.com/dam9000/colorscheme-midnightblue)|A colorful theme with a dark midnightblue background for Vim and Neovim|2|2024-05-16|2023-11-20|
+|119|[willgreen946/cfg](https://github.com/willgreen946/cfg)|My config files, I want to keep this repo clean|2|2024-06-10|2023-11-19|
 |120|[pylover/env](https://github.com/pylover/env)|My Ubuntu personalized terminal environment|2|2024-09-06|2023-10-30|
 |121|[sogaiu/janet-neovim-trial-kit](https://github.com/sogaiu/janet-neovim-trial-kit)|Try Janet Support in Neovim with Relatively Minimal Fuss|2|2024-07-08|2023-10-10|
 

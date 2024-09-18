@@ -1,25 +1,25 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Assembly
-<sub>Updated: 2024-09-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-09-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[hiteshchoudhary/open-source-contribution](https://github.com/hiteshchoudhary/open-source-contribution)|A repo to contribute in open source via README only. A dream repo for open source beginner|339|2024-08-21|2024-02-07|
 |2|[jthlim/impulse-tracker](https://github.com/jthlim/impulse-tracker)|Original source code for Impulse Tracker, a music tracker for DOS|312|2024-06-17|2024-06-15|
-|3|[grimdoomer/TonyHawksProStrcpy](https://github.com/grimdoomer/TonyHawksProStrcpy)|Code execution exploit for Tony Hawk's video game series|246|2024-09-09|2024-07-18|
-|4|[FreddyVRetro/ISA-PicoMEM](https://github.com/FreddyVRetro/ISA-PicoMEM)|PicoMEM Doc and Firmware|239|2024-09-16|2024-01-20|
-|5|[nanochess/RayTracer](https://github.com/nanochess/RayTracer)|Ray Tracer in 483 bytes (x86 boot sector)|236|2024-07-14|2024-04-12|
+|3|[grimdoomer/TonyHawksProStrcpy](https://github.com/grimdoomer/TonyHawksProStrcpy)|Code execution exploit for Tony Hawk's video game series|247|2024-09-09|2024-07-18|
+|4|[FreddyVRetro/ISA-PicoMEM](https://github.com/FreddyVRetro/ISA-PicoMEM)|PicoMEM Doc and Firmware|240|2024-09-16|2024-01-20|
+|5|[nanochess/RayTracer](https://github.com/nanochess/RayTracer)|Ray Tracer in 483 bytes (x86 boot sector)|237|2024-07-14|2024-04-12|
 |6|[bick11undead/Hamster-kombat-farm-auto-bot](https://github.com/bick11undead/Hamster-kombat-farm-auto-bot)|Bot that mines coins in HamsterKombat  @hamster_kombat                hamster-kombat-bot-free hamster-kombat-bot-download hamster-kombat-bot-setup hamster-kombat-bot-installation hamster-kombat-tradin ...|178|2024-05-27|2024-05-27|
 |7|[nanochess/bootLogo](https://github.com/nanochess/bootLogo)|Logo language in 508 bytes (x86 boot sector)|171|2024-04-12|2024-03-19|
 |8|[banmrgamefun40/Catizen-Auto-bot-autofarm](https://github.com/banmrgamefun40/Catizen-Auto-bot-autofarm)|We will help you automate all processes in the catizen game @catizenbot  auto farm Catzien |168|2024-05-27|2024-05-27|
-|9|[grimdoomer/Halo-2-HD](https://github.com/grimdoomer/Halo-2-HD)|HD patch for Halo 2 on the original Xbox|155|2024-04-08|2024-03-14|
+|9|[grimdoomer/Halo-2-HD](https://github.com/grimdoomer/Halo-2-HD)|HD patch for Halo 2 on the original Xbox|156|2024-04-08|2024-03-14|
 |10|[tfdsoft/famidash](https://github.com/tfdsoft/famidash)|Geometry Dash for the Nintendo Entertainment System|146|2024-09-16|2024-04-03|
 |11|[luamfb/intro_x86-64](https://github.com/luamfb/intro_x86-64)|Introduction to x86-64 assembly|140|2024-05-23|2023-09-30|
 |12|[azya52/BrickEmuPy](https://github.com/azya52/BrickEmuPy)|Brick Game (aka Tetris) emulator in Python with PyQt6|111|2024-07-28|2023-11-12|
 |13|[bakekenytownsend8/Catizen-auto-bot](https://github.com/bakekenytownsend8/Catizen-auto-bot)|Catizen auto bot free download / We will help you automate all processes in the catizen game / catizen tool / catizen clicker / catizen miner / catizen soft / catizen software / hack catizen / tools f ...|109|2024-06-03|2024-06-03|
 |14|[mrcool-melrose/Hypercoin-auto-farm-and-Autoclicker](https://github.com/mrcool-melrose/Hypercoin-auto-farm-and-Autoclicker)|HYPER auto farm bot @Hypercoin_bot @hyper_coin @hyper_coin_chat HYPER: probably something|105|2024-06-06|2024-06-06|
-|15|[stillwwater/raycaster](https://github.com/stillwwater/raycaster)|A bare metal raycaster, boots from a floppy image|101|2024-09-02|2024-09-02|
+|15|[stillwwater/raycaster](https://github.com/stillwwater/raycaster)|A bare metal raycaster, boots from a floppy image|102|2024-09-02|2024-09-02|
 |16|[slu4coder/Minimal-64x4-Home-Computer](https://github.com/slu4coder/Minimal-64x4-Home-Computer)|My DIY home computer with VGA and PS/2 and 4x(!) the processing power of a Commodore C64 or Apple II.|97|2024-08-09|2024-03-29|
 |17|[KD-lab-Open-Source/qdEngine](https://github.com/KD-lab-Open-Source/qdEngine)|-|93|2024-06-23|2024-03-08|
 |18|[hightower969/Hamster-Kombat-auto-Farm-bot](https://github.com/hightower969/Hamster-Kombat-auto-Farm-bot)|Automatic bot that performs tasks and farms currency with the ability to create many threads for farming to @hamster_kombat_bot|92|2024-05-17|2024-05-17|
@@ -27,16 +27,16 @@
 |20|[hightower969/Catizen-Auto-Farm-Bot](https://github.com/hightower969/Catizen-Auto-Farm-Bot)|Auto farm bot to @Catizen_Mntbot|90|2024-05-17|2024-05-17|
 |21|[fashbestplays98/Citizens_Conflict_free_token](https://github.com/fashbestplays98/Citizens_Conflict_free_token)|-|86|2024-05-17|2024-05-17|
 |22|[broom19hogcher/Airdrop_free](https://github.com/broom19hogcher/Airdrop_free)|-|86|2024-05-10|2024-05-10|
-|23|[nicsure/TD-H3-Engineering](https://github.com/nicsure/TD-H3-Engineering)|Experimentation with the TIDRADIO TD-H3|80|2024-08-30|2024-05-30|
+|23|[nicsure/TD-H3-Engineering](https://github.com/nicsure/TD-H3-Engineering)|Experimentation with the TIDRADIO TD-H3|82|2024-08-30|2024-05-30|
 |24|[MystoganSync/AutoFarmCatizen](https://github.com/MystoganSync/AutoFarmCatizen)|A useful tool for automation of some mandatory in-game actions @catizenbot,  @Catizen_Mntbot|76|2024-05-30|2024-03-27|
-|25|[cRz-Shadows/Pokemon_Yellow_Legacy](https://github.com/cRz-Shadows/Pokemon_Yellow_Legacy)|This is a Pokémon Rom Hack made by TheSmithPlays with the intended purpose of fixing Pokémon Yellow into a more polished experience while staying true to the vision of Generation 1's Yellow.|73|2024-08-14|2023-12-08|
+|25|[cRz-Shadows/Pokemon_Yellow_Legacy](https://github.com/cRz-Shadows/Pokemon_Yellow_Legacy)|This is a Pokémon Rom Hack made by TheSmithPlays with the intended purpose of fixing Pokémon Yellow into a more polished experience while staying true to the vision of Generation 1's Yellow.|75|2024-08-14|2023-12-08|
 |26|[Villadelfia/dmgtris](https://github.com/Villadelfia/dmgtris)|-|71|2024-08-25|2023-10-21|
 |27|[cRz-Shadows/Pokemon_Crystal_Legacy](https://github.com/cRz-Shadows/Pokemon_Crystal_Legacy)|This is a Pokémon Rom Hack made by TheSmithPlays with the intended purpose of fixing Pokémon Crystal into a more polished experience while staying true to the vision of Generation 2.|70|2024-08-30|2023-10-06|
 |28|[tgrysztar/fasm2](https://github.com/tgrysztar/fasm2)|flat assembler 2|69|2024-08-31|2024-03-12|
 |29|[blondie7575/ChoplifterReverse](https://github.com/blondie7575/ChoplifterReverse)|A full reverse engineer of Choplifter, the Apple II game written by Dan Gorlin|68|2024-05-31|2024-05-13|
 |30|[knockoutdicaprio2/Cube-auto-bot-farm](https://github.com/knockoutdicaprio2/Cube-auto-bot-farm)|Bot that mines coins in cubes coin , @cubesonthewater_bot|67|2024-05-18|2024-05-17|
-|31|[skypipeswitok793/Bull-Run-auto-farm-bot](https://github.com/skypipeswitok793/Bull-Run-auto-farm-bot)|Bot that mines coins in Bull Run - BullApp_bot|64|2024-05-18|2024-05-18|
-|32|[InkboxSoftware/smallEXE](https://github.com/InkboxSoftware/smallEXE)|-|63|2024-06-28|2024-06-27|
+|31|[InkboxSoftware/smallEXE](https://github.com/InkboxSoftware/smallEXE)|-|64|2024-06-28|2024-06-27|
+|32|[skypipeswitok793/Bull-Run-auto-farm-bot](https://github.com/skypipeswitok793/Bull-Run-auto-farm-bot)|Bot that mines coins in Bull Run - BullApp_bot|64|2024-05-18|2024-05-18|
 |33|[ruke1ire/RTF](https://github.com/ruke1ire/RTF)|A State-Space Model with Rational Transfer Function Representation.|61|2024-05-17|2024-03-01|
 |34|[kil65frostball/axie-infinity-bot](https://github.com/kil65frostball/axie-infinity-bot)|axie-infinity axieinfinity axie-infinity-bot axie-infinity-farming-bot axieinfinity-auto-bot axie-infinity-script axie-infinity-bot-farm|56|2024-06-03|2024-06-03|
 |35|[ki3v/xtramtest](https://github.com/ki3v/xtramtest)|RAM test ROM for IBM PC/XT and Clones|54|2024-09-03|2024-05-21|
@@ -46,21 +46,21 @@
 |39|[neuviemeporte/f15se2-re](https://github.com/neuviemeporte/f15se2-re)|Reconstructed source code for the Microprose game F-15 Strike Eagle 2 for MS-DOS|49|2024-07-03|2024-06-21|
 |40|[ic3qu33n/OffensiveCon24-uefi-task-of-the-translator](https://github.com/ic3qu33n/OffensiveCon24-uefi-task-of-the-translator)|OffensiveCon 2024 Repo, contains PoCs and materials for talk "UEFI and the Task of the Translator"|43|2024-05-22|2024-04-20|
 |41|[l0psec/arm64_macOS_Syscalls](https://github.com/l0psec/arm64_macOS_Syscalls)|-|39|2024-07-01|2023-10-19|
-|42|[fellowship-of-the-roms/CrystalShireEngine](https://github.com/fellowship-of-the-roms/CrystalShireEngine)|Enhanced engine for Pokemon Crystal romhacking|38|2024-09-15|2023-09-21|
+|42|[fellowship-of-the-roms/CrystalShireEngine](https://github.com/fellowship-of-the-roms/CrystalShireEngine)|Enhanced engine for Pokemon Crystal romhacking|39|2024-09-17|2023-09-21|
 |43|[jumbo43eagle/HAMSTER_KOMBAT_AUTOBOT](https://github.com/jumbo43eagle/HAMSTER_KOMBAT_AUTOBOT)|Hamster kombat auto bot / hamster kombat auto clicker Hi everyone today we present you our bot for crypto game hamster kombat with which you can automate the whole process in the game which is possibl ...|37|2024-06-03|2024-06-03|
 |44|[KellanClark/armfuck](https://github.com/KellanClark/armfuck)|Turing completeness from two RISC instructions|34|2024-08-03|2023-09-19|
 |45|[Paulie68000/ZXSpectrumCobra](https://github.com/Paulie68000/ZXSpectrumCobra)|Full reverse engineered source code of Jonathan "Joffa" Smith's Cobra|32|2024-08-03|2024-08-01|
 |46|[bruddog/Tecmo_Super_Bowl_NES_Disassembly](https://github.com/bruddog/Tecmo_Super_Bowl_NES_Disassembly)|A disassembly of the game Tecmo Super Bowl into rebuildable 6502 source code|32|2024-04-20|2024-04-19|
-|47|[nidud/asmc](https://github.com/nidud/asmc)|Masm compatible assembler|31|2024-09-13|2023-09-22|
+|47|[nidud/asmc](https://github.com/nidud/asmc)|Masm compatible assembler|32|2024-09-13|2023-09-22|
 |48|[zephyrside/famidash](https://github.com/zephyrside/famidash)|GEOMETRY DASH. *music intensifies*|30|2024-03-27|2023-09-29|
 |49|[Print3M/shellcodes](https://github.com/Print3M/shellcodes)|My shellcodes (or shellcodish-things) written for educational purpose in NASM assembly.|29|2024-07-23|2024-07-23|
 |50|[boot41worth/MemeFi-auto-bot](https://github.com/boot41worth/MemeFi-auto-bot)|MemeFi bot auto farm - @memefi_coin_bot, https://t.me/memeficlub memefi auto bot free download / We will help you automate all processes in the memefi game / memefi tool / memefi clicker / memefi mine ...|29|2024-06-06|2024-06-06|
-|51|[nstarke/bootfuzz](https://github.com/nstarke/bootfuzz)|A MBR Fuzzer|27|2024-04-03|2024-03-23|
-|52|[ArTicZera/AcidOS](https://github.com/ArTicZera/AcidOS)|Small Real Mode OS made in Assembly|27|2024-04-25|2024-03-09|
-|53|[leandronsp/magali](https://github.com/leandronsp/magali)|A minimalist yet multi-threaded HTTP server coded in pure Assembly x86|26|2024-03-26|2024-03-26|
+|51|[leandronsp/magali](https://github.com/leandronsp/magali)|A minimalist yet multi-threaded HTTP server coded in pure Assembly x86|27|2024-03-26|2024-03-26|
+|52|[nstarke/bootfuzz](https://github.com/nstarke/bootfuzz)|A MBR Fuzzer|27|2024-04-03|2024-03-23|
+|53|[ArTicZera/AcidOS](https://github.com/ArTicZera/AcidOS)|Small Real Mode OS made in Assembly|27|2024-04-25|2024-03-09|
 |54|[fermarsan/aixt](https://github.com/fermarsan/aixt)|Programming framework for microcontrollers based on a V-like language.|26|2024-03-20|2023-12-10|
 |55|[SvarDOS/edrdos](https://github.com/SvarDOS/edrdos)|Enhanced DR-DOS kernel and command interpreter ported to JWasm and OpenWatcom C|26|2024-09-15|2023-11-27|
-|56|[ninjadynamics/MMC3Template](https://github.com/ninjadynamics/MMC3Template)|-|25|2024-09-13|2024-08-13|
+|56|[ninjadynamics/MMC3Template](https://github.com/ninjadynamics/MMC3Template)|-|25|2024-09-17|2024-08-13|
 |57|[stewart-worrall/MTRX2700-2024](https://github.com/stewart-worrall/MTRX2700-2024)|-|25|2024-03-20|2024-01-07|
 |58|[krakenlake/vmon](https://github.com/krakenlake/vmon)|RISC-V machine code monitor|25|2024-09-03|2023-12-14|
 |59|[GiaHuyJQK1706/Computer_Architecture_Lab_IT3280](https://github.com/GiaHuyJQK1706/Computer_Architecture_Lab_IT3280)|-|25|2024-07-20|2023-12-12|
@@ -118,7 +118,7 @@
 |111|[HJLebbink/sort-networks-mojo](https://github.com/HJLebbink/sort-networks-mojo)|Sorting networks for high performance sorting in Mojo|12|2024-06-27|2023-12-15|
 |112|[nidud/doszip](https://github.com/nidud/doszip)|TUI file manager|12|2024-05-09|2023-09-22|
 |113|[rbmm/SC](https://github.com/rbmm/SC)|shell code example|11|2024-08-24|2024-06-21|
-|114|[slabbi/Z80-CPU-Tester](https://github.com/slabbi/Z80-CPU-Tester)|This project allows you to test a Z80 CPU. NMOS/CMOS, UB880 identification. Functionality testing.|11|2024-09-14|2024-06-06|
+|114|[slabbi/Z80-CPU-Tester](https://github.com/slabbi/Z80-CPU-Tester)|This project allows you to test a Z80 CPU. NMOS/CMOS, UB880 identification. Functionality testing.|11|2024-09-17|2024-06-06|
 |115|[lesbird/MSX8](https://github.com/lesbird/MSX8)|MSX8 CP/M PROGRAM TO LAUNCH MSX GAME ROMS|11|2024-08-27|2024-05-28|
 |116|[udo-munk/Arduino8080](https://github.com/udo-munk/Arduino8080)|Emulating Intel 8080 and Zilog Z80 CPU's on Arduino Nano|11|2024-08-27|2024-04-15|
 |117|[allyourcodebase/openssl](https://github.com/allyourcodebase/openssl)|openssl zig package|11|2024-04-13|2024-04-13|
@@ -126,7 +126,7 @@
 |119|[level-128/windham](https://github.com/level-128/windham)|mirrored from https://level-128-git.com/level-128/windham|11|2024-07-18|2023-10-21|
 |120|[djh0ffman/ProTrackerReplay](https://github.com/djh0ffman/ProTrackerReplay)|ProTracker Replay v2.3a|10|2024-08-05|2024-08-05|
 |121|[soucosmo/rust-bitcoin-finder](https://github.com/soucosmo/rust-bitcoin-finder)|Ferramenta para encontrar bitcoins escrita em Rust. Esta ferramenta é especialmente desenvolvida para resolver desafios de carteiras como os encontrados em Bitcoin Puzzle.|10|2024-07-04|2024-06-09|
-|122|[RetroKoH/S1Fixed](https://github.com/RetroKoH/S1Fixed)|A successor to ReadySonic (Bugfixes, Optimizations, Changes)|10|2024-09-16|2024-06-03|
+|122|[RetroKoH/S1Fixed](https://github.com/RetroKoH/S1Fixed)|A successor to ReadySonic (Bugfixes, Optimizations, Changes)|10|2024-09-17|2024-06-03|
 |123|[matthiaskramm/soul_on_fire](https://github.com/matthiaskramm/soul_on_fire)|Source code for "Soul on Fire", winning 4k entry at X2024.|10|2024-05-24|2024-05-24|
 |124|[scalable-analyses/sme](https://github.com/scalable-analyses/sme)|-|10|2024-09-14|2024-05-18|
 |125|[cross-psix/FreeCrypto](https://github.com/cross-psix/FreeCrypto)|-|10|2024-04-24|2024-04-24|
@@ -144,7 +144,7 @@
 |137|[ytmytm/1541-RAMBOardII](https://github.com/ytmytm/1541-RAMBOardII)|RAM/ROM expansion for 1541-II that supports DolphinDOS 2 and patched JiffyDOS/SpeedDOS/CBM DOS to cache whole tracks in extra RAM|9|2024-05-08|2024-04-21|
 |138|[Sha0den/poketcg_v2](https://github.com/Sha0den/poketcg_v2)|Pokemon Trading Card Game for the Game Boy Color with many simple improvements. Look at CHANGELOG.md for an overview of the changes. |9|2024-09-15|2024-04-15|
 |139|[nstarke/instrfuzz](https://github.com/nstarke/instrfuzz)|A CPU Instruction Fuzzer for QEMU x86|9|2024-04-08|2024-03-29|
-|140|[xrarch/mintia2](https://github.com/xrarch/mintia2)|-|9|2024-09-16|2024-02-18|
+|140|[xrarch/mintia2](https://github.com/xrarch/mintia2)|-|9|2024-09-17|2024-02-18|
 |141|[b3rendsh/msxdos2s](https://github.com/b3rendsh/msxdos2s)|MSXDOS 2 smaller 32K rom and updated BEER IDE driver|9|2024-08-31|2024-01-23|
 |142|[Dhebug/Encounter](https://github.com/Dhebug/Encounter)|An upgraded version of the 1983 Encounter game from Severn Software|9|2024-09-14|2024-01-02|
 |143|[NirvaCx/RadIceCream](https://github.com/NirvaCx/RadIceCream)|RISC-V Assembly project|9|2024-07-02|2023-11-23|

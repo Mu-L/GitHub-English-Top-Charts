@@ -1,14 +1,14 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Kotlin
-<sub>Updated: 2024-09-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-09-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[Acclorite/book-story](https://github.com/Acclorite/book-story)|Material3 eBook reader - Book's Story. Built with Jetpack Compose. Free & Open Source & Ad Free. 7 supported file formats (.txt, .pdf, .epub, .fb2, .zip, .html, .htm), 5 supported languages. Lots of c ...|237|2024-09-15|2023-12-29|
+|1|[Acclorite/book-story](https://github.com/Acclorite/book-story)|Material3 eBook reader - Book's Story. Built with Jetpack Compose. Free & Open Source & Ad Free. 7 supported file formats (.txt, .pdf, .epub, .fb2, .zip, .html, .htm), 5 supported languages. Lots of c ...|242|2024-09-15|2023-12-29|
 |2|[apple/pkl-pantry](https://github.com/apple/pkl-pantry)|Shared Pkl packages|227|2024-06-04|2024-01-19|
 |3|[JohnnySC/ZeroToHeroAndroidTDD](https://github.com/JohnnySC/ZeroToHeroAndroidTDD)|Learn Android by solving TDD tasks|163|2024-09-13|2023-10-18|
-|4|[langerhans/OdinTools](https://github.com/langerhans/OdinTools)|Collection of utilities for the AYN Odin 2|126|2024-05-25|2024-01-08|
+|4|[langerhans/OdinTools](https://github.com/langerhans/OdinTools)|Collection of utilities for the AYN Odin 2|127|2024-05-25|2024-01-08|
 |5|[petros-efthymiou/DailyPulse](https://github.com/petros-efthymiou/DailyPulse)|Education repo offered as material in the courses: Kotlin Multiplatform & Compose Multiplatform Masterclasses.|116|2024-05-02|2023-11-24|
 |6|[fethij/Rijksmuseum](https://github.com/fethij/Rijksmuseum)|Delve into the rich collection of masterpieces.|111|2024-07-25|2024-05-29|
 |7|[fibelatti/photo-widget](https://github.com/fibelatti/photo-widget)|Photo Widget is as simple as it can be: an Android home screen widget to display a photo or collection of photos. It is a free, no-ads, open source alternative for people who want to customize their h ...|102|2024-09-15|2023-10-24|
@@ -21,7 +21,7 @@
 |14|[eslamfaisal/android-development-training](https://github.com/eslamfaisal/android-development-training)|Online Android development training to move you from basics to production ready, learning android concepts to create and maintains android projects|53|2024-08-08|2024-02-14|
 |15|[SEAbdulbasit/Camera-KMP](https://github.com/SEAbdulbasit/Camera-KMP)|This repository provides a comprehensive example of how to use the camera in a Kotlin Multiplatform (KMP) project. It demonstrates the implementation of camera functionality across multiple platforms, ...|42|2024-06-02|2024-05-25|
 |16|[wisemuji/compose-would-you-rather-game](https://github.com/wisemuji/compose-would-you-rather-game)|📱 Compose Multiplatform, 100% UI shared by Compose, generates contents by Gemini|39|2024-09-05|2024-07-25|
-|17|[nain-F49FF806/sharepaste.oo](https://github.com/nain-F49FF806/sharepaste.oo)|Share pastes privately, with end to end encryption.|39|2024-09-16|2024-04-05|
+|17|[nain-F49FF806/sharepaste.oo](https://github.com/nain-F49FF806/sharepaste.oo)|Share pastes privately, with end to end encryption.|39|2024-09-17|2024-04-05|
 |18|[enmanuel52/Pop-Corns](https://github.com/enmanuel52/Pop-Corns)|Can you guess the best way to eat them? Of course watching a movie :).|38|2024-08-31|2023-10-11|
 |19|[ChathuraHettiarachchi/SharedTransitionScope-JetpackCompose-Try](https://github.com/ChathuraHettiarachchi/SharedTransitionScope-JetpackCompose-Try)|Try out new SharedTransitionScope API on Jetpack Compose. This is not well coded, just for testing the API, so don't think much about the implementation :p|37|2024-04-19|2024-04-19|
 |20|[issever22/iCore](https://github.com/issever22/iCore)|iCore is a comprehensive Android library designed to streamline the development process by providing a robust set of modular components. With built-in support for the Model-View-ViewModel (MVVM) archi ...|32|2024-07-26|2024-06-03|
@@ -36,11 +36,11 @@
 |29|[amsavarthan/reaction-picker](https://github.com/amsavarthan/reaction-picker)|💙 Facebook-like reaction picker library for Android using Jetpack compose|20|2024-04-17|2024-04-01|
 |30|[nomisRev/KotlinConf2024Example](https://github.com/nomisRev/KotlinConf2024Example)|Full production example of: Unlocking the Power of Arrow 2.0: A Comprehensive Guide|17|2024-05-28|2024-05-19|
 |31|[rschattauer/compose_multiplatform](https://github.com/rschattauer/compose_multiplatform)|This project shows how to use kotlin multiplatform with compose and custom ui components for each platform|17|2024-08-21|2024-01-24|
-|32|[MohamedRejeb/ChessGameKmp](https://github.com/MohamedRejeb/ChessGameKmp)|Kotlin Design Patterns & Best Practices - Part 1: Chess Game|15|2024-07-22|2024-07-22|
-|33|[jiemojiemo/LearnMediaCodec](https://github.com/jiemojiemo/LearnMediaCodec)|A Android MediaCodec Tutorial|15|2024-05-28|2024-01-09|
-|34|[isel-leic-pdm/2425i](https://github.com/isel-leic-pdm/2425i)|Repository for Mobile Device Programming course, winter semester of 2024-2025|14|2024-09-16|2024-09-08|
-|35|[rkudryashov/event-driven-architecture](https://github.com/rkudryashov/event-driven-architecture)|Event-driven architecture (Transactional outbox, Inbox, and Saga patterns) on the modern stack of Java  technologies.|14|2024-08-13|2024-07-01|
-|36|[bimalkaf/JetpackCompose_Playground](https://github.com/bimalkaf/JetpackCompose_Playground)|Jetpack Compose code to learn it from scratch |14|2024-06-21|2024-02-22|
+|32|[isel-leic-pdm/2425i](https://github.com/isel-leic-pdm/2425i)|Repository for Mobile Device Programming course, winter semester of 2024-2025|16|2024-09-16|2024-09-08|
+|33|[MohamedRejeb/ChessGameKmp](https://github.com/MohamedRejeb/ChessGameKmp)|Kotlin Design Patterns & Best Practices - Part 1: Chess Game|15|2024-07-22|2024-07-22|
+|34|[bimalkaf/JetpackCompose_Playground](https://github.com/bimalkaf/JetpackCompose_Playground)|Jetpack Compose code to learn it from scratch |15|2024-06-21|2024-02-22|
+|35|[jiemojiemo/LearnMediaCodec](https://github.com/jiemojiemo/LearnMediaCodec)|A Android MediaCodec Tutorial|15|2024-05-28|2024-01-09|
+|36|[rkudryashov/event-driven-architecture](https://github.com/rkudryashov/event-driven-architecture)|Event-driven architecture (Transactional outbox, Inbox, and Saga patterns) on the modern stack of Java  technologies.|14|2024-08-13|2024-07-01|
 |37|[jggomez/AndroidMediaPipe](https://github.com/jggomez/AndroidMediaPipe)|Some examples with MediaPipe|14|2024-04-01|2023-11-13|
 |38|[tunjid/composables](https://github.com/tunjid/composables)|A collection of utility composable functions|13|2024-09-13|2024-03-05|
 |39|[B1ays/ficbook-reader](https://github.com/B1ays/ficbook-reader)|Клиент для сайта ficbook.net|13|2024-08-24|2023-10-26|

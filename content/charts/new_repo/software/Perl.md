@@ -1,17 +1,17 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Perl
-<sub>Updated: 2024-09-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-09-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[bagder/emails](https://github.com/bagder/emails)|emails I received|225|2024-09-12|2024-01-11|
 |2|[HexaCluster/pgdsat](https://github.com/HexaCluster/pgdsat)|PostgreSQL Database Security Assessment Tool|204|2024-06-10|2024-04-08|
-|3|[ivanreese/2222](https://github.com/ivanreese/2222)|A tiny, silly game that you can program with anything.|48|2024-09-14|2024-07-10|
+|3|[ivanreese/2222](https://github.com/ivanreese/2222)|A tiny, silly game that you can program with anything.|49|2024-09-14|2024-07-10|
 |4|[michaelherger/lms-plugin-tidal](https://github.com/michaelherger/lms-plugin-tidal)|A TIDAL plugin to integrate with the Lyrion Music Server (fka. Logitech Media Server)|43|2024-08-29|2024-02-08|
 |5|[philippe44/lms-deezer](https://github.com/philippe44/lms-deezer)|-|35|2024-07-07|2024-02-17|
 |6|[ZANSIN-sec/ZANSIN](https://github.com/ZANSIN-sec/ZANSIN)|-|29|2024-06-03|2023-12-07|
-|7|[LMS-Community/lms-community.github.io](https://github.com/LMS-Community/lms-community.github.io)|This is the web page for the Lyrion Music Server Community repository|26|2024-09-16|2024-01-08|
+|7|[LMS-Community/lms-community.github.io](https://github.com/LMS-Community/lms-community.github.io)|This is the web page for the Lyrion Music Server Community repository|26|2024-09-17|2024-01-08|
 |8|[Cyclenerd/aws-pricing](https://github.com/Cyclenerd/aws-pricing)|💸 Choose the optimal Amazon EC2 instance type in the many AWS locations|23|2024-09-13|2024-02-22|
 |9|[FZJ-JSC/LLview](https://github.com/FZJ-JSC/LLview)|HPC Monitoring Tool|21|2024-07-10|2023-11-03|
 |10|[joz-k/ios_backup_extractor](https://github.com/joz-k/ios_backup_extractor)|iOS backup media extraction tool (photos, videos)|20|2024-09-06|2023-11-06|
@@ -23,10 +23,10 @@
 |16|[tseemann/scripts](https://github.com/tseemann/scripts)|Miscellaneous Perl scripts from 20 years in microbial bioinformatics|16|2024-07-16|2024-07-15|
 |17|[andrii-suse/sypper](https://github.com/andrii-suse/sypper)|-|15|2024-08-27|2024-01-10|
 |18|[Berkeley-CS162/cs162-workspace](https://github.com/Berkeley-CS162/cs162-workspace)|-|15|2024-08-30|2024-01-02|
-|19|[instriq/security-gate](https://github.com/instriq/security-gate)|Simple and pratical security gate for Github Security Alerts|15|2024-09-11|2023-09-21|
+|19|[instriq/security-gate](https://github.com/instriq/security-gate)|Simple and pratical security gate for Github Security Alerts|15|2024-09-17|2023-09-21|
 |20|[uav4geo/Thermal-Tools](https://github.com/uav4geo/Thermal-Tools)|Convert DJI thermal images (RJPEG) into temperature TIFFs for use with WebODM. 🌡|14|2024-07-22|2024-07-07|
 |21|[DerekPascarella/JungRhythm-EnglishPatchSaturn](https://github.com/DerekPascarella/JungRhythm-EnglishPatchSaturn)|English translation patch for the Sega Saturn game "Jung Rhythm".|14|2024-05-28|2024-04-18|
-|22|[fglock/PerlOnJava](https://github.com/fglock/PerlOnJava)|An implementation of the Perl programming language designed to run on the Java platform|13|2024-09-16|2024-08-02|
+|22|[fglock/PerlOnJava](https://github.com/fglock/PerlOnJava)|An implementation of the Perl programming language designed to run on the Java platform|13|2024-09-17|2024-08-02|
 |23|[KylerCondran/WarCappin](https://github.com/KylerCondran/WarCappin)|WiFi Hacking: Autonomously man in the middle deauthenticate WPA2 wireless networks and packet capture the three way handshake for offline cracking using Kali Linux and a WiFi antenna.|13|2024-03-21|2024-03-21|
 |24|[sspiff/lms-plugin-pyrrha](https://github.com/sspiff/lms-plugin-pyrrha)|Pyrrha - Daughter of Pandora|13|2024-05-03|2024-02-10|
 |25|[sishuowang/Solutions_Manual_CME2006_MESA2014](https://github.com/sishuowang/Solutions_Manual_CME2006_MESA2014)|A solutions manual for all excercises in the Ziheng Yang's two seminall books on statistical molecular evolution: Computational Molecular Evolution (Yang 2006) and Molecular Evolution: A Statistical A ...|12|2024-08-16|2023-10-24|
@@ -39,13 +39,13 @@
 |32|[jantman/docker-zoneminder](https://github.com/jantman/docker-zoneminder)|Modern, best-practices Debian-based Zoneminder container|10|2024-08-18|2023-11-28|
 |33|[andreypopp/ppx_deriving_json](https://github.com/andreypopp/ppx_deriving_json)|Generate JSON encoders/decoders for OCaml data types|10|2024-04-30|2023-11-14|
 |34|[Wenfei-Xian/TIPP](https://github.com/Wenfei-Xian/TIPP)|Telomere local assembly, Improved whole genome polish, and Plastid assembly|10|2024-09-08|2023-10-24|
-|35|[tree-sitter/fuzz-action](https://github.com/tree-sitter/fuzz-action)|Input fuzzing action for tree-sitter parsers|9|2024-05-12|2024-02-24|
-|36|[shining0611armor/Hardware-Implementation-of-Termo-Reporter-Using-FSK-Telecommunication-Module](https://github.com/shining0611armor/Hardware-Implementation-of-Termo-Reporter-Using-FSK-Telecommunication-Module)|This project helps to monitor the temperature and transmit the data over a long distance, up to 1 kilometer, using two ATmega32 AVR microcontrollers.|8|2024-07-29|2024-07-29|
-|37|[takehaya/Sys-Ebpf](https://github.com/takehaya/Sys-Ebpf)|perl-ebpf is a pure-perl library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.|8|2024-09-14|2024-07-03|
-|38|[JFFleming/BOSTIn](https://github.com/JFFleming/BOSTIn)|BOSTIn is a new, user-friendly phylogenetic artifact identification package.|8|2024-08-15|2024-04-08|
-|39|[sje30/ess-unigd](https://github.com/sje30/ess-unigd)|-|8|2024-03-22|2024-03-21|
-|40|[smtiitm/Fastspeech2_HS](https://github.com/smtiitm/Fastspeech2_HS)|Indic TTS for Indian Languages: This is a project on developing text-to-speech (TTS) synthesis systems for Indian languages, improving quality of synthesis, as well as small foot print TTS integrated  ...|8|2024-05-06|2024-03-19|
-|41|[signalwire/digital_employees](https://github.com/signalwire/digital_employees)|-|8|2024-09-04|2024-02-07|
+|35|[smtiitm/Fastspeech2_HS](https://github.com/smtiitm/Fastspeech2_HS)|Indic TTS for Indian Languages: This is a project on developing text-to-speech (TTS) synthesis systems for Indian languages, improving quality of synthesis, as well as small foot print TTS integrated  ...|9|2024-05-06|2024-03-19|
+|36|[tree-sitter/fuzz-action](https://github.com/tree-sitter/fuzz-action)|Input fuzzing action for tree-sitter parsers|9|2024-05-12|2024-02-24|
+|37|[shining0611armor/Hardware-Implementation-of-Termo-Reporter-Using-FSK-Telecommunication-Module](https://github.com/shining0611armor/Hardware-Implementation-of-Termo-Reporter-Using-FSK-Telecommunication-Module)|This project helps to monitor the temperature and transmit the data over a long distance, up to 1 kilometer, using two ATmega32 AVR microcontrollers.|8|2024-07-29|2024-07-29|
+|38|[takehaya/Sys-Ebpf](https://github.com/takehaya/Sys-Ebpf)|perl-ebpf is a pure-perl library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.|8|2024-09-14|2024-07-03|
+|39|[JFFleming/BOSTIn](https://github.com/JFFleming/BOSTIn)|BOSTIn is a new, user-friendly phylogenetic artifact identification package.|8|2024-08-15|2024-04-08|
+|40|[sje30/ess-unigd](https://github.com/sje30/ess-unigd)|-|8|2024-03-22|2024-03-21|
+|41|[signalwire/digital_employees](https://github.com/signalwire/digital_employees)|-|8|2024-09-17|2024-02-07|
 |42|[EarthScope/fetch-scripts](https://github.com/EarthScope/fetch-scripts)|-|8|2024-04-22|2024-01-02|
 |43|[apposed/jaunch](https://github.com/apposed/jaunch)|Launch Programs 𝙔𝙤𝙪𝙧 Way! 🍔|8|2024-07-31|2023-12-04|
 |44|[TheWatcher01/holbertonschool-low_level_programming](https://github.com/TheWatcher01/holbertonschool-low_level_programming)|This is my first repository for holbertonschool-low_level_programming|8|2024-05-11|2023-10-13|
@@ -80,10 +80,10 @@
 |73|[chrisarg/task-memmanager](https://github.com/chrisarg/task-memmanager)|-|3|2024-08-25|2024-08-24|
 |74|[Gystek/namaz](https://github.com/Gystek/namaz)|Simple script to calculate namaz times at a given location|3|2024-08-29|2024-08-24|
 |75|[anhsirk0/create-ts-app](https://github.com/anhsirk0/create-ts-app)|Simple script to setup empty ts projects.|3|2024-08-24|2024-08-11|
-|76|[saiftynet/particles](https://github.com/saiftynet/particles)|Simulations for particle motion|3|2024-09-15|2024-08-09|
+|76|[saiftynet/particles](https://github.com/saiftynet/particles)|Simulations for particle motion|3|2024-09-16|2024-08-09|
 |77|[Han-0107/hspice_by_python](https://github.com/Han-0107/hspice_by_python)|There is no PySpice for hspice, so there is the method which uses Python and hspice to simulate circuits|3|2024-08-12|2024-08-03|
 |78|[puppygirlhornypost/icescripts](https://github.com/puppygirlhornypost/icescripts)|scripts for iceshrimp.NET|3|2024-08-13|2024-07-28|
-|79|[Desbeers/ChordProMac](https://github.com/Desbeers/ChordProMac)|A SwiftUI wrapper for the ChordPro program|3|2024-09-15|2024-05-26|
+|79|[Desbeers/ChordProMac](https://github.com/Desbeers/ChordProMac)|A SwiftUI wrapper for the ChordPro program|3|2024-09-17|2024-05-26|
 |80|[Rafaelmdcarneiro/qt](https://github.com/Rafaelmdcarneiro/qt)|-|3|2024-05-24|2024-05-24|
 |81|[ethandicks/cbmsymbols](https://github.com/ethandicks/cbmsymbols)| Lists of ROM entry points and zero page addresses for various CBM 8-bit machines (PET, VIC-20, C64) generated directly from assembler listing files|3|2024-07-08|2024-05-22|
 |82|[rainer042/geteltorito](https://github.com/rainer042/geteltorito)|An El Torito boot image extractor|3|2024-06-04|2024-05-21|
@@ -132,26 +132,24 @@
 |125|[Awrsha/QIAU-Bachelor-of-Computer-Enginnering](https://github.com/Awrsha/QIAU-Bachelor-of-Computer-Enginnering)|This repository contains projects developed by students of the Bachelor of Computer Engineering program at Qazvin Islamic Azad University (QIAU). The projects cover various topics in computer engineer ...|2|2024-04-14|2024-04-07|
 |126|[bernd-ulmann/tms9900_assembler](https://github.com/bernd-ulmann/tms9900_assembler)|-|2|2024-04-05|2024-04-05|
 |127|[trizen/Compression-Util](https://github.com/trizen/Compression-Util)|Implementation of various techniques used in data compression.|2|2024-08-09|2024-03-21|
-|128|[emtee40/dynamix-bergware_unraid6](https://github.com/emtee40/dynamix-bergware_unraid6)|-|2|2024-03-18|2024-03-18|
-|129|[EvanK/aws-eventbridge-schedule-expressions-regex](https://github.com/EvanK/aws-eventbridge-schedule-expressions-regex)|Massively complex regular expression to validate AWS EventBridge scheduling expressions|2|2024-04-25|2024-03-14|
-|130|[Luncheon-OS/Luncheon-OS](https://github.com/Luncheon-OS/Luncheon-OS)|A Steam Deck UI gaming OS using custom software with Valve software.|2|2024-03-25|2024-03-13|
-|131|[luisf09/jr_docker_ic](https://github.com/luisf09/jr_docker_ic)|This is a docker container for JR Concurrent Language programming |2|2024-06-30|2024-02-26|
-|132|[OpenIPC/majestic-webui](https://github.com/OpenIPC/majestic-webui)|Web interface for OpenIPC firmware.|2|2024-06-06|2024-02-16|
-|133|[Kreablo/koha-plugin-libris-delete-holding](https://github.com/Kreablo/koha-plugin-libris-delete-holding)|Koha plugin for automatic deletion of Libris holdings|2|2024-08-05|2024-02-06|
-|134|[Gruoningensis/a2actl](https://github.com/Gruoningensis/a2actl)|Scripts voor het signaleren van veel voorkomende fouten in Burgerlijke Stand akten|2|2024-07-28|2024-01-25|
-|135|[ashkl/aui-api](https://github.com/ashkl/aui-api)|Custom API for KLWP AUI phone live wallpaper|2|2024-05-30|2024-01-18|
-|136|[davorg-cpan/app-mergecal](https://github.com/davorg-cpan/app-mergecal)|Command-line program to merge iCal calendars|2|2024-07-07|2024-01-11|
-|137|[pulibrary/oclcpinyin](https://github.com/pulibrary/oclcpinyin)|-|2|2024-07-10|2023-12-27|
-|138|[Orvidius/edastro](https://github.com/Orvidius/edastro)|EDAstro backup repo|2|2024-08-13|2023-12-09|
-|139|[schnz/dotfiles](https://github.com/schnz/dotfiles)|My opiniated personal dotfiles|2|2024-06-17|2023-11-28|
-|140|[kupietools/_format-FM-calc-automator-workflow](https://github.com/kupietools/_format-FM-calc-automator-workflow)|An Automator workflow for OS X which creates a system service that visually formats FileMaker Pro calculations for easy readability, in any app in the system, even outside of FileMaker.|2|2024-06-09|2023-11-22|
-|141|[sanko/At.pm](https://github.com/sanko/At.pm)|The Bluesky Protocol for Social Networking in Perl|2|2024-08-12|2023-11-22|
-|142|[Pa3u3u/tea](https://github.com/Pa3u3u/tea)|A script that displays progress of a timer via notify-send, intended for tea brewing|2|2024-03-27|2023-11-12|
-|143|[YSHebron/scl-bioinfo](https://github.com/YSHebron/scl-bioinfo)|A bioinformatics project that aims to augment, extend, and integrate computational methods for predicting problematic Protein Complexes from noisy PPINs and improve their performance.|2|2024-07-03|2023-11-08|
-|144|[oyed/dotfiles](https://github.com/oyed/dotfiles)|arch btw|2|2024-06-03|2023-11-04|
-|145|[oushujun/Maize_TE_Protocol](https://github.com/oushujun/Maize_TE_Protocol)|A repository to host scripts created for maize TE annotation protocols|2|2024-08-12|2023-11-03|
-|146|[howerj/subleq-perl](https://github.com/howerj/subleq-perl)|Perl N-Bit SUBLEQ interpreter with an eForth image|2|2024-05-03|2023-10-03|
-|147|[w1ldc4rd-w1z4rd/minimalist-magic](https://github.com/w1ldc4rd-w1z4rd/minimalist-magic)|Perl package, "mm", offering a suite of subroutines for streamlined command-line tasks, from colored printing to OpenAI API integration.|2|2024-03-18|2023-09-18|
+|128|[EvanK/aws-eventbridge-schedule-expressions-regex](https://github.com/EvanK/aws-eventbridge-schedule-expressions-regex)|Massively complex regular expression to validate AWS EventBridge scheduling expressions|2|2024-04-25|2024-03-14|
+|129|[Luncheon-OS/Luncheon-OS](https://github.com/Luncheon-OS/Luncheon-OS)|A Steam Deck UI gaming OS using custom software with Valve software.|2|2024-03-25|2024-03-13|
+|130|[luisf09/jr_docker_ic](https://github.com/luisf09/jr_docker_ic)|This is a docker container for JR Concurrent Language programming |2|2024-06-30|2024-02-26|
+|131|[OpenIPC/majestic-webui](https://github.com/OpenIPC/majestic-webui)|Web interface for OpenIPC firmware.|2|2024-06-06|2024-02-16|
+|132|[Kreablo/koha-plugin-libris-delete-holding](https://github.com/Kreablo/koha-plugin-libris-delete-holding)|Koha plugin for automatic deletion of Libris holdings|2|2024-08-05|2024-02-06|
+|133|[Gruoningensis/a2actl](https://github.com/Gruoningensis/a2actl)|Scripts voor het signaleren van veel voorkomende fouten in Burgerlijke Stand akten|2|2024-07-28|2024-01-25|
+|134|[ashkl/aui-api](https://github.com/ashkl/aui-api)|Custom API for KLWP AUI phone live wallpaper|2|2024-05-30|2024-01-18|
+|135|[davorg-cpan/app-mergecal](https://github.com/davorg-cpan/app-mergecal)|Command-line program to merge iCal calendars|2|2024-07-07|2024-01-11|
+|136|[pulibrary/oclcpinyin](https://github.com/pulibrary/oclcpinyin)|-|2|2024-07-10|2023-12-27|
+|137|[Orvidius/edastro](https://github.com/Orvidius/edastro)|EDAstro backup repo|2|2024-08-13|2023-12-09|
+|138|[schnz/dotfiles](https://github.com/schnz/dotfiles)|My opiniated personal dotfiles|2|2024-06-17|2023-11-28|
+|139|[kupietools/_format-FM-calc-automator-workflow](https://github.com/kupietools/_format-FM-calc-automator-workflow)|An Automator workflow for OS X which creates a system service that visually formats FileMaker Pro calculations for easy readability, in any app in the system, even outside of FileMaker.|2|2024-06-09|2023-11-22|
+|140|[sanko/At.pm](https://github.com/sanko/At.pm)|The Bluesky Protocol for Social Networking in Perl|2|2024-08-12|2023-11-22|
+|141|[Pa3u3u/tea](https://github.com/Pa3u3u/tea)|A script that displays progress of a timer via notify-send, intended for tea brewing|2|2024-03-27|2023-11-12|
+|142|[YSHebron/scl-bioinfo](https://github.com/YSHebron/scl-bioinfo)|A bioinformatics project that aims to augment, extend, and integrate computational methods for predicting problematic Protein Complexes from noisy PPINs and improve their performance.|2|2024-07-03|2023-11-08|
+|143|[oyed/dotfiles](https://github.com/oyed/dotfiles)|arch btw|2|2024-06-03|2023-11-04|
+|144|[oushujun/Maize_TE_Protocol](https://github.com/oushujun/Maize_TE_Protocol)|A repository to host scripts created for maize TE annotation protocols|2|2024-08-12|2023-11-03|
+|145|[howerj/subleq-perl](https://github.com/howerj/subleq-perl)|Perl N-Bit SUBLEQ interpreter with an eForth image|2|2024-05-03|2023-10-03|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
