@@ -1,209 +1,209 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > JavaScript
-<sub>Updated: 2024-09-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-09-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)|freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.|401558|2024-09-18|
-|2|[awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)|A list of Free Software network services and web applications which can be hosted on your own servers|195029|2024-09-16|
-|3|[trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)|📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings|186909|2024-08-19|
-|4|[airbnb/javascript](https://github.com/airbnb/javascript)|JavaScript Style Guide|144626|2024-08-17|
-|5|[Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code)|Short code snippets for all your development needs|121211|2024-09-18|
-|6|[yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)|💯 Curated coding interview preparation materials for busy software engineers|116961|2024-09-18|
-|7|[ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)|:bathtub: Clean Code concepts adapted for JavaScript|91239|2024-07-29|
-|8|[iptv-org/iptv](https://github.com/iptv-org/iptv)|Collection of publicly available IPTV channels from all over the world|84449|2024-09-18|
-|9|[microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)|24 Lessons, 12 Weeks, Get Started as a Web Developer|83004|2024-09-18|
-|10|[jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)| Now we have become very big, Different from the original idea. Collect premium software in various categories.|75121|2024-09-18|
-|11|[leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts)|📜 33 JavaScript concepts every developer should know.|63088|2024-09-15|
-|12|[azl397985856/leetcode](https://github.com/azl397985856/leetcode)|LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)|54459|2024-08-12|
-|13|[typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react)|Cheatsheets for experienced React developers getting started with TypeScript|45035|2024-09-18|
-|14|[poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)|⭐️  Companies that don't have a broken hiring process|44597|2024-09-17|
-|15|[Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)|30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace.  ...|42735|2024-08-19|
-|16|[yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook)|⚡️ Front End interview preparation materials for busy engineers|41418|2024-09-17|
-|17|[LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)|👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.|39656|2024-08-24|
-|18|[sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions)|List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!|39151|2024-09-18|
-|19|[jondot/awesome-react-native](https://github.com/jondot/awesome-react-native)|Awesome React Native components, news, tools, and learning material!|34519|2024-07-05|
-|20|[TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript)|Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.|32078|2024-09-17|
-|21|[remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs)|A list of semi to fully remote-friendly companies (jobs) in tech.|29112|2024-08-08|
-|22|[standard/standard](https://github.com/standard/standard)|🌟 JavaScript Style Guide, with linter & automatic code fixer|29053|2024-09-13|
-|23|[swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui)|Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.|26328|2024-09-17|
-|24|[Asabeneh/30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React)|30 Days of  React challenge is a step by step guide to learn React in 30 days.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw|25376|2024-08-17|
-|25|[haizlin/fe-interview](https://github.com/haizlin/fe-interview)|前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），6000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……|25278|2024-09-17|
-|26|[viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode)|🎨 A curated list of delightful VS Code packages and resources.|24843|2024-06-21|
+|1|[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)|freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.|401748|2024-09-19|
+|2|[awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)|A list of Free Software network services and web applications which can be hosted on your own servers|195216|2024-09-16|
+|3|[trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)|📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings|186936|2024-08-19|
+|4|[airbnb/javascript](https://github.com/airbnb/javascript)|JavaScript Style Guide|144642|2024-08-17|
+|5|[Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code)|Short code snippets for all your development needs|121222|2024-09-18|
+|6|[yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)|💯 Curated coding interview preparation materials for busy software engineers|117001|2024-09-18|
+|7|[ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)|:bathtub: Clean Code concepts adapted for JavaScript|91247|2024-07-29|
+|8|[iptv-org/iptv](https://github.com/iptv-org/iptv)|Collection of publicly available IPTV channels from all over the world|84487|2024-09-19|
+|9|[microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)|24 Lessons, 12 Weeks, Get Started as a Web Developer|83019|2024-09-18|
+|10|[jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)| Now we have become very big, Different from the original idea. Collect premium software in various categories.|75153|2024-09-19|
+|11|[leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts)|📜 33 JavaScript concepts every developer should know.|63100|2024-09-15|
+|12|[azl397985856/leetcode](https://github.com/azl397985856/leetcode)|LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)|54469|2024-08-12|
+|13|[typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react)|Cheatsheets for experienced React developers getting started with TypeScript|45039|2024-09-18|
+|14|[poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)|⭐️  Companies that don't have a broken hiring process|44605|2024-09-17|
+|15|[Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)|30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace.  ...|42751|2024-08-19|
+|16|[yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook)|⚡️ Front End interview preparation materials for busy engineers|41422|2024-09-17|
+|17|[LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)|👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.|39669|2024-08-24|
+|18|[sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions)|List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!|39173|2024-09-18|
+|19|[jondot/awesome-react-native](https://github.com/jondot/awesome-react-native)|Awesome React Native components, news, tools, and learning material!|34522|2024-07-05|
+|20|[TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript)|Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.|32088|2024-09-17|
+|21|[remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs)|A list of semi to fully remote-friendly companies (jobs) in tech.|29120|2024-08-08|
+|22|[standard/standard](https://github.com/standard/standard)|🌟 JavaScript Style Guide, with linter & automatic code fixer|29060|2024-09-13|
+|23|[swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui)|Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.|26332|2024-09-18|
+|24|[Asabeneh/30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React)|30 Days of  React challenge is a step by step guide to learn React in 30 days.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw|25381|2024-08-17|
+|25|[haizlin/fe-interview](https://github.com/haizlin/fe-interview)|前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），6000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……|25283|2024-09-18|
+|26|[viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode)|🎨 A curated list of delightful VS Code packages and resources.|24851|2024-06-21|
 |27|[goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices)|📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (July 2023)|23954|2024-06-27|
-|28|[sudheerj/javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions)|List of 1000 JavaScript Interview Questions|23663|2024-09-18|
-|29|[MostlyAdequate/mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide)|Mostly adequate guide to FP (in javascript)|23377|2024-09-17|
-|30|[processing/p5.js](https://github.com/processing/p5.js)|p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processin ...|21463|2024-09-18|
-|31|[git-tips/tips](https://github.com/git-tips/tips)|Most commonly used git tips and tricks.|21298|2024-07-05|
-|32|[verekia/js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch)|🛠️⚡ Step-by-step tutorial to build a modern JavaScript stack.|20051|2024-06-05|
-|33|[ethereumbook/ethereumbook](https://github.com/ethereumbook/ethereumbook)|Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood|19764|2024-07-08|
-|34|[MagicMirrorOrg/MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror)|MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assi ...|19674|2024-09-18|
-|35|[you-dont-need/You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore)|List of JavaScript methods which you can use natively + ESLint Plugin|18713|2024-08-07|
-|36|[koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader)|A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web|17922|2024-09-18|
-|37|[yjs/yjs](https://github.com/yjs/yjs)|Shared data types for building collaborative software|16528|2024-09-17|
-|38|[jonasschmedtmann/complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course)|Starter files, final projects, and FAQ for my Complete JavaScript course|15561|2024-08-09|
-|39|[faressoft/terminalizer](https://github.com/faressoft/terminalizer)|🦄 Record your terminal and generate animated gif images or share a web player|15270|2024-08-29|
-|40|[vitejs/awesome-vite](https://github.com/vitejs/awesome-vite)|⚡️ A curated list of awesome things related to Vite.js|14029|2024-09-12|
-|41|[browserslist/browserslist](https://github.com/browserslist/browserslist)|🦔 Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env|12952|2024-08-03|
-|42|[mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements)|𝙃𝙪𝙜𝙚 collection of Tailwind MIT licensed (free) components, sections and templates 😎|12847|2024-05-08|
-|43|[gnab/remark](https://github.com/gnab/remark)|A simple, in-browser, markdown-driven slideshow tool.|12686|2024-06-19|
-|44|[hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books)| :books: Find your next book to read!|11609|2024-08-06|
-|45|[serverless/examples](https://github.com/serverless/examples)|Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework on AWS Lambda, Microsoft Azure, Google Cloud Functions, and more.|11412|2024-09-16|
-|46|[egonSchiele/grokking_algorithms](https://github.com/egonSchiele/grokking_algorithms)|Code for the book Grokking Algorithms (https://amzn.to/29rVyHf)|11392|2024-09-10|
-|47|[kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates)|A collection of awesome readme templates to display on your profile|10755|2024-08-08|
-|48|[jhu-ep-coursera/fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)|Example code for HTML, CSS, and Javascript for Web Developers Coursera Course|10727|2024-08-05|
-|49|[ryanburgess/engineer-manager](https://github.com/ryanburgess/engineer-manager)|A list of engineering manager resource links.|10539|2024-06-27|
-|50|[zotero/zotero](https://github.com/zotero/zotero)|Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your research sources.|10014|2024-09-17|
-|51|[TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum)|The open curriculum for learning web development|9778|2024-09-18|
+|28|[sudheerj/javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions)|List of 1000 JavaScript Interview Questions|23669|2024-09-18|
+|29|[MostlyAdequate/mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide)|Mostly adequate guide to FP (in javascript)|23380|2024-09-17|
+|30|[processing/p5.js](https://github.com/processing/p5.js)|p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processin ...|21464|2024-09-18|
+|31|[git-tips/tips](https://github.com/git-tips/tips)|Most commonly used git tips and tricks.|21301|2024-07-05|
+|32|[verekia/js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch)|🛠️⚡ Step-by-step tutorial to build a modern JavaScript stack.|20049|2024-06-05|
+|33|[ethereumbook/ethereumbook](https://github.com/ethereumbook/ethereumbook)|Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood|19772|2024-07-08|
+|34|[MagicMirrorOrg/MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror)|MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assi ...|19676|2024-09-19|
+|35|[you-dont-need/You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore)|List of JavaScript methods which you can use natively + ESLint Plugin|18714|2024-08-07|
+|36|[koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader)|A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web|17942|2024-09-18|
+|37|[yjs/yjs](https://github.com/yjs/yjs)|Shared data types for building collaborative software|16540|2024-09-17|
+|38|[jonasschmedtmann/complete-javascript-course](https://github.com/jonasschmedtmann/complete-javascript-course)|Starter files, final projects, and FAQ for my Complete JavaScript course|15569|2024-08-09|
+|39|[faressoft/terminalizer](https://github.com/faressoft/terminalizer)|🦄 Record your terminal and generate animated gif images or share a web player|15272|2024-08-29|
+|40|[vitejs/awesome-vite](https://github.com/vitejs/awesome-vite)|⚡️ A curated list of awesome things related to Vite.js|14035|2024-09-12|
+|41|[browserslist/browserslist](https://github.com/browserslist/browserslist)|🦔 Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env|12957|2024-08-03|
+|42|[mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements)|𝙃𝙪𝙜𝙚 collection of Tailwind MIT licensed (free) components, sections and templates 😎|12849|2024-05-08|
+|43|[gnab/remark](https://github.com/gnab/remark)|A simple, in-browser, markdown-driven slideshow tool.|12687|2024-06-19|
+|44|[hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books)| :books: Find your next book to read!|11613|2024-08-06|
+|45|[serverless/examples](https://github.com/serverless/examples)|Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework on AWS Lambda, Microsoft Azure, Google Cloud Functions, and more.|11412|2024-09-18|
+|46|[egonSchiele/grokking_algorithms](https://github.com/egonSchiele/grokking_algorithms)|Code for the book Grokking Algorithms (https://amzn.to/29rVyHf)|11397|2024-09-10|
+|47|[kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates)|A collection of awesome readme templates to display on your profile|10758|2024-08-08|
+|48|[jhu-ep-coursera/fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)|Example code for HTML, CSS, and Javascript for Web Developers Coursera Course|10723|2024-08-05|
+|49|[ryanburgess/engineer-manager](https://github.com/ryanburgess/engineer-manager)|A list of engineering manager resource links.|10537|2024-06-27|
+|50|[zotero/zotero](https://github.com/zotero/zotero)|Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your research sources.|10019|2024-09-17|
+|51|[TheOdinProject/curriculum](https://github.com/TheOdinProject/curriculum)|The open curriculum for learning web development|9790|2024-09-19|
 |52|[Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines)|A curated list of high quality coding style conventions and standards.|9723|2024-06-05|
-|53|[gskinner/regexr](https://github.com/gskinner/regexr)|RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions.|9720|2024-03-27|
-|54|[astrit/css.gg](https://github.com/astrit/css.gg)|700+ Pure CSS, SVG & Figma UI Icons, 6000+ glyphs, patterns, colors and layouts.|9667|2024-08-26|
-|55|[apsdehal/awesome-ctf](https://github.com/apsdehal/awesome-ctf)|A curated list of CTF frameworks, libraries, resources and softwares|9612|2024-07-22|
-|56|[cookpete/react-player](https://github.com/cookpete/react-player)|A React component for playing a variety of URLs, including file paths, YouTube, Facebook, Twitch, SoundCloud, Streamable, Vimeo, Wistia and DailyMotion|9256|2024-07-17|
-|57|[go-shiori/shiori](https://github.com/go-shiori/shiori)|Simple bookmark manager built with Go|9215|2024-09-02|
+|53|[gskinner/regexr](https://github.com/gskinner/regexr)|RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions.|9722|2024-03-27|
+|54|[astrit/css.gg](https://github.com/astrit/css.gg)|700+ Pure CSS, SVG & Figma UI Icons, 6000+ glyphs, patterns, colors and layouts.|9668|2024-08-26|
+|55|[apsdehal/awesome-ctf](https://github.com/apsdehal/awesome-ctf)|A curated list of CTF frameworks, libraries, resources and softwares|9614|2024-07-22|
+|56|[cookpete/react-player](https://github.com/cookpete/react-player)|A React component for playing a variety of URLs, including file paths, YouTube, Facebook, Twitch, SoundCloud, Streamable, Vimeo, Wistia and DailyMotion|9258|2024-07-17|
+|57|[go-shiori/shiori](https://github.com/go-shiori/shiori)|Simple bookmark manager built with Go|9216|2024-09-02|
 |58|[upgundecha/howtheysre](https://github.com/upgundecha/howtheysre)|A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)|9069|2024-07-06|
-|59|[projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates)|Community curated list of templates for the nuclei engine to find security vulnerabilities.|9010|2024-09-18|
-|60|[davidsonfellipe/awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo)|:pencil: A curated list of Web Performance Optimization. Everyone can contribute here!|8327|2024-04-25|
+|59|[projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates)|Community curated list of templates for the nuclei engine to find security vulnerabilities.|9014|2024-09-19|
+|60|[davidsonfellipe/awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo)|:pencil: A curated list of Web Performance Optimization. Everyone can contribute here!|8328|2024-04-25|
 |61|[mediaelement/mediaelement](https://github.com/mediaelement/mediaelement)|HTML5 <audio> or <video> player with support for MP4, WebM, and MP3 as well as HLS, Dash, YouTube, Facebook, SoundCloud and others with a common HTML5 MediaElement API, enabling a consistent UI in all ...|8185|2024-08-15|
-|62|[antonioru/beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks)|🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥|8162|2024-08-30|
-|63|[codecombat/codecombat](https://github.com/codecombat/codecombat)|Game for learning how to code.|7944|2024-09-18|
+|62|[antonioru/beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks)|🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥|8161|2024-08-30|
+|63|[codecombat/codecombat](https://github.com/codecombat/codecombat)|Game for learning how to code.|7944|2024-09-19|
 |64|[mgechev/javascript-algorithms](https://github.com/mgechev/javascript-algorithms)|💻 JavaScript implementations of computer science algorithms|7834|2024-04-22|
-|65|[i18next/i18next](https://github.com/i18next/i18next)| i18next: learn once - translate everywhere|7685|2024-09-10|
-|66|[tangly1024/NotionNext](https://github.com/tangly1024/NotionNext)|使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to s ...|7245|2024-09-18|
-|67|[andreasbm/web-skills](https://github.com/andreasbm/web-skills)|A visual overview of useful skills to learn as a web developer|6932|2024-04-19|
+|65|[i18next/i18next](https://github.com/i18next/i18next)| i18next: learn once - translate everywhere|7686|2024-09-10|
+|66|[tangly1024/NotionNext](https://github.com/tangly1024/NotionNext)|使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to s ...|7253|2024-09-18|
+|67|[andreasbm/web-skills](https://github.com/andreasbm/web-skills)|A visual overview of useful skills to learn as a web developer|6931|2024-04-19|
 |68|[thomaspark/flexboxfroggy](https://github.com/thomaspark/flexboxfroggy)|A game for learning CSS flexbox 🐸|6870|2024-08-23|
-|69|[ygs-code/vue](https://github.com/ygs-code/vue)|vue源码逐行注释分析+40多m的vue源码程序流程图思维导图(vue source code line by line annotation analysis +40 + m vue source code process flow chart mind map)|6774|2024-09-04|
-|70|[tensorflow/tfjs-examples](https://github.com/tensorflow/tfjs-examples)|Examples built with TensorFlow.js|6530|2024-09-16|
-|71|[futurepress/epub.js](https://github.com/futurepress/epub.js)|Enhanced eBooks in the browser.|6402|2024-07-26|
-|72|[berstend/puppeteer-extra](https://github.com/berstend/puppeteer-extra)|💯  Teach puppeteer new tricks through plugins.|6391|2024-07-18|
-|73|[advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf)|Self-hosted audiobook and podcast server|6255|2024-09-17|
-|74|[johnfactotum/foliate](https://github.com/johnfactotum/foliate)|Read e-books in style|6176|2024-09-17|
+|69|[ygs-code/vue](https://github.com/ygs-code/vue)|vue源码逐行注释分析+40多m的vue源码程序流程图思维导图(vue source code line by line annotation analysis +40 + m vue source code process flow chart mind map)|6776|2024-09-04|
+|70|[tensorflow/tfjs-examples](https://github.com/tensorflow/tfjs-examples)|Examples built with TensorFlow.js|6529|2024-09-16|
+|71|[futurepress/epub.js](https://github.com/futurepress/epub.js)|Enhanced eBooks in the browser.|6405|2024-07-26|
+|72|[berstend/puppeteer-extra](https://github.com/berstend/puppeteer-extra)|💯  Teach puppeteer new tricks through plugins.|6392|2024-07-18|
+|73|[advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf)|Self-hosted audiobook and podcast server|6262|2024-09-18|
+|74|[johnfactotum/foliate](https://github.com/johnfactotum/foliate)|Read e-books in style|6179|2024-09-17|
 |75|[jakiestfu/Snap.js](https://github.com/jakiestfu/Snap.js)|A Library for creating beautiful mobile shelfs in Javascript (Facebook and Path style side menus)|5990|2024-03-22|
-|76|[adrianhajdin/project_3D_developer_portfolio](https://github.com/adrianhajdin/project_3D_developer_portfolio)|The most impressive websites in the world use 3D graphics and animations to bring their content to life. Learn how to build your own ThreeJS 3D Developer Portfolio today!|5829|2024-07-27|
+|76|[adrianhajdin/project_3D_developer_portfolio](https://github.com/adrianhajdin/project_3D_developer_portfolio)|The most impressive websites in the world use 3D graphics and animations to bring their content to life. Learn how to build your own ThreeJS 3D Developer Portfolio today!|5834|2024-07-27|
 |77|[documentationjs/documentation](https://github.com/documentationjs/documentation)|:book: documentation for modern JavaScript|5791|2024-04-29|
-|78|[CodeWithHarry/Sigma-Web-Dev-Course](https://github.com/CodeWithHarry/Sigma-Web-Dev-Course)|Source Code for Sigma Web Development Course|5768|2024-08-16|
+|78|[CodeWithHarry/Sigma-Web-Dev-Course](https://github.com/CodeWithHarry/Sigma-Web-Dev-Course)|Source Code for Sigma Web Development Course|5772|2024-08-16|
 |79|[jonschlinkert/remarkable](https://github.com/jonschlinkert/remarkable)|Markdown parser, done right. Commonmark support, extensions, syntax plugins, high speed - all in one. Gulp and metalsmith plugins available. Used by Facebook, Docusaurus and many others! Use https://g ...|5737|2024-05-17|
-|80|[css-doodle/css-doodle](https://github.com/css-doodle/css-doodle)|🎨  A web component for drawing patterns with CSS.|5608|2024-09-15|
+|80|[css-doodle/css-doodle](https://github.com/css-doodle/css-doodle)|🎨  A web component for drawing patterns with CSS.|5608|2024-09-19|
 |81|[floccusaddon/floccus](https://github.com/floccusaddon/floccus)|:cloud: Sync your bookmarks privately across browsers and devices|5581|2024-09-13|
-|82|[module-federation/module-federation-examples](https://github.com/module-federation/module-federation-examples)|Implementation examples of module federation , by the creators of module federation|5536|2024-09-06|
+|82|[module-federation/module-federation-examples](https://github.com/module-federation/module-federation-examples)|Implementation examples of module federation , by the creators of module federation|5537|2024-09-06|
 |83|[cezaraugusto/You-Dont-Know-JS](https://github.com/cezaraugusto/You-Dont-Know-JS)|📗📒 (PT-Br translation) JS Book Series.|5525|2024-09-12|
-|84|[neetcode-gh/leetcode](https://github.com/neetcode-gh/leetcode)|Leetcode solutions|5508|2024-09-17|
-|85|[up-for-grabs/up-for-grabs.net](https://github.com/up-for-grabs/up-for-grabs.net)|This is a list of projects which have curated tasks specifically for new contributors. These issues are a great way to get started with a project, or to help share the load of working on open source p ...|5303|2024-09-18|
+|84|[neetcode-gh/leetcode](https://github.com/neetcode-gh/leetcode)|Leetcode solutions|5510|2024-09-18|
+|85|[up-for-grabs/up-for-grabs.net](https://github.com/up-for-grabs/up-for-grabs.net)|This is a list of projects which have curated tasks specifically for new contributors. These issues are a great way to get started with a project, or to help share the load of working on open source p ...|5305|2024-09-19|
 |86|[ipython-contrib/jupyter_contrib_nbextensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions)|A collection of various notebook extensions for Jupyter|5225|2024-07-04|
-|87|[wesbos/awesome-uses](https://github.com/wesbos/awesome-uses)|A list of /uses pages detailing developer setups, gear, software and configs.|4539|2024-08-30|
-|88|[learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)|Learn the fundamentals of cloud computing|4505|2024-06-12|
+|87|[wesbos/awesome-uses](https://github.com/wesbos/awesome-uses)|A list of /uses pages detailing developer setups, gear, software and configs.|4542|2024-08-30|
+|88|[learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)|Learn the fundamentals of cloud computing|4506|2024-06-12|
 |89|[GoogleChromeLabs/ui-element-samples](https://github.com/GoogleChromeLabs/ui-element-samples)|A collection of prototyped UI elements|4118|2024-09-10|
-|90|[niespodd/browser-fingerprinting](https://github.com/niespodd/browser-fingerprinting)|Analysis of Bot Protection systems with available countermeasures 🚿. How to defeat anti-bot system 👻 and get around browser fingerprinting scripts 🕵️‍♂️ when scraping the web?|4067|2024-07-17|
-|91|[QasimWani/LeetHub](https://github.com/QasimWani/LeetHub)|Automatically sync your leetcode solutions to your github account - top 5 trending GitHub repository|3961|2024-06-07|
-|92|[dortania/OpenCore-Install-Guide](https://github.com/dortania/OpenCore-Install-Guide)|Repo for the OpenCore Install Guide|3782|2024-08-08|
-|93|[marcelscruz/public-apis](https://github.com/marcelscruz/public-apis)|A collaborative list of public APIs for developers|3770|2024-09-17|
+|90|[niespodd/browser-fingerprinting](https://github.com/niespodd/browser-fingerprinting)|Analysis of Bot Protection systems with available countermeasures 🚿. How to defeat anti-bot system 👻 and get around browser fingerprinting scripts 🕵️‍♂️ when scraping the web?|4069|2024-07-17|
+|91|[QasimWani/LeetHub](https://github.com/QasimWani/LeetHub)|Automatically sync your leetcode solutions to your github account - top 5 trending GitHub repository|3962|2024-06-07|
+|92|[dortania/OpenCore-Install-Guide](https://github.com/dortania/OpenCore-Install-Guide)|Repo for the OpenCore Install Guide|3783|2024-08-08|
+|93|[marcelscruz/public-apis](https://github.com/marcelscruz/public-apis)|A collaborative list of public APIs for developers|3778|2024-09-17|
 |94|[rstudio/bookdown](https://github.com/rstudio/bookdown)|Authoring Books and Technical Documents with R Markdown|3747|2024-07-24|
 |95|[tapaswenipathak/Open-Source-Programs](https://github.com/tapaswenipathak/Open-Source-Programs)|A list of open source programs.|3659|2024-08-04|
 |96|[MoonHighway/learning-react](https://github.com/MoonHighway/learning-react)|The code samples for Learning React by Alex Banks and Eve Porcello, published by O'Reilly Media|3576|2024-06-27|
-|97|[hiteshchoudhary/apihub](https://github.com/hiteshchoudhary/apihub)|Your own API Hub to learn and master API interaction. Ideal for frontend, mobile dev and backend developers. |3550|2024-08-27|
-|98|[Xtremilicious/projectlearn-project-based-learning](https://github.com/Xtremilicious/projectlearn-project-based-learning)|A curated list of project tutorials for project-based learning.|3535|2024-09-03|
+|97|[hiteshchoudhary/apihub](https://github.com/hiteshchoudhary/apihub)|Your own API Hub to learn and master API interaction. Ideal for frontend, mobile dev and backend developers. |3554|2024-08-27|
+|98|[Xtremilicious/projectlearn-project-based-learning](https://github.com/Xtremilicious/projectlearn-project-based-learning)|A curated list of project tutorials for project-based learning.|3540|2024-09-03|
 |99|[marionebl/svg-term-cli](https://github.com/marionebl/svg-term-cli)|Share terminal sessions via SVG and CSS|3518|2024-05-01|
 |100|[adrianhajdin/portfolio_website](https://github.com/adrianhajdin/portfolio_website)|Tutorial created by Enyel Sequeira, taught by JavaScript Mastery|3402|2024-07-18|
 |101|[mdn/dom-examples](https://github.com/mdn/dom-examples)|Code examples that accompany various MDN DOM and Web API documentation pages|3396|2024-08-27|
-|102|[2factorauth/twofactorauth](https://github.com/2factorauth/twofactorauth)|List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.|3375|2024-09-18|
-|103|[release-drafter/release-drafter](https://github.com/release-drafter/release-drafter)|Drafts your next release notes as pull requests are merged into master. |3352|2024-07-20|
-|104|[jdorfman/awesome-json-datasets](https://github.com/jdorfman/awesome-json-datasets)|A curated list of awesome JSON datasets that don't require authentication.|3287|2024-07-23|
+|102|[2factorauth/twofactorauth](https://github.com/2factorauth/twofactorauth)|List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.|3376|2024-09-18|
+|103|[release-drafter/release-drafter](https://github.com/release-drafter/release-drafter)|Drafts your next release notes as pull requests are merged into master. |3353|2024-07-20|
+|104|[jdorfman/awesome-json-datasets](https://github.com/jdorfman/awesome-json-datasets)|A curated list of awesome JSON datasets that don't require authentication.|3289|2024-07-23|
 |105|[arkency/reactjs_koans](https://github.com/arkency/reactjs_koans)|Learn basics of React.js making the tests pass|3230|2024-07-08|
-|106|[thomaspark/gridgarden](https://github.com/thomaspark/gridgarden)|A game for learning CSS grid layout 🥕|3190|2024-08-30|
-|107|[EFForg/privacybadger](https://github.com/EFForg/privacybadger)|Privacy Badger is a browser extension that automatically learns to block invisible trackers.|3133|2024-09-16|
-|108|[careercup/CtCI-6th-Edition-JavaScript](https://github.com/careercup/CtCI-6th-Edition-JavaScript)|Cracking the Coding Interview 6th Ed. JavaScript Solutions|3111|2024-07-05|
-|109|[mdn/web-components-examples](https://github.com/mdn/web-components-examples)|A series of web components examples, related to the MDN web components documentation at https://developer.mozilla.org/en-US/docs/Web/Web_Components.|3081|2024-08-10|
-|110|[jonasschmedtmann/ultimate-react-course](https://github.com/jonasschmedtmann/ultimate-react-course)|Starter files, final projects, and FAQ for my Ultimate React course|3067|2024-08-06|
-|111|[cheatsheet1999/FrontEndCollection](https://github.com/cheatsheet1999/FrontEndCollection)|Notes for Fullstack Software Engineers. Covers common data structure and algorithms, web concepts, Javascript / TypeScript, React, and more!|3026|2024-06-09|
-|112|[SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)|A collection of JSON schema files including full API|3020|2024-09-18|
-|113|[WTFAcademy/WTF-Ethers](https://github.com/WTFAcademy/WTF-Ethers)|我最近在重新学ethers.js，巩固一下细节，也写一个“WTF Ethers.js极简入门”，供小白们使用，每周更新1-3讲。Now supports English! 官网: https://wtf.academy|3019|2024-07-29|
+|106|[thomaspark/gridgarden](https://github.com/thomaspark/gridgarden)|A game for learning CSS grid layout 🥕|3189|2024-08-30|
+|107|[EFForg/privacybadger](https://github.com/EFForg/privacybadger)|Privacy Badger is a browser extension that automatically learns to block invisible trackers.|3134|2024-09-16|
+|108|[careercup/CtCI-6th-Edition-JavaScript](https://github.com/careercup/CtCI-6th-Edition-JavaScript)|Cracking the Coding Interview 6th Ed. JavaScript Solutions|3110|2024-07-05|
+|109|[mdn/web-components-examples](https://github.com/mdn/web-components-examples)|A series of web components examples, related to the MDN web components documentation at https://developer.mozilla.org/en-US/docs/Web/Web_Components.|3082|2024-08-10|
+|110|[jonasschmedtmann/ultimate-react-course](https://github.com/jonasschmedtmann/ultimate-react-course)|Starter files, final projects, and FAQ for my Ultimate React course|3070|2024-08-06|
+|111|[cheatsheet1999/FrontEndCollection](https://github.com/cheatsheet1999/FrontEndCollection)|Notes for Fullstack Software Engineers. Covers common data structure and algorithms, web concepts, Javascript / TypeScript, React, and more!|3025|2024-06-09|
+|112|[WTFAcademy/WTF-Ethers](https://github.com/WTFAcademy/WTF-Ethers)|我最近在重新学ethers.js，巩固一下细节，也写一个“WTF Ethers.js极简入门”，供小白们使用，每周更新1-3讲。Now supports English! 官网: https://wtf.academy|3020|2024-07-29|
+|113|[SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)|A collection of JSON schema files including full API|3020|2024-09-19|
 |114|[marijnh/Eloquent-JavaScript](https://github.com/marijnh/Eloquent-JavaScript)|The sources for the Eloquent JavaScript book|3011|2024-08-27|
 |115|[stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github)|A collection of awesome browser extensions for GitHub.|2975|2024-08-18|
-|116|[CleverProgrammers/JavaScript-Course-by-Clever-Programmer-](https://github.com/CleverProgrammers/JavaScript-Course-by-Clever-Programmer-)|This is a full JavaScript course by Clever Programmer|2914|2024-06-20|
+|116|[CleverProgrammers/JavaScript-Course-by-Clever-Programmer-](https://github.com/CleverProgrammers/JavaScript-Course-by-Clever-Programmer-)|This is a full JavaScript course by Clever Programmer|2913|2024-06-20|
 |117|[workshopper/javascripting](https://github.com/workshopper/javascripting)|Learn JavaScript by adventuring around in the terminal.|2857|2024-06-16|
-|118|[csev/py4e](https://github.com/csev/py4e)|Web site for www.py4e.com and source to the Python 3.0 textbook|2848|2024-09-14|
-|119|[adrianhajdin/project_next_14_ai_prompt_sharing](https://github.com/adrianhajdin/project_next_14_ai_prompt_sharing)|Next.js recently became the official React framework as outlined in React docs. In this course, you'll learn the most important Next.js concepts and how they fit into the React ecosystem. Finally, you ...|2799|2024-06-30|
+|118|[csev/py4e](https://github.com/csev/py4e)|Web site for www.py4e.com and source to the Python 3.0 textbook|2851|2024-09-14|
+|119|[adrianhajdin/project_next_14_ai_prompt_sharing](https://github.com/adrianhajdin/project_next_14_ai_prompt_sharing)|Next.js recently became the official React framework as outlined in React docs. In this course, you'll learn the most important Next.js concepts and how they fit into the React ecosystem. Finally, you ...|2803|2024-06-30|
 |120|[iRaul/creative-portfolios](https://github.com/iRaul/creative-portfolios)|🌀  A curated list of Creative Portfolios|2753|2024-07-17|
-|121|[dwyl/learn-tdd](https://github.com/dwyl/learn-tdd)|:white_check_mark: A brief introduction to Test Driven Development (TDD) in JavaScript (Complete Beginner's Step-by-Step Tutorial)|2746|2024-05-06|
-|122|[fishjar/kiss-translator](https://github.com/fishjar/kiss-translator)|A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)|2745|2024-05-30|
-|123|[Pradumnasaraf/DevOps](https://github.com/Pradumnasaraf/DevOps)|I created this repository to keep my learning, notes, and code in one place for various tools in DevOps. Now, it's helping thousands of learners, practitioners, and professionals every day in their De ...|2734|2024-09-18|
-|124|[toss/slash](https://github.com/toss/slash)|A collection of TypeScript/JavaScript packages to build high-quality web services.|2698|2024-08-22|
-|125|[jeeliz/jeelizFaceFilter](https://github.com/jeeliz/jeelizFaceFilter)|Javascript/WebGL lightweight face tracking library designed for augmented reality webcam filters. Features : multiple faces detection, rotation, mouth opening. Various integration examples are provide ...|2678|2024-09-04|
+|121|[fishjar/kiss-translator](https://github.com/fishjar/kiss-translator)|A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)|2751|2024-05-30|
+|122|[dwyl/learn-tdd](https://github.com/dwyl/learn-tdd)|:white_check_mark: A brief introduction to Test Driven Development (TDD) in JavaScript (Complete Beginner's Step-by-Step Tutorial)|2746|2024-05-06|
+|123|[Pradumnasaraf/DevOps](https://github.com/Pradumnasaraf/DevOps)|I created this repository to keep my learning, notes, and code in one place for various tools in DevOps. Now, it's helping thousands of learners, practitioners, and professionals every day in their De ...|2735|2024-09-19|
+|124|[toss/slash](https://github.com/toss/slash)|A collection of TypeScript/JavaScript packages to build high-quality web services.|2700|2024-08-22|
+|125|[jeeliz/jeelizFaceFilter](https://github.com/jeeliz/jeelizFaceFilter)|Javascript/WebGL lightweight face tracking library designed for augmented reality webcam filters. Features : multiple faces detection, rotation, mouth opening. Various integration examples are provide ...|2679|2024-09-04|
 |126|[ObjTube/front-end-roadmap](https://github.com/ObjTube/front-end-roadmap)|Tell you how to learn front end development ~|2622|2024-06-24|
-|127|[poloclub/transformer-explainer](https://github.com/poloclub/transformer-explainer)|Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization|2605|2024-09-05|
-|128|[trailheadapps/lwc-recipes](https://github.com/trailheadapps/lwc-recipes)|A collection of easy-to-digest code examples for Lightning Web Components on Salesforce Platform|2554|2024-09-01|
-|129|[t9tio/open-source-jobs](https://github.com/t9tio/open-source-jobs)|A list of Open Source projects offering jobs.|2425|2024-08-16|
-|130|[mrdavidlaing/javascript-koans](https://github.com/mrdavidlaing/javascript-koans)|Koans to learn Javascript|2403|2024-06-28|
-|131|[chromaui/learnstorybook.com](https://github.com/chromaui/learnstorybook.com)|Static site and content for Storybook tutorials|2401|2024-07-23|
+|127|[poloclub/transformer-explainer](https://github.com/poloclub/transformer-explainer)|Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization|2615|2024-09-05|
+|128|[trailheadapps/lwc-recipes](https://github.com/trailheadapps/lwc-recipes)|A collection of easy-to-digest code examples for Lightning Web Components on Salesforce Platform|2557|2024-09-01|
+|129|[t9tio/open-source-jobs](https://github.com/t9tio/open-source-jobs)|A list of Open Source projects offering jobs.|2427|2024-08-16|
+|130|[mrdavidlaing/javascript-koans](https://github.com/mrdavidlaing/javascript-koans)|Koans to learn Javascript|2404|2024-06-28|
+|131|[chromaui/learnstorybook.com](https://github.com/chromaui/learnstorybook.com)|Static site and content for Storybook tutorials|2402|2024-07-23|
 |132|[meodai/color-names](https://github.com/meodai/color-names)|Large list of handpicked color names 🌈|2368|2024-09-01|
 |133|[zerosoul/chinese-colors](https://github.com/zerosoul/chinese-colors)|🇨🇳🎨Chinese traditional color cheatsheet online|2361|2024-09-15|
-|134|[puppeteer/examples](https://github.com/puppeteer/examples)|Use case-driven examples for using Puppeteer and headless chrome|2357|2024-09-11|
-|135|[CryptozombiesHQ/cryptozombies-lesson-code](https://github.com/CryptozombiesHQ/cryptozombies-lesson-code)|cryptozomebie lesson code|2342|2024-06-29|
+|134|[puppeteer/examples](https://github.com/puppeteer/examples)|Use case-driven examples for using Puppeteer and headless chrome|2358|2024-09-11|
+|135|[CryptozombiesHQ/cryptozombies-lesson-code](https://github.com/CryptozombiesHQ/cryptozombies-lesson-code)|cryptozomebie lesson code|2343|2024-06-29|
 |136|[lukehaas/RegexHub](https://github.com/lukehaas/RegexHub)|A collection of useful regex patterns|2279|2024-04-30|
 |137|[open-wc/open-wc](https://github.com/open-wc/open-wc)|Open Web Components: guides, tools and libraries for developing web components.|2254|2024-09-01|
-|138|[expo/examples](https://github.com/expo/examples)|Example projects that demonstrate how to use Expo APIs and integrate Expo with other popular tools|2237|2024-09-18|
-|139|[n-riesco/ijavascript](https://github.com/n-riesco/ijavascript)|IJavascript is a javascript kernel for the Jupyter notebook|2178|2024-07-03|
-|140|[StephenGrider/EthereumCasts](https://github.com/StephenGrider/EthereumCasts)|Companion repo to an Ethereum/Solidity course on Udemy|2125|2024-05-04|
-|141|[judygab/web-dev-projects](https://github.com/judygab/web-dev-projects)|Projects repo for tutorials for my YouTube Channel|2021|2024-07-01|
-|142|[ellisonleao/sharer.js](https://github.com/ellisonleao/sharer.js)|:on: :bookmark: Create your own social share buttons. No jquery.|2010|2024-08-30|
-|143|[academind/react-complete-guide-course-resources](https://github.com/academind/react-complete-guide-course-resources)|React - The Complete Guide Course Resources (Code, Attachments, Slides)|2006|2024-06-28|
-|144|[sadanandpai/frontend-mini-challenges](https://github.com/sadanandpai/frontend-mini-challenges)|Collection of frontend challenges for learning and interviews|2002|2024-09-03|
-|145|[facebook/fbjs](https://github.com/facebook/fbjs)|A collection of utility libraries used by other Meta JS projects.|1950|2024-06-18|
-|146|[luksa/kubernetes-in-action](https://github.com/luksa/kubernetes-in-action)|Code from the Kubernetes in Action book|1909|2024-06-02|
-|147|[chetannada/Namaste-React](https://github.com/chetannada/Namaste-React)|❤ Namaste React Live Course from Zero to Hero 🚀 by Akshay Saini(Founder of NamasteDev). This repository for Assignment & Class Notes taken during Namaste React Live Course #namaste #javascript #react|1895|2024-09-03|
-|148|[mourner/bullshit.js](https://github.com/mourner/bullshit.js)|A bookmarklet for translating marketing speak into human-readable text. :poop:|1858|2024-05-13|
-|149|[vsmode/pixel8](https://github.com/vsmode/pixel8)|A collection of low-res primitives for creating art and games in React|1829|2024-06-06|
-|150|[LearnPrompt/LearnPrompt](https://github.com/LearnPrompt/LearnPrompt)|永久免费开源的 AIGC 课程, 目前已支持Prompt Engineering, ChatGPT, Midjourney, Runway, Stable Diffusion, AI数字人，AI声音&音乐，开源大模型|1825|2024-09-10|
-|151|[bpmn-io/bpmn-js-examples](https://github.com/bpmn-io/bpmn-js-examples)|Examples how to use bpmn-js|1825|2024-09-16|
-|152|[eliahuhorwitz/Academic-project-page-template](https://github.com/eliahuhorwitz/Academic-project-page-template)|A project page template for academic papers. Demo at https://eliahuhorwitz.github.io/Academic-project-page-template/|1818|2024-09-10|
-|153|[SupaGruen/StableDiffusion-CheatSheet](https://github.com/SupaGruen/StableDiffusion-CheatSheet)|A list of StableDiffusion styles and some notes for offline use. Pure HTML, CSS and a bit of JS.|1797|2024-08-29|
-|154|[LinkedInLearning/javascript-essential-training-2832077](https://github.com/LinkedInLearning/javascript-essential-training-2832077)|This repository is for the Linkedin Learning course: JavaScript Essential Training|1774|2024-07-29|
-|155|[oblador/loki](https://github.com/oblador/loki)|👁 Visual Regression Testing for Storybook|1763|2024-08-27|
-|156|[anisurrahman072/React-Native-Advanced-Guide](https://github.com/anisurrahman072/React-Native-Advanced-Guide)|React Native Advanced Guide Book (iOS & Android) - Be an Expert in 2024 🔥|1758|2024-08-18|
-|157|[kanishka-linux/reminiscence](https://github.com/kanishka-linux/reminiscence)|Self-Hosted Bookmark And Archive Manager|1753|2024-04-23|
-|158|[btholt/complete-intro-to-react-v8](https://github.com/btholt/complete-intro-to-react-v8)|The Complete Intro to React, as taught by Brian Holt on Frontend Masters|1749|2024-06-26|
-|159|[google/eslint-config-google](https://github.com/google/eslint-config-google)|ESLint shareable config for the Google JavaScript style guide|1744|2024-05-30|
-|160|[kieler/elkjs](https://github.com/kieler/elkjs)|ELK's layout algorithms for JavaScript|1739|2024-07-05|
-|161|[zombieFox/nightTab](https://github.com/zombieFox/nightTab)|A neutral new tab page accented with a chosen colour. Customise the layout, style, background and bookmarks with nightTab.|1716|2024-08-31|
-|162|[fbsamples/messenger-platform-samples](https://github.com/fbsamples/messenger-platform-samples)|Messenger Platform samples for sending and receiving messages. Walk through the Get Started with this code. https://developers.facebook.com/docs/messenger-platform/quickstart|1714|2024-05-14|
-|163|[MuYunyun/blog](https://github.com/MuYunyun/blog)|Life is a moment :notebook_with_decorative_cover:|1612|2024-09-18|
-|164|[michalsnik/vue-content-placeholders](https://github.com/michalsnik/vue-content-placeholders)|Composable components for rendering fake (progressive) content like facebook in vue|1587|2024-08-19|
-|165|[tengge1/ShadowEditor](https://github.com/tengge1/ShadowEditor)|Cross-platform 3D scene editor based on three.js, golang and mongodb for desktop and web. https://tengge1.github.io/ShadowEditor-examples/|1583|2024-07-29|
-|166|[discordjs/guide](https://github.com/discordjs/guide)|The official guide for discord.js, created and maintained by core members of its community.|1562|2024-09-11|
-|167|[hacks-guide/Guide_3DS](https://github.com/hacks-guide/Guide_3DS)|A complete guide to 3DS custom firmware, from stock to boot9strap.|1555|2024-09-18|
-|168|[microsoft/PowerBI-Developer-Samples](https://github.com/microsoft/PowerBI-Developer-Samples)|A collection of Power BI samples for developer use.|1534|2024-04-09|
-|169|[phaserjs/examples](https://github.com/phaserjs/examples)|Phaser 3 Examples|1522|2024-09-17|
-|170|[einaregilsson/Redirector](https://github.com/einaregilsson/Redirector)|Browser extension (Firefox, Chrome, Opera, Edge) to redirect urls based on regex patterns, like a client side mod_rewrite.|1504|2024-06-09|
+|138|[n-riesco/ijavascript](https://github.com/n-riesco/ijavascript)|IJavascript is a javascript kernel for the Jupyter notebook|2178|2024-07-03|
+|139|[StephenGrider/EthereumCasts](https://github.com/StephenGrider/EthereumCasts)|Companion repo to an Ethereum/Solidity course on Udemy|2125|2024-05-04|
+|140|[judygab/web-dev-projects](https://github.com/judygab/web-dev-projects)|Projects repo for tutorials for my YouTube Channel|2022|2024-07-01|
+|141|[academind/react-complete-guide-course-resources](https://github.com/academind/react-complete-guide-course-resources)|React - The Complete Guide Course Resources (Code, Attachments, Slides)|2012|2024-06-28|
+|142|[ellisonleao/sharer.js](https://github.com/ellisonleao/sharer.js)|:on: :bookmark: Create your own social share buttons. No jquery.|2009|2024-08-30|
+|143|[sadanandpai/frontend-mini-challenges](https://github.com/sadanandpai/frontend-mini-challenges)|Collection of frontend challenges for learning and interviews|2002|2024-09-03|
+|144|[facebook/fbjs](https://github.com/facebook/fbjs)|A collection of utility libraries used by other Meta JS projects.|1950|2024-06-18|
+|145|[luksa/kubernetes-in-action](https://github.com/luksa/kubernetes-in-action)|Code from the Kubernetes in Action book|1910|2024-06-02|
+|146|[chetannada/Namaste-React](https://github.com/chetannada/Namaste-React)|❤ Namaste React Live Course from Zero to Hero 🚀 by Akshay Saini(Founder of NamasteDev). This repository for Assignment & Class Notes taken during Namaste React Live Course #namaste #javascript #react|1896|2024-09-03|
+|147|[mourner/bullshit.js](https://github.com/mourner/bullshit.js)|A bookmarklet for translating marketing speak into human-readable text. :poop:|1858|2024-05-13|
+|148|[vsmode/pixel8](https://github.com/vsmode/pixel8)|A collection of low-res primitives for creating art and games in React|1829|2024-06-06|
+|149|[LearnPrompt/LearnPrompt](https://github.com/LearnPrompt/LearnPrompt)|永久免费开源的 AIGC 课程, 目前已支持Prompt Engineering, ChatGPT, Midjourney, Runway, Stable Diffusion, AI数字人，AI声音&音乐，开源大模型|1825|2024-09-10|
+|150|[bpmn-io/bpmn-js-examples](https://github.com/bpmn-io/bpmn-js-examples)|Examples how to use bpmn-js|1825|2024-09-16|
+|151|[eliahuhorwitz/Academic-project-page-template](https://github.com/eliahuhorwitz/Academic-project-page-template)|A project page template for academic papers. Demo at https://eliahuhorwitz.github.io/Academic-project-page-template/|1824|2024-09-10|
+|152|[SupaGruen/StableDiffusion-CheatSheet](https://github.com/SupaGruen/StableDiffusion-CheatSheet)|A list of StableDiffusion styles and some notes for offline use. Pure HTML, CSS and a bit of JS.|1797|2024-08-29|
+|153|[LinkedInLearning/javascript-essential-training-2832077](https://github.com/LinkedInLearning/javascript-essential-training-2832077)|This repository is for the Linkedin Learning course: JavaScript Essential Training|1774|2024-07-29|
+|154|[oblador/loki](https://github.com/oblador/loki)|👁 Visual Regression Testing for Storybook|1766|2024-08-27|
+|155|[anisurrahman072/React-Native-Advanced-Guide](https://github.com/anisurrahman072/React-Native-Advanced-Guide)|React Native Advanced Guide Book (iOS & Android) - Be an Expert in 2024 🔥|1761|2024-08-18|
+|156|[kanishka-linux/reminiscence](https://github.com/kanishka-linux/reminiscence)|Self-Hosted Bookmark And Archive Manager|1755|2024-04-23|
+|157|[btholt/complete-intro-to-react-v8](https://github.com/btholt/complete-intro-to-react-v8)|The Complete Intro to React, as taught by Brian Holt on Frontend Masters|1753|2024-06-26|
+|158|[google/eslint-config-google](https://github.com/google/eslint-config-google)|ESLint shareable config for the Google JavaScript style guide|1744|2024-05-30|
+|159|[kieler/elkjs](https://github.com/kieler/elkjs)|ELK's layout algorithms for JavaScript|1739|2024-07-05|
+|160|[zombieFox/nightTab](https://github.com/zombieFox/nightTab)|A neutral new tab page accented with a chosen colour. Customise the layout, style, background and bookmarks with nightTab.|1714|2024-08-31|
+|161|[fbsamples/messenger-platform-samples](https://github.com/fbsamples/messenger-platform-samples)|Messenger Platform samples for sending and receiving messages. Walk through the Get Started with this code. https://developers.facebook.com/docs/messenger-platform/quickstart|1714|2024-05-14|
+|162|[MuYunyun/blog](https://github.com/MuYunyun/blog)|Life is a moment :notebook_with_decorative_cover:|1612|2024-09-19|
+|163|[michalsnik/vue-content-placeholders](https://github.com/michalsnik/vue-content-placeholders)|Composable components for rendering fake (progressive) content like facebook in vue|1587|2024-08-19|
+|164|[tengge1/ShadowEditor](https://github.com/tengge1/ShadowEditor)|Cross-platform 3D scene editor based on three.js, golang and mongodb for desktop and web. https://tengge1.github.io/ShadowEditor-examples/|1583|2024-07-29|
+|165|[discordjs/guide](https://github.com/discordjs/guide)|The official guide for discord.js, created and maintained by core members of its community.|1562|2024-09-11|
+|166|[hacks-guide/Guide_3DS](https://github.com/hacks-guide/Guide_3DS)|A complete guide to 3DS custom firmware, from stock to boot9strap.|1555|2024-09-18|
+|167|[microsoft/PowerBI-Developer-Samples](https://github.com/microsoft/PowerBI-Developer-Samples)|A collection of Power BI samples for developer use.|1534|2024-04-09|
+|168|[phaserjs/examples](https://github.com/phaserjs/examples)|Phaser 3 Examples|1522|2024-09-17|
+|169|[einaregilsson/Redirector](https://github.com/einaregilsson/Redirector)|Browser extension (Firefox, Chrome, Opera, Edge) to redirect urls based on regex patterns, like a client side mod_rewrite.|1504|2024-06-09|
+|170|[strapi-community/awesome-strapi](https://github.com/strapi-community/awesome-strapi)|A curated list of awesome things related to Strapi|1502|2024-06-30|
 |171|[montagejs/montage](https://github.com/montagejs/montage)|Montage is an elegant, open source HTML5 framework maintained by Montage Studio that rivals native SDKs, yet is easier to learn. It offers modular components, two-way data binding, and much more. Join ...|1502|2024-05-28|
-|172|[strapi-community/awesome-strapi](https://github.com/strapi-community/awesome-strapi)|A curated list of awesome things related to Strapi|1501|2024-06-30|
-|173|[ajayns/react-projects](https://github.com/ajayns/react-projects)|A collection of projects built on the React library|1489|2024-08-19|
-|174|[stackgl/webgl-workshop](https://github.com/stackgl/webgl-workshop)|:mortar_board: The sequel to shader-school: Learn the WebGL API|1488|2024-04-06|
-|175|[debezium/debezium-examples](https://github.com/debezium/debezium-examples)|Examples for running Debezium (Configuration, Docker Compose files etc.)|1483|2024-09-16|
-|176|[stimulus-use/stimulus-use](https://github.com/stimulus-use/stimulus-use)|A collection of composable behaviors for your Stimulus Controllers|1478|2024-09-17|
-|177|[mschwarzmueller/nextjs-course-code](https://github.com/mschwarzmueller/nextjs-course-code)|Source code for my NextJS course (https://acad.link/nextjs)|1477|2024-05-19|
-|178|[knaxus/problem-solving-javascript](https://github.com/knaxus/problem-solving-javascript)| :fire: Crack you JS interviews ⚡ Collection of most common JS Interview questions with Unit Tests 🚀|1452|2024-05-05|
-|179|[hjwp/book-example](https://github.com/hjwp/book-example)|Example code for my book on TDD with Python|1451|2024-09-18|
-|180|[alok722/namaste-javascript-notes](https://github.com/alok722/namaste-javascript-notes)|It maintains my version of namaste js notes which I learnt from Namaste JS YouTube Playlist by Akshay Saini (@akshaymarch7).|1427|2024-07-31|
-|181|[hueitan/javascript-sdk-design](https://github.com/hueitan/javascript-sdk-design)|JavaScript SDK Design Guide extracted from work and personal experience|1420|2024-07-10|
-|182|[adrianhajdin/project_modern_ui_ux_restaurant](https://github.com/adrianhajdin/project_modern_ui_ux_restaurant)|This is a code repository for the corresponding video tutorial. In this video, we're going to build a Modern UI/UX Restaurant Landing Page Website|1408|2024-05-09|
-|183|[adrianhajdin/brainwave](https://github.com/adrianhajdin/brainwave)|Learn to create modern websites with sleek parallax effects and bento box layouts. This course covers everything from stylish UI design to mobile-first principles while strengthening your React.js and ...|1401|2024-08-08|
-|184|[archtaurus/RetroPieBIOS](https://github.com/archtaurus/RetroPieBIOS)|Full BIOS collection for RetroPie|1399|2024-08-25|
-|185|[heiseonline/shariff](https://github.com/heiseonline/shariff)|👮 Shariff enables website users to share their favorite content without compromising their privacy.|1399|2024-07-25|
-|186|[ehmicky/cross-platform-node-guide](https://github.com/ehmicky/cross-platform-node-guide)|📗 How to write cross-platform Node.js code|1393|2024-09-14|
-|187|[stylelint/stylelint-config-standard](https://github.com/stylelint/stylelint-config-standard)|The standard shareable config for Stylelint|1377|2024-09-02|
-|188|[btholt/complete-intro-to-web-dev-v3](https://github.com/btholt/complete-intro-to-web-dev-v3)|The Complete Intro to Web Dev v3, as taught on Frontend Masters|1375|2024-08-13|
-|189|[supermedium/superframe](https://github.com/supermedium/superframe)|:package: A super collection of A-Frame components.|1367|2024-03-25|
-|190|[danthareja/contribute-to-open-source](https://github.com/danthareja/contribute-to-open-source)|[STILL ACTIVE] Learn the GitHub workflow by contributing code in a fun simulation project|1357|2024-09-17|
-|191|[discord/discord-open-source](https://github.com/discord/discord-open-source)|List of open source communities living on Discord|1353|2024-06-20|
-|192|[processing/p5.js-web-editor](https://github.com/processing/p5.js-web-editor)|The p5.js Editor is a website for creating p5.js sketches, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else! You can create, share,  ...|1346|2024-09-16|
-|193|[fhsinchy/docker-handbook-projects](https://github.com/fhsinchy/docker-handbook-projects)|Project codes used in "The Docker Handbook"|1337|2024-05-30|
-|194|[ishtms/learn-nodejs-hard-way](https://github.com/ishtms/learn-nodejs-hard-way)|Learn NodeJS and master the art of server-side programming by creating a backend framework with 0 dependencies.|1321|2024-09-04|
-|195|[sdras/vue-vscode-snippets](https://github.com/sdras/vue-vscode-snippets)|These snippets were built to supercharge my workflow in the most seamless manner possible.|1321|2024-05-28|
-|196|[reactplay/react-play](https://github.com/reactplay/react-play)|react-play is an opensource platform that helps you learn ReactJS faster with hands-on practice model. It is a collection of projects that you can use to learn ReactJS.|1317|2024-09-08|
-|197|[Bistutu/FluentRead](https://github.com/Bistutu/FluentRead)|拥有基于上下文语境的人工智能翻译引擎，为网站提供更加友好的翻译，让所有人都能够拥有基于母语般的阅读体验。|1311|2024-06-10|
-|198|[jaredhanson/passport-facebook](https://github.com/jaredhanson/passport-facebook)|Facebook authentication strategy for Passport and Node.js.|1291|2024-04-21|
-|199|[huaize2020/awesome-nodejs](https://github.com/huaize2020/awesome-nodejs)|Node.js 资源大全中文版。An awesome Node.js packages and resources|1242|2024-06-16|
+|172|[ajayns/react-projects](https://github.com/ajayns/react-projects)|A collection of projects built on the React library|1489|2024-08-19|
+|173|[stackgl/webgl-workshop](https://github.com/stackgl/webgl-workshop)|:mortar_board: The sequel to shader-school: Learn the WebGL API|1488|2024-04-06|
+|174|[debezium/debezium-examples](https://github.com/debezium/debezium-examples)|Examples for running Debezium (Configuration, Docker Compose files etc.)|1483|2024-09-16|
+|175|[stimulus-use/stimulus-use](https://github.com/stimulus-use/stimulus-use)|A collection of composable behaviors for your Stimulus Controllers|1479|2024-09-17|
+|176|[mschwarzmueller/nextjs-course-code](https://github.com/mschwarzmueller/nextjs-course-code)|Source code for my NextJS course (https://acad.link/nextjs)|1478|2024-05-19|
+|177|[knaxus/problem-solving-javascript](https://github.com/knaxus/problem-solving-javascript)| :fire: Crack you JS interviews ⚡ Collection of most common JS Interview questions with Unit Tests 🚀|1453|2024-05-05|
+|178|[hjwp/book-example](https://github.com/hjwp/book-example)|Example code for my book on TDD with Python|1451|2024-09-18|
+|179|[alok722/namaste-javascript-notes](https://github.com/alok722/namaste-javascript-notes)|It maintains my version of namaste js notes which I learnt from Namaste JS YouTube Playlist by Akshay Saini (@akshaymarch7).|1428|2024-07-31|
+|180|[hueitan/javascript-sdk-design](https://github.com/hueitan/javascript-sdk-design)|JavaScript SDK Design Guide extracted from work and personal experience|1420|2024-07-10|
+|181|[adrianhajdin/project_modern_ui_ux_restaurant](https://github.com/adrianhajdin/project_modern_ui_ux_restaurant)|This is a code repository for the corresponding video tutorial. In this video, we're going to build a Modern UI/UX Restaurant Landing Page Website|1407|2024-05-09|
+|182|[adrianhajdin/brainwave](https://github.com/adrianhajdin/brainwave)|Learn to create modern websites with sleek parallax effects and bento box layouts. This course covers everything from stylish UI design to mobile-first principles while strengthening your React.js and ...|1405|2024-08-08|
+|183|[archtaurus/RetroPieBIOS](https://github.com/archtaurus/RetroPieBIOS)|Full BIOS collection for RetroPie|1401|2024-08-25|
+|184|[heiseonline/shariff](https://github.com/heiseonline/shariff)|👮 Shariff enables website users to share their favorite content without compromising their privacy.|1399|2024-07-25|
+|185|[ehmicky/cross-platform-node-guide](https://github.com/ehmicky/cross-platform-node-guide)|📗 How to write cross-platform Node.js code|1393|2024-09-14|
+|186|[stylelint/stylelint-config-standard](https://github.com/stylelint/stylelint-config-standard)|The standard shareable config for Stylelint|1378|2024-09-02|
+|187|[btholt/complete-intro-to-web-dev-v3](https://github.com/btholt/complete-intro-to-web-dev-v3)|The Complete Intro to Web Dev v3, as taught on Frontend Masters|1377|2024-08-13|
+|188|[supermedium/superframe](https://github.com/supermedium/superframe)|:package: A super collection of A-Frame components.|1367|2024-03-25|
+|189|[danthareja/contribute-to-open-source](https://github.com/danthareja/contribute-to-open-source)|[STILL ACTIVE] Learn the GitHub workflow by contributing code in a fun simulation project|1357|2024-09-17|
+|190|[discord/discord-open-source](https://github.com/discord/discord-open-source)|List of open source communities living on Discord|1353|2024-06-20|
+|191|[processing/p5.js-web-editor](https://github.com/processing/p5.js-web-editor)|The p5.js Editor is a website for creating p5.js sketches, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else! You can create, share,  ...|1346|2024-09-16|
+|192|[fhsinchy/docker-handbook-projects](https://github.com/fhsinchy/docker-handbook-projects)|Project codes used in "The Docker Handbook"|1337|2024-05-30|
+|193|[ishtms/learn-nodejs-hard-way](https://github.com/ishtms/learn-nodejs-hard-way)|Learn NodeJS and master the art of server-side programming by creating a backend framework with 0 dependencies.|1321|2024-09-04|
+|194|[sdras/vue-vscode-snippets](https://github.com/sdras/vue-vscode-snippets)|These snippets were built to supercharge my workflow in the most seamless manner possible.|1321|2024-05-28|
+|195|[reactplay/react-play](https://github.com/reactplay/react-play)|react-play is an opensource platform that helps you learn ReactJS faster with hands-on practice model. It is a collection of projects that you can use to learn ReactJS.|1317|2024-09-08|
+|196|[Bistutu/FluentRead](https://github.com/Bistutu/FluentRead)|拥有基于上下文语境的人工智能翻译引擎，为网站提供更加友好的翻译，让所有人都能够拥有基于母语般的阅读体验。|1311|2024-06-10|
+|197|[jaredhanson/passport-facebook](https://github.com/jaredhanson/passport-facebook)|Facebook authentication strategy for Passport and Node.js.|1291|2024-04-21|
+|198|[huaize2020/awesome-nodejs](https://github.com/huaize2020/awesome-nodejs)|Node.js 资源大全中文版。An awesome Node.js packages and resources|1242|2024-06-16|
+|199|[iam-veeramalla/observability-zero-to-hero](https://github.com/iam-veeramalla/observability-zero-to-hero)|[WIP]: Repo for learning observability|1237|2024-09-01|
 |200|[vercel/style-guide](https://github.com/vercel/style-guide)|Vercel's engineering style guide|1236|2024-05-02|
 
 <div align="center">
