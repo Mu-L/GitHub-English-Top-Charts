@@ -1,18 +1,18 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Shell
-<sub>Updated: 2024-09-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-09-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[LinuxDroidMaster/Termux-Desktops](https://github.com/LinuxDroidMaster/Termux-Desktops)|Collection of scripts to launch Desktops with audio in Termux X11 and how to use hardware acceleration|530|2024-08-29|2024-01-02|
-|2|[micahkepe/vimtutor-sequel](https://github.com/micahkepe/vimtutor-sequel)|Vimtutor Sequel - Advanced Vim Tutor Lessons|451|2024-09-19|2024-08-02|
-|3|[piyushsachdeva/AzureDevOps-Zero-to-Hero](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero)|A central hub for artifacts, agendas, and resources related to the "Azure DevOps Zero to Hero" series on Tech Tutorials with Piyush YouTube channel. Access code snippets, agendas, notes, graphics, and ...|435|2024-06-17|2023-11-02|
+|1|[LinuxDroidMaster/Termux-Desktops](https://github.com/LinuxDroidMaster/Termux-Desktops)|Collection of scripts to launch Desktops with audio in Termux X11 and how to use hardware acceleration|532|2024-08-29|2024-01-02|
+|2|[micahkepe/vimtutor-sequel](https://github.com/micahkepe/vimtutor-sequel)|Vimtutor Sequel - Advanced Vim Tutor Lessons|463|2024-09-19|2024-08-02|
+|3|[piyushsachdeva/AzureDevOps-Zero-to-Hero](https://github.com/piyushsachdeva/AzureDevOps-Zero-to-Hero)|A central hub for artifacts, agendas, and resources related to the "Azure DevOps Zero to Hero" series on Tech Tutorials with Piyush YouTube channel. Access code snippets, agendas, notes, graphics, and ...|438|2024-06-17|2023-11-02|
 |4|[abdoufermat5/unix-and-linux-sysadmin-notes](https://github.com/abdoufermat5/unix-and-linux-sysadmin-notes)|Unix and Linux system administration handbook by Evi Nemeth Garth Snyder Trent R. Hein Ben Whaley Dan Mackin|360|2024-09-08|2024-02-27|
 |5|[OpenNeptune3D/OpenNept4une](https://github.com/OpenNeptune3D/OpenNept4une)|Transform your Neptune 4 3D printer with OpenNept4une, a collection of scripts designed to replace the manufacturer's software, reverting to the original open-source projects for enhanced performance, ...|322|2024-09-10|2023-10-30|
-|6|[seifrajhi/awesome-platform-engineering-tools](https://github.com/seifrajhi/awesome-platform-engineering-tools)|A curated list of Platform Engineering Tools|309|2024-09-10|2023-12-02|
+|6|[seifrajhi/awesome-platform-engineering-tools](https://github.com/seifrajhi/awesome-platform-engineering-tools)|A curated list of Platform Engineering Tools|310|2024-09-10|2023-12-02|
 |7|[XiudingCai/Awesome-Mamba-Collection](https://github.com/XiudingCai/Awesome-Mamba-Collection)|A curated collection of papers, tutorials, videos, and other valuable resources related to Mamba.|231|2024-07-21|2024-01-29|
-|8|[opea-project/GenAIExamples](https://github.com/opea-project/GenAIExamples)|Generative AI Examples is a collection of GenAI examples such as ChatQnA, Copilot, which illustrate the pipeline capabilities of the Open Platform for Enterprise AI (OPEA) project.|225|2024-09-19|2024-03-20|
+|8|[opea-project/GenAIExamples](https://github.com/opea-project/GenAIExamples)|Generative AI Examples is a collection of GenAI examples such as ChatQnA, Copilot, which illustrate the pipeline capabilities of the Open Platform for Enterprise AI (OPEA) project.|225|2024-09-20|2024-03-20|
 |9|[topological-modular-forms/Darwin-Typeface](https://github.com/topological-modular-forms/Darwin-Typeface)|This is the project repository for Darwin, a typeface for books and articles, with a focus on scientific writing.|211|2024-07-18|2024-02-12|
 |10|[dxzenith/Ora-Protocol-Node](https://github.com/dxzenith/Ora-Protocol-Node)|One Click guide to run ora node on VPS using CLI|140|2024-09-15|2024-09-15|
 |11|[PR3SIDENT/enshrouded-community](https://github.com/PR3SIDENT/enshrouded-community)|A repository of guides, files and settings for self-hosting the game Enshrouded.|95|2024-08-07|2024-01-12|
@@ -21,7 +21,7 @@
 |14|[DjangoPeng/agent-hub](https://github.com/DjangoPeng/agent-hub)|This repository is a hub for AI Agent projects, including GitHub Sentinel, LanguageMentor, and ChatPPT, designed to enhance enterprise workflows, language learning, and multimodal interaction. Explore ...|84|2024-09-04|2024-08-14|
 |15|[dd010101/vyos-jenkins](https://github.com/dd010101/vyos-jenkins)|Instructions on how to build your own vyos package mirror for stable branches (1.3 equuleus/1.4 sagitta) with Jenkins (for ISO build)|84|2024-08-27|2024-05-16|
 |16|[Layr-Labs/eigenda-operator-setup](https://github.com/Layr-Labs/eigenda-operator-setup)|Quick start setup guide for EigenDA|80|2024-09-13|2023-11-08|
-|17|[Seeed-Projects/jetson-examples](https://github.com/Seeed-Projects/jetson-examples)|The jetson-examples repository by Seeed Studio offers a seamless, one-line command deployment to run vision AI and Generative AI models on the NVIDIA Jetson platform.|67|2024-09-19|2024-06-24|
+|17|[Seeed-Projects/jetson-examples](https://github.com/Seeed-Projects/jetson-examples)|The jetson-examples repository by Seeed Studio offers a seamless, one-line command deployment to run vision AI and Generative AI models on the NVIDIA Jetson platform.|67|2024-09-20|2024-06-24|
 |18|[tigerbeetle/tigerlings](https://github.com/tigerbeetle/tigerlings)|Learn TigerBeetle by fixing tiny broken scripts!|67|2024-07-08|2024-06-18|
 |19|[canonical/open-documentation-academy](https://github.com/canonical/open-documentation-academy)|Learn open-source software documentation skills with Canonical|66|2024-09-04|2023-10-19|
 |20|[TermuxDev/termux-dev](https://github.com/TermuxDev/termux-dev)|Termux-Dev, learning to program on Android.|64|2024-08-07|2023-12-06|

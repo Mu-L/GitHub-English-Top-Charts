@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Pascal
-<sub>Updated: 2024-09-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-09-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -11,13 +11,13 @@
 |4|[PackOrganization/Pack](https://github.com/PackOrganization/Pack)|Pack|243|2024-03-30|2024-03-01|
 |5|[NIKJOO/WarpOnWarp-Windows-Client](https://github.com/NIKJOO/WarpOnWarp-Windows-Client)|Warp on Warp Windows Client|120|2024-05-05|2024-05-03|
 |6|[salvadordf/WebUI4Delphi](https://github.com/salvadordf/WebUI4Delphi)|WebUI4Delphi is a WebUI wrapper, which allows you to use any web browser as a GUI, with Delphi or Lazarus/FPC in the backend and HTML5 in the frontend.|105|2024-09-14|2023-12-25|
-|7|[sb53systems/G-Code-Flow-Temperature-Controller](https://github.com/sb53systems/G-Code-Flow-Temperature-Controller)|A post processing script for Orca Slicer and Klipper 3D Printers|96|2024-09-18|2024-07-09|
-|8|[Code4Delphi/Delphi-AI-Developer](https://github.com/Code4Delphi/Delphi-AI-Developer)|Inspired by GitHub Copilot, this plugin adds AI-powered interaction capabilities to the Delphi IDE|85|2024-09-17|2024-06-07|
+|7|[sb53systems/G-Code-Flow-Temperature-Controller](https://github.com/sb53systems/G-Code-Flow-Temperature-Controller)|A post processing script for Orca Slicer and Klipper 3D Printers|97|2024-09-18|2024-07-09|
+|8|[Code4Delphi/Delphi-AI-Developer](https://github.com/Code4Delphi/Delphi-AI-Developer)|Inspired by GitHub Copilot, this plugin adds AI-powered interaction capabilities to the Delphi IDE|86|2024-09-17|2024-06-07|
 |9|[NIKJOO/PEP](https://github.com/NIKJOO/PEP)|Private exe protector |73|2024-05-08|2024-05-08|
 |10|[Laurensvanrun/Delphi-Promises](https://github.com/Laurensvanrun/Delphi-Promises)|Delphi implementation of promises for asynchronous programming.|73|2024-08-15|2024-03-13|
 |11|[geby/synapse](https://github.com/geby/synapse)|Synapse TCP/IP library for Delphi and Freepascal|70|2024-06-17|2024-01-15|
 |12|[nalgeon/uuidv7](https://github.com/nalgeon/uuidv7)|UUIDv7 in N languages|66|2024-07-09|2024-06-15|
-|13|[Coldzer0/ImGui-Pascal](https://github.com/Coldzer0/ImGui-Pascal)|ImGui Binding for FreePascal / Delphi with the latest version & docking|54|2024-07-29|2023-11-12|
+|13|[Coldzer0/ImGui-Pascal](https://github.com/Coldzer0/ImGui-Pascal)|ImGui Binding for FreePascal / Delphi with the latest version & docking|55|2024-07-29|2023-11-12|
 |14|[ObjectPascal-Community/1brc-ObjectPascal](https://github.com/ObjectPascal-Community/1brc-ObjectPascal)|1️⃣🐝🏎️ The 1 Billion Row Challenge in Object Pascal|53|2024-07-06|2024-02-28|
 |15|[hshatti/LightNet](https://github.com/hshatti/LightNet)|Implemented in pure pascal LightNet is an artificial intelligence neural network library Inspired by Darknet and yolo library which can run most of the darknet including YOLO models nativly and self d ...|50|2024-08-03|2024-05-04|
 |16|[redgate4/Themida](https://github.com/redgate4/Themida)|Themida is a powerful software protection system designed for software developers|45|2024-03-27|2024-03-22|
@@ -37,10 +37,10 @@
 |30|[DelphiWorlds/JID](https://github.com/DelphiWorlds/JID)|Jar Import for Delphi|21|2024-07-02|2024-01-21|
 |31|[tinyBigGAMES/Dllama](https://github.com/tinyBigGAMES/Dllama)|LLM inference in Delphi|19|2024-04-18|2024-04-09|
 |32|[davenardella/SnapTRAINER](https://github.com/davenardella/SnapTRAINER)|A modular Virtual-PLC Trainer|18|2024-07-07|2024-07-07|
-|33|[gustavoeenriquez/MakerAi](https://github.com/gustavoeenriquez/MakerAi)|Suite de Componentes Delphi para trabajar con diferentes plataformas de AI, OpenAI, Ollama, Groq, Anthropic, etc., Delphi Component Suite for working with different AI platforms, including OpenAI, Oll ...|18|2024-08-21|2024-05-30|
+|33|[gustavoeenriquez/MakerAi](https://github.com/gustavoeenriquez/MakerAi)|Suite de Componentes Delphi para trabajar con diferentes plataformas de AI, OpenAI, Ollama, Groq, Anthropic, etc., Delphi Component Suite for working with different AI platforms, including OpenAI, Oll ...|18|2024-09-20|2024-05-30|
 |34|[djswirl/MultiCOM](https://github.com/djswirl/MultiCOM)|Windows application to monitor up to six serial ports at once|18|2024-03-24|2024-01-21|
 |35|[tinyBigGAMES/LMEngine](https://github.com/tinyBigGAMES/LMEngine)|Local LLM Inference|17|2024-06-09|2024-05-14|
-|36|[skamradt/SVGIconViewer](https://github.com/skamradt/SVGIconViewer)|A simple SVG icon library viewer containing over 27,400 individual icons for windows|16|2024-09-19|2024-09-16|
+|36|[skamradt/SVGIconViewer](https://github.com/skamradt/SVGIconViewer)|A simple SVG icon library viewer containing over 46,500 individual icons for windows|16|2024-09-20|2024-09-16|
 |37|[HemulGM/DelphiWindowStyle](https://github.com/HemulGM/DelphiWindowStyle)|Window stylization for FMX and VCL|16|2024-07-08|2024-06-08|
 |38|[HuichanKIM/Ollama-Delphi-GUI](https://github.com/HuichanKIM/Ollama-Delphi-GUI)|Ollama Client GUI by Delphi|16|2024-07-11|2024-05-14|
 |39|[pyscripter/ChatLLM](https://github.com/pyscripter/ChatLLM)|Simple chat application for querying local and cloud LLM models.|16|2024-04-25|2024-04-22|
@@ -51,10 +51,10 @@
 |44|[sqids/sqids-pascal](https://github.com/sqids/sqids-pascal)|Official Pascal port of Sqids. Generate short unique IDs from numbers.|14|2024-05-24|2023-12-27|
 |45|[HashLoad/ECLBr](https://github.com/HashLoad/ECLBr)|-|14|2024-06-26|2023-12-01|
 |46|[danieleteti/delphi-dmvcframework-htmx-todo](https://github.com/danieleteti/delphi-dmvcframework-htmx-todo)|DelphiMVCFramework Todo Sample, using HTMX|14|2024-09-12|2023-10-13|
-|47|[AlexanderBagel/CPUView](https://github.com/AlexanderBagel/CPUView)|-|13|2024-09-19|2024-09-08|
-|48|[SCLOrganization/SCL](https://github.com/SCLOrganization/SCL)|A standard library for the Pascal language.|13|2024-04-04|2024-02-29|
-|49|[DelphiTeacher/OrangeUI4Lazarus](https://github.com/DelphiTeacher/OrangeUI4Lazarus)|-|13|2024-04-22|2024-02-08|
-|50|[ryusatgat/trimuitool](https://github.com/ryusatgat/trimuitool)|TrimUI Tool - Scraper/Rename|12|2024-07-16|2024-06-29|
+|47|[AlexanderBagel/CPUView](https://github.com/AlexanderBagel/CPUView)|-|13|2024-09-20|2024-09-08|
+|48|[ryusatgat/trimuitool](https://github.com/ryusatgat/trimuitool)|TrimUI Tool - Scraper/Rename|13|2024-07-16|2024-06-29|
+|49|[SCLOrganization/SCL](https://github.com/SCLOrganization/SCL)|A standard library for the Pascal language.|13|2024-04-04|2024-02-29|
+|50|[DelphiTeacher/OrangeUI4Lazarus](https://github.com/DelphiTeacher/OrangeUI4Lazarus)|-|13|2024-04-22|2024-02-08|
 |51|[Alligator-1/callstack_memprofiler](https://github.com/Alligator-1/callstack_memprofiler)|Memory profiler for FPC and Lazarus|12|2024-09-08|2024-06-24|
 |52|[tinyBigGAMES/Infero](https://github.com/tinyBigGAMES/Infero)|An easy to use, high performant CUDA powered LLM inference library.|12|2024-06-06|2024-06-05|
 |53|[BoscoBecker/DelphiFacial](https://github.com/BoscoBecker/DelphiFacial)|Reconhecimento Facial usando OPENCV|12|2024-05-14|2024-05-11|
@@ -73,20 +73,20 @@
 |66|[MatiasGuaymas/FOD](https://github.com/MatiasGuaymas/FOD)|Prácticas resueltas y modelos de parciales de Fundamentos de Organización de Datos.|11|2024-07-31|2024-03-19|
 |67|[GabrielOnDelphi/DUT-My-Delphi-Utilities](https://github.com/GabrielOnDelphi/DUT-My-Delphi-Utilities)|A set of tools that help you with your Delphi code|11|2024-09-13|2023-12-06|
 |68|[gmnevton/NitroPascal](https://github.com/gmnevton/NitroPascal)|NitroPascal is a concept of new OOP programming language based on Pascal / Delphi. Maybe in future there will be a compiler and debugger.|11|2024-09-17|2023-11-03|
-|69|[EricGrange/Delphi-WebGPU](https://github.com/EricGrange/Delphi-WebGPU)|Using WebGPU from Delphi|10|2024-09-18|2024-09-11|
+|69|[EricGrange/Delphi-WebGPU](https://github.com/EricGrange/Delphi-WebGPU)|Using WebGPU from Delphi|10|2024-09-20|2024-09-11|
 |70|[rafalagoon/not_enough_nots](https://github.com/rafalagoon/not_enough_nots)|Just a very stupid experiment with logical operators|10|2024-05-09|2024-05-08|
 |71|[tinyBigGAMES/Delphi-Ollama](https://github.com/tinyBigGAMES/Delphi-Ollama)|A simple and easy to use library for interacting with the Ollama API in Delphi|10|2024-04-09|2024-04-08|
 |72|[evoin-software/EvoInCEP](https://github.com/evoin-software/EvoInCEP)|Projeto para consulta de CEP|10|2024-06-14|2024-04-03|
 |73|[a-dato/FMX-GRID](https://github.com/a-dato/FMX-GRID)|-|10|2024-09-10|2024-02-04|
 |74|[GuvaCode/TrueSpace](https://github.com/GuvaCode/TrueSpace)|Elite style games, write in free pascal|10|2024-05-21|2024-01-25|
-|75|[autorizadabr/BrCoop-Pay-Firemonke](https://github.com/autorizadabr/BrCoop-Pay-Firemonke)|BrCoop Pay|9|2024-07-17|2024-07-15|
-|76|[Codrax/Delphi-Extended-Images-Format](https://github.com/Codrax/Delphi-Extended-Images-Format)|Support in Delphi for WebP and Heif image codecs with a wrapper for the DLLs.|9|2024-09-14|2024-06-18|
-|77|[paulojuniorbls/euAtendoWhatsDelphi](https://github.com/paulojuniorbls/euAtendoWhatsDelphi)|Componente Delphi para comunicar com a Evolution API|9|2024-09-11|2024-06-06|
-|78|[ObjectPascal-Community/LazarusCord](https://github.com/ObjectPascal-Community/LazarusCord)|Discord Rich Presence extension for Lazarus|9|2024-05-27|2024-05-27|
-|79|[BoscoBecker/DelphiCord](https://github.com/BoscoBecker/DelphiCord)|Discord Rich Presence extension for Delphi|9|2024-05-27|2024-05-24|
-|80|[viniciusfbb/delphi-benchmark](https://github.com/viniciusfbb/delphi-benchmark)|Lightweight benchmark for Delphi|9|2024-05-12|2024-05-12|
-|81|[daviladanielc/DelphiCacheControl](https://github.com/daviladanielc/DelphiCacheControl)|Delphi Cache Control is a cool feature that helps you save time in your applications.|9|2024-07-26|2023-10-25|
-|82|[delphilite/EverythingSDK](https://github.com/delphilite/EverythingSDK)|Everything Search Engine SDK for Delphi|8|2024-09-04|2024-08-05|
+|75|[daviladanielc/DelphiCacheControl](https://github.com/daviladanielc/DelphiCacheControl)|Delphi Cache Control is a cool feature that helps you save time in your applications.|10|2024-07-26|2023-10-25|
+|76|[delphilite/EverythingSDK](https://github.com/delphilite/EverythingSDK)|Everything Search Engine SDK for Delphi|9|2024-09-04|2024-08-05|
+|77|[autorizadabr/BrCoop-Pay-Firemonke](https://github.com/autorizadabr/BrCoop-Pay-Firemonke)|BrCoop Pay|9|2024-07-17|2024-07-15|
+|78|[Codrax/Delphi-Extended-Images-Format](https://github.com/Codrax/Delphi-Extended-Images-Format)|Support in Delphi for WebP and Heif image codecs with a wrapper for the DLLs.|9|2024-09-14|2024-06-18|
+|79|[paulojuniorbls/euAtendoWhatsDelphi](https://github.com/paulojuniorbls/euAtendoWhatsDelphi)|Componente Delphi para comunicar com a Evolution API|9|2024-09-11|2024-06-06|
+|80|[ObjectPascal-Community/LazarusCord](https://github.com/ObjectPascal-Community/LazarusCord)|Discord Rich Presence extension for Lazarus|9|2024-05-27|2024-05-27|
+|81|[BoscoBecker/DelphiCord](https://github.com/BoscoBecker/DelphiCord)|Discord Rich Presence extension for Delphi|9|2024-05-27|2024-05-24|
+|82|[viniciusfbb/delphi-benchmark](https://github.com/viniciusfbb/delphi-benchmark)|Lightweight benchmark for Delphi|9|2024-05-12|2024-05-12|
 |83|[wp-xyz/ImagePoster](https://github.com/wp-xyz/ImagePoster)|Graphical effects on images|8|2024-07-30|2024-07-27|
 |84|[tothpaul/Delphi.RTTI](https://github.com/tothpaul/Delphi.RTTI)|My RTTI based units|8|2024-06-12|2024-06-12|
 |85|[MikeYast/turbovision-delphi](https://github.com/MikeYast/turbovision-delphi)|Turbo Vision ported to Delphi|8|2024-05-27|2024-05-27|
@@ -143,7 +143,7 @@
 |136|[JoRodriguesDev/d2webcards](https://github.com/JoRodriguesDev/d2webcards)|Este repositório contém um conjunto de classes Delphi desenvolvido para gerar cards no formato HTML. Inicialmente criado para um projeto em D2Bridge, um framework que permite compilar projetos VCL ou  ...|5|2024-08-23|2024-08-21|
 |137|[tinyBigGAMES/SparkGameToolkit](https://github.com/tinyBigGAMES/SparkGameToolkit)|Easy to use 2D Game Library for Windows|5|2024-08-23|2024-08-19|
 |138|[fredvs/swp](https://github.com/fredvs/swp)|Simple Webstream Player, to listen and record web radios and other streams.|5|2024-09-05|2024-08-16|
-|139|[LoadLineCalibration/DXEditPlus](https://github.com/LoadLineCalibration/DXEditPlus)|An attempt to recreate better level editor for Deus Ex.|5|2024-09-18|2024-08-07|
+|139|[LoadLineCalibration/DXEditPlus](https://github.com/LoadLineCalibration/DXEditPlus)|An attempt to recreate better level editor for Deus Ex.|5|2024-09-20|2024-08-07|
 |140|[D3lphi3r/Cloudflare-DNS](https://github.com/D3lphi3r/Cloudflare-DNS)|Dymanic update DNS records using Cloudflare API|5|2024-07-03|2024-07-02|
 |141|[landrix/Delphi-Firemonkey-Container](https://github.com/landrix/Delphi-Firemonkey-Container)|-|5|2024-06-21|2024-06-21|
 |142|[HemulGM/FMXWindowsDispatch](https://github.com/HemulGM/FMXWindowsDispatch)|Allow the FMX windows to process Windows messages|5|2024-06-13|2024-06-08|
@@ -165,7 +165,7 @@
 |158|[jsqw/SRL-vanilla](https://github.com/jsqw/SRL-vanilla)|Simba scripts for the vanilla OSRS client.|5|2024-05-09|2023-09-24|
 |159|[DomingoGP/lazIdeExportSettings](https://github.com/DomingoGP/lazIdeExportSettings)|Standalone app to export and import some lazarus-ide settings.|4|2024-08-26|2024-08-26|
 |160|[bero/DControlsFix](https://github.com/bero/DControlsFix)|A tool that remove explicit* attributes from Delphi dfm files automatically on save|4|2024-08-26|2024-08-26|
-|161|[EricGrange/FMXutils](https://github.com/EricGrange/FMXutils)|Delphi FMX utilities and extensions|4|2024-09-16|2024-08-24|
+|161|[EricGrange/FMXutils](https://github.com/EricGrange/FMXutils)|Delphi FMX utilities and extensions|4|2024-09-20|2024-08-24|
 |162|[DoubleYouC/FaceGen-Generator](https://github.com/DoubleYouC/FaceGen-Generator)|-|4|2024-09-02|2024-07-23|
 |163|[xdiLLx/DataBridge](https://github.com/xdiLLx/DataBridge)|A personal project developed in Delphi to facilitate data imports into various databases. It adheres to OOP principles and MVC architecture, providing an intuitive interface for mapping and transferri ...|4|2024-07-08|2024-06-30|
 |164|[antoniojmsjr/RESTClientLib](https://github.com/antoniojmsjr/RESTClientLib)|⚡ RESTClientLib é uma biblioteca projetada para facilitar a integração e consulta a APIs REST, é uma solução completa e versátil para quem precisa realizar integrações REST.|4|2024-09-03|2024-06-29|
@@ -201,7 +201,7 @@
 |194|[CanardConfit/ASTAP](https://github.com/CanardConfit/ASTAP)|Stacking program, astrometric (plate) solver, fits file viewer|4|2024-08-30|2023-11-29|
 |195|[hipBali/vclua](https://github.com/hipBali/vclua)|Gui library for lua|4|2024-05-01|2023-11-22|
 |196|[GabrielOnDelphi/BioInf](https://github.com/GabrielOnDelphi/BioInf)|Library for reading microbiology DNA files (ABI, SCF, FASTA, etc)|4|2024-03-26|2023-10-10|
-|197|[veb86/fpspreadsheet](https://github.com/veb86/fpspreadsheet)|forked from https://svn.code.sf.net/p/lazarus-ccr/svn/components/fpspreadsheet|4|2024-07-18|2023-09-21|
+|197|[DouglasSRM/Truco-app-Delphi](https://github.com/DouglasSRM/Truco-app-Delphi)|-|3|2024-09-18|2024-09-18|
 |198|[wp-xyz/bmpExplorer](https://github.com/wp-xyz/bmpExplorer)|-|3|2024-09-17|2024-09-17|
 |199|[gcarreno/TestPeer-to-Peer](https://github.com/gcarreno/TestPeer-to-Peer)|A simple class that implements a peer in a Peer-to-Peer network|3|2024-09-16|2024-09-15|
 |200|[TheLazyTomcat/lib.SequentialVectors](https://github.com/TheLazyTomcat/lib.SequentialVectors)|Provides base class (TSequentialVector) that can be used to implement both FIFO (queue) and LIFO (stack) vectors with items/entries of specific type.|3|2024-09-13|2024-09-13|

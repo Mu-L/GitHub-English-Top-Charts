@@ -1,14 +1,14 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Objective-C
-<sub>Updated: 2024-09-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-09-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
 |1|[ibireme/YYKit](https://github.com/ibireme/YYKit)|A collection of iOS components.|13990|3|2024-06-25|
 |2|[thiagoperes/IDMPhotoBrowser](https://github.com/thiagoperes/IDMPhotoBrowser)|Photo Browser / Viewer inspired by Facebook's and Tweetbot's with ARC support, swipe-to-dismiss, image progress and more|2711|1|2024-04-11|
 |3|[shaojiankui/JKCategories](https://github.com/shaojiankui/JKCategories)|JKCategories(iOS-Categories,Category), a collection of useful Objective-C Categories extending iOS Frameworks such as Foundation,UIKit,CoreData,QuartzCore,CoreLocation,MapKit Etc.|3339|1|2024-05-31|
-|4|[EvgenyKarkan/EKAlgorithms](https://github.com/EvgenyKarkan/EKAlgorithms)|EKAlgorithms contains some well known CS algorithms & data structures.|2423|1|2024-09-16|
+|4|[EvgenyKarkan/EKAlgorithms](https://github.com/EvgenyKarkan/EKAlgorithms)|EKAlgorithms contains some well known CS algorithms & data structures.|2423|1|2024-09-19|
 |5|[sendbird/sendbird-calls-ios](https://github.com/sendbird/sendbird-calls-ios)|A guide of Sendbird Calls SDK for iOS for an engaging voice and video call experience. |13|0|2024-08-13|
 |6|[DerekSelander/gcd_internals](https://github.com/DerekSelander/gcd_internals)|Showcases libdispatch lesser known APIs with examples & structs|7|0|2024-05-15|
 |7|[jimstudt/timelapse](https://github.com/jimstudt/timelapse)|Mac OS X command line utility to turn a series of images into a video.|54|0|2024-06-19|
@@ -26,12 +26,12 @@
 |19|[aysecetin/365-days-of-coding-with-Swift](https://github.com/aysecetin/365-days-of-coding-with-Swift)| This repo serves as a resource where I document my Swift learning process. I will share my learnings and projects here as I learn the Swift language and the SwiftUI framework.|3|0|2024-09-16|
 |20|[freshplanet/ANE-NativeShare](https://github.com/freshplanet/ANE-NativeShare)|Brings up the native share dialog|25|0|2024-03-27|
 |21|[iBurnApp/iBurn-iOS](https://github.com/iBurnApp/iBurn-iOS)|iBurn is an offline map and guide for the Burning Man art festival.|70|0|2024-09-17|
-|22|[autobooks/autobooks-ios](https://github.com/autobooks/autobooks-ios)|Autobooks SDK for iOS|4|0|2024-09-04|
+|22|[autobooks/autobooks-ios](https://github.com/autobooks/autobooks-ios)|Autobooks SDK for iOS|4|0|2024-09-20|
 |23|[tangtiancheng/DouYinComment](https://github.com/tangtiancheng/DouYinComment)|iOS Widget Video Gif Play Animation 1. gif视频播放小组件, 帧动画小组件, 摇摇乐小组件, 网易云iOS小组件,动态Widget,时钟组件,风扇组件,滚动照片组件; 2.抖音视频转场动画,抖音左滑push进个人主页, 评论手势拖拽效果 , 视频播放, 边下边播, 预加载, TikTok ; 3.铃声多多,上传铃声音频到库乐队(GarageBand) 4.微 ...|566|0|2024-08-07|
 |24|[doraorak/insheaders](https://github.com/doraorak/insheaders)|Objc headers of instagram 333.0.4. Along with FBSharedFramework. Uploaded mainly for my own use.|2|0|2024-06-28|
 |25|[aprosvetova/actuator](https://github.com/aprosvetova/actuator)|Golang library that allows you to actuate your MacBook Force Touch trackpad|15|0|2024-09-07|
 |26|[Alinto/sogo](https://github.com/Alinto/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1780|0|2024-09-18|
-|27|[PoomSmart/IDAObjcTypes](https://github.com/PoomSmart/IDAObjcTypes)|A collection of types & functions definitions useful for iOS/macOS binaries analysis.|323|0|2024-09-15|
+|27|[PoomSmart/IDAObjcTypes](https://github.com/PoomSmart/IDAObjcTypes)|A collection of types & functions definitions useful for iOS/macOS binaries analysis.|324|0|2024-09-15|
 |28|[First-Iraqi-Bank/fib-ios-sdk](https://github.com/First-Iraqi-Bank/fib-ios-sdk)|This is the FIB Payment IOS SDK repository and mostly contains documentation around guidelines and policies as well as the releases for the various languages supported by the FIB SDK.|5|0|2024-09-05|
 |29|[tidev/ti.facebook](https://github.com/tidev/ti.facebook)|Support for the native Facebook SDK in Titanium using JavaScript|50|0|2024-05-17|
 |30|[plivo/plivo-ios-sdk2-examples](https://github.com/plivo/plivo-ios-sdk2-examples)|Examples for the IOS SDK version 2|10|0|2024-04-09|
@@ -50,7 +50,7 @@
 |43|[tillt/KompleteSynthesia](https://github.com/tillt/KompleteSynthesia)|Native Instruments Komplete Kontrol Light Guide support for Synthesia|25|0|2024-04-27|
 |44|[ABTSoftware/SciChart.iOS.Examples](https://github.com/ABTSoftware/SciChart.iOS.Examples)|Examples, Showcase & Tutorials for SciChart.iOS High Performance Charting Library|160|0|2024-06-10|
 |45|[mptcp-apps/mptcp-hello](https://github.com/mptcp-apps/mptcp-hello)|👋 Simple examples of enabling Multipath TCP with different programming languages|13|0|2024-08-15|
-|46|[akwangl/RedmiBook-Pro-15S-hackintosh](https://github.com/akwangl/RedmiBook-Pro-15S-hackintosh)|redmibook-15 5600H hackintosh|4|0|2024-09-04|
+|46|[akwangl/RedmiBook-Pro-15S-hackintosh](https://github.com/akwangl/RedmiBook-Pro-15S-hackintosh)|redmibook-15 5600H hackintosh|5|0|2024-09-20|
 |47|[enieber/rn-db-example](https://github.com/enieber/rn-db-example)|samples how to use database with react native|6|0|2024-09-12|
 |48|[aik002/RSBypass](https://github.com/aik002/RSBypass)|Rocksmith 2014 Remastered Edition dylib patch for loading and playing CDLC|109|0|2024-08-04|
 |49|[hydrixos/cocoaheads-le](https://github.com/hydrixos/cocoaheads-le)|Slides and Examples created for Cocoaheads Leipzig|7|0|2024-09-14|

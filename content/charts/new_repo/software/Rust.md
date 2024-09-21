@@ -1,210 +1,210 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Rust
-<sub>Updated: 2024-09-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-09-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[astral-sh/uv](https://github.com/astral-sh/uv)|An extremely fast Python package and project manager, written in Rust.|20339|2024-09-19|2023-10-02|
-|2|[libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu)|Clash Nyanpasu～(∠・ω< )⌒☆​|8603|2024-09-19|2023-11-10|
-|3|[microsoft/sudo](https://github.com/microsoft/sudo)|It's sudo, for Windows|4978|2024-08-13|2024-02-01|
-|4|[ynqa/jnv](https://github.com/ynqa/jnv)|Interactive JSON filter using jq|4794|2024-08-29|2024-03-18|
-|5|[versotile-org/verso](https://github.com/versotile-org/verso)|A web browser that plays old world blues to build new world hope|4493|2024-09-19|2024-01-15|
-|6|[Speykious/cve-rs](https://github.com/Speykious/cve-rs)|Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀|3942|2024-07-11|2024-02-16|
-|7|[loco-rs/loco](https://github.com/loco-rs/loco)|🚂 🦀 The one-person framework for Rust for side-projects and startups|3919|2024-09-19|2023-11-07|
-|8|[EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs)|Blazingly fast LLM inference.|3434|2024-09-19|2024-02-26|
-|9|[getgrit/gritql](https://github.com/getgrit/gritql)|GritQL is a query language for searching, linting, and modifying code.|2960|2024-09-19|2024-03-08|
-|10|[huggingface/text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference)|A blazing fast inference solution for text embeddings models|2600|2024-09-19|2023-10-13|
-|11|[evilsocket/cake](https://github.com/evilsocket/cake)|Distributed LLM and StableDiffusion inference for mobile, desktop and server.|2466|2024-08-30|2024-07-07|
-|12|[jsr-io/jsr](https://github.com/jsr-io/jsr)|The open-source package registry for modern JavaScript and TypeScript|2302|2024-09-19|2024-02-28|
-|13|[frectonz/sql-studio](https://github.com/frectonz/sql-studio)|SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, DuckDB, ClickHouse]|2257|2024-08-30|2024-06-11|
-|14|[Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation)|Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.|2209|2024-09-19|2023-10-26|
-|15|[quarylabs/quary](https://github.com/quarylabs/quary)|Open-source BI for engineers|2154|2024-09-19|2024-02-20|
-|16|[SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai)|LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.|2059|2024-09-05|2023-11-24|
+|1|[astral-sh/uv](https://github.com/astral-sh/uv)|An extremely fast Python package and project manager, written in Rust.|20449|2024-09-20|2023-10-02|
+|2|[libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu)|Clash Nyanpasu～(∠・ω< )⌒☆​|8617|2024-09-20|2023-11-10|
+|3|[microsoft/sudo](https://github.com/microsoft/sudo)|It's sudo, for Windows|4980|2024-08-13|2024-02-01|
+|4|[ynqa/jnv](https://github.com/ynqa/jnv)|Interactive JSON filter using jq|4795|2024-08-29|2024-03-18|
+|5|[versotile-org/verso](https://github.com/versotile-org/verso)|A web browser that plays old world blues to build new world hope|4504|2024-09-20|2024-01-15|
+|6|[loco-rs/loco](https://github.com/loco-rs/loco)|🚂 🦀 The one-person framework for Rust for side-projects and startups|3961|2024-09-19|2023-11-07|
+|7|[Speykious/cve-rs](https://github.com/Speykious/cve-rs)|Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀|3946|2024-07-11|2024-02-16|
+|8|[EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs)|Blazingly fast LLM inference.|3437|2024-09-20|2024-02-26|
+|9|[getgrit/gritql](https://github.com/getgrit/gritql)|GritQL is a query language for searching, linting, and modifying code.|2964|2024-09-19|2024-03-08|
+|10|[huggingface/text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference)|A blazing fast inference solution for text embeddings models|2611|2024-09-19|2023-10-13|
+|11|[evilsocket/cake](https://github.com/evilsocket/cake)|Distributed LLM and StableDiffusion inference for mobile, desktop and server.|2470|2024-08-30|2024-07-07|
+|12|[jsr-io/jsr](https://github.com/jsr-io/jsr)|The open-source package registry for modern JavaScript and TypeScript|2304|2024-09-19|2024-02-28|
+|13|[frectonz/sql-studio](https://github.com/frectonz/sql-studio)|SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, DuckDB, ClickHouse]|2259|2024-08-30|2024-06-11|
+|14|[Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation)|Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.|2212|2024-09-19|2023-10-26|
+|15|[quarylabs/quary](https://github.com/quarylabs/quary)|Open-source BI for engineers|2156|2024-09-19|2024-02-20|
+|16|[SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai)|LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.|2062|2024-09-20|2023-11-24|
 |17|[microsoft/aici](https://github.com/microsoft/aici)|AICI: Prompts as (Wasm) Programs|1901|2024-08-13|2023-09-26|
 |18|[Julien-cpsn/ATAC](https://github.com/Julien-cpsn/ATAC)|A simple API client (postman like) in your terminal|1844|2024-08-28|2024-02-05|
-|19|[face-hh/webx](https://github.com/face-hh/webx)|An alternative for the World Wide Web - browse websites such as buss://yippie.rizz made in HTML, CSS and Lua. Custom web browser, custom HTML rendering engine, custom search engine, and more.|1794|2024-06-29|2024-04-17|
-|20|[altsem/gitu](https://github.com/altsem/gitu)|A TUI Git client inspired by Magit|1748|2024-09-15|2023-12-23|
-|21|[memorysafety/river](https://github.com/memorysafety/river)|This repository is the home of the River reverse proxy application, based on the pingora library from Cloudflare.|1691|2024-09-06|2024-02-12|
-|22|[BurntSushi/jiff](https://github.com/BurntSushi/jiff)|A date-time library for Rust that encourages you to jump into the pit of success.|1665|2024-09-19|2024-02-17|
-|23|[get-convex/convex-backend](https://github.com/get-convex/convex-backend)|The Convex open-source backend|1547|2024-09-19|2024-03-08|
-|24|[mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt)|A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.|1539|2024-09-13|2024-03-09|
-|25|[lapce/lapdev](https://github.com/lapce/lapdev)|Self-Hosted Remote Dev Environment|1502|2024-09-18|2024-03-23|
-|26|[regolith-labs/ore-cli](https://github.com/regolith-labs/ore-cli)|Command line interface for ORE cryptocurrency mining.|1458|2024-09-16|2024-01-07|
-|27|[MatthiasGrandl/Loungy](https://github.com/MatthiasGrandl/Loungy)|Loungy is a WIP launcher in the vein of Spotlight, Alfred, Raycast.|1433|2024-09-11|2024-02-02|
-|28|[spaceandtimelabs/sxt-proof-of-sql](https://github.com/spaceandtimelabs/sxt-proof-of-sql)|Space and Time   Proof of SQL|1430|2024-09-19|2024-04-25|
-|29|[mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe)|Library to build personalized AI powered by what you've seen, said, or heard. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust.|1413|2024-09-19|2024-06-19|
-|30|[lvkv/whenfs](https://github.com/lvkv/whenfs)|A FUSE filesystem for your Google calendar|1397|2024-08-17|2024-08-02|
-|31|[evilsocket/legba](https://github.com/evilsocket/legba)|A multiprotocol credentials bruteforcer / password sprayer and enumerator.  🥷|1391|2024-08-21|2023-10-23|
-|32|[eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI)|The Fully Customizable Desktop Environment for Windows 10/11 with a windows tiling manager included.|1372|2024-09-19|2024-02-16|
-|33|[ferrocene/ferrocene](https://github.com/ferrocene/ferrocene)|Source code of Ferrocene, safety-critical Rust toolchain|1269|2024-09-19|2023-10-02|
-|34|[cloudflare/foundations](https://github.com/cloudflare/foundations)|Cloudflare's Rust service foundations library.|1252|2024-09-13|2024-01-18|
-|35|[SeaQL/FireDBG.for.Rust](https://github.com/SeaQL/FireDBG.for.Rust)|🔥 Time Travel Visual Debugger for Rust|1248|2024-09-06|2023-10-30|
-|36|[postgresml/korvus](https://github.com/postgresml/korvus)|Korvus is a search SDK that unifies the entire RAG pipeline in a single database query. Built on top of Postgres with bindings for Python, JavaScript, Rust and C.|1235|2024-09-09|2024-06-24|
-|37|[Whitecat18/Rust-for-Malware-Development](https://github.com/Whitecat18/Rust-for-Malware-Development)|This repository contains my complete resources and coding practices for malware development using Rust 🦀. |1200|2024-09-18|2024-02-12|
-|38|[joaoviictorti/RustRedOps](https://github.com/joaoviictorti/RustRedOps)|🦀   RustRedOps is a repository for advanced Red Team techniques and offensive malware, focused on Rust|1149|2024-08-31|2023-11-29|
-|39|[shell-pool/shpool](https://github.com/shell-pool/shpool)|Think tmux, then aim... lower|1143|2024-09-18|2024-02-28|
-|40|[redlib-org/redlib](https://github.com/redlib-org/redlib)| Private front-end for Reddit |1118|2024-09-18|2023-12-26|
-|41|[robertknight/ocrs](https://github.com/robertknight/ocrs)|Rust library and CLI tool for OCR (extracting text from images)|1115|2024-09-02|2024-01-02|
-|42|[achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog)|🐸 a database management tui for postgres|1090|2024-09-19|2024-05-15|
-|43|[Tencent/tquic](https://github.com/Tencent/tquic)|A high-performance, lightweight, and cross-platform QUIC library|1057|2024-09-14|2023-10-26|
-|44|[elastio/bon](https://github.com/elastio/bon)|Generate builders for everything!|1037|2024-09-18|2024-06-30|
-|45|[BoundaryML/baml](https://github.com/BoundaryML/baml)|BAML is a language that helps you get structured data from LLMs, with the best DX possible. Check out the promptfiddle.com playground|1017|2024-09-19|2023-10-06|
+|19|[face-hh/webx](https://github.com/face-hh/webx)|An alternative for the World Wide Web - browse websites such as buss://yippie.rizz made in HTML, CSS and Lua. Custom web browser, custom HTML rendering engine, custom search engine, and more.|1795|2024-06-29|2024-04-17|
+|20|[altsem/gitu](https://github.com/altsem/gitu)|A TUI Git client inspired by Magit|1758|2024-09-15|2023-12-23|
+|21|[memorysafety/river](https://github.com/memorysafety/river)|This repository is the home of the River reverse proxy application, based on the pingora library from Cloudflare.|1695|2024-09-06|2024-02-12|
+|22|[BurntSushi/jiff](https://github.com/BurntSushi/jiff)|A date-time library for Rust that encourages you to jump into the pit of success.|1669|2024-09-19|2024-02-17|
+|23|[get-convex/convex-backend](https://github.com/get-convex/convex-backend)|The Convex open-source backend|1557|2024-09-20|2024-03-08|
+|24|[mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt)|A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.|1549|2024-09-13|2024-03-09|
+|25|[lapce/lapdev](https://github.com/lapce/lapdev)|Self-Hosted Remote Dev Environment|1503|2024-09-18|2024-03-23|
+|26|[regolith-labs/ore-cli](https://github.com/regolith-labs/ore-cli)|Command line interface for ORE cryptocurrency mining.|1459|2024-09-16|2024-01-07|
+|27|[mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe)|Library to build personalized AI powered by what you've seen, said, or heard. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust.|1451|2024-09-20|2024-06-19|
+|28|[achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog)|🐸 a database management tui for postgres|1445|2024-09-20|2024-05-15|
+|29|[spaceandtimelabs/sxt-proof-of-sql](https://github.com/spaceandtimelabs/sxt-proof-of-sql)|Space and Time   Proof of SQL|1435|2024-09-20|2024-04-25|
+|30|[MatthiasGrandl/Loungy](https://github.com/MatthiasGrandl/Loungy)|Loungy is a WIP launcher in the vein of Spotlight, Alfred, Raycast.|1433|2024-09-11|2024-02-02|
+|31|[lvkv/whenfs](https://github.com/lvkv/whenfs)|A FUSE filesystem for your Google calendar|1401|2024-08-17|2024-08-02|
+|32|[evilsocket/legba](https://github.com/evilsocket/legba)|A multiprotocol credentials bruteforcer / password sprayer and enumerator.  🥷|1391|2024-08-21|2023-10-23|
+|33|[eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI)|The Fully Customizable Desktop Environment for Windows 10/11 with a windows tiling manager included.|1378|2024-09-20|2024-02-16|
+|34|[ferrocene/ferrocene](https://github.com/ferrocene/ferrocene)|Source code of Ferrocene, safety-critical Rust toolchain|1269|2024-09-20|2023-10-02|
+|35|[SeaQL/FireDBG.for.Rust](https://github.com/SeaQL/FireDBG.for.Rust)|🔥 Time Travel Visual Debugger for Rust|1253|2024-09-06|2023-10-30|
+|36|[cloudflare/foundations](https://github.com/cloudflare/foundations)|Cloudflare's Rust service foundations library.|1252|2024-09-13|2024-01-18|
+|37|[postgresml/korvus](https://github.com/postgresml/korvus)|Korvus is a search SDK that unifies the entire RAG pipeline in a single database query. Built on top of Postgres with bindings for Python, JavaScript, Rust and C.|1235|2024-09-09|2024-06-24|
+|38|[Whitecat18/Rust-for-Malware-Development](https://github.com/Whitecat18/Rust-for-Malware-Development)|This repository contains my complete resources and coding practices for malware development using Rust 🦀. |1201|2024-09-18|2024-02-12|
+|39|[joaoviictorti/RustRedOps](https://github.com/joaoviictorti/RustRedOps)|🦀   RustRedOps is a repository for advanced Red Team techniques and offensive malware, focused on Rust|1150|2024-08-31|2023-11-29|
+|40|[shell-pool/shpool](https://github.com/shell-pool/shpool)|Think tmux, then aim... lower|1143|2024-09-18|2024-02-28|
+|41|[redlib-org/redlib](https://github.com/redlib-org/redlib)| Private front-end for Reddit |1126|2024-09-18|2023-12-26|
+|42|[robertknight/ocrs](https://github.com/robertknight/ocrs)|Rust library and CLI tool for OCR (extracting text from images)|1120|2024-09-20|2024-01-02|
+|43|[Tencent/tquic](https://github.com/Tencent/tquic)|A high-performance, lightweight, and cross-platform QUIC library|1059|2024-09-14|2023-10-26|
+|44|[elastio/bon](https://github.com/elastio/bon)|Generate builders for everything!|1050|2024-09-20|2024-06-30|
+|45|[BoundaryML/baml](https://github.com/BoundaryML/baml)|BAML is a language that helps you get structured data from LLMs, with the best DX possible. Check out the promptfiddle.com playground|1019|2024-09-20|2023-10-06|
 |46|[orhun/daktilo](https://github.com/orhun/daktilo)|Turn your keyboard into a typewriter! 📇|1016|2024-09-18|2023-09-23|
-|47|[gauge-sh/tach](https://github.com/gauge-sh/tach)|A Python tool to enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoperable with yo ...|1011|2024-09-18|2024-01-31|
-|48|[Ragnt/AngryOxide](https://github.com/Ragnt/AngryOxide)|802.11 Attack Tool|1010|2024-09-14|2023-10-22|
-|49|[LlamaEdge/LlamaEdge](https://github.com/LlamaEdge/LlamaEdge)|The easiest & fastest way to run customized and fine-tuned LLMs locally or on the edge|993|2024-09-19|2023-10-09|
-|50|[YiNNx/cmd-wrapped](https://github.com/YiNNx/cmd-wrapped)|👩‍💻 A CLI Tool for Command Line Insights|976|2024-09-07|2023-12-29|
-|51|[tsukinaha/tsukimi](https://github.com/tsukinaha/tsukimi)|A simple third-party Emby client|960|2024-09-19|2024-03-04|
-|52|[slatedb/slatedb](https://github.com/slatedb/slatedb)|A cloud native embedded storage engine built on object storage.|932|2024-09-19|2024-03-26|
-|53|[succinctlabs/sp1](https://github.com/succinctlabs/sp1)|A performant, 100% open-source, contributor-friendly zkVM.|923|2024-09-19|2023-12-05|
-|54|[FoxIO-LLC/ja4](https://github.com/FoxIO-LLC/ja4)|JA4+ is a suite of network fingerprinting standards|885|2024-09-18|2023-09-22|
-|55|[Chleba/netscanner](https://github.com/Chleba/netscanner)|Terminal Network scanner & diagnostic tool with modern TUI|807|2024-09-16|2023-12-10|
-|56|[elijah-potter/harper](https://github.com/elijah-potter/harper)|The Grammar Checker for Developers|767|2024-09-18|2023-10-22|
+|47|[gauge-sh/tach](https://github.com/gauge-sh/tach)|A Python tool to enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoperable with yo ...|1013|2024-09-20|2024-01-31|
+|48|[Ragnt/AngryOxide](https://github.com/Ragnt/AngryOxide)|802.11 Attack Tool|1011|2024-09-14|2023-10-22|
+|49|[LlamaEdge/LlamaEdge](https://github.com/LlamaEdge/LlamaEdge)|The easiest & fastest way to run customized and fine-tuned LLMs locally or on the edge|995|2024-09-20|2023-10-09|
+|50|[YiNNx/cmd-wrapped](https://github.com/YiNNx/cmd-wrapped)|👩‍💻 A CLI Tool for Command Line Insights|978|2024-09-07|2023-12-29|
+|51|[tsukinaha/tsukimi](https://github.com/tsukinaha/tsukimi)|A simple third-party Emby client|971|2024-09-20|2024-03-04|
+|52|[slatedb/slatedb](https://github.com/slatedb/slatedb)|A cloud native embedded storage engine built on object storage.|938|2024-09-20|2024-03-26|
+|53|[succinctlabs/sp1](https://github.com/succinctlabs/sp1)|A performant, 100% open-source, contributor-friendly zkVM.|925|2024-09-20|2023-12-05|
+|54|[FoxIO-LLC/ja4](https://github.com/FoxIO-LLC/ja4)|JA4+ is a suite of network fingerprinting standards|885|2024-09-20|2023-09-22|
+|55|[Chleba/netscanner](https://github.com/Chleba/netscanner)|Terminal Network scanner & diagnostic tool with modern TUI|808|2024-09-16|2023-12-10|
+|56|[elijah-potter/harper](https://github.com/elijah-potter/harper)|The Grammar Checker for Developers|771|2024-09-20|2023-10-22|
 |57|[moturus/motor-os](https://github.com/moturus/motor-os)|A simple, fast, and secure operating system for the cloud.|752|2024-09-18|2023-12-21|
-|58|[sunfishcode/eyra](https://github.com/sunfishcode/eyra)|Rust programs written entirely in Rust|751|2024-08-22|2023-09-22|
-|59|[apache/datafusion-comet](https://github.com/apache/datafusion-comet)|Apache DataFusion Comet Spark Accelerator|748|2024-09-19|2024-01-15|
-|60|[Kobzol/cargo-wizard](https://github.com/Kobzol/cargo-wizard)|Cargo subcommand for configuring Cargo projects for best performance.|733|2024-04-07|2024-03-03|
-|61|[seekbytes/IPA](https://github.com/seekbytes/IPA)|GUI analyzer for deep-diving into PDF files. Detect malicious payloads, understand object relationships, and extract key information for threat analysis.|716|2024-08-22|2024-08-22|
+|58|[sunfishcode/eyra](https://github.com/sunfishcode/eyra)|Rust programs written entirely in Rust|750|2024-08-22|2023-09-22|
+|59|[apache/datafusion-comet](https://github.com/apache/datafusion-comet)|Apache DataFusion Comet Spark Accelerator|749|2024-09-20|2024-01-15|
+|60|[Kobzol/cargo-wizard](https://github.com/Kobzol/cargo-wizard)|Cargo subcommand for configuring Cargo projects for best performance.|734|2024-04-07|2024-03-03|
+|61|[seekbytes/IPA](https://github.com/seekbytes/IPA)|GUI analyzer for deep-diving into PDF files. Detect malicious payloads, understand object relationships, and extract key information for threat analysis.|717|2024-08-22|2024-08-22|
 |62|[pythops/impala](https://github.com/pythops/impala)|🛜 TUI for managing wifi on Linux.|690|2024-09-08|2024-06-09|
-|63|[guywaldman/magic-cli](https://github.com/guywaldman/magic-cli)|Command line utility to make you a magician in the terminal|684|2024-07-27|2024-06-24|
+|63|[guywaldman/magic-cli](https://github.com/guywaldman/magic-cli)|Command line utility to make you a magician in the terminal|686|2024-07-27|2024-06-24|
 |64|[regolith-labs/ore](https://github.com/regolith-labs/ore)|ORE is a proof-of-work token everyone can mine.|658|2024-09-06|2024-01-07|
-|65|[bitwhip/bitwhip](https://github.com/bitwhip/bitwhip)|CLI Native WebRTC Agent in Rust|656|2024-08-14|2024-07-09|
-|66|[ZacharyL2/KeyEcho](https://github.com/ZacharyL2/KeyEcho)|Listen to Mechanical Keyboard Sounds with Every Keystroke - It's Fast|631|2024-09-13|2024-05-31|
-|67|[junkdog/tachyonfx](https://github.com/junkdog/tachyonfx)|shader-like effects library for ratatui applications|629|2024-09-19|2024-06-08|
-|68|[zaghaghi/openapi-tui](https://github.com/zaghaghi/openapi-tui)|Terminal UI to list, browse and run APIs defined with openapi spec.|626|2024-07-27|2024-03-02|
-|69|[tonbo-io/tonbo](https://github.com/tonbo-io/tonbo)|A portable embedded database using Arrow.|609|2024-09-14|2024-07-15|
-|70|[gabotechs/MusicGPT](https://github.com/gabotechs/MusicGPT)|Generate music based on natural language prompts using LLMs running locally|603|2024-06-14|2024-05-03|
+|65|[bitwhip/bitwhip](https://github.com/bitwhip/bitwhip)|CLI Native WebRTC Agent in Rust|657|2024-08-14|2024-07-09|
+|66|[junkdog/tachyonfx](https://github.com/junkdog/tachyonfx)|shader-like effects library for ratatui applications|636|2024-09-19|2024-06-08|
+|67|[ZacharyL2/KeyEcho](https://github.com/ZacharyL2/KeyEcho)|Listen to Mechanical Keyboard Sounds with Every Keystroke - It's Fast|631|2024-09-13|2024-05-31|
+|68|[zaghaghi/openapi-tui](https://github.com/zaghaghi/openapi-tui)|Terminal UI to list, browse and run APIs defined with openapi spec.|630|2024-07-27|2024-03-02|
+|69|[tonbo-io/tonbo](https://github.com/tonbo-io/tonbo)|A portable embedded database using Arrow.|610|2024-09-20|2024-07-15|
+|70|[gabotechs/MusicGPT](https://github.com/gabotechs/MusicGPT)|Generate music based on natural language prompts using LLMs running locally|604|2024-06-14|2024-05-03|
 |71|[Snowiiii/Pumpkin](https://github.com/Snowiiii/Pumpkin)|Empowering everyone to host fast and efficient Minecraft servers.|599|2024-09-19|2024-07-28|
 |72|[aws/aws-secretsmanager-agent](https://github.com/aws/aws-secretsmanager-agent)|The AWS Secrets Manager Agent is a local HTTP service that you can install and use in your compute environments to read secrets from Secrets Manager and cache them in memory.|584|2024-08-21|2024-07-03|
 |73|[mistricky/codesnap.nvim](https://github.com/mistricky/codesnap.nvim)|📸 Snapshot plugin with rich features that can make pretty code snapshots for Neovim|582|2024-07-30|2024-02-13|
-|74|[ynqa/sig](https://github.com/ynqa/sig)|Interactive grep (for streaming)|575|2024-07-29|2024-05-25|
-|75|[pythops/oryx](https://github.com/pythops/oryx)|🕵️‍♂️ TUI for sniffing network traffic using eBPF on Linux|570|2024-09-18|2024-09-01|
-|76|[huggingface/ratchet](https://github.com/huggingface/ratchet)|A cross-platform browser ML framework.|570|2024-09-18|2024-01-11|
+|74|[pythops/oryx](https://github.com/pythops/oryx)|🕵️‍♂️ TUI for sniffing network traffic using eBPF on Linux|577|2024-09-19|2024-09-01|
+|75|[ynqa/sig](https://github.com/ynqa/sig)|Interactive grep (for streaming)|575|2024-07-29|2024-05-25|
+|76|[huggingface/ratchet](https://github.com/huggingface/ratchet)|A cross-platform browser ML framework.|574|2024-09-20|2024-01-11|
 |77|[antoniosarosi/mkdb](https://github.com/antoniosarosi/mkdb)|Toy Database|557|2024-04-20|2023-10-03|
 |78|[facebook/dotslash](https://github.com/facebook/dotslash)|Simplified executable deployment|555|2024-09-14|2024-02-06|
-|79|[supabase/pg_replicate](https://github.com/supabase/pg_replicate)|Build Postgres replication apps in Rust|552|2024-09-18|2024-02-05|
-|80|[tracel-ai/cubecl](https://github.com/tracel-ai/cubecl)|Multi-platform high-performance compute language extension for Rust.|540|2024-09-19|2024-06-14|
-|81|[mxsm/rocketmq-rust](https://github.com/mxsm/rocketmq-rust)|🚀Apache RocketMQ Rust implementation. Faster, safer, and with lower memory usage.|537|2024-09-19|2023-12-13|
-|82|[yassinebridi/serpl](https://github.com/yassinebridi/serpl)|A simple terminal UI for search and replace, ala VS Code.|527|2024-08-03|2024-06-20|
-|83|[davidlattimore/wild](https://github.com/davidlattimore/wild)|-|521|2024-09-19|2024-02-04|
-|84|[eclipse-iceoryx/iceoryx2](https://github.com/eclipse-iceoryx/iceoryx2)|Eclipse iceoryx2™ - true zero-copy inter-process-communication in pure Rust|515|2024-09-19|2023-12-12|
-|85|[Abraxas-365/langchain-rust](https://github.com/Abraxas-365/langchain-rust)|🦜️🔗LangChain for Rust, the easiest way to write LLM-based programs in Rust|513|2024-09-14|2024-01-31|
-|86|[Myriad-Dreamin/tinymist](https://github.com/Myriad-Dreamin/tinymist)|Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst].|512|2024-09-14|2024-03-06|
-|87|[beac0n/ruroco](https://github.com/beac0n/ruroco)|Ruroco is a tool that lets you execute commands on a server by sending UDP packets. The commands are configured on the server side, so the client does not define what is going to be executed, it only  ...|508|2024-09-16|2024-05-12|
-|88|[dustinblackman/oatmeal](https://github.com/dustinblackman/oatmeal)|Terminal UI to chat with large language models (LLM) using different model backends, and integrations with your favourite editors!|490|2024-06-01|2023-11-06|
-|89|[itsjunetime/tdf](https://github.com/itsjunetime/tdf)|A tui-based PDF viewer|482|2024-09-06|2024-05-26|
-|90|[AmrDeveloper/ClangQL](https://github.com/AmrDeveloper/ClangQL)| ClangQL is a tool that allow you to run SQL-like query on C/C++ Code instead of database files using the GitQL SDK|481|2024-09-08|2024-04-05|
-|91|[mattrighetti/envelope](https://github.com/mattrighetti/envelope)|An environment variables cli tool backed by SQLite|481|2024-06-30|2023-09-21|
-|92|[gabm/Satty](https://github.com/gabm/Satty)|Satty - Modern Screenshot Annotation. A tool inspired by Swappy and Flameshot.|471|2024-09-07|2023-09-21|
-|93|[tonyke-bot/ore-miner](https://github.com/tonyke-bot/ore-miner)|ORE Miner built on top of Jito bundle with both CPU and GPU support.|465|2024-04-16|2024-04-13|
-|94|[explodingcamera/tinywasm](https://github.com/explodingcamera/tinywasm)|A tiny, interpreted WebAssembly Runtime written in Rust|462|2024-09-12|2023-11-21|
-|95|[pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs)|A Rust library allowing to interact with the Ollama API.|457|2024-09-07|2023-11-02|
-|96|[polachok/helix-gpui](https://github.com/polachok/helix-gpui)|helix gpui frontend|455|2024-06-10|2024-04-09|
-|97|[josueBarretogit/manga-tui](https://github.com/josueBarretogit/manga-tui)|Terminal-based manga reader and downloader with image support |447|2024-09-17|2024-06-10|
-|98|[thomastschurtschenthaler/electrico](https://github.com/thomastschurtschenthaler/electrico)|A Lightweight Electron App Container|445|2024-09-18|2024-09-12|
-|99|[jasonjmcghee/plock](https://github.com/jasonjmcghee/plock)|From anywhere you can type, query and stream the output of an LLM or any other script|442|2024-04-12|2024-01-21|
-|100|[evilsocket/nerve](https://github.com/evilsocket/nerve)|Instrument any LLM to do actual stuff.|434|2024-09-04|2024-06-07|
-|101|[sabledb-io/sabledb](https://github.com/sabledb-io/sabledb)|Ultra fast, persistent database supporting Redis API|423|2024-09-15|2024-03-30|
-|102|[pwnwriter/hysp](https://github.com/pwnwriter/hysp)|📦 An independent package manager that every hacker deserves. |419|2024-05-26|2023-11-17|
-|103|[wez/govee2mqtt](https://github.com/wez/govee2mqtt)|Govee2MQTT: Connect Govee lights and devices to Home Assistant|416|2024-09-16|2024-01-03|
-|104|[blahgeek/emacs-lsp-booster](https://github.com/blahgeek/emacs-lsp-booster)|Emacs LSP performance booster|407|2024-08-01|2023-12-29|
-|105|[elodin-sys/elodin](https://github.com/elodin-sys/elodin)|Physics simulation software for space + aerospace|406|2024-09-16|2024-02-26|
-|106|[radekvit/coffee_break](https://github.com/radekvit/coffee_break)|Take a break while compiling.|402|2024-04-13|2024-03-22|
+|79|[supabase/pg_replicate](https://github.com/supabase/pg_replicate)|Build Postgres replication apps in Rust|554|2024-09-18|2024-02-05|
+|80|[tracel-ai/cubecl](https://github.com/tracel-ai/cubecl)|Multi-platform high-performance compute language extension for Rust.|542|2024-09-20|2024-06-14|
+|81|[mxsm/rocketmq-rust](https://github.com/mxsm/rocketmq-rust)|🚀Apache RocketMQ Rust implementation. Faster, safer, and with lower memory usage.|538|2024-09-20|2023-12-13|
+|82|[yassinebridi/serpl](https://github.com/yassinebridi/serpl)|A simple terminal UI for search and replace, ala VS Code.|536|2024-08-03|2024-06-20|
+|83|[davidlattimore/wild](https://github.com/davidlattimore/wild)|-|523|2024-09-20|2024-02-04|
+|84|[eclipse-iceoryx/iceoryx2](https://github.com/eclipse-iceoryx/iceoryx2)|Eclipse iceoryx2™ - true zero-copy inter-process-communication in pure Rust|517|2024-09-20|2023-12-12|
+|85|[Myriad-Dreamin/tinymist](https://github.com/Myriad-Dreamin/tinymist)|Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst].|516|2024-09-20|2024-03-06|
+|86|[Abraxas-365/langchain-rust](https://github.com/Abraxas-365/langchain-rust)|🦜️🔗LangChain for Rust, the easiest way to write LLM-based programs in Rust|516|2024-09-14|2024-01-31|
+|87|[beac0n/ruroco](https://github.com/beac0n/ruroco)|Ruroco is a tool that lets you execute commands on a server by sending UDP packets. The commands are configured on the server side, so the client does not define what is going to be executed, it only  ...|509|2024-09-16|2024-05-12|
+|88|[thomastschurtschenthaler/electrico](https://github.com/thomastschurtschenthaler/electrico)|A Lightweight Electron App Container|492|2024-09-20|2024-09-12|
+|89|[dustinblackman/oatmeal](https://github.com/dustinblackman/oatmeal)|Terminal UI to chat with large language models (LLM) using different model backends, and integrations with your favourite editors!|491|2024-06-01|2023-11-06|
+|90|[itsjunetime/tdf](https://github.com/itsjunetime/tdf)|A tui-based PDF viewer|484|2024-09-06|2024-05-26|
+|91|[AmrDeveloper/ClangQL](https://github.com/AmrDeveloper/ClangQL)| ClangQL is a tool that allow you to run SQL-like query on C/C++ Code instead of database files using the GitQL SDK|481|2024-09-08|2024-04-05|
+|92|[tonyke-bot/ore-miner](https://github.com/tonyke-bot/ore-miner)|ORE Miner built on top of Jito bundle with both CPU and GPU support.|465|2024-04-16|2024-04-13|
+|93|[explodingcamera/tinywasm](https://github.com/explodingcamera/tinywasm)|A tiny, interpreted WebAssembly Runtime written in Rust|462|2024-09-12|2023-11-21|
+|94|[pepperoni21/ollama-rs](https://github.com/pepperoni21/ollama-rs)|A Rust library allowing to interact with the Ollama API.|457|2024-09-07|2023-11-02|
+|95|[polachok/helix-gpui](https://github.com/polachok/helix-gpui)|helix gpui frontend|455|2024-06-10|2024-04-09|
+|96|[josueBarretogit/manga-tui](https://github.com/josueBarretogit/manga-tui)|Terminal-based manga reader and downloader with image support |448|2024-09-19|2024-06-10|
+|97|[jasonjmcghee/plock](https://github.com/jasonjmcghee/plock)|From anywhere you can type, query and stream the output of an LLM or any other script|442|2024-04-12|2024-01-21|
+|98|[evilsocket/nerve](https://github.com/evilsocket/nerve)|Instrument any LLM to do actual stuff.|434|2024-09-04|2024-06-07|
+|99|[sabledb-io/sabledb](https://github.com/sabledb-io/sabledb)|Ultra fast, persistent database supporting Redis API|423|2024-09-20|2024-03-30|
+|100|[pwnwriter/hysp](https://github.com/pwnwriter/hysp)|📦 An independent package manager that every hacker deserves. |419|2024-05-26|2023-11-17|
+|101|[wez/govee2mqtt](https://github.com/wez/govee2mqtt)|Govee2MQTT: Connect Govee lights and devices to Home Assistant|418|2024-09-16|2024-01-03|
+|102|[blahgeek/emacs-lsp-booster](https://github.com/blahgeek/emacs-lsp-booster)|Emacs LSP performance booster|407|2024-08-01|2023-12-29|
+|103|[elodin-sys/elodin](https://github.com/elodin-sys/elodin)|Physics simulation software for space + aerospace|406|2024-09-16|2024-02-26|
+|104|[dragostis/chili](https://github.com/dragostis/chili)|Rust port of Spice, a low-overhead parallelization library|403|2024-09-20|2024-08-27|
+|105|[radekvit/coffee_break](https://github.com/radekvit/coffee_break)|Take a break while compiling.|402|2024-04-13|2024-03-22|
+|106|[hsfzxjy/handwriter.ttf](https://github.com/hsfzxjy/handwriter.ttf)|Handwriting synthesis with Harfbuzz WASM.|399|2024-08-22|2024-08-21|
 |107|[tsoding/good_training_language](https://github.com/tsoding/good_training_language)|Хороший Учебный Язык|399|2024-08-17|2024-04-02|
-|108|[hsfzxjy/handwriter.ttf](https://github.com/hsfzxjy/handwriter.ttf)|Handwriting synthesis with Harfbuzz WASM.|398|2024-08-22|2024-08-21|
-|109|[pcwalton/offset-allocator](https://github.com/pcwalton/offset-allocator)|A port of Sebastian Aaltonen's `OffsetAllocator` to Rust|383|2024-07-09|2024-04-30|
-|110|[shshemi/tabiew](https://github.com/shshemi/tabiew)|A lightweight TUI application to view and query tabular data files, such as CSV, TSV, or parquet.|374|2024-09-08|2024-04-27|
-|111|[Dreamtowards/Ethertum](https://github.com/Dreamtowards/Ethertum)|A Voxel Multiplayer Sandbox Survival Game built in Rust & Bevy.|374|2024-08-02|2023-11-29|
-|112|[spring-rs/spring-rs](https://github.com/spring-rs/spring-rs)|🍃spring-rs is a application framework written in rust inspired by java's spring-boot|370|2024-09-19|2024-05-26|
-|113|[pop-os/cosmic-term](https://github.com/pop-os/cosmic-term)|WIP COSMIC terminal emulator|370|2024-09-17|2023-12-17|
-|114|[cloudflare/trie-hard](https://github.com/cloudflare/trie-hard)|Novel implementation of a Trie data structure optimized for small, sparse maps|369|2024-09-13|2024-09-06|
-|115|[llm-edge/hal-9100](https://github.com/llm-edge/hal-9100)|Edge full-stack LLM platform. Written in Rust|369|2024-05-25|2023-11-15|
-|116|[lusingander/serie](https://github.com/lusingander/serie)|A rich git commit graph in your terminal, like magic 📚|363|2024-09-17|2024-07-28|
-|117|[Rust-GPU/rust-gpu](https://github.com/Rust-GPU/rust-gpu)|🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧|363|2024-09-17|2024-07-11|
-|118|[Maximkaaa/galileo](https://github.com/Maximkaaa/galileo)|General purpose cross-platform GIS-rendering library written in Rust|362|2024-06-21|2023-12-07|
-|119|[thomas-mauran/chess-tui](https://github.com/thomas-mauran/chess-tui)|A chess TUI implementation in rust 🦀|357|2024-08-06|2023-11-14|
-|120|[orhun/flawz](https://github.com/orhun/flawz)|A Terminal UI for browsing security vulnerabilities (CVEs)|353|2024-09-17|2024-05-15|
-|121|[juspay/superposition](https://github.com/juspay/superposition)|Superposition is a context-based configuration management system designed to facilitate safe and flexible rollout of config changes|349|2024-09-19|2024-04-18|
-|122|[cmu-db/optd](https://github.com/cmu-db/optd)|CMU-DB's Cascades optimizer framework|349|2024-09-03|2023-10-17|
-|123|[ibraheemdev/papaya](https://github.com/ibraheemdev/papaya)|A fast and ergonomic concurrent hash-table for read-heavy workloads.|344|2024-08-19|2023-11-20|
-|124|[oasysai/oasysdb](https://github.com/oasysai/oasysdb)|Hybrid vector database with flexible SQL storage engine & multi-index support.|343|2024-09-17|2023-11-24|
-|125|[abstractqqq/polars_ds_extension](https://github.com/abstractqqq/polars_ds_extension)|Polars extension for general data science use cases|332|2024-09-17|2023-10-30|
+|108|[pcwalton/offset-allocator](https://github.com/pcwalton/offset-allocator)|A port of Sebastian Aaltonen's `OffsetAllocator` to Rust|383|2024-07-09|2024-04-30|
+|109|[shshemi/tabiew](https://github.com/shshemi/tabiew)|A lightweight TUI application to view and query tabular data files, such as CSV, TSV, or parquet.|374|2024-09-08|2024-04-27|
+|110|[Dreamtowards/Ethertum](https://github.com/Dreamtowards/Ethertum)|A Voxel Multiplayer Sandbox Survival Game built in Rust & Bevy.|374|2024-08-02|2023-11-29|
+|111|[cloudflare/trie-hard](https://github.com/cloudflare/trie-hard)|Novel implementation of a Trie data structure optimized for small, sparse maps|371|2024-09-20|2024-09-06|
+|112|[spring-rs/spring-rs](https://github.com/spring-rs/spring-rs)|🍃spring-rs is a application framework written in rust inspired by java's spring-boot|371|2024-09-20|2024-05-26|
+|113|[pop-os/cosmic-term](https://github.com/pop-os/cosmic-term)|WIP COSMIC terminal emulator|370|2024-09-19|2023-12-17|
+|114|[llm-edge/hal-9100](https://github.com/llm-edge/hal-9100)|Edge full-stack LLM platform. Written in Rust|369|2024-05-25|2023-11-15|
+|115|[lusingander/serie](https://github.com/lusingander/serie)|A rich git commit graph in your terminal, like magic 📚|366|2024-09-17|2024-07-28|
+|116|[Rust-GPU/rust-gpu](https://github.com/Rust-GPU/rust-gpu)|🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧|366|2024-09-17|2024-07-11|
+|117|[Maximkaaa/galileo](https://github.com/Maximkaaa/galileo)|General purpose cross-platform GIS-rendering library written in Rust|362|2024-06-21|2023-12-07|
+|118|[thomas-mauran/chess-tui](https://github.com/thomas-mauran/chess-tui)|A chess TUI implementation in rust 🦀|357|2024-08-06|2023-11-14|
+|119|[orhun/flawz](https://github.com/orhun/flawz)|A Terminal UI for browsing security vulnerabilities (CVEs)|353|2024-09-17|2024-05-15|
+|120|[juspay/superposition](https://github.com/juspay/superposition)|Superposition is a context-based configuration management system designed to facilitate safe and flexible rollout of config changes|349|2024-09-20|2024-04-18|
+|121|[cmu-db/optd](https://github.com/cmu-db/optd)|CMU-DB's Cascades optimizer framework|349|2024-09-03|2023-10-17|
+|122|[ibraheemdev/papaya](https://github.com/ibraheemdev/papaya)|A fast and ergonomic concurrent hash-table for read-heavy workloads.|344|2024-08-19|2023-11-20|
+|123|[oasysai/oasysdb](https://github.com/oasysai/oasysdb)|Hybrid vector database with flexible SQL storage engine & multi-index support.|343|2024-09-20|2023-11-24|
+|124|[abstractqqq/polars_ds_extension](https://github.com/abstractqqq/polars_ds_extension)|Polars extension for general data science use cases|333|2024-09-17|2023-10-30|
+|125|[danirod/cartero](https://github.com/danirod/cartero)|Make HTTP requests and test APIs|331|2024-08-07|2024-03-22|
 |126|[appsinacup/godot-rapier-physics](https://github.com/appsinacup/godot-rapier-physics)|Godot Rapier Physics – A 2D and 3D drop-in replacement for the Godot engine that adds stability and fluids.|331|2024-09-19|2023-10-26|
-|127|[danirod/cartero](https://github.com/danirod/cartero)|Make HTTP requests and test APIs|330|2024-08-07|2024-03-22|
-|128|[edgenai/edgen](https://github.com/edgenai/edgen)|⚡  Edgen: Local, private GenAI server alternative to OpenAI. No GPU required. Run AI models locally: LLMs (Llama2, Mistral, Mixtral...), Speech-to-text (whisper) and many others.|330|2024-05-23|2024-01-30|
-|129|[fjall-rs/fjall](https://github.com/fjall-rs/fjall)|LSM-based embeddable key-value storage engine written in safe Rust|326|2024-09-18|2023-11-16|
-|130|[rerun-io/revy](https://github.com/rerun-io/revy)|Proof-of-concept time-travel debugger for the Bevy game engine, built using Rerun.|324|2024-08-31|2024-02-18|
-|131|[BitVM/BitVM](https://github.com/BitVM/BitVM)|Smarter Bitcoin Contracts|324|2024-09-18|2023-10-24|
-|132|[EgeBalci/deoptimizer](https://github.com/EgeBalci/deoptimizer)|Evasion by machine code de-optimization.|320|2024-07-22|2023-11-14|
-|133|[codyd51/uefirc](https://github.com/codyd51/uefirc)|An IRC client in your motherboard|318|2024-04-10|2024-01-22|
-|134|[snowfoxsh/nestify](https://github.com/snowfoxsh/nestify)|Nestify offers a macro to simplify and beautify nested struct definitions in Rust, enabling cleaner, more readable code structures with less verbosity. It's especially valuable for handling API respon ...|318|2024-04-06|2023-09-28|
-|135|[brioche-dev/brioche](https://github.com/brioche-dev/brioche)|A delicious package manager|316|2024-09-16|2023-12-22|
-|136|[BladeTransformerLLC/gauzilla](https://github.com/BladeTransformerLLC/gauzilla)|Gauzilla: a 3D Gaussian Splatting renderer written in Rust for WebAssembly with lock-free multithreading|307|2024-07-22|2023-12-15|
-|137|[ellenhp/airmail](https://github.com/ellenhp/airmail)|Lightweight geocoder in pure Rust|305|2024-08-18|2024-01-27|
-|138|[girlbossceo/conduwuit](https://github.com/girlbossceo/conduwuit)|a very cool, featureful fork of conduit|302|2024-09-18|2023-11-26|
-|139|[pythops/bluetui](https://github.com/pythops/bluetui)|🛜 TUI for managing bluetooth on Linux.|301|2024-09-01|2024-02-21|
-|140|[letmutex/htmd](https://github.com/letmutex/htmd)|A turndown.js inspired HTML to Markdown converter for Rust|300|2024-07-12|2024-06-16|
-|141|[UmbraLuminosa/sickle_ui](https://github.com/UmbraLuminosa/sickle_ui)|A widget library built on top of bevy_ui.|296|2024-09-14|2024-03-15|
+|127|[edgenai/edgen](https://github.com/edgenai/edgen)|⚡  Edgen: Local, private GenAI server alternative to OpenAI. No GPU required. Run AI models locally: LLMs (Llama2, Mistral, Mixtral...), Speech-to-text (whisper) and many others.|330|2024-05-23|2024-01-30|
+|128|[fjall-rs/fjall](https://github.com/fjall-rs/fjall)|LSM-based embeddable key-value storage engine written in safe Rust|327|2024-09-20|2023-11-16|
+|129|[rerun-io/revy](https://github.com/rerun-io/revy)|Proof-of-concept time-travel debugger for the Bevy game engine, built using Rerun.|325|2024-08-31|2024-02-18|
+|130|[BitVM/BitVM](https://github.com/BitVM/BitVM)|Smarter Bitcoin Contracts|324|2024-09-18|2023-10-24|
+|131|[EgeBalci/deoptimizer](https://github.com/EgeBalci/deoptimizer)|Evasion by machine code de-optimization.|321|2024-07-22|2023-11-14|
+|132|[codyd51/uefirc](https://github.com/codyd51/uefirc)|An IRC client in your motherboard|318|2024-04-10|2024-01-22|
+|133|[snowfoxsh/nestify](https://github.com/snowfoxsh/nestify)|Nestify offers a macro to simplify and beautify nested struct definitions in Rust, enabling cleaner, more readable code structures with less verbosity. It's especially valuable for handling API respon ...|318|2024-04-06|2023-09-28|
+|134|[brioche-dev/brioche](https://github.com/brioche-dev/brioche)|A delicious package manager|316|2024-09-16|2023-12-22|
+|135|[BladeTransformerLLC/gauzilla](https://github.com/BladeTransformerLLC/gauzilla)|Gauzilla: a 3D Gaussian Splatting renderer written in Rust for WebAssembly with lock-free multithreading|307|2024-07-22|2023-12-15|
+|136|[ellenhp/airmail](https://github.com/ellenhp/airmail)|Lightweight geocoder in pure Rust|305|2024-08-18|2024-01-27|
+|137|[girlbossceo/conduwuit](https://github.com/girlbossceo/conduwuit)|a very cool, featureful fork of conduit|305|2024-09-20|2023-11-26|
+|138|[pythops/bluetui](https://github.com/pythops/bluetui)|🛜 TUI for managing bluetooth on Linux.|302|2024-09-01|2024-02-21|
+|139|[letmutex/htmd](https://github.com/letmutex/htmd)|A turndown.js inspired HTML to Markdown converter for Rust|299|2024-07-12|2024-06-16|
+|140|[UmbraLuminosa/sickle_ui](https://github.com/UmbraLuminosa/sickle_ui)|A widget library built on top of bevy_ui.|299|2024-09-14|2024-03-15|
+|141|[wayland-transpositor/wprs](https://github.com/wayland-transpositor/wprs)|-|296|2024-07-01|2024-02-10|
 |142|[ClayAmore/ER-Save-Editor](https://github.com/ClayAmore/ER-Save-Editor)|Elden Ring Save Editor. Compatible with PC and Playstation saves.|294|2024-08-13|2024-02-21|
-|143|[wayland-transpositor/wprs](https://github.com/wayland-transpositor/wprs)|-|294|2024-07-01|2024-02-10|
+|143|[tqwewe/kameo](https://github.com/tqwewe/kameo)|Fault-tolerant Async Actors Built on Tokio|292|2024-09-18|2024-03-29|
 |144|[ShellWen/v8_killer](https://github.com/ShellWen/v8_killer)|A powerful and highly customizable universal V8 virtual machine injector.|292|2024-06-26|2023-09-24|
 |145|[Bohr1005/xcrypto](https://github.com/Bohr1005/xcrypto)|quant,trading system,crypto,async|291|2024-07-21|2024-06-08|
-|146|[tqwewe/kameo](https://github.com/tqwewe/kameo)|Fault-tolerant Async Actors Built on Tokio|291|2024-09-18|2024-03-29|
-|147|[bluskript/nix-inspect](https://github.com/bluskript/nix-inspect)|Interactive tui for inspecting nix configs|286|2024-06-02|2024-04-02|
+|146|[bluskript/nix-inspect](https://github.com/bluskript/nix-inspect)|Interactive tui for inspecting nix configs|287|2024-06-02|2024-04-02|
+|147|[lakehq/sail](https://github.com/lakehq/sail)|LakeSail's computation framework with a mission to unify stream processing, batch processing, and compute-intensive (AI) workloads.|285|2024-09-20|2023-12-21|
 |148|[mitex-rs/mitex](https://github.com/mitex-rs/mitex)|LaTeX support for Typst, powered by Rust and WASM. https://mitex-rs.github.io/mitex/|284|2024-07-31|2023-12-15|
 |149|[sigoden/proxyfor](https://github.com/sigoden/proxyfor)|A lightweight proxy for capturing HTTP(S) and WS(S) traffic.|280|2024-09-11|2024-03-05|
-|150|[HigherOrderCO/kind](https://github.com/HigherOrderCO/kind)|Temporary repository for Kind2's refactor based on HVM2|278|2024-08-26|2024-02-08|
+|150|[HigherOrderCO/kind](https://github.com/HigherOrderCO/kind)|Temporary repository for Kind2's refactor based on HVM2|279|2024-08-26|2024-02-08|
 |151|[buffdb/buffdb](https://github.com/buffdb/buffdb)|Embedded storage built for multiplexing. Smart machines don't need to read JSON, they only need protocol buffers. The world's first MODMS (Machine-Oriented Database Management System), built to suppor ...|277|2024-08-21|2024-02-02|
 |152|[fuglede/llama.ttf](https://github.com/fuglede/llama.ttf)|A font for writing tiny stories|275|2024-06-26|2024-06-21|
-|153|[FedericoBruzzone/tgt](https://github.com/FedericoBruzzone/tgt)|TUI for Telegram written in Rust 🦀|274|2024-09-16|2024-02-15|
-|154|[joshstevens19/rindexer](https://github.com/joshstevens19/rindexer)|A no-code blazing fast EVM indexer tool built in rust.|269|2024-09-19|2023-12-26|
-|155|[cdump/evmole](https://github.com/cdump/evmole)|Extracts function selectors, arguments and state mutability from EVM bytecode, even for unverified contracts|260|2024-09-12|2023-11-25|
-|156|[grampelberg/kty](https://github.com/grampelberg/kty)|The terminal for Kubernetes|259|2024-09-18|2024-07-17|
-|157|[nixops4/nixops4](https://github.com/nixops4/nixops4)|Deploy with Nix and manage resources declaratively|258|2024-09-18|2024-03-18|
-|158|[BigBoot/AutoKuma](https://github.com/BigBoot/AutoKuma)|AutoKuma is a utility that automates the creation of Uptime Kuma monitors based on Docker container labels. With AutoKuma, you can eliminate the need for manual monitor creation in the Uptime Kuma UI.|258|2024-09-05|2024-01-05|
-|159|[lakehq/sail](https://github.com/lakehq/sail)|LakeSail's computation framework with a mission to unify stream processing, batch processing, and compute-intensive (AI) workloads.|258|2024-09-19|2023-12-21|
-|160|[fioncat/otree](https://github.com/fioncat/otree)|A command line tool to view objects (JSON/YAML/TOML) in TUI tree widget.|256|2024-09-16|2024-05-11|
-|161|[cgsdev0/termsand](https://github.com/cgsdev0/termsand)|falling sand sim for tmux 3.4+|255|2024-08-16|2024-08-13|
-|162|[vicanso/pingap](https://github.com/vicanso/pingap)|A reverse proxy like nginx, built on pingora, simple and efficient.|254|2024-09-19|2024-03-07|
+|153|[FedericoBruzzone/tgt](https://github.com/FedericoBruzzone/tgt)|TUI for Telegram written in Rust 🦀|273|2024-09-16|2024-02-15|
+|154|[joshstevens19/rindexer](https://github.com/joshstevens19/rindexer)|A no-code blazing fast EVM indexer tool built in rust.|270|2024-09-20|2023-12-26|
+|155|[grampelberg/kty](https://github.com/grampelberg/kty)|The terminal for Kubernetes|269|2024-09-20|2024-07-17|
+|156|[nyxpsi/nyxpsi](https://github.com/nyxpsi/nyxpsi)|WIP: Next-gen network protocol for reliable data transfer in lossy environments. Outperforms TCP/UDP in high packet loss scenarios.|261|2024-09-20|2024-09-16|
+|157|[nixops4/nixops4](https://github.com/nixops4/nixops4)|Deploy with Nix and manage resources declaratively|260|2024-09-18|2024-03-18|
+|158|[cdump/evmole](https://github.com/cdump/evmole)|Extracts function selectors, arguments and state mutability from EVM bytecode, even for unverified contracts|260|2024-09-12|2023-11-25|
+|159|[BigBoot/AutoKuma](https://github.com/BigBoot/AutoKuma)|AutoKuma is a utility that automates the creation of Uptime Kuma monitors based on Docker container labels. With AutoKuma, you can eliminate the need for manual monitor creation in the Uptime Kuma UI.|258|2024-09-05|2024-01-05|
+|160|[cgsdev0/termsand](https://github.com/cgsdev0/termsand)|falling sand sim for tmux 3.4+|256|2024-08-16|2024-08-13|
+|161|[fioncat/otree](https://github.com/fioncat/otree)|A command line tool to view objects (JSON/YAML/TOML) in TUI tree widget.|256|2024-09-16|2024-05-11|
+|162|[vicanso/pingap](https://github.com/vicanso/pingap)|A reverse proxy like nginx, built on pingora, simple and efficient.|255|2024-09-20|2024-03-07|
 |163|[edera-dev/krata](https://github.com/edera-dev/krata)|krata is a Xen control plane in Rust.|252|2024-09-18|2024-01-08|
-|164|[nyxpsi/nyxpsi](https://github.com/nyxpsi/nyxpsi)|WIP: Next-gen network protocol for reliable data transfer in lossy environments. Outperforms TCP/UDP in high packet loss scenarios.|251|2024-09-17|2024-09-16|
-|165|[jasonjmcghee/xrem](https://github.com/jasonjmcghee/xrem)|(Cross-Platform) An open source approach to locally record and enable searching everything you view on any computer.|251|2024-04-24|2024-01-01|
-|166|[Anush008/fastembed-rs](https://github.com/Anush008/fastembed-rs)|Library for generating vector embeddings, reranking in Rust|250|2024-08-24|2023-10-01|
-|167|[pumpbin/pumpbin](https://github.com/pumpbin/pumpbin)|🎃 PumpBin is an Implant Generation Platform.|249|2024-07-16|2024-06-11|
-|168|[kxxt/tracexec](https://github.com/kxxt/tracexec)|Tracer for execve{,at} and pre-exec behavior, launcher for debuggers.|249|2024-09-18|2023-10-22|
-|169|[Teach2Breach/Tempest](https://github.com/Teach2Breach/Tempest)|A command and control framework written in rust.|246|2024-09-17|2024-08-10|
-|170|[JonasKruckenberg/k23](https://github.com/JonasKruckenberg/k23)|Experimental WASM Microkernel Operating System|246|2024-09-12|2023-10-12|
-|171|[RyanWelly/lisp-in-rs-macros](https://github.com/RyanWelly/lisp-in-rs-macros)|A Lisp interpreter written fully in rust macros. |244|2024-09-14|2024-08-19|
-|172|[Mufanc/z-loader](https://github.com/Mufanc/z-loader)|Inject into processes specialized from Zygote|244|2024-04-18|2024-03-18|
-|173|[swlkr/ryde](https://github.com/swlkr/ryde)|ryde is a single person, single file hypermedia web framework for rust|242|2024-09-10|2024-02-18|
-|174|[robertpsoane/ducker](https://github.com/robertpsoane/ducker)|A slightly quackers Docker TUI based on k9s 🦆|241|2024-09-09|2024-06-15|
-|175|[Dvlv/BoxBuddyRS](https://github.com/Dvlv/BoxBuddyRS)|A Graphical Interface for Distrobox|241|2024-09-09|2023-12-09|
-|176|[YS-L/flamelens](https://github.com/YS-L/flamelens)|Flamegraph viewer in the terminal|240|2024-07-07|2024-06-01|
-|177|[Admyral-Security/admyral](https://github.com/Admyral-Security/admyral)|🤖 Cybersecurity Automation & Investigation Assistant|239|2024-08-18|2024-03-26|
-|178|[sleeprite/rudis](https://github.com/sleeprite/rudis)|Rudis is a high-performance in memory database|238|2024-09-05|2024-04-19|
-|179|[BenjaSOL/ore-cli-gpu](https://github.com/BenjaSOL/ore-cli-gpu)|-|236|2024-05-04|2024-04-15|
-|180|[flashbots/rbuilder](https://github.com/flashbots/rbuilder)|rbuilder is a blazingly fast, state of the art Ethereum MEV-Boost block builder written in Rust|233|2024-09-18|2024-07-01|
-|181|[SilinMeng0510/imgcatr](https://github.com/SilinMeng0510/imgcatr)|cat for images, by RUST 🦀️ |232|2024-04-21|2024-01-04|
-|182|[shog-ai/shoggoth](https://github.com/shog-ai/shoggoth)|Shoggoth is a peer-to-peer network for publishing and distributing open-source Artificial Intelligence|231|2024-07-23|2023-11-04|
+|164|[jasonjmcghee/xrem](https://github.com/jasonjmcghee/xrem)|(Cross-Platform) An open source approach to locally record and enable searching everything you view on any computer.|251|2024-04-24|2024-01-01|
+|165|[Anush008/fastembed-rs](https://github.com/Anush008/fastembed-rs)|Library for generating vector embeddings, reranking in Rust|250|2024-08-24|2023-10-01|
+|166|[pumpbin/pumpbin](https://github.com/pumpbin/pumpbin)|🎃 PumpBin is an Implant Generation Platform.|249|2024-07-16|2024-06-11|
+|167|[kxxt/tracexec](https://github.com/kxxt/tracexec)|Tracer for execve{,at} and pre-exec behavior, launcher for debuggers.|249|2024-09-20|2023-10-22|
+|168|[JonasKruckenberg/k23](https://github.com/JonasKruckenberg/k23)|Experimental WASM Microkernel Operating System|247|2024-09-20|2023-10-12|
+|169|[RyanWelly/lisp-in-rs-macros](https://github.com/RyanWelly/lisp-in-rs-macros)|A Lisp interpreter written fully in rust macros. |246|2024-09-14|2024-08-19|
+|170|[Teach2Breach/Tempest](https://github.com/Teach2Breach/Tempest)|A command and control framework written in rust.|246|2024-09-20|2024-08-10|
+|171|[Mufanc/z-loader](https://github.com/Mufanc/z-loader)|Inject into processes specialized from Zygote|244|2024-04-18|2024-03-18|
+|172|[swlkr/ryde](https://github.com/swlkr/ryde)|ryde is a single person, single file hypermedia web framework for rust|243|2024-09-10|2024-02-18|
+|173|[robertpsoane/ducker](https://github.com/robertpsoane/ducker)|A slightly quackers Docker TUI based on k9s 🦆|241|2024-09-09|2024-06-15|
+|174|[Dvlv/BoxBuddyRS](https://github.com/Dvlv/BoxBuddyRS)|A Graphical Interface for Distrobox|241|2024-09-09|2023-12-09|
+|175|[YS-L/flamelens](https://github.com/YS-L/flamelens)|Flamegraph viewer in the terminal|240|2024-07-07|2024-06-01|
+|176|[Admyral-Security/admyral](https://github.com/Admyral-Security/admyral)|🤖 Cybersecurity Automation & Investigation Assistant|239|2024-08-18|2024-03-26|
+|177|[sleeprite/rudis](https://github.com/sleeprite/rudis)|Rudis is a high-performance in memory database|238|2024-09-05|2024-04-19|
+|178|[BenjaSOL/ore-cli-gpu](https://github.com/BenjaSOL/ore-cli-gpu)|-|236|2024-05-04|2024-04-15|
+|179|[flashbots/rbuilder](https://github.com/flashbots/rbuilder)|rbuilder is a blazingly fast, state of the art Ethereum MEV-Boost block builder written in Rust|233|2024-09-20|2024-07-01|
+|180|[SilinMeng0510/imgcatr](https://github.com/SilinMeng0510/imgcatr)|cat for images, by RUST 🦀️ |232|2024-04-21|2024-01-04|
+|181|[shog-ai/shoggoth](https://github.com/shog-ai/shoggoth)|Shoggoth is a peer-to-peer network for publishing and distributing open-source Artificial Intelligence|231|2024-07-23|2023-11-04|
+|182|[EricLBuehler/candle-vllm](https://github.com/EricLBuehler/candle-vllm)|Efficent platform for inference and serving local LLMs including an OpenAI compatible API server.|231|2024-08-23|2023-10-29|
 |183|[FuzzAnything/Hopper](https://github.com/FuzzAnything/Hopper)|Hopper is a tool for generating fuzzing test cases for libraries automatically using interpretative fuzzing.|230|2024-09-07|2023-10-26|
 |184|[ad-si/tu](https://github.com/ad-si/tu)|CLI tool to convert a natural language date/time string to UTC|229|2024-04-12|2024-03-16|
-|185|[EricLBuehler/candle-vllm](https://github.com/EricLBuehler/candle-vllm)|Efficent platform for inference and serving local LLMs including an OpenAI compatible API server.|229|2024-08-23|2023-10-29|
-|186|[awolverp/cachebox](https://github.com/awolverp/cachebox)|The fastest memoizing and caching Python library written in Rust.|228|2024-09-13|2024-02-27|
+|185|[awolverp/cachebox](https://github.com/awolverp/cachebox)|The fastest memoizing and caching Python library written in Rust.|228|2024-09-13|2024-02-27|
+|186|[probably-nothing-labs/denormalized](https://github.com/probably-nothing-labs/denormalized)|Embeddable stream processing engine based on Apache DataFusion|225|2024-09-20|2024-07-13|
 |187|[makeecat/Peng](https://github.com/makeecat/Peng)|A minimal quadrotor autonomy framework in Rust (Mac, Linux, Windows)|225|2024-09-08|2024-07-07|
-|188|[StarlightSearch/EmbedAnything](https://github.com/StarlightSearch/EmbedAnything)|A minimalist yet highly performant, lightweight, lightning fast, multisource, multimodal  and local embedding solution, built in rust. |223|2024-09-16|2024-03-31|
-|189|[probably-nothing-labs/denormalized](https://github.com/probably-nothing-labs/denormalized)|Embeddable stream processing engine based on Apache DataFusion|222|2024-09-19|2024-07-13|
-|190|[memN0ps/illusion-rs](https://github.com/memN0ps/illusion-rs)|Rusty Hypervisor - Windows UEFI Blue Pill Type-1 Hypervisor in Rust (Codename: Illusion)|222|2024-08-31|2023-11-27|
-|191|[TanTanDev/binary_greedy_mesher_demo](https://github.com/TanTanDev/binary_greedy_mesher_demo)|-|221|2024-06-16|2024-04-17|
-|192|[boustrophedon/pgtemp](https://github.com/boustrophedon/pgtemp)|Rust library and daemon for easily starting postgres databases per-test without Docker|219|2024-08-18|2024-02-05|
-|193|[BlackSnufkin/NovaLdr](https://github.com/BlackSnufkin/NovaLdr)|Threadless Module Stomping In Rust with some features (In memory of those murdered in the Nova party massacre)|219|2024-06-29|2023-10-19|
-|194|[bobobo1618/ninesleep](https://github.com/bobobo1618/ninesleep)|-|217|2024-05-16|2024-01-21|
-|195|[golemcloud/golem](https://github.com/golemcloud/golem)|Golem is an open source durable computing platform that makes it easy to build and deploy highly reliable distributed systems.|216|2024-09-19|2023-11-24|
-|196|[worldcoin/orb-software](https://github.com/worldcoin/orb-software)|Software for the orb|215|2024-09-19|2024-01-17|
+|188|[StarlightSearch/EmbedAnything](https://github.com/StarlightSearch/EmbedAnything)|A minimalist yet highly performant, lightweight, lightning fast, multisource, multimodal  and local embedding solution, built in rust. |225|2024-09-16|2024-03-31|
+|189|[memN0ps/illusion-rs](https://github.com/memN0ps/illusion-rs)|Rusty Hypervisor - Windows UEFI Blue Pill Type-1 Hypervisor in Rust (Codename: Illusion)|223|2024-08-31|2023-11-27|
+|190|[TanTanDev/binary_greedy_mesher_demo](https://github.com/TanTanDev/binary_greedy_mesher_demo)|-|221|2024-06-16|2024-04-17|
+|191|[boustrophedon/pgtemp](https://github.com/boustrophedon/pgtemp)|Rust library and daemon for easily starting postgres databases per-test without Docker|219|2024-08-18|2024-02-05|
+|192|[BlackSnufkin/NovaLdr](https://github.com/BlackSnufkin/NovaLdr)|Threadless Module Stomping In Rust with some features (In memory of those murdered in the Nova party massacre)|219|2024-06-29|2023-10-19|
+|193|[bobobo1618/ninesleep](https://github.com/bobobo1618/ninesleep)|-|218|2024-05-16|2024-01-21|
+|194|[golemcloud/golem](https://github.com/golemcloud/golem)|Golem is an open source durable computing platform that makes it easy to build and deploy highly reliable distributed systems.|216|2024-09-20|2023-11-24|
+|195|[worldcoin/orb-software](https://github.com/worldcoin/orb-software)|Software for the orb|215|2024-09-20|2024-01-17|
+|196|[redpenguinyt/display3d](https://github.com/redpenguinyt/display3d)|A command line interface for rendering and animating 3D objects|212|2024-05-02|2024-01-06|
 |197|[8xFF/atm0s-media-server](https://github.com/8xFF/atm0s-media-server)|Decentralized, Global-Scale Media Server written in Rust (WebRTC/Whip/Whep/Rtmp/Sip)|212|2024-09-16|2023-10-26|
-|198|[redpenguinyt/display3d](https://github.com/redpenguinyt/display3d)|A command line interface for rendering and animating 3D objects|211|2024-05-02|2024-01-06|
-|199|[psqlpy-python/psqlpy](https://github.com/psqlpy-python/psqlpy)|Asynchronous Python PostgreSQL driver written in Rust|210|2024-09-13|2024-01-31|
-|200|[stacks-network/sbtc](https://github.com/stacks-network/sbtc)|Repo containing sbtc |209|2024-09-19|2024-03-25|
+|198|[stacks-network/sbtc](https://github.com/stacks-network/sbtc)|Repo containing sbtc |211|2024-09-20|2024-03-25|
+|199|[psqlpy-python/psqlpy](https://github.com/psqlpy-python/psqlpy)|Asynchronous Python PostgreSQL driver written in Rust|210|2024-09-19|2024-01-31|
+|200|[alceal/plotlars](https://github.com/alceal/plotlars)|Plotlars is a Rust library designed to facilitate the integration between the Polars data analysis library and Plotly library.|209|2024-09-16|2024-07-27|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

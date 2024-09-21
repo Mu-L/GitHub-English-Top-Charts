@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Groovy
-<sub>Updated: 2024-09-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-09-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -34,13 +34,14 @@
 |27|[allegro/parallel-test-execution-workshop](https://github.com/allegro/parallel-test-execution-workshop)|Resources for Parallel test execution workshop|3|2024-08-23|2023-11-03|
 |28|[Saqib-DevSecOps/jenkins-shared-library](https://github.com/Saqib-DevSecOps/jenkins-shared-library)|-|2|2024-08-23|2024-08-23|
 |29|[cashfree/esl](https://github.com/cashfree/esl)|-|2|2024-08-01|2024-08-01|
-|30|[noobpk/MLSecOps-DevSecOps-Awesome](https://github.com/noobpk/MLSecOps-DevSecOps-Awesome)|A repository for MLSecOps and DevSecOps research and more!|2|2024-09-03|2024-06-18|
-|31|[Nahornova99/GroovyFileOperations](https://github.com/Nahornova99/GroovyFileOperations)|A useful Groovy script to perform basic file operations|2|2024-06-04|2024-06-04|
-|32|[git-sumana/Groovy_Start](https://github.com/git-sumana/Groovy_Start)|-|2|2024-04-29|2024-04-24|
-|33|[bioastroiner/VinTech-Scripts](https://github.com/bioastroiner/VinTech-Scripts)|classic gt4 experience in 1.12, inspired by Quanta|2|2024-04-27|2024-04-10|
-|34|[acot-server/gregsfactory](https://github.com/acot-server/gregsfactory)|-|2|2024-05-27|2024-01-27|
-|35|[jvmahon/Hubitat-matterTools](https://github.com/jvmahon/Hubitat-matterTools)|Tools for creating Matter drivers for Hubitat|2|2024-08-16|2024-01-23|
-|36|[Hubbitus/alertmanager-jira](https://github.com/Hubbitus/alertmanager-jira)|Prometheus alertmanager plugin which creates and manages JIRA issues by alerts. Designed to be flexible|2|2024-05-16|2023-11-06|
+|30|[paulk-asert/groovy-graphdb](https://github.com/paulk-asert/groovy-graphdb)|-|2|2024-09-18|2024-07-26|
+|31|[noobpk/MLSecOps-DevSecOps-Awesome](https://github.com/noobpk/MLSecOps-DevSecOps-Awesome)|A repository for MLSecOps and DevSecOps research and more!|2|2024-09-03|2024-06-18|
+|32|[Nahornova99/GroovyFileOperations](https://github.com/Nahornova99/GroovyFileOperations)|A useful Groovy script to perform basic file operations|2|2024-06-04|2024-06-04|
+|33|[git-sumana/Groovy_Start](https://github.com/git-sumana/Groovy_Start)|-|2|2024-04-29|2024-04-24|
+|34|[bioastroiner/VinTech-Scripts](https://github.com/bioastroiner/VinTech-Scripts)|classic gt4 experience in 1.12, inspired by Quanta|2|2024-04-27|2024-04-10|
+|35|[acot-server/gregsfactory](https://github.com/acot-server/gregsfactory)|-|2|2024-05-27|2024-01-27|
+|36|[jvmahon/Hubitat-matterTools](https://github.com/jvmahon/Hubitat-matterTools)|Tools for creating Matter drivers for Hubitat|2|2024-08-16|2024-01-23|
+|37|[Hubbitus/alertmanager-jira](https://github.com/Hubbitus/alertmanager-jira)|Prometheus alertmanager plugin which creates and manages JIRA issues by alerts. Designed to be flexible|2|2024-05-16|2023-11-06|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
