@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Groovy
-<sub>Updated: 2024-09-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-09-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -9,7 +9,7 @@
 |2|[awslabs/linter-rules-for-nextflow](https://github.com/awslabs/linter-rules-for-nextflow)|Linter rules for Nextflow DSL scripts|28|2024-09-12|2024-02-21|
 |3|[bentsherman/nf-boost](https://github.com/bentsherman/nf-boost)|Experimental features for Nextflow|25|2024-08-06|2024-03-23|
 |4|[dueuno-projects/dueuno-elements](https://github.com/dueuno-projects/dueuno-elements)|Build backoffice web applications with just one programming language: Apache Groovy|21|2024-09-18|2024-05-28|
-|5|[nextflow-io/nf-gpt](https://github.com/nextflow-io/nf-gpt)|Experimental plugin to integrate GPT like prompt into Nextflow |14|2024-04-15|2024-03-17|
+|5|[nextflow-io/nf-gpt](https://github.com/nextflow-io/nf-gpt)|Experimental plugin to integrate GPT like prompt into Nextflow |15|2024-04-15|2024-03-17|
 |6|[kangoolutions/CPI-Grafana-Monitor](https://github.com/kangoolutions/CPI-Grafana-Monitor)|Connect your SAP Cloud Integration Instance with Grafana Stack for improved Monitoring and Alerting|8|2024-07-28|2024-02-26|
 |7|[vluz/MiniCursoPy](https://github.com/vluz/MiniCursoPy)|Mini-curso de Python em ~5 horas|8|2024-04-29|2024-01-02|
 |8|[ljbotero/hubitat-flair-vents](https://github.com/ljbotero/hubitat-flair-vents)|Provides discovery and control capabilities for Flair Vent devices|6|2024-08-20|2024-01-28|
@@ -32,16 +32,17 @@
 |25|[jaiswaladi246/sharedlib](https://github.com/jaiswaladi246/sharedlib)|-|3|2024-06-12|2024-01-17|
 |26|[phac-nml/nf-iridanext](https://github.com/phac-nml/nf-iridanext)|Plugin for integration of Nextflow pipelines with IRIDA Next.|3|2024-04-09|2023-12-11|
 |27|[allegro/parallel-test-execution-workshop](https://github.com/allegro/parallel-test-execution-workshop)|Resources for Parallel test execution workshop|3|2024-08-23|2023-11-03|
-|28|[Saqib-DevSecOps/jenkins-shared-library](https://github.com/Saqib-DevSecOps/jenkins-shared-library)|-|2|2024-08-23|2024-08-23|
-|29|[cashfree/esl](https://github.com/cashfree/esl)|-|2|2024-08-01|2024-08-01|
-|30|[paulk-asert/groovy-graphdb](https://github.com/paulk-asert/groovy-graphdb)|-|2|2024-09-18|2024-07-26|
-|31|[noobpk/MLSecOps-DevSecOps-Awesome](https://github.com/noobpk/MLSecOps-DevSecOps-Awesome)|A repository for MLSecOps and DevSecOps research and more!|2|2024-09-03|2024-06-18|
-|32|[Nahornova99/GroovyFileOperations](https://github.com/Nahornova99/GroovyFileOperations)|A useful Groovy script to perform basic file operations|2|2024-06-04|2024-06-04|
-|33|[git-sumana/Groovy_Start](https://github.com/git-sumana/Groovy_Start)|-|2|2024-04-29|2024-04-24|
-|34|[bioastroiner/VinTech-Scripts](https://github.com/bioastroiner/VinTech-Scripts)|classic gt4 experience in 1.12, inspired by Quanta|2|2024-04-27|2024-04-10|
-|35|[acot-server/gregsfactory](https://github.com/acot-server/gregsfactory)|-|2|2024-05-27|2024-01-27|
-|36|[jvmahon/Hubitat-matterTools](https://github.com/jvmahon/Hubitat-matterTools)|Tools for creating Matter drivers for Hubitat|2|2024-08-16|2024-01-23|
-|37|[Hubbitus/alertmanager-jira](https://github.com/Hubbitus/alertmanager-jira)|Prometheus alertmanager plugin which creates and manages JIRA issues by alerts. Designed to be flexible|2|2024-05-16|2023-11-06|
+|28|[falyan/DSL](https://github.com/falyan/DSL)|DSL for Jnekins|2|2024-09-21|2024-09-01|
+|29|[Saqib-DevSecOps/jenkins-shared-library](https://github.com/Saqib-DevSecOps/jenkins-shared-library)|-|2|2024-08-23|2024-08-23|
+|30|[cashfree/esl](https://github.com/cashfree/esl)|-|2|2024-08-01|2024-08-01|
+|31|[paulk-asert/groovy-graphdb](https://github.com/paulk-asert/groovy-graphdb)|-|2|2024-09-18|2024-07-26|
+|32|[noobpk/MLSecOps-DevSecOps-Awesome](https://github.com/noobpk/MLSecOps-DevSecOps-Awesome)|A repository for MLSecOps and DevSecOps research and more!|2|2024-09-03|2024-06-18|
+|33|[Nahornova99/GroovyFileOperations](https://github.com/Nahornova99/GroovyFileOperations)|A useful Groovy script to perform basic file operations|2|2024-06-04|2024-06-04|
+|34|[git-sumana/Groovy_Start](https://github.com/git-sumana/Groovy_Start)|-|2|2024-04-29|2024-04-24|
+|35|[bioastroiner/VinTech-Scripts](https://github.com/bioastroiner/VinTech-Scripts)|classic gt4 experience in 1.12, inspired by Quanta|2|2024-04-27|2024-04-10|
+|36|[acot-server/gregsfactory](https://github.com/acot-server/gregsfactory)|-|2|2024-05-27|2024-01-27|
+|37|[jvmahon/Hubitat-matterTools](https://github.com/jvmahon/Hubitat-matterTools)|Tools for creating Matter drivers for Hubitat|2|2024-08-16|2024-01-23|
+|38|[Hubbitus/alertmanager-jira](https://github.com/Hubbitus/alertmanager-jira)|Prometheus alertmanager plugin which creates and manages JIRA issues by alerts. Designed to be flexible|2|2024-05-16|2023-11-06|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

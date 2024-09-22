@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > C++
-<sub>Updated: 2024-09-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-09-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[Xacone/BestEdrOfTheMarket](https://github.com/Xacone/BestEdrOfTheMarket)|Little user-mode AV/EDR evasion lab for training & learning purposes|977|2024-05-02|2023-11-12|
-|2|[efchatz/pandora](https://github.com/efchatz/pandora)|A red team tool that assists into extracting/dumping master credentials and/or entries from different password managers.|567|2024-09-19|2023-11-03|
+|2|[efchatz/pandora](https://github.com/efchatz/pandora)|A red team tool that assists into extracting/dumping master credentials and/or entries from different password managers.|568|2024-09-19|2023-11-03|
 |3|[Lyall/MGSHDFix](https://github.com/Lyall/MGSHDFix)|A fix that adds custom resolutions, ultrawide support and much more to the Metal Gear Solid Master Collection.|412|2024-06-08|2023-10-25|
 |4|[dexter11x2/EFT-ESP-hack](https://github.com/dexter11x2/EFT-ESP-hack)|wallpaper-engine-crack free-wallpaper-engine wallpaper-engine-full-version live-wallpapers desktop-customization free-download-wallpaper-engine wallpaper-engine-premium customizable-wallpapers audio-r ...|381|2024-06-24|2024-06-24|
 |5|[koide3/small_gicp](https://github.com/koide3/small_gicp)|Efficient and parallel algorithms for point cloud registration [C++, Python]|374|2024-08-12|2024-03-22|
@@ -14,7 +14,7 @@
 |7|[dzslinks/Crypto-Wallet-Recovery](https://github.com/dzslinks/Crypto-Wallet-Recovery)|A crypto wallet recovery tool or software is designed to help users regain access to their cryptocurrency wallets in the event of lost or forgotten passwords, seed phrases, or private keys. These tool ...|336|2024-09-02|2024-09-02|
 |8|[AryaGo2016/Crypto-Wallet-Recovery](https://github.com/AryaGo2016/Crypto-Wallet-Recovery)|A crypto wallet recovery tool or software is designed to help users regain access to their cryptocurrency wallets in the event of lost or forgotten passwords, seed phrases, or private keys. These tool ...|336|2024-09-01|2024-09-01|
 |9|[quanganhdz1234/Crypto-Wallet-Recovery](https://github.com/quanganhdz1234/Crypto-Wallet-Recovery)|A crypto wallet recovery tool or software is designed to help users regain access to their cryptocurrency wallets in the event of lost or forgotten passwords, seed phrases, or private keys. These tool ...|304|2024-08-30|2024-08-30|
-|10|[OceanTroop/orca-one](https://github.com/OceanTroop/orca-one)|A collection of alternatives for running Flipper Zero functions on more affordable devices such as M5Stack, Liligo and ESP32 in general.|299|2024-04-04|2024-01-14|
+|10|[OceanTroop/orca-one](https://github.com/OceanTroop/orca-one)|A collection of alternatives for running Flipper Zero functions on more affordable devices such as M5Stack, Liligo and ESP32 in general.|300|2024-04-04|2024-01-14|
 |11|[SamiulBariBro/Adobe-Captivate-Activation](https://github.com/SamiulBariBro/Adobe-Captivate-Activation)|adobe-captivate, download-adobe-captivate-free, adobe-captivate-installer, adobe-captivate-activation-2024, activation-guide, how-to-activate-adobe-captivate, adobe-captivate-crack, captivate-download ...|276|2024-06-29|2024-06-28|
 |12|[vishalparmarr/Leetcode-Questions](https://github.com/vishalparmarr/Leetcode-Questions)|Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)|265|2024-07-18|2023-11-23|
 |13|[Javacraess/Malwarebytes-Activation](https://github.com/Javacraess/Malwarebytes-Activation)|malwarebytes-download, malwarebytes-free, download-malwarebytes-activation, malwarebytes-installer-2024, malwarebytes-how-to-download, free-malwarebytes-activation, malwarebytes-download-guide, malwar ...|250|2024-06-28|2024-06-28|
@@ -47,7 +47,7 @@
 |40|[fan-ziqi/rl_sar](https://github.com/fan-ziqi/rl_sar)|Simulation verification and physical deployment of robot reinforcement learning algorithms, suitable for quadruped robots, wheeled robots, and humanoid robots. "sar" stands for "simulation and real"|156|2024-08-26|2024-03-06|
 |41|[veangeance/Roblox-undetect-hack](https://github.com/veangeance/Roblox-undetect-hack)|roblox-undetect-hack-tool, roblox-undetect-hack-advantage, roblox-undetect-hack-benefits, roblox-undetect-hack-guide, roblox-undetect-hack-features, roblox-undetect-hack-gameplay, roblox-undetect-hack ...|155|2024-06-28|2024-06-28|
 |42|[Ntcorpse/Cyberpunk-2077-undetect-hack](https://github.com/Ntcorpse/Cyberpunk-2077-undetect-hack)|cyberpunk-2077-undetect-hack-tool, cyberpunk-2077-undetect-cheat, cyberpunk-2077-undetect-tool, cyberpunk-2077-hack-undetect-download, cyberpunk-2077-undetect-hack-free, cyberpunk-2077-undetect-hacks- ...|153|2024-06-28|2024-06-28|
-|43|[koide3/gtsam_points](https://github.com/koide3/gtsam_points)|A collection of GTSAM factors and optimizers for point cloud SLAM|152|2024-09-12|2024-06-24|
+|43|[koide3/gtsam_points](https://github.com/koide3/gtsam_points)|A collection of GTSAM factors and optimizers for point cloud SLAM|153|2024-09-12|2024-06-24|
 |44|[KaOzAnd/Phasmophobia-undetect-hack](https://github.com/KaOzAnd/Phasmophobia-undetect-hack)|phasmophobiaundetecthack, phasmophobiaundetecthackfeatures, speedhackphasmophobiaundetecthack, bestphasmophobiahack, phasmophobiaenhancedgame, phasmophobiahackguide, phasmophobiaaimbot, phasmophobiawa ...|150|2024-06-28|2024-06-28|
 |45|[KnightsAV/Team-Fortress-2-undetect-hack](https://github.com/KnightsAV/Team-Fortress-2-undetect-hack)|team-fortress-2-undetect-hack, team-fortress-2-undetect-hack-speedhack, team-fortress-2-undetect-hack-aimbot, team-fortress-2-undetect-hack-wallhack, team-fortress-2-undetect-hack-features, team-fortr ...|150|2024-06-28|2024-06-28|
 |46|[channber/Dead-by-Daylight-undetect-hack](https://github.com/channber/Dead-by-Daylight-undetect-hack)|dead-by-daylight-undetect-hack-promotion, dead-by-daylight-undetect-hack-features, dead-by-daylight-undetect-hack-benefits, dead-by-daylight-undetect-hack-play-safe, dead-by-daylight-undetect-hack-ins ...|147|2024-06-28|2024-06-28|

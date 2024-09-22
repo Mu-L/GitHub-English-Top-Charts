@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Perl
-<sub>Updated: 2024-09-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-09-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -10,7 +10,7 @@
 |3|[TeamDefronix/DefroxPot](https://github.com/TeamDefronix/DefroxPot)|DefroxPot is a honeypot project designed to detect, monitor, and analyze malicious activity in a controlled environment. This project aims to provide cybersecurity enthusiasts and professionals with a ...|7|2024-07-08|2024-07-02|
 |4|[Drallas/Virtio-fs-Hookscript](https://github.com/Drallas/Virtio-fs-Hookscript)|Hookscript to create Virtio-fs mounts to share a directory tree between a Proxmox host and VMs |7|2024-04-08|2023-11-01|
 |5|[haroonawanofficial/CVE-2024-38063-Research-Tool](https://github.com/haroonawanofficial/CVE-2024-38063-Research-Tool)|This is a functional proof of concept (PoC) for CVE-2024-38063. However, it's important to note that this CVE is theoretical and not exploitable in a real-world scenario. To enhance understanding for  ...|4|2024-08-26|2024-08-24|
-|6|[sejongsmarcle/2024_Autumn_Machine_Learning_Study](https://github.com/sejongsmarcle/2024_Autumn_Machine_Learning_Study)|2024 New Senior Track Study, Machine Learning Study|3|2024-09-17|2024-08-23|
+|6|[sejongsmarcle/2024_Autumn_Machine_Learning_Study](https://github.com/sejongsmarcle/2024_Autumn_Machine_Learning_Study)|2024 New Senior Track Study, Machine Learning Study|3|2024-09-21|2024-08-23|
 |7|[w1ldc4rd-w1z4rd/command-line-collective](https://github.com/w1ldc4rd-w1z4rd/command-line-collective)|The repository hosts tutorials from the Command Line Collective's meetups, covering shell scripting, AI, data parsing, and automation.|3|2024-05-26|2024-03-26|
 |8|[Cizr/PerlCodingToolkit](https://github.com/Cizr/PerlCodingToolkit)|This repository contains a diverse collection of Perl scripts and utilities designed to assist developers in various aspects of programming and problem-solving. |2|2024-04-06|2024-04-06|
 |9|[cheoljoo/doxygen_perlmod_python](https://github.com/cheoljoo/doxygen_perlmod_python)|gives more python examples and usage when you set GENERATE_PERLMOD in doxygen|2|2024-06-19|2024-04-02|
