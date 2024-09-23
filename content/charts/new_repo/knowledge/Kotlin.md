@@ -1,15 +1,15 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Kotlin
-<sub>Updated: 2024-09-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-09-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[Acclorite/book-story](https://github.com/Acclorite/book-story)|Material3 eBook reader - Book's Story. Built with Jetpack Compose. Free & Open Source & Ad Free. 7 supported file formats (.txt, .pdf, .epub, .fb2, .zip, .html, .htm), 5 supported languages. Lots of c ...|247|2024-09-21|2023-12-29|
+|1|[Acclorite/book-story](https://github.com/Acclorite/book-story)|Material3 eBook reader - Book's Story. Built with Jetpack Compose. Free & Open Source & Ad Free. 7 supported file formats (.txt, .pdf, .epub, .fb2, .zip, .html, .htm), 5 supported languages. Lots of c ...|249|2024-09-22|2023-12-29|
 |2|[apple/pkl-pantry](https://github.com/apple/pkl-pantry)|Shared Pkl packages|227|2024-06-04|2024-01-19|
 |3|[JohnnySC/ZeroToHeroAndroidTDD](https://github.com/JohnnySC/ZeroToHeroAndroidTDD)|Learn Android by solving TDD tasks|165|2024-09-13|2023-10-18|
 |4|[langerhans/OdinTools](https://github.com/langerhans/OdinTools)|Collection of utilities for the AYN Odin 2|128|2024-05-25|2024-01-08|
-|5|[petros-efthymiou/DailyPulse](https://github.com/petros-efthymiou/DailyPulse)|Education repo offered as material in the courses: Kotlin Multiplatform & Compose Multiplatform Masterclasses.|119|2024-05-02|2023-11-24|
+|5|[petros-efthymiou/DailyPulse](https://github.com/petros-efthymiou/DailyPulse)|Education repo offered as material in the courses: Kotlin Multiplatform & Compose Multiplatform Masterclasses.|120|2024-05-02|2023-11-24|
 |6|[fethij/Rijksmuseum](https://github.com/fethij/Rijksmuseum)|Delve into the rich collection of masterpieces.|113|2024-07-25|2024-05-29|
 |7|[fibelatti/photo-widget](https://github.com/fibelatti/photo-widget)|Photo Widget is as simple as it can be: an Android home screen widget to display a photo or collection of photos. It is a free, no-ads, open source alternative for people who want to customize their h ...|102|2024-09-19|2023-10-24|
 |8|[realityexpander/How_to_program_from_ground_up](https://github.com/realityexpander/How_to_program_from_ground_up)|Live code-along document to support my video series about Learning to Program Computers From The Ground Up With Minimal BS.|99|2024-09-10|2024-02-06|
@@ -25,7 +25,7 @@
 |18|[nain-F49FF806/sharepaste.oo](https://github.com/nain-F49FF806/sharepaste.oo)|Share pastes privately, with end to end encryption.|38|2024-09-19|2024-04-05|
 |19|[ChathuraHettiarachchi/SharedTransitionScope-JetpackCompose-Try](https://github.com/ChathuraHettiarachchi/SharedTransitionScope-JetpackCompose-Try)|Try out new SharedTransitionScope API on Jetpack Compose. This is not well coded, just for testing the API, so don't think much about the implementation :p|37|2024-04-19|2024-04-19|
 |20|[issever22/iCore](https://github.com/issever22/iCore)|iCore is a comprehensive Android library designed to streamline the development process by providing a robust set of modular components. With built-in support for the Model-View-ViewModel (MVVM) archi ...|33|2024-07-26|2024-06-03|
-|21|[uuranus/compose-nature-effects](https://github.com/uuranus/compose-nature-effects)|A collection of Jetpack Compose components inspired by nature.|30|2024-09-20|2024-08-09|
+|21|[uuranus/compose-nature-effects](https://github.com/uuranus/compose-nature-effects)|A collection of Jetpack Compose components inspired by nature.|31|2024-09-20|2024-08-09|
 |22|[joost-klitsie/DataLoadingExample](https://github.com/joost-klitsie/DataLoadingExample)|An example how to use a reactive way of data loading inside your view models, while consuming the data from a Composable view.|30|2024-07-29|2024-07-26|
 |23|[devexpert-io/compose-recompositions](https://github.com/devexpert-io/compose-recompositions)|Some samples to explain how recompisitions work and how to optimize the implementation|27|2024-08-14|2024-08-14|
 |24|[guolindev/PartialAccessDemo](https://github.com/guolindev/PartialAccessDemo)|A demo to show how to adapt Android 14 partial access to photos and videos.|26|2024-04-07|2024-04-07|
@@ -36,7 +36,7 @@
 |29|[w2sv/Composed](https://github.com/w2sv/Composed)| A collection of utils to facilitate development with Jetpack Compose. |21|2024-06-24|2024-02-29|
 |30|[amsavarthan/reaction-picker](https://github.com/amsavarthan/reaction-picker)|💙 Facebook-like reaction picker library for Android using Jetpack compose|20|2024-04-17|2024-04-01|
 |31|[rschattauer/compose_multiplatform](https://github.com/rschattauer/compose_multiplatform)|This project shows how to use kotlin multiplatform with compose and custom ui components for each platform|20|2024-08-21|2024-01-24|
-|32|[isel-leic-pdm/2425i](https://github.com/isel-leic-pdm/2425i)|Repository for Mobile Device Programming course, winter semester of 2024-2025|17|2024-09-21|2024-09-08|
+|32|[isel-leic-pdm/2425i](https://github.com/isel-leic-pdm/2425i)|Repository for Mobile Device Programming course, winter semester of 2024-2025|17|2024-09-22|2024-09-08|
 |33|[nomisRev/KotlinConf2024Example](https://github.com/nomisRev/KotlinConf2024Example)|Full production example of: Unlocking the Power of Arrow 2.0: A Comprehensive Guide|17|2024-05-28|2024-05-19|
 |34|[bimalkaf/JetpackCompose_Playground](https://github.com/bimalkaf/JetpackCompose_Playground)|Jetpack Compose code to learn it from scratch |16|2024-06-21|2024-02-22|
 |35|[MohamedRejeb/ChessGameKmp](https://github.com/MohamedRejeb/ChessGameKmp)|Kotlin Design Patterns & Best Practices - Part 1: Chess Game|15|2024-07-22|2024-07-22|

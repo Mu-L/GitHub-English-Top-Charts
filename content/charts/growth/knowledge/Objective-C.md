@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Objective-C
-<sub>Updated: 2024-09-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-09-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -52,7 +52,7 @@
 |45|[mptcp-apps/mptcp-hello](https://github.com/mptcp-apps/mptcp-hello)|👋 Simple examples of enabling Multipath TCP with different programming languages|13|0|2024-08-15|
 |46|[akwangl/RedmiBook-Pro-15S-hackintosh](https://github.com/akwangl/RedmiBook-Pro-15S-hackintosh)|redmibook-15 5600H hackintosh|5|0|2024-09-20|
 |47|[enieber/rn-db-example](https://github.com/enieber/rn-db-example)|samples how to use database with react native|6|0|2024-09-12|
-|48|[aik002/RSBypass](https://github.com/aik002/RSBypass)|Rocksmith 2014 Remastered Edition dylib patch for loading and playing CDLC|109|0|2024-08-04|
+|48|[aik002/RSBypass](https://github.com/aik002/RSBypass)|Rocksmith 2014 Remastered Edition dylib patch for loading and playing CDLC|110|0|2024-08-04|
 |49|[hydrixos/cocoaheads-le](https://github.com/hydrixos/cocoaheads-le)|Slides and Examples created for Cocoaheads Leipzig|7|0|2024-09-14|
 |50|[freshplanet/ANE-Facebook](https://github.com/freshplanet/ANE-Facebook)|Air Native Extension (iOS and Android) for the Facebook mobile SDK|221|0|2024-08-16|
 |51|[KpwnZ/my_bugs_and_CVE_collection](https://github.com/KpwnZ/my_bugs_and_CVE_collection)|Collection of my bugs and CVE, with PoC or writeup|48|0|2024-03-31|

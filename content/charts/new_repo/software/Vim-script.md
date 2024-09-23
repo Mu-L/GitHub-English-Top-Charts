@@ -1,16 +1,16 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Vim script
-<sub>Updated: 2024-09-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-09-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[pasky/claude.vim](https://github.com/pasky/claude.vim)|Claude vim plugin for AI pair programming - a hacker's gateway to LLMs|164|2024-07-27|2024-06-27|
 |2|[FittenTech/fittencode.vim](https://github.com/FittenTech/fittencode.vim)|Fitten Code AI Programming Assistant for Vim|77|2024-07-01|2024-01-30|
-|3|[girishji/scope.vim](https://github.com/girishji/scope.vim)|Minimal, fast, and extensible fuzzy finder.|62|2024-09-08|2024-03-01|
+|3|[girishji/scope.vim](https://github.com/girishji/scope.vim)|Minimal, fast, and extensible fuzzy finder.|62|2024-09-22|2024-03-01|
 |4|[xero/evangelion.nvim](https://github.com/xero/evangelion.nvim)|a colorscheme for {neo,}vim inspired by neon genesis evangelion. supports diagnostics, cmp, fzf, gitsigns, lazy, lsp, lualine, telescope, treesitter, trouble, which-key, & more.|53|2024-09-06|2024-08-31|
 |5|[chtenb/helix.vim](https://github.com/chtenb/helix.vim)|Emulate Helix keybindings inside Vim emulators|43|2024-07-18|2023-10-03|
-|6|[laktak/tome](https://github.com/laktak/tome)|🔁 Script playbooks for frequent commands in any terminal application|40|2024-05-09|2024-05-04|
+|6|[laktak/tome](https://github.com/laktak/tome)|🔁 Script playbooks for frequent commands in any terminal application|41|2024-05-09|2024-05-04|
 |7|[girishji/devdocs.vim](https://github.com/girishji/devdocs.vim)|Lookup  API documentation from devdocs.io without leaving Vim.|37|2024-09-20|2024-02-12|
 |8|[SagePtr/openserver-apache-2.4](https://github.com/SagePtr/openserver-apache-2.4)|Apache 2.4 for PHP_8.2-8.3 for OpenServer 5.x|35|2024-04-10|2024-01-23|
 |9|[imaarov/my-vim-config](https://github.com/imaarov/my-vim-config)|my vim config|25|2024-05-26|2024-04-28|
@@ -20,9 +20,9 @@
 |13|[qadzek/link.vim](https://github.com/qadzek/link.vim)|(Neo)Vim plugin to keep long URLs out of your way|19|2024-09-21|2024-03-15|
 |14|[devsjc/vim-jb](https://github.com/devsjc/vim-jb)|Colourscheme for Vim, inspired by JetBrains IDEs.|19|2024-09-06|2023-10-27|
 |15|[keiyakeiya/PapilioDehaanii.vim](https://github.com/keiyakeiya/PapilioDehaanii.vim)|Duotone color scheme for Vim and Neovim.|19|2024-08-03|2023-09-28|
-|16|[Shougo/cmdline.vim](https://github.com/Shougo/cmdline.vim)|Display command line text in floating window|17|2024-09-16|2024-03-13|
-|17|[girishji/easyjump.vim](https://github.com/girishji/easyjump.vim)|The Vim motion you've always wanted.|17|2024-06-06|2023-11-17|
-|18|[sainttttt/flesh-and-blood](https://github.com/sainttttt/flesh-and-blood)|low contrast vim/nvim colorscheme for bitmap/pixel fonts |17|2024-07-12|2023-11-09|
+|16|[sainttttt/flesh-and-blood](https://github.com/sainttttt/flesh-and-blood)|low contrast vim/nvim colorscheme for bitmap/pixel fonts |18|2024-07-12|2023-11-09|
+|17|[Shougo/cmdline.vim](https://github.com/Shougo/cmdline.vim)|Display command line text in floating window|17|2024-09-16|2024-03-13|
+|18|[girishji/easyjump.vim](https://github.com/girishji/easyjump.vim)|The Vim motion you've always wanted.|17|2024-06-06|2023-11-17|
 |19|[elkasztano/nushell-syntax-vim](https://github.com/elkasztano/nushell-syntax-vim)|Nushell syntax highlighting for Vim|17|2024-05-16|2023-10-29|
 |20|[tact-lang/tact.vim](https://github.com/tact-lang/tact.vim)|⚡ All-in-one Vim 8+ plugin for Tact programming language|17|2024-09-16|2023-09-29|
 |21|[ovikrai/mojo-syntax](https://github.com/ovikrai/mojo-syntax)|Mojo 🔥 Language Syntax Highlighting for Vim|16|2024-04-11|2024-02-29|
@@ -38,19 +38,19 @@
 |31|[girishji/fFtT.vim](https://github.com/girishji/fFtT.vim)|More accurate f, F, t, T navigation in Vim.|11|2024-06-06|2024-02-27|
 |32|[joseluisgomes/dotfiles](https://github.com/joseluisgomes/dotfiles)|My Xfce Linux dotfiles|11|2024-04-30|2024-02-16|
 |33|[wolandark/Mitra-Vim](https://github.com/wolandark/Mitra-Vim)|A soothingly colorful colorscheme based on the Persian color palette for vim/nvim|11|2024-06-24|2023-10-11|
-|34|[AmberLehmann/candyland.nvim](https://github.com/AmberLehmann/candyland.nvim)|A cute pink and blue colorscheme for Neovim|10|2024-09-16|2024-05-27|
-|35|[Mirza-Krnjic/vim-minimal-config](https://github.com/Mirza-Krnjic/vim-minimal-config)|A minimal Vim configuration optimized for easy navigation and editing, with essential plugins like NERDTree, vim-airline, and Tokyo Night theme, enhanced by convenient key mappings and visual settings ...|10|2024-04-24|2024-04-24|
-|36|[Balthael/ParrotEntorno](https://github.com/Balthael/ParrotEntorno)|-|10|2024-04-25|2024-04-24|
-|37|[gcalica/IntelliG](https://github.com/gcalica/IntelliG)|IdeaVim (.ideavimrc) Setup|10|2024-07-21|2023-11-21|
-|38|[shawilly/ponokai](https://github.com/shawilly/ponokai)|A pastelly Monokaiesque colorscheme for vim and neovim.|9|2024-08-23|2024-05-09|
-|39|[avm99963/vim-jjdescription](https://github.com/avm99963/vim-jjdescription)|Plugin which adds syntax highlighting to .jjdescription files in Vim -- (mirror of the original repo at Gerrit: https://gerrit.avm99963.com/plugins/gitiles/vim/jjdescription/)|9|2024-05-28|2024-01-30|
-|40|[Debajyati/perfect-vimrc](https://github.com/Debajyati/perfect-vimrc)|A highly customized vim/neovim configuration in vimscript|9|2024-07-31|2023-10-03|
-|41|[wolandark/vim-ez-emoji](https://github.com/wolandark/vim-ez-emoji)|An easy emoji plugin for vim written in vim9script|9|2024-06-18|2023-09-27|
-|42|[mkoushan/dotfiles](https://github.com/mkoushan/dotfiles)|-|8|2024-07-09|2024-04-05|
-|43|[rrgeorge/vim-blink](https://github.com/rrgeorge/vim-blink)|Vim plugin manager for blinkshell|8|2024-07-19|2024-04-02|
-|44|[magal1337/dataform.nvim](https://github.com/magal1337/dataform.nvim)|Dataform Core Plugin for Neovim|8|2024-06-19|2024-03-12|
-|45|[greeschenko/vim9-ollama](https://github.com/greeschenko/vim9-ollama)|Local driven AI assistent plugin written in the cutting-edge Vim9 script and powered by ollama|8|2024-04-11|2024-03-02|
-|46|[honeymontana/vimrc](https://github.com/honeymontana/vimrc)|my .vimrc|7|2024-09-21|2024-09-21|
+|34|[honeymontana/vimrc](https://github.com/honeymontana/vimrc)|my .vimrc|10|2024-09-21|2024-09-21|
+|35|[AmberLehmann/candyland.nvim](https://github.com/AmberLehmann/candyland.nvim)|A cute pink and blue colorscheme for Neovim|10|2024-09-21|2024-05-27|
+|36|[Mirza-Krnjic/vim-minimal-config](https://github.com/Mirza-Krnjic/vim-minimal-config)|A minimal Vim configuration optimized for easy navigation and editing, with essential plugins like NERDTree, vim-airline, and Tokyo Night theme, enhanced by convenient key mappings and visual settings ...|10|2024-04-24|2024-04-24|
+|37|[Balthael/ParrotEntorno](https://github.com/Balthael/ParrotEntorno)|-|10|2024-04-25|2024-04-24|
+|38|[gcalica/IntelliG](https://github.com/gcalica/IntelliG)|IdeaVim (.ideavimrc) Setup|10|2024-07-21|2023-11-21|
+|39|[shawilly/ponokai](https://github.com/shawilly/ponokai)|A pastelly Monokaiesque colorscheme for vim and neovim.|9|2024-08-23|2024-05-09|
+|40|[avm99963/vim-jjdescription](https://github.com/avm99963/vim-jjdescription)|Plugin which adds syntax highlighting to .jjdescription files in Vim -- (mirror of the original repo at Gerrit: https://gerrit.avm99963.com/plugins/gitiles/vim/jjdescription/)|9|2024-05-28|2024-01-30|
+|41|[Debajyati/perfect-vimrc](https://github.com/Debajyati/perfect-vimrc)|A highly customized vim/neovim configuration in vimscript|9|2024-07-31|2023-10-03|
+|42|[wolandark/vim-ez-emoji](https://github.com/wolandark/vim-ez-emoji)|An easy emoji plugin for vim written in vim9script|9|2024-06-18|2023-09-27|
+|43|[mkoushan/dotfiles](https://github.com/mkoushan/dotfiles)|-|8|2024-07-09|2024-04-05|
+|44|[rrgeorge/vim-blink](https://github.com/rrgeorge/vim-blink)|Vim plugin manager for blinkshell|8|2024-07-19|2024-04-02|
+|45|[magal1337/dataform.nvim](https://github.com/magal1337/dataform.nvim)|Dataform Core Plugin for Neovim|8|2024-06-19|2024-03-12|
+|46|[greeschenko/vim9-ollama](https://github.com/greeschenko/vim9-ollama)|Local driven AI assistent plugin written in the cutting-edge Vim9 script and powered by ollama|8|2024-04-11|2024-03-02|
 |47|[Balthael/KaliEntorno](https://github.com/Balthael/KaliEntorno)|Personalizacion de BSPWN en Kali|7|2024-04-25|2024-04-14|
 |48|[usrbinkat/pulumi-kubernetes](https://github.com/usrbinkat/pulumi-kubernetes)|surprise|7|2024-04-10|2024-01-12|
 |49|[habamax/vim-ii](https://github.com/habamax/vim-ii)|IRC with suckless Irc it (ii) and vim|7|2024-07-08|2023-12-09|
@@ -85,7 +85,7 @@
 |78|[Dr4x14913/vim-llama](https://github.com/Dr4x14913/vim-llama)|vim Plug plugin for self hosted codellama completion|4|2024-08-03|2024-01-07|
 |79|[mcombeau/monosplash.vim](https://github.com/mcombeau/monosplash.vim)|A dark monochromatic vim theme with a customizable splash of color.|4|2024-05-23|2023-12-09|
 |80|[Gatix1/hyprland-gruvbox-dotfiles](https://github.com/Gatix1/hyprland-gruvbox-dotfiles)|-|3|2024-09-10|2024-09-10|
-|81|[gergap/vim-ollama](https://github.com/gergap/vim-ollama)|Vim plugin for integrating Ollama based LLM (large language models)|3|2024-09-21|2024-09-09|
+|81|[gergap/vim-ollama](https://github.com/gergap/vim-ollama)|Vim plugin for integrating Ollama based LLM (large language models)|3|2024-09-22|2024-09-09|
 |82|[ubaldot/vim-extended-view](https://github.com/ubaldot/vim-extended-view)|A window is too small for your long buffer? Then, try this!  |3|2024-09-19|2024-09-01|
 |83|[ubaldot/vim-open-recent](https://github.com/ubaldot/vim-open-recent)|Open recent files from a popup menu. Written in Vim9. |3|2024-09-04|2024-08-19|
 |84|[BrunoCiccarino/gardenal](https://github.com/BrunoCiccarino/gardenal)|A plugin for vim and neovim that allows you to define keyboard shortcuts for switching between themes.|3|2024-08-23|2024-08-10|

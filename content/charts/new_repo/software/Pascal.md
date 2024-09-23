@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Pascal
-<sub>Updated: 2024-09-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-09-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -11,7 +11,7 @@
 |4|[PackOrganization/Pack](https://github.com/PackOrganization/Pack)|Pack|243|2024-03-30|2024-03-01|
 |5|[NIKJOO/WarpOnWarp-Windows-Client](https://github.com/NIKJOO/WarpOnWarp-Windows-Client)|Warp on Warp Windows Client|120|2024-05-05|2024-05-03|
 |6|[salvadordf/WebUI4Delphi](https://github.com/salvadordf/WebUI4Delphi)|WebUI4Delphi is a WebUI wrapper, which allows you to use any web browser as a GUI, with Delphi or Lazarus/FPC in the backend and HTML5 in the frontend.|105|2024-09-14|2023-12-25|
-|7|[sb53systems/G-Code-Flow-Temperature-Controller](https://github.com/sb53systems/G-Code-Flow-Temperature-Controller)|A post processing script for Orca Slicer and Klipper 3D Printers|97|2024-09-18|2024-07-09|
+|7|[sb53systems/G-Code-Flow-Temperature-Controller](https://github.com/sb53systems/G-Code-Flow-Temperature-Controller)|A post processing script for Orca Slicer and Klipper 3D Printers|98|2024-09-22|2024-07-09|
 |8|[Code4Delphi/Delphi-AI-Developer](https://github.com/Code4Delphi/Delphi-AI-Developer)|Inspired by GitHub Copilot, this plugin adds AI-powered interaction capabilities to the Delphi IDE|87|2024-09-17|2024-06-07|
 |9|[NIKJOO/PEP](https://github.com/NIKJOO/PEP)|Private exe protector |73|2024-05-08|2024-05-08|
 |10|[Laurensvanrun/Delphi-Promises](https://github.com/Laurensvanrun/Delphi-Promises)|Delphi implementation of promises for asynchronous programming.|73|2024-08-15|2024-03-13|
@@ -39,8 +39,8 @@
 |32|[davenardella/SnapTRAINER](https://github.com/davenardella/SnapTRAINER)|A modular Virtual-PLC Trainer|18|2024-07-07|2024-07-07|
 |33|[gustavoeenriquez/MakerAi](https://github.com/gustavoeenriquez/MakerAi)|Suite de Componentes Delphi para trabajar con diferentes plataformas de AI, OpenAI, Ollama, Groq, Anthropic, etc., Delphi Component Suite for working with different AI platforms, including OpenAI, Oll ...|18|2024-09-20|2024-05-30|
 |34|[djswirl/MultiCOM](https://github.com/djswirl/MultiCOM)|Windows application to monitor up to six serial ports at once|18|2024-03-24|2024-01-21|
-|35|[tinyBigGAMES/LMEngine](https://github.com/tinyBigGAMES/LMEngine)|Local LLM Inference|17|2024-06-09|2024-05-14|
-|36|[skamradt/SVGIconViewer](https://github.com/skamradt/SVGIconViewer)|A simple SVG icon library viewer containing over 46,500 individual icons for windows|16|2024-09-21|2024-09-16|
+|35|[skamradt/SVGIconViewer](https://github.com/skamradt/SVGIconViewer)|A simple SVG icon library viewer containing over 46,500 individual icons for windows|17|2024-09-22|2024-09-16|
+|36|[tinyBigGAMES/LMEngine](https://github.com/tinyBigGAMES/LMEngine)|Local LLM Inference|17|2024-06-09|2024-05-14|
 |37|[HemulGM/DelphiWindowStyle](https://github.com/HemulGM/DelphiWindowStyle)|Window stylization for FMX and VCL|16|2024-07-08|2024-06-08|
 |38|[HuichanKIM/Ollama-Delphi-GUI](https://github.com/HuichanKIM/Ollama-Delphi-GUI)|Ollama Client GUI by Delphi|16|2024-07-11|2024-05-14|
 |39|[pyscripter/ChatLLM](https://github.com/pyscripter/ChatLLM)|Simple chat application for querying local and cloud LLM models.|16|2024-04-25|2024-04-22|
@@ -74,7 +74,7 @@
 |67|[MatiasGuaymas/FOD](https://github.com/MatiasGuaymas/FOD)|Prácticas resueltas y modelos de parciales de Fundamentos de Organización de Datos.|11|2024-07-31|2024-03-19|
 |68|[GabrielOnDelphi/DUT-My-Delphi-Utilities](https://github.com/GabrielOnDelphi/DUT-My-Delphi-Utilities)|A set of tools that help you with your Delphi code|11|2024-09-13|2023-12-06|
 |69|[gmnevton/NitroPascal](https://github.com/gmnevton/NitroPascal)|NitroPascal is a concept of new OOP programming language based on Pascal / Delphi. Maybe in future there will be a compiler and debugger.|11|2024-09-21|2023-11-03|
-|70|[EricGrange/Delphi-WebGPU](https://github.com/EricGrange/Delphi-WebGPU)|Using WebGPU from Delphi|10|2024-09-21|2024-09-11|
+|70|[EricGrange/Delphi-WebGPU](https://github.com/EricGrange/Delphi-WebGPU)|Using WebGPU from Delphi|10|2024-09-22|2024-09-11|
 |71|[rafalagoon/not_enough_nots](https://github.com/rafalagoon/not_enough_nots)|Just a very stupid experiment with logical operators|10|2024-05-09|2024-05-08|
 |72|[tinyBigGAMES/Delphi-Ollama](https://github.com/tinyBigGAMES/Delphi-Ollama)|A simple and easy to use library for interacting with the Ollama API in Delphi|10|2024-04-09|2024-04-08|
 |73|[evoin-software/EvoInCEP](https://github.com/evoin-software/EvoInCEP)|Projeto para consulta de CEP|10|2024-06-14|2024-04-03|
@@ -131,19 +131,19 @@
 |124|[eder-dalpizzol/flappylazarus](https://github.com/eder-dalpizzol/flappylazarus)|-|6|2024-06-17|2024-03-20|
 |125|[Codrax/Codrut-Animation-Lib](https://github.com/Codrax/Codrut-Animation-Lib)|Codruts Animation Library|6|2024-08-31|2024-03-01|
 |126|[OpenSourceCommunityBrasil/RDWFiredacDAO](https://github.com/OpenSourceCommunityBrasil/RDWFiredacDAO)|Simples implementação do TFDQuery para ser usado no RestDataWare|6|2024-07-08|2024-02-23|
-|127|[marcelo386/Evolution-api4Delphi](https://github.com/marcelo386/Evolution-api4Delphi)|-|6|2024-09-17|2024-02-21|
+|127|[marcelo386/Evolution-api4Delphi](https://github.com/marcelo386/Evolution-api4Delphi)|-|6|2024-09-22|2024-02-21|
 |128|[martok/ConcurrentMM](https://github.com/martok/ConcurrentMM)|Memory manager for FreePascal, specially designed for highly parallel applications|6|2024-08-01|2024-01-30|
 |129|[Bill-Stewart/PrivMan](https://github.com/Bill-Stewart/PrivMan)|-|6|2024-04-04|2024-01-15|
 |130|[JanAukToy/JAudioLib](https://github.com/JanAukToy/JAudioLib)|Delphi Audio Library by WASAPI.|6|2024-09-16|2024-01-15|
 |131|[ad1mt/Multi-Word-Int](https://github.com/ad1mt/Multi-Word-Int)|Library to provide multi-word (large) integers for the Free Pascal compiler.|6|2024-08-26|2023-11-11|
-|132|[elenderg/Portugues-Puro](https://github.com/elenderg/Portugues-Puro)|Compilador para a Linguagem de Programação Português Puro|6|2024-09-18|2023-10-21|
+|132|[elenderg/Portugues-Puro](https://github.com/elenderg/Portugues-Puro)|Compilador para a Linguagem de Programação Português Puro|6|2024-09-22|2023-10-21|
 |133|[tinyBigGAMES/PSFML](https://github.com/tinyBigGAMES/PSFML)|SFML for Pascal|5|2024-09-21|2024-09-21|
 |134|[RamonSouza96/DemoPayStone](https://github.com/RamonSouza96/DemoPayStone)|-|5|2024-09-10|2024-09-10|
 |135|[RamonSouza96/HeartAnimation](https://github.com/RamonSouza96/HeartAnimation)|-|5|2024-08-29|2024-08-29|
 |136|[JoRodriguesDev/d2webcards](https://github.com/JoRodriguesDev/d2webcards)|Este repositório contém um conjunto de classes Delphi desenvolvido para gerar cards no formato HTML. Inicialmente criado para um projeto em D2Bridge, um framework que permite compilar projetos VCL ou  ...|5|2024-08-23|2024-08-21|
 |137|[tinyBigGAMES/SparkGameToolkit](https://github.com/tinyBigGAMES/SparkGameToolkit)|Easy to use 2D Game Library for Windows|5|2024-08-23|2024-08-19|
 |138|[fredvs/swp](https://github.com/fredvs/swp)|Simple Webstream Player, to listen and record web radios and other streams.|5|2024-09-05|2024-08-16|
-|139|[LoadLineCalibration/DXEditPlus](https://github.com/LoadLineCalibration/DXEditPlus)|An attempt to recreate better level editor for Deus Ex.|5|2024-09-20|2024-08-07|
+|139|[LoadLineCalibration/DXEditPlus](https://github.com/LoadLineCalibration/DXEditPlus)|An attempt to recreate better level editor for Deus Ex.|5|2024-09-22|2024-08-07|
 |140|[D3lphi3r/Cloudflare-DNS](https://github.com/D3lphi3r/Cloudflare-DNS)|Dymanic update DNS records using Cloudflare API|5|2024-07-03|2024-07-02|
 |141|[landrix/Delphi-Firemonkey-Container](https://github.com/landrix/Delphi-Firemonkey-Container)|-|5|2024-06-21|2024-06-21|
 |142|[HemulGM/FMXWindowsDispatch](https://github.com/HemulGM/FMXWindowsDispatch)|Allow the FMX windows to process Windows messages|5|2024-06-13|2024-06-08|
@@ -158,7 +158,7 @@
 |151|[popolony2k/hinotori](https://github.com/popolony2k/hinotori)|Hinotori Library is the rebrand of PopolonY2k Framework  now moved to GitHub and open to community collaboration|5|2024-08-07|2024-02-18|
 |152|[Choaib-ELMADI/pcb-projects](https://github.com/Choaib-ELMADI/pcb-projects)|The pcb-projects repository features various electronic PCB designs for enthusiasts. Explore for diverse projects and detailed documentation.|5|2024-08-28|2024-02-05|
 |153|[PocketNerdIO/ctran](https://github.com/PocketNerdIO/ctran)|Recreation of CTRAN.EXE, the Psion OO C preprocessor from the SIBO C SDK.|5|2024-09-19|2024-01-10|
-|154|[pozsarzs/modshell](https://github.com/pozsarzs/modshell)|Command-driven scriptable Modbus utility|5|2024-09-21|2023-12-14|
+|154|[pozsarzs/modshell](https://github.com/pozsarzs/modshell)|Command-driven scriptable Modbus utility|5|2024-09-22|2023-12-14|
 |155|[jonyrh/OXR_Switcher](https://github.com/jonyrh/OXR_Switcher)|OpenXR Runtime Switcher - GUI util for switch active Runtime, displayed in a list everything that is installed on the system. Supported icons: Oculus, Meta, SteamVR, VirtualDesktop, WMR, Vive, Varjo.|5|2024-06-22|2023-12-09|
 |156|[antoniojmsjr/Horse-XMLDoc](https://github.com/antoniojmsjr/Horse-XMLDoc)|⚡ Horse-XMLDoc é um middleware para tratamento de XML em APIs desenvolvidas com o framework Horse.|5|2024-07-18|2023-12-03|
 |157|[jsqw/SRL-neon](https://github.com/jsqw/SRL-neon)|Simba scripts utilizing various RuneLite plugins.|5|2024-05-05|2023-09-30|
@@ -202,7 +202,7 @@
 |195|[CanardConfit/ASTAP](https://github.com/CanardConfit/ASTAP)|Stacking program, astrometric (plate) solver, fits file viewer|4|2024-08-30|2023-11-29|
 |196|[hipBali/vclua](https://github.com/hipBali/vclua)|Gui library for lua|4|2024-05-01|2023-11-22|
 |197|[GabrielOnDelphi/BioInf](https://github.com/GabrielOnDelphi/BioInf)|Library for reading microbiology DNA files (ABI, SCF, FASTA, etc)|4|2024-03-26|2023-10-10|
-|198|[DouglasSRM/Truco-app-Delphi](https://github.com/DouglasSRM/Truco-app-Delphi)|-|3|2024-09-18|2024-09-18|
+|198|[DouglasSRM/Truco-app-Delphi](https://github.com/DouglasSRM/Truco-app-Delphi)|-|3|2024-09-22|2024-09-18|
 |199|[wp-xyz/bmpExplorer](https://github.com/wp-xyz/bmpExplorer)|-|3|2024-09-17|2024-09-17|
 |200|[gcarreno/TestPeer-to-Peer](https://github.com/gcarreno/TestPeer-to-Peer)|A simple class that implements a peer in a Peer-to-Peer network|3|2024-09-16|2024-09-15|
 

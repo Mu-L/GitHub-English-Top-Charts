@@ -1,20 +1,20 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Software > MATLAB
-<sub>Updated: 2024-09-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-09-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03)|-|10382|137|2024-08-05|
-|2|[TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)|OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.|6853|2|2024-06-01|
+|1|[ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03)|-|10382|135|2024-08-05|
+|2|[TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)|OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.|6854|2|2024-06-01|
 |3|[matlab-deep-learning/2D-Differentiable-Rendering-Example](https://github.com/matlab-deep-learning/2D-Differentiable-Rendering-Example)|-|18|1|2024-09-04|
 |4|[taroz/ge-gnss-visibility](https://github.com/taroz/ge-gnss-visibility)|GNSS satellite visibility simulation from Google Earth|100|1|2024-09-06|
-|5|[SZXtiantian/SZU_Teng_Class](https://github.com/SZXtiantian/SZU_Teng_Class)|-|4|1|2024-09-20|
-|6|[liuboxun/LLM4CP](https://github.com/liuboxun/LLM4CP)|-|64|1|2024-07-30|
+|5|[SZXtiantian/SZU_Teng_Class](https://github.com/SZXtiantian/SZU_Teng_Class)|-|4|1|2024-09-22|
+|6|[liuboxun/LLM4CP](https://github.com/liuboxun/LLM4CP)|-|65|1|2024-07-30|
 |7|[NerdsWithAttitudes/WarpFactory](https://github.com/NerdsWithAttitudes/WarpFactory)|WarpFactory is a numerical toolkit for analyzing warp drive spacetimes.|272|1|2024-05-24|
 |8|[ShiArthur03-thu/ShiArthur03-thu](https://github.com/ShiArthur03-thu/ShiArthur03-thu)|Backup of the repository https://github.com/ShiArthur03/ShiArthur03.|14|1|2024-09-06|
 |9|[Time9Y/Matlab-Machine](https://github.com/Time9Y/Matlab-Machine)|-|691|1|2024-08-23|
-|10|[Linfeng-Tang/Image-Fusion](https://github.com/Linfeng-Tang/Image-Fusion)|Deep Learning-based Image Fusion: A Survey|769|1|2024-08-30|
+|10|[Linfeng-Tang/Image-Fusion](https://github.com/Linfeng-Tang/Image-Fusion)|Deep Learning-based Image Fusion: A Survey|770|1|2024-08-30|
 |11|[BIMK/PlatEMO](https://github.com/BIMK/PlatEMO)|Evolutionary multi-objective optimization platform|1570|1|2024-09-05|
 |12|[MengZ-tech/FDS-MOMEDA](https://github.com/MengZ-tech/FDS-MOMEDA)|FDS-MOMEDA: Optimization-Blind Deconvolution in Finite High-Dimensional Spaces for Extracting Pulse Signal in Rolling Bearing Fault Diagnosis|9|0|2024-05-29|
 |13|[yanqin26/Reproduction_of_wavelet_denoising_2](https://github.com/yanqin26/Reproduction_of_wavelet_denoising_2)|Reproduction of paper named An improved wavelet threshold denoising approach for surface electromyography signal|4|0|2024-04-27|
@@ -25,15 +25,15 @@
 |18|[biomicroscopy/Image_Deblurring_By_Pixel_Reassignment](https://github.com/biomicroscopy/Image_Deblurring_By_Pixel_Reassignment)|-|19|0|2024-07-12|
 |19|[cmontalvo251/aerospace](https://github.com/cmontalvo251/aerospace)|All of my aerospace toolboxes include aircraft and spacecraft sims|51|0|2024-09-20|
 |20|[xuz2019/SDGCA](https://github.com/xuz2019/SDGCA)|-|3|0|2024-08-06|
-|21|[amrzhd/Lighting-and-Temperature-Controller](https://github.com/amrzhd/Lighting-and-Temperature-Controller)|In this project we are going tp control the lighting and temperature of a smart home. For temperature control we use 2 brushless DC fan. One for Cooling and other for heating the house model.|23|0|2024-05-14|
-|22|[MiSTer-devel/Filters_MiSTer](https://github.com/MiSTer-devel/Filters_MiSTer)|Custom Filters for MiSTer's HDMI Scaler|35|0|2024-07-10|
+|21|[amrzhd/Lighting-and-Temperature-Controller](https://github.com/amrzhd/Lighting-and-Temperature-Controller)|In this project we are going tp control the lighting and temperature of a smart home. For temperature control we use 2 brushless DC fan. One for Cooling and other for heating the house model.|25|0|2024-05-14|
+|22|[MiSTer-devel/Filters_MiSTer](https://github.com/MiSTer-devel/Filters_MiSTer)|Custom Filters for MiSTer's HDMI Scaler|36|0|2024-07-10|
 |23|[JorritMontijn/GeneralAnalysis](https://github.com/JorritMontijn/GeneralAnalysis)|Multi-functional data analysis programs|5|0|2024-06-05|
 |24|[marcosalvv/MIMO-OTFS-Communication-System](https://github.com/marcosalvv/MIMO-OTFS-Communication-System)|-|7|0|2024-08-01|
 |25|[libDirectional/libDirectional](https://github.com/libDirectional/libDirectional)|Matlab library for directional statistics and directional estimation |53|0|2024-05-09|
 |26|[bootstrap666/joBFAEC](https://github.com/bootstrap666/joBFAEC)|Statistical model of a jointly optimized beamformer-assisted acoustic echo canceler (AEC)|3|0|2024-04-05|
 |27|[aylward/ITKTubeTK-CTHead-Perfusion](https://github.com/aylward/ITKTubeTK-CTHead-Perfusion)|-|7|0|2024-05-03|
 |28|[sccn/fMRIb](https://github.com/sccn/fMRIb)|fMRI artifact correction|9|0|2024-08-02|
-|29|[xds0112/5G_based_System_level_Integrated_Sensing_and_Communication_Simulator](https://github.com/xds0112/5G_based_System_level_Integrated_Sensing_and_Communication_Simulator)|System-level Simulator for 5G NR-based Integrated Sensing and Communication (ISAC)|79|0|2024-09-09|
+|29|[xds0112/5G_based_System_level_Integrated_Sensing_and_Communication_Simulator](https://github.com/xds0112/5G_based_System_level_Integrated_Sensing_and_Communication_Simulator)|System-level Simulator for 5G NR-based Integrated Sensing and Communication (ISAC)|80|0|2024-09-09|
 |30|[WPT-Lab124/Modified-Diode-Model](https://github.com/WPT-Lab124/Modified-Diode-Model)|The Modified Diode Model for Perovskite Photovoltaics|3|0|2024-04-12|
 |31|[mad-stat/CPSC-001](https://github.com/mad-stat/CPSC-001)|-|4|0|2024-05-27|
 |32|[mhamilt/CoupledFDPlateAndString](https://github.com/mhamilt/CoupledFDPlateAndString)|Finite difference modelling of Kirchhoff thin plate coupled with stiff string(s)|10|0|2024-05-20|
@@ -81,7 +81,7 @@
 |74|[glhr/mpc-matlab](https://github.com/glhr/mpc-matlab)|Model predictive control (MPC) implemented in Matlab using CVX|9|0|2024-06-14|
 |75|[Buming-O/GDUT_Robotics_24_Report](https://github.com/Buming-O/GDUT_Robotics_24_Report)|Three-Fingered Dexterous Hand|3|0|2024-06-19|
 |76|[myli1993/DDPM_ver1.0](https://github.com/myli1993/DDPM_ver1.0)|Distributed dynamic process model (DDPM) is a bidirectional coupling eco-hydrological model for (but not limited to) steppe inland river basins in arid and semi-arid regions, which is driven by meteor ...|9|0|2024-03-27|
-|77|[alexpiti/Calc-ScatPat](https://github.com/alexpiti/Calc-ScatPat)|MATLAB implementation of the Huygens-Fresnel principle for the calculation of the scattering farfield pattern produced from the illumination of a finite-aperture rectangular metasurface.|18|0|2024-09-13|
+|77|[alexpiti/Calc-ScatPat](https://github.com/alexpiti/Calc-ScatPat)|MATLAB implementation of the Huygens-Fresnel principle for the calculation of the scattering farfield pattern produced from the illumination of a finite-aperture rectangular metasurface.|19|0|2024-09-13|
 |78|[jerinpeter/DIshWashingArm](https://github.com/jerinpeter/DIshWashingArm)|-|3|0|2024-06-29|
 |79|[petersaj/AP_scripts_cortexlab](https://github.com/petersaj/AP_scripts_cortexlab)|Scripts written in Matteo Carandini/Kenneth Harris' lab|8|0|2024-09-11|
 |80|[szu2020222001/SZU-Graduation_Project](https://github.com/szu2020222001/SZU-Graduation_Project)|This repository contains some related codes for data processing and model building.|3|0|2024-05-06|

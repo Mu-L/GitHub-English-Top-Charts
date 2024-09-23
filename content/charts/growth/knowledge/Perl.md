@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Perl
-<sub>Updated: 2024-09-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-09-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -18,7 +18,7 @@
 |11|[trizen/perl-scripts](https://github.com/trizen/perl-scripts)|A nice collection of day-to-day Perl scripts.|130|0|2024-09-21|
 |12|[centreon/centreon-plugins](https://github.com/centreon/centreon-plugins)|Collection of standard plugins to discover and gather cloud-to-edge metrics and status across your whole IT infrastructure. |310|0|2024-09-20|
 |13|[geertu/linux-scripts](https://github.com/geertu/linux-scripts)|Collection of scripts for Linux kernel development|11|0|2024-06-06|
-|14|[X4BNet/lists_torexit](https://github.com/X4BNet/lists_torexit)|List of Tor exit nodes built by CI|8|0|2024-09-21|
+|14|[X4BNet/lists_torexit](https://github.com/X4BNet/lists_torexit)|List of Tor exit nodes built by CI|8|0|2024-09-22|
 |15|[maros/DateTime-Format-CLDR](https://github.com/maros/DateTime-Format-CLDR)|Parse and format CLDR time patterns with Perl|5|0|2024-07-22|
 |16|[jlab/fold-grammars](https://github.com/jlab/fold-grammars)|Collection of bgap code for RNA folding|3|0|2024-08-12|
 |17|[jkeenan/devel-git-multibisect](https://github.com/jkeenan/devel-git-multibisect)|Gather and study test output over a range of git commits|3|0|2024-04-23|
@@ -26,7 +26,7 @@
 |19|[MoradMMokhtar/MegaLTR](https://github.com/MoradMMokhtar/MegaLTR)|In this study, we introduce MegaLTR, a robust online server that identifies intact LTR -RTs in any target genome, and its local standalone version. MegaLTR is freely available at https://bioinformatic ...|3|0|2024-05-23|
 |20|[eunjung31/L2K-PronunciationError](https://github.com/eunjung31/L2K-PronunciationError)|Comparison of L2 Korean pronunciation error patterns from five L1 backgrounds by using automatic phonetic transcription|3|0|2024-06-10|
 |21|[scottwb/dotfiles](https://github.com/scottwb/dotfiles)|My collection of unix dotfiles and other customization goodies.|4|0|2024-08-24|
-|22|[agrybauskas/rotag](https://github.com/agrybauskas/rotag)|A collection of tools that generate and analyse side-chain rotamer libraries|7|0|2024-09-20|
+|22|[agrybauskas/rotag](https://github.com/agrybauskas/rotag)|A collection of tools that generate and analyse side-chain rotamer libraries|7|0|2024-09-22|
 |23|[pberry/jwz-youtube](https://github.com/pberry/jwz-youtube)|A small collection of youtube related scripts by jwz (Yes, that jwz)|3|0|2024-07-04|
 |24|[TeamDefronix/DefroxPot](https://github.com/TeamDefronix/DefroxPot)|DefroxPot is a honeypot project designed to detect, monitor, and analyze malicious activity in a controlled environment. This project aims to provide cybersecurity enthusiasts and professionals with a ...|7|0|2024-07-08|
 |25|[Ensembl/ensembl-git-tools](https://github.com/Ensembl/ensembl-git-tools)|A collection of tools which Ensembl uses to work with Git|9|0|2024-09-09|
@@ -39,7 +39,7 @@
 |32|[davetang/learning_bam_file](https://github.com/davetang/learning_bam_file)|Learning the Sequence Alignment/Map format|111|0|2024-03-25|
 |33|[w1ldc4rd-w1z4rd/command-line-collective](https://github.com/w1ldc4rd-w1z4rd/command-line-collective)|The repository hosts tutorials from the Command Line Collective's meetups, covering shell scripting, AI, data parsing, and automation.|3|0|2024-05-26|
 |34|[ShephedProject/shepherd](https://github.com/ShephedProject/shepherd)|Shepherd delivers reliable, high-quality Australian TV guide data (EPG).|20|0|2024-08-14|
-|35|[shlomif/Freenode-programming-channel-FAQ](https://github.com/shlomif/Freenode-programming-channel-FAQ)|A Frequently Asked Questions List of the Freenode ##programming Channel.|47|0|2024-08-24|
+|35|[shlomif/Freenode-programming-channel-FAQ](https://github.com/shlomif/Freenode-programming-channel-FAQ)|A Frequently Asked Questions List of the Freenode ##programming Channel.|47|0|2024-09-22|
 |36|[zonemaster/zonemaster-engine](https://github.com/zonemaster/zonemaster-engine)|The Zonemaster Engine - part of the Zonemaster project|33|0|2024-09-17|
 |37|[hachiojipm/awesome-perl](https://github.com/hachiojipm/awesome-perl)|A curated list of awesome Perl frameworks and libraries. Come on Pull Requests!|670|0|2024-08-07|
 |38|[tykling/ansible-roles](https://github.com/tykling/ansible-roles)|Ansible roles shared between my different Ansible installations|8|0|2024-09-11|
@@ -55,7 +55,7 @@
 |48|[snowballstem/snowball-data](https://github.com/snowballstem/snowball-data)|Test data for snowball stemming algorithms|29|0|2024-09-05|
 |49|[perfsonar/perl-shared](https://github.com/perfsonar/perl-shared)|Shared libraries used by perl packages and referenced as a submodule in many git repos|7|0|2024-09-11|
 |50|[morgannprice/PaperBLAST](https://github.com/morgannprice/PaperBLAST)|PaperBLAST: find papers about a protein or its homologs|33|0|2024-09-20|
-|51|[Catch-up-TV-and-More/xmltv](https://github.com/Catch-up-TV-and-More/xmltv)|TV guides - XMLTV|24|0|2024-09-20|
+|51|[Catch-up-TV-and-More/xmltv](https://github.com/Catch-up-TV-and-More/xmltv)|TV guides - XMLTV|24|0|2024-09-22|
 |52|[payjp/payjp-perl](https://github.com/payjp/payjp-perl)|Tutorial: |2|0|2024-05-15|
 |53|[matteoacrossi/texprlcount](https://github.com/matteoacrossi/texprlcount)|Perl script that evaluates the word count of a tex document according to the PRL length guidelines|31|0|2024-04-26|
 |54|[munin-monitoring/munin](https://github.com/munin-monitoring/munin)|Main repository for munin master / node / plugins|1972|0|2024-09-15|
@@ -92,7 +92,7 @@
 |85|[kambala-decapitator/medianxl-rus](https://github.com/kambala-decapitator/medianxl-rus)|A collection of scripts and files for Diablo II: Median XL Russian translation|14|0|2024-05-15|
 |86|[Moealsir/betty_fixer](https://github.com/Moealsir/betty_fixer)|Betty Fixer is a tool designed to automatically fix coding style issues in C files based on the Betty coding style guidelines. It performs corrections to ensure that the code complies with the Betty s ...|15|0|2024-03-25|
 |87|[shlomif/shlomif-snippets](https://github.com/shlomif/shlomif-snippets)|My Collection of various short, exploratory or demonstrative code files in Perl, Python and other langs|5|0|2024-07-24|
-|88|[mhop/fhem-mirror](https://github.com/mhop/fhem-mirror)|Branch 'master' is an unofficial read-only-mirror of  https://svn.fhem.de/fhem/trunk which is updated once a day. (branch sf_old a mirror of the old repo: svn://svn.code.sf.net/p/fhem/code/trunk)|107|0|2024-09-21|
+|88|[mhop/fhem-mirror](https://github.com/mhop/fhem-mirror)|Branch 'master' is an unofficial read-only-mirror of  https://svn.fhem.de/fhem/trunk which is updated once a day. (branch sf_old a mirror of the old repo: svn://svn.code.sf.net/p/fhem/code/trunk)|107|0|2024-09-22|
 |89|[jimyoshida/self-taught-devops](https://github.com/jimyoshida/self-taught-devops)|Technologies and concepts for advanced DevOps engineers to learn|3|0|2024-05-26|
 |90|[EquinoxOpenLibraryInitiative/migration-tools](https://github.com/EquinoxOpenLibraryInitiative/migration-tools)|A collection of tools used for migrations and data projects in Evergreen and Koha.|12|0|2024-05-10|
 |91|[zonemaster/zonemaster-ldns](https://github.com/zonemaster/zonemaster-ldns)|A Perl interface module for Zonemaster to NLnet Labs' ldns library|8|0|2024-09-12|
@@ -118,7 +118,7 @@
 |111|[shlomif/how-to-share-code-online](https://github.com/shlomif/how-to-share-code-online)|How to share source code on online forums in order to get help with it|11|0|2024-04-04|
 |112|[Drallas/Virtio-fs-Hookscript](https://github.com/Drallas/Virtio-fs-Hookscript)|Hookscript to create Virtio-fs mounts to share a directory tree between a Proxmox host and VMs |7|0|2024-04-08|
 |113|[PacktPublishing/Zabbix-7-IT-Infrastructure-Monitoring-Cookbook](https://github.com/PacktPublishing/Zabbix-7-IT-Infrastructure-Monitoring-Cookbook)|Zabbix 7 IT Infrastructure Monitoring Cookbook, published by packt|5|0|2024-07-12|
-|114|[sejongsmarcle/2024_Autumn_Machine_Learning_Study](https://github.com/sejongsmarcle/2024_Autumn_Machine_Learning_Study)|2024 New Senior Track Study, Machine Learning Study|3|0|2024-09-21|
+|114|[sejongsmarcle/2024_Autumn_Machine_Learning_Study](https://github.com/sejongsmarcle/2024_Autumn_Machine_Learning_Study)|2024 New Senior Track Study, Machine Learning Study|3|0|2024-09-22|
 |115|[CiscoCXSecurity/udp-proto-scanner](https://github.com/CiscoCXSecurity/udp-proto-scanner)|udp-proto-scanner is a Perl script which discovers UDP services by sending triggers to a list of hosts|96|0|2024-06-06|
 |116|[graphviz-perl/Graph](https://github.com/graphviz-perl/Graph)|Perl class for direct graph data structures and algorithms|21|0|2024-09-02|
 |117|[tipmaster/tipmaster](https://github.com/tipmaster/tipmaster)|Codebase for the German Soccer Fantasy Game TipMaster|3|0|2024-07-19|
