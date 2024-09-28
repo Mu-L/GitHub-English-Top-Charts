@@ -1,210 +1,210 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > All Language
-<sub>Updated: 2024-09-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-09-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Language|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)|freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.|402445|JavaScript|2024-09-26|
-|2|[EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)|:books: Freely available programming books|334463|-|2024-09-21|
-|3|[sindresorhus/awesome](https://github.com/sindresorhus/awesome)|😎 Awesome lists about all kinds of interesting topics|326289|-|2024-09-09|
-|4|[public-apis/public-apis](https://github.com/public-apis/public-apis)|A collective list of free APIs|313177|Python|2024-09-25|
-|5|[jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)|A complete computer science study plan to become a software engineer.|304754|-|2024-09-13|
-|6|[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)|Master programming by recreating your favorite technologies from scratch.|302082|-|2024-09-03|
-|7|[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)|Interactive roadmaps, guides and other educational content to help developers grow in their careers.|292750|TypeScript|2024-09-26|
-|8|[donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)|Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.|270683|Python|2024-08-07|
-|9|[996icu/996.ICU](https://github.com/996icu/996.ICU)|Repo for counting stars and contributing. Press F to pay respect to glorious developers.|269706|Rust|2024-08-18|
-|10|[vinta/awesome-python](https://github.com/vinta/awesome-python)|An opinionated list of awesome Python frameworks, libraries, software and resources.|219794|Python|2024-08-11|
-|11|[practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)|Curated list of project-based tutorials|198504|-|2024-08-15|
-|12|[awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)|A list of Free Software network services and web applications which can be hosted on your own servers|196101|JavaScript|2024-09-26|
-|13|[trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)|📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings|187455|JavaScript|2024-08-19|
-|14|[TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)|All Algorithms implemented in Python|184529|Python|2024-09-24|
-|15|[torvalds/linux](https://github.com/torvalds/linux)|Linux kernel source tree|179207|C|2024-09-26|
-|16|[getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)|A book series on JavaScript. @YDKJS on twitter.|179183|-|2024-09-05|
-|17|[ossu/computer-science](https://github.com/ossu/computer-science)|🎓 Path to a free self-taught education in Computer Science!|170395|-|2024-09-23|
-|18|[github/gitignore](https://github.com/github/gitignore)|A collection of useful .gitignore templates|161375|-|2024-09-09|
+|1|[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)|freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.|402495|JavaScript|2024-09-27|
+|2|[EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)|:books: Freely available programming books|334528|-|2024-09-21|
+|3|[sindresorhus/awesome](https://github.com/sindresorhus/awesome)|😎 Awesome lists about all kinds of interesting topics|326439|-|2024-09-09|
+|4|[public-apis/public-apis](https://github.com/public-apis/public-apis)|A collective list of free APIs|313228|Python|2024-09-25|
+|5|[jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)|A complete computer science study plan to become a software engineer.|304806|-|2024-09-13|
+|6|[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)|Master programming by recreating your favorite technologies from scratch.|302199|-|2024-09-03|
+|7|[kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)|Interactive roadmaps, guides and other educational content to help developers grow in their careers.|292841|TypeScript|2024-09-27|
+|8|[donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)|Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.|270775|Python|2024-08-07|
+|9|[996icu/996.ICU](https://github.com/996icu/996.ICU)|Repo for counting stars and contributing. Press F to pay respect to glorious developers.|269713|Rust|2024-08-18|
+|10|[vinta/awesome-python](https://github.com/vinta/awesome-python)|An opinionated list of awesome Python frameworks, libraries, software and resources.|219907|Python|2024-08-11|
+|11|[practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)|Curated list of project-based tutorials|198631|-|2024-08-15|
+|12|[awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)|A list of Free Software network services and web applications which can be hosted on your own servers|196237|JavaScript|2024-09-26|
+|13|[trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)|📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings|187483|JavaScript|2024-08-19|
+|14|[TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)|All Algorithms implemented in Python|184567|Python|2024-09-24|
+|15|[torvalds/linux](https://github.com/torvalds/linux)|Linux kernel source tree|179275|C|2024-09-27|
+|16|[getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)|A book series on JavaScript. @YDKJS on twitter.|179199|-|2024-09-05|
+|17|[ossu/computer-science](https://github.com/ossu/computer-science)|🎓 Path to a free self-taught education in Computer Science!|170433|-|2024-09-23|
+|18|[github/gitignore](https://github.com/github/gitignore)|A collection of useful .gitignore templates|161394|-|2024-09-09|
 |19|[jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)|Master the command line, in one page|152977|-|2024-06-25|
-|20|[airbnb/javascript](https://github.com/airbnb/javascript)|JavaScript Style Guide|144736|JavaScript|2024-09-25|
-|21|[trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)|A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.|144492|-|2024-08-21|
-|22|[avelino/awesome-go](https://github.com/avelino/awesome-go)|A curated list of awesome Go frameworks, libraries and software|129460|Go|2024-09-25|
-|23|[labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm)|刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why. |125171|Markdown|2024-09-22|
-|24|[Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code)|Short code snippets for all your development needs|121313|JavaScript|2024-09-25|
-|25|[yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)|💯 Curated coding interview preparation materials for busy software engineers|117311|JavaScript|2024-09-22|
-|26|[krahets/hello-algo](https://github.com/krahets/hello-algo)|《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing|95906|Java|2024-09-24|
+|20|[airbnb/javascript](https://github.com/airbnb/javascript)|JavaScript Style Guide|144746|JavaScript|2024-09-25|
+|21|[trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)|A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.|144588|-|2024-08-21|
+|22|[avelino/awesome-go](https://github.com/avelino/awesome-go)|A curated list of awesome Go frameworks, libraries and software|129534|Go|2024-09-27|
+|23|[labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm)|刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why. |125194|Markdown|2024-09-22|
+|24|[Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code)|Short code snippets for all your development needs|121327|JavaScript|2024-09-27|
+|25|[yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)|💯 Curated coding interview preparation materials for busy software engineers|117347|JavaScript|2024-09-22|
+|26|[krahets/hello-algo](https://github.com/krahets/hello-algo)|《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing|95944|Java|2024-09-24|
 |27|[ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)|:bathtub: Clean Code concepts adapted for JavaScript|91334|JavaScript|2024-07-29|
-|28|[521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub)|:octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.|90949|Python|2024-09-10|
-|29|[iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns)|Design patterns implemented in Java|89478|Java|2024-09-23|
-|30|[ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)|A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev|88591|HTML|2024-09-25|
-|31|[papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love)|Papers from the computer science community to read and discuss.|87071|Shell|2024-09-11|
-|32|[iptv-org/iptv](https://github.com/iptv-org/iptv)|Collection of publicly available IPTV channels from all over the world|84692|JavaScript|2024-09-26|
-|33|[Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)|A collection of various awesome lists for hackers, pentesters and security researchers|83189|-|2024-08-22|
-|34|[microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)|24 Lessons, 12 Weeks, Get Started as a Web Developer|83126|JavaScript|2024-09-24|
-|35|[mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)|A collection of (mostly) technical things every software developer should know about|82757|-|2024-08-06|
-|36|[florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)|A Collection of application ideas which can be used to improve your coding skills.|79342|-|2024-08-16|
-|37|[tensorflow/models](https://github.com/tensorflow/models)|Models and examples built with TensorFlow|76983|Python|2024-09-24|
-|38|[jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)| Now we have become very big, Different from the original idea. Collect premium software in various categories.|75331|JavaScript|2024-09-26|
-|39|[vuejs/awesome-vue](https://github.com/vuejs/awesome-vue)|🎉 A curated list of awesome things related to Vue.js|71959|-|2024-09-17|
-|40|[DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions)|:octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board: |70605|-|2024-07-29|
-|41|[microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)|12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all|69221|Jupyter Notebook|2024-09-21|
-|42|[thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)|🗂 The perfect Front-End Checklist for modern websites and meticulous developers|68717|-|2024-05-08|
-|43|[MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)|A list of awesome beginners-friendly projects.|67953|-|2024-08-20|
-|44|[Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses)|List of Computer Science courses with video lectures.|66574|-|2024-09-13|
-|45|[bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises)|Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions|66033|Python|2024-08-31|
-|46|[josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)|A curated list of awesome Machine Learning frameworks, libraries and software.|65505|Python|2024-08-07|
-|47|[enaqx/awesome-react](https://github.com/enaqx/awesome-react)|A collection of awesome things regarding React ecosystem|64818|-|2024-09-26|
+|28|[521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub)|:octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.|91013|Python|2024-09-27|
+|29|[iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns)|Design patterns implemented in Java|89488|Java|2024-09-23|
+|30|[ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)|A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev|88658|HTML|2024-09-27|
+|31|[papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love)|Papers from the computer science community to read and discuss.|87094|Shell|2024-09-11|
+|32|[iptv-org/iptv](https://github.com/iptv-org/iptv)|Collection of publicly available IPTV channels from all over the world|84720|JavaScript|2024-09-27|
+|33|[Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)|A collection of various awesome lists for hackers, pentesters and security researchers|83234|-|2024-08-22|
+|34|[microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)|24 Lessons, 12 Weeks, Get Started as a Web Developer|83143|JavaScript|2024-09-24|
+|35|[mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)|A collection of (mostly) technical things every software developer should know about|82778|-|2024-08-06|
+|36|[florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)|A Collection of application ideas which can be used to improve your coding skills.|79367|-|2024-08-16|
+|37|[tensorflow/models](https://github.com/tensorflow/models)|Models and examples built with TensorFlow|76987|Python|2024-09-24|
+|38|[jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)| Now we have become very big, Different from the original idea. Collect premium software in various categories.|75356|JavaScript|2024-09-26|
+|39|[vuejs/awesome-vue](https://github.com/vuejs/awesome-vue)|🎉 A curated list of awesome things related to Vue.js|71962|-|2024-09-27|
+|40|[DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions)|:octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board: |70620|-|2024-07-29|
+|41|[microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)|12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all|69237|Jupyter Notebook|2024-09-21|
+|42|[thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)|🗂 The perfect Front-End Checklist for modern websites and meticulous developers|68727|-|2024-05-08|
+|43|[MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)|A list of awesome beginners-friendly projects.|67978|-|2024-08-20|
+|44|[Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses)|List of Computer Science courses with video lectures.|66579|-|2024-09-13|
+|45|[bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises)|Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions|66047|Python|2024-08-31|
+|46|[josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)|A curated list of awesome Machine Learning frameworks, libraries and software.|65515|Python|2024-08-07|
+|47|[enaqx/awesome-react](https://github.com/enaqx/awesome-react)|A collection of awesome things regarding React ecosystem|64833|-|2024-09-27|
 |48|[kdn251/interviews](https://github.com/kdn251/interviews)|Everything you need to know to get the job.|63431|Java|2024-05-13|
-|49|[ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101)|Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.|63254|-|2024-08-16|
-|50|[leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts)|📜 33 JavaScript concepts every developer should know.|63181|JavaScript|2024-09-15|
-|51|[lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions)|A long list of (advanced) JavaScript questions, and their explanations :sparkles:  |62436|-|2024-08-04|
-|52|[microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)|18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/|62128|Jupyter Notebook|2024-09-17|
-|53|[sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)|:link: Some useful websites for programmers.|61174|-|2024-09-24|
-|54|[kelseyhightower/nocode](https://github.com/kelseyhightower/nocode)|The best way to write secure and reliable applications. Write nothing; deploy nowhere.|60475|Dockerfile|2024-08-07|
-|55|[awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)|A topic-centric list of HQ open datasets.|60246|-|2024-09-06|
-|56|[swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)|A list of useful payloads and bypass for Web Application Security and Pentest/CTF|60239|Python|2024-09-16|
-|57|[xtekky/gpt4free](https://github.com/xtekky/gpt4free)|The official gpt4free repository   various collection of powerful language models|60121|Python|2024-09-21|
-|58|[h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)|A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.|59565|Nunjucks|2024-09-01|
-|59|[fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp)|A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.|58952|-|2024-09-25|
-|60|[TheAlgorithms/Java](https://github.com/TheAlgorithms/Java)|All Algorithms implemented in Java|58801|Java|2024-09-26|
-|61|[openai/openai-cookbook](https://github.com/openai/openai-cookbook)|Examples and guides for using the OpenAI API|58740|MDX|2024-09-24|
-|62|[bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)|Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more|58377|-|2024-09-23|
-|63|[binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)|The Patterns of Scalable, Reliable, and Performant Large-Scale Systems|58298|-|2024-09-01|
-|64|[sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)|:zap: Delightful Node.js packages and resources|57987|-|2024-08-08|
-|65|[danielmiessler/SecLists](https://github.com/danielmiessler/SecLists)|SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi ...|57099|PHP|2024-09-26|
+|49|[ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101)|Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.|63279|-|2024-08-16|
+|50|[leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts)|📜 33 JavaScript concepts every developer should know.|63193|JavaScript|2024-09-15|
+|51|[lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions)|A long list of (advanced) JavaScript questions, and their explanations :sparkles:  |62446|-|2024-08-04|
+|52|[microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)|18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/|62159|Jupyter Notebook|2024-09-17|
+|53|[sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)|:link: Some useful websites for programmers.|61194|-|2024-09-24|
+|54|[kelseyhightower/nocode](https://github.com/kelseyhightower/nocode)|The best way to write secure and reliable applications. Write nothing; deploy nowhere.|60484|Dockerfile|2024-08-07|
+|55|[swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)|A list of useful payloads and bypass for Web Application Security and Pentest/CTF|60257|Python|2024-09-16|
+|56|[awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)|A topic-centric list of HQ open datasets.|60257|-|2024-09-06|
+|57|[xtekky/gpt4free](https://github.com/xtekky/gpt4free)|The official gpt4free repository   various collection of powerful language models|60139|Python|2024-09-21|
+|58|[h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)|A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.|59567|Nunjucks|2024-09-01|
+|59|[fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp)|A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.|58968|-|2024-09-27|
+|60|[TheAlgorithms/Java](https://github.com/TheAlgorithms/Java)|All Algorithms implemented in Java|58813|Java|2024-09-26|
+|61|[openai/openai-cookbook](https://github.com/openai/openai-cookbook)|Examples and guides for using the OpenAI API|58753|MDX|2024-09-27|
+|62|[bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)|Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more|58396|-|2024-09-23|
+|63|[binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)|The Patterns of Scalable, Reliable, and Performant Large-Scale Systems|58313|-|2024-09-01|
+|64|[sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)|:zap: Delightful Node.js packages and resources|57994|-|2024-08-08|
+|65|[danielmiessler/SecLists](https://github.com/danielmiessler/SecLists)|SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi ...|57123|PHP|2024-09-27|
 |66|[azl397985856/leetcode](https://github.com/azl397985856/leetcode)|LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)|54508|JavaScript|2024-08-12|
-|67|[labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations)|🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans( ...|54230|Python|2024-08-24|
-|68|[Solido/awesome-flutter](https://github.com/Solido/awesome-flutter)|An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.|53141|Dart|2024-09-21|
-|69|[PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)|ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。|52280|-|2024-07-30|
-|70|[tldr-pages/tldr](https://github.com/tldr-pages/tldr)|📚 Collaborative cheatsheets for console commands|50558|Markdown|2024-09-26|
-|71|[wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)|A curated list of awesome Android UI/UX libraries|50351|-|2024-07-06|
-|72|[dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)|🐙 Guides, papers, lecture, notebooks and resources for prompt engineering|47967|MDX|2024-09-19|
-|73|[tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)|A list of cool features of Git and GitHub.|47646|-|2024-04-15|
-|74|[vsouza/awesome-ios](https://github.com/vsouza/awesome-ios)|A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects |47015|Swift|2024-08-12|
-|75|[facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything)|The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.|46868|Jupyter Notebook|2024-09-18|
-|76|[charlax/professional-programming](https://github.com/charlax/professional-programming)|A collection of learning resources for curious software engineers|46446|Python|2024-09-16|
-|77|[minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings)|The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.|46154|Python|2024-04-18|
-|78|[rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust)|A curated list of Rust code and resources.|46070|Rust|2024-09-16|
-|79|[typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react)|Cheatsheets for experienced React developers getting started with TypeScript|45105|JavaScript|2024-09-18|
-|80|[karan/Projects](https://github.com/karan/Projects)|:page_with_curl: A list of practical projects that anyone can solve in any programming language.|45024|-|2024-08-14|
-|81|[kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)|An ultra-simplified explanation to design patterns|44950|-|2024-06-12|
-|82|[poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)|⭐️  Companies that don't have a broken hiring process|44689|JavaScript|2024-09-24|
-|83|[android/architecture-samples](https://github.com/android/architecture-samples)|A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.|44358|Kotlin|2024-09-23|
-|84|[aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)|TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)|43371|Jupyter Notebook|2024-07-26|
-|85|[astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang)|A golang ebook intro how to build a web with golang|43228|Go|2024-05-12|
-|86|[Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)|30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace.  ...|42837|JavaScript|2024-08-19|
-|87|[jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook)|Python Data Science Handbook: full text in Jupyter Notebooks|42828|Jupyter Notebook|2024-06-26|
-|88|[type-challenges/type-challenges](https://github.com/type-challenges/type-challenges)|Collection of TypeScript type challenges with online judge|42670|TypeScript|2024-09-08|
-|89|[isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines)|The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++|42544|Python|2024-07-02|
-|90|[dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)|Manually curated collection of resources for frontend web developers.|42245|-|2024-05-21|
-|91|[dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)|:iphone: Collaborative List of Open-Source iOS Apps|42212|Swift|2024-09-26|
-|92|[brillout/awesome-react-components](https://github.com/brillout/awesome-react-components)|Curated List of React Components & Libraries.|42089|-|2024-08-12|
+|67|[labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations)|🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans( ...|54288|Python|2024-08-24|
+|68|[Solido/awesome-flutter](https://github.com/Solido/awesome-flutter)|An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.|53153|Dart|2024-09-21|
+|69|[PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)|ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。|52288|-|2024-07-30|
+|70|[tldr-pages/tldr](https://github.com/tldr-pages/tldr)|📚 Collaborative cheatsheets for console commands|50571|Markdown|2024-09-27|
+|71|[wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)|A curated list of awesome Android UI/UX libraries|50356|-|2024-07-06|
+|72|[dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)|🐙 Guides, papers, lecture, notebooks and resources for prompt engineering|48000|MDX|2024-09-19|
+|73|[tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)|A list of cool features of Git and GitHub.|47657|-|2024-04-15|
+|74|[vsouza/awesome-ios](https://github.com/vsouza/awesome-ios)|A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects |47020|Swift|2024-08-12|
+|75|[facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything)|The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.|46888|Jupyter Notebook|2024-09-18|
+|76|[charlax/professional-programming](https://github.com/charlax/professional-programming)|A collection of learning resources for curious software engineers|46450|Python|2024-09-16|
+|77|[minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings)|The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.|46155|Python|2024-04-18|
+|78|[rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust)|A curated list of Rust code and resources.|46092|Rust|2024-09-27|
+|79|[typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react)|Cheatsheets for experienced React developers getting started with TypeScript|45115|JavaScript|2024-09-18|
+|80|[karan/Projects](https://github.com/karan/Projects)|:page_with_curl: A list of practical projects that anyone can solve in any programming language.|45030|-|2024-08-14|
+|81|[kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)|An ultra-simplified explanation to design patterns|44954|-|2024-06-12|
+|82|[poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards)|⭐️  Companies that don't have a broken hiring process|44700|JavaScript|2024-09-24|
+|83|[android/architecture-samples](https://github.com/android/architecture-samples)|A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.|44362|Kotlin|2024-09-23|
+|84|[aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)|TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)|43374|Jupyter Notebook|2024-07-26|
+|85|[astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang)|A golang ebook intro how to build a web with golang|43230|Go|2024-05-12|
+|86|[Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)|30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace.  ...|42847|JavaScript|2024-08-19|
+|87|[jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook)|Python Data Science Handbook: full text in Jupyter Notebooks|42832|Jupyter Notebook|2024-06-26|
+|88|[type-challenges/type-challenges](https://github.com/type-challenges/type-challenges)|Collection of TypeScript type challenges with online judge|42678|TypeScript|2024-09-08|
+|89|[isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines)|The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++|42551|Python|2024-07-02|
+|90|[dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)|Manually curated collection of resources for frontend web developers.|42253|-|2024-05-21|
+|91|[dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)|:iphone: Collaborative List of Open-Source iOS Apps|42225|Swift|2024-09-27|
+|92|[brillout/awesome-react-components](https://github.com/brillout/awesome-react-components)|Curated List of React Components & Libraries.|42103|-|2024-08-12|
 |93|[k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules)|Flight rules for git|41728|-|2024-08-27|
-|94|[yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook)|⚡️ Front End interview preparation materials for busy engineers|41465|JavaScript|2024-09-24|
-|95|[akullpp/awesome-java](https://github.com/akullpp/awesome-java)|A curated list of awesome frameworks, libraries and software for the Java programming language.|41457|-|2024-09-14|
-|96|[Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python)|30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may  ...|41449|Python|2024-08-17|
-|97|[serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps)|🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps|41222|Swift|2024-08-15|
-|98|[faif/python-patterns](https://github.com/faif/python-patterns)|A collection of design patterns/idioms in Python|40247|Python|2024-09-05|
-|99|[alex/what-happens-when](https://github.com/alex/what-happens-when)|An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"|39882|-|2024-08-19|
-|100|[LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)|👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.|39788|JavaScript|2024-08-24|
-|101|[DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)|A curated list of software and architecture related design patterns.|39344|-|2024-06-11|
-|102|[sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions)|List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!|39308|JavaScript|2024-09-18|
-|103|[Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings)|C++那些事|38972|C++|2024-06-14|
-|104|[chubin/cheat.sh](https://github.com/chubin/cheat.sh)|the only cheat sheet you need|38178|Python|2024-06-22|
-|105|[mlabonne/llm-course](https://github.com/mlabonne/llm-course)|Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.|37498|Jupyter Notebook|2024-07-28|
-|106|[google/styleguide](https://github.com/google/styleguide)|Style guides for Google-originated open-source projects|37281|HTML|2024-09-05|
-|107|[GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML)|Learn how to design, develop, deploy and iterate on production-grade ML applications.|37141|Jupyter Notebook|2024-08-18|
-|108|[eugenp/tutorials](https://github.com/eugenp/tutorials)|Just Announced - "Learn Spring Security OAuth": |36523|Java|2024-09-26|
-|109|[gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet)|Comprehensive Python Cheatsheet|36165|Python|2024-09-24|
-|110|[satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython)|What the f*ck Python? 😱|35682|Python|2024-06-13|
-|111|[open-guides/og-aws](https://github.com/open-guides/og-aws)|📙 Amazon Web Services — a practical guide|35670|Shell|2024-08-16|
-|112|[TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN)|GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.|35607|Python|2024-07-26|
-|113|[openai/gym](https://github.com/openai/gym)|A toolkit for developing and comparing reinforcement learning algorithms.|34551|Python|2024-05-02|
-|114|[jondot/awesome-react-native](https://github.com/jondot/awesome-react-native)|Awesome React Native components, news, tools, and learning material!|34533|JavaScript|2024-07-05|
-|115|[microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)|12 Weeks, 24 Lessons, AI for All!|34212|Jupyter Notebook|2024-08-30|
-|116|[SimplifyJobs/Summer2025-Internships](https://github.com/SimplifyJobs/Summer2025-Internships)|Collection of Summer 2025 tech internships!|34163|-|2024-09-26|
-|117|[sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript)|🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.|33490|-|2024-09-03|
-|118|[typst/typst](https://github.com/typst/typst)|A new markup-based typesetting system that is powerful and easy to learn.|32897|Rust|2024-09-26|
-|119|[halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go)|✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解|32774|Go|2024-06-22|
-|120|[alebcay/awesome-shell](https://github.com/alebcay/awesome-shell)|A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.|32738|-|2024-08-21|
-|121|[logseq/logseq](https://github.com/logseq/logseq)|A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap|32263|Clojure|2024-09-26|
-|122|[TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript)|Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.|32146|JavaScript|2024-09-24|
-|123|[karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design)|Learn how to design systems at scale and prepare for system design interviews|31923|-|2024-04-10|
-|124|[bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)|A curated list of awesome awesomeness|31688|Ruby|2024-06-02|
-|125|[huggingface/pytorch-image-models](https://github.com/huggingface/pytorch-image-models)|The largest collection of PyTorch image encoders / backbones. Including train, eval, inference, export scripts, and pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT) ...|31618|Python|2024-09-22|
-|126|[Trinea/android-open-project](https://github.com/Trinea/android-open-project)|A categorized collection of Android Open Source Projects,  More powerful web version:|31603|-|2024-07-08|
-|127|[kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs)|A curated list of engineering blogs|31338|Ruby|2024-08-21|
-|128|[doocs/leetcode](https://github.com/doocs/leetcode)|🔥LeetCode solutions in any programming language   多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解|31034|Java|2024-09-26|
-|129|[geekcomputers/Python](https://github.com/geekcomputers/Python)|My Python Examples|31014|Python|2024-09-24|
-|130|[ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)|A curated list of amazingly awesome PHP libraries, resources and shiny things.|30859|-|2024-09-11|
-|131|[ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix)|A collection of modern/faster/saner alternatives to common unix commands.|30688|-|2024-09-10|
+|94|[yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook)|⚡️ Front End interview preparation materials for busy engineers|41471|JavaScript|2024-09-27|
+|95|[Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python)|30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may  ...|41468|Python|2024-08-17|
+|96|[akullpp/awesome-java](https://github.com/akullpp/awesome-java)|A curated list of awesome frameworks, libraries and software for the Java programming language.|41466|-|2024-09-14|
+|97|[serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps)|🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps|41238|Swift|2024-08-15|
+|98|[faif/python-patterns](https://github.com/faif/python-patterns)|A collection of design patterns/idioms in Python|40252|Python|2024-09-05|
+|99|[alex/what-happens-when](https://github.com/alex/what-happens-when)|An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"|39883|-|2024-08-19|
+|100|[LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)|👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.|39795|JavaScript|2024-08-24|
+|101|[DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)|A curated list of software and architecture related design patterns.|39366|-|2024-06-11|
+|102|[sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions)|List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!|39325|JavaScript|2024-09-18|
+|103|[Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings)|C++那些事|38991|C++|2024-06-14|
+|104|[chubin/cheat.sh](https://github.com/chubin/cheat.sh)|the only cheat sheet you need|38184|Python|2024-06-22|
+|105|[mlabonne/llm-course](https://github.com/mlabonne/llm-course)|Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.|37540|Jupyter Notebook|2024-07-28|
+|106|[google/styleguide](https://github.com/google/styleguide)|Style guides for Google-originated open-source projects|37285|HTML|2024-09-05|
+|107|[GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML)|Learn how to design, develop, deploy and iterate on production-grade ML applications.|37140|Jupyter Notebook|2024-08-18|
+|108|[eugenp/tutorials](https://github.com/eugenp/tutorials)|Just Announced - "Learn Spring Security OAuth": |36524|Java|2024-09-27|
+|109|[gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet)|Comprehensive Python Cheatsheet|36164|Python|2024-09-24|
+|110|[satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython)|What the f*ck Python? 😱|35688|Python|2024-06-13|
+|111|[open-guides/og-aws](https://github.com/open-guides/og-aws)|📙 Amazon Web Services — a practical guide|35669|Shell|2024-08-16|
+|112|[TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN)|GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.|35615|Python|2024-07-26|
+|113|[openai/gym](https://github.com/openai/gym)|A toolkit for developing and comparing reinforcement learning algorithms.|34556|Python|2024-05-02|
+|114|[jondot/awesome-react-native](https://github.com/jondot/awesome-react-native)|Awesome React Native components, news, tools, and learning material!|34535|JavaScript|2024-07-05|
+|115|[microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)|12 Weeks, 24 Lessons, AI for All!|34232|Jupyter Notebook|2024-08-30|
+|116|[SimplifyJobs/Summer2025-Internships](https://github.com/SimplifyJobs/Summer2025-Internships)|Collection of Summer 2025 tech internships!|34190|-|2024-09-27|
+|117|[sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript)|🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.|33494|-|2024-09-03|
+|118|[typst/typst](https://github.com/typst/typst)|A new markup-based typesetting system that is powerful and easy to learn.|32924|Rust|2024-09-27|
+|119|[halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go)|✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解|32782|Go|2024-06-22|
+|120|[alebcay/awesome-shell](https://github.com/alebcay/awesome-shell)|A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.|32750|-|2024-08-21|
+|121|[logseq/logseq](https://github.com/logseq/logseq)|A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap|32277|Clojure|2024-09-27|
+|122|[TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript)|Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.|32151|JavaScript|2024-09-24|
+|123|[karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design)|Learn how to design systems at scale and prepare for system design interviews|31937|-|2024-04-10|
+|124|[bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)|A curated list of awesome awesomeness|31691|Ruby|2024-06-02|
+|125|[huggingface/pytorch-image-models](https://github.com/huggingface/pytorch-image-models)|The largest collection of PyTorch image encoders / backbones. Including train, eval, inference, export scripts, and pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT) ...|31630|Python|2024-09-22|
+|126|[Trinea/android-open-project](https://github.com/Trinea/android-open-project)|A categorized collection of Android Open Source Projects,  More powerful web version:|31604|-|2024-07-08|
+|127|[kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs)|A curated list of engineering blogs|31348|Ruby|2024-08-21|
+|128|[doocs/leetcode](https://github.com/doocs/leetcode)|🔥LeetCode solutions in any programming language   多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解|31042|Java|2024-09-27|
+|129|[geekcomputers/Python](https://github.com/geekcomputers/Python)|My Python Examples|31021|Python|2024-09-27|
+|130|[ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)|A curated list of amazingly awesome PHP libraries, resources and shiny things.|30864|-|2024-09-11|
+|131|[ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix)|A collection of modern/faster/saner alternatives to common unix commands.|30692|-|2024-09-10|
 |132|[alibaba/p3c](https://github.com/alibaba/p3c)|Alibaba Java Coding Guidelines pmd implements and IDE plugin|30406|Kotlin|2024-08-06|
-|133|[facebookresearch/fairseq](https://github.com/facebookresearch/fairseq)|Facebook AI Research Sequence-to-Sequence Toolkit written in Python.|30219|Python|2024-09-09|
-|134|[TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)|Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.|30159|C++|2024-09-17|
-|135|[joshbuchea/HEAD](https://github.com/joshbuchea/HEAD)|A simple guide to HTML <head> elements|29976|-|2024-06-21|
-|136|[veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker)|:whale: A curated list of Docker resources and projects|29927|-|2024-09-08|
-|137|[0xAX/linux-insides](https://github.com/0xAX/linux-insides)|A little bit about a linux kernel|29857|Python|2024-07-17|
-|138|[makeplane/plane](https://github.com/makeplane/plane)|🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.|29410|TypeScript|2024-09-26|
-|139|[donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges)|120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.|29365|Python|2024-05-08|
-|140|[ShareX/ShareX](https://github.com/ShareX/ShareX)|ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of file ...|29273|C#|2024-09-13|
-|141|[lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)|A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python|29227|-|2024-08-12|
-|142|[remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs)|A list of semi to fully remote-friendly companies (jobs) in tech.|29185|JavaScript|2024-08-08|
-|143|[standard/standard](https://github.com/standard/standard)|🌟 JavaScript Style Guide, with linter & automatic code fixer|29077|JavaScript|2024-09-13|
-|144|[kodecocodes/swift-algorithm-club](https://github.com/kodecocodes/swift-algorithm-club)|Algorithms and data structures in Swift, with explanations!|28746|Swift|2024-05-09|
-|145|[gedoor/legado](https://github.com/gedoor/legado)|Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。|28523|Kotlin|2024-09-26|
-|146|[mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui)|Come join the best place on the internet to learn AI skills. Use code "chatbotui" for an extra 20% off.|28411|TypeScript|2024-08-03|
+|133|[facebookresearch/fairseq](https://github.com/facebookresearch/fairseq)|Facebook AI Research Sequence-to-Sequence Toolkit written in Python.|30217|Python|2024-09-27|
+|134|[TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)|Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.|30172|C++|2024-09-17|
+|135|[joshbuchea/HEAD](https://github.com/joshbuchea/HEAD)|A simple guide to HTML <head> elements|29975|-|2024-06-21|
+|136|[veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker)|:whale: A curated list of Docker resources and projects|29935|-|2024-09-08|
+|137|[0xAX/linux-insides](https://github.com/0xAX/linux-insides)|A little bit about a linux kernel|29860|Python|2024-07-17|
+|138|[makeplane/plane](https://github.com/makeplane/plane)|🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.|29433|TypeScript|2024-09-27|
+|139|[donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges)|120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.|29366|Python|2024-05-08|
+|140|[ShareX/ShareX](https://github.com/ShareX/ShareX)|ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of file ...|29284|C#|2024-09-13|
+|141|[lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job)|A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python|29233|-|2024-08-12|
+|142|[remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs)|A list of semi to fully remote-friendly companies (jobs) in tech.|29195|JavaScript|2024-08-08|
+|143|[standard/standard](https://github.com/standard/standard)|🌟 JavaScript Style Guide, with linter & automatic code fixer|29075|JavaScript|2024-09-13|
+|144|[kodecocodes/swift-algorithm-club](https://github.com/kodecocodes/swift-algorithm-club)|Algorithms and data structures in Swift, with explanations!|28747|Swift|2024-05-09|
+|145|[gedoor/legado](https://github.com/gedoor/legado)|Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。|28546|Kotlin|2024-09-27|
+|146|[mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui)|Come join the best place on the internet to learn AI skills. Use code "chatbotui" for an extra 20% off.|28419|TypeScript|2024-08-03|
 |147|[realpython/python-guide](https://github.com/realpython/python-guide)|Python best practices guidebook, written for humans. |28228|Batchfile|2024-07-29|
-|148|[facebook/folly](https://github.com/facebook/folly)|An open-source C++ library developed and used at Facebook.|28219|C++|2024-09-26|
-|149|[AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips)|⚡️ A collection of tips to help take your CSS skills pro 🦾|28186|-|2024-06-23|
-|150|[llvm/llvm-project](https://github.com/llvm/llvm-project)|The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.|28144|LLVM|2024-09-26|
-|151|[ZuzooVn/machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)|A complete daily plan for studying to become a machine learning engineer.|28078|-|2024-06-11|
-|152|[microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)|10 Weeks, 20 Lessons, Data Science for All!|27807|Jupyter Notebook|2024-08-27|
-|153|[ageron/handson-ml2](https://github.com/ageron/handson-ml2)|A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.|27769|Jupyter Notebook|2024-06-13|
-|154|[wesbos/JavaScript30](https://github.com/wesbos/JavaScript30)|30 Day Vanilla JS Challenge|27606|HTML|2024-08-09|
-|155|[google/comprehensive-rust](https://github.com/google/comprehensive-rust)|This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.|27595|Rust|2024-09-24|
-|156|[viraptor/reverse-interview](https://github.com/viraptor/reverse-interview)|Questions to ask the company during your interview|27447|-|2024-09-04|
-|157|[Pierian-Data/Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp)|Course Files for Complete Python 3 Bootcamp Course on Udemy|27318|Jupyter Notebook|2024-08-09|
-|158|[eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml)|📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.|27186|-|2024-07-18|
-|159|[cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial)|How to create an OS from scratch|27032|C|2024-07-25|
-|160|[GitbookIO/gitbook](https://github.com/GitbookIO/gitbook)|The open source frontend for GitBook doc sites|27015|TypeScript|2024-09-26|
-|161|[zhiwehu/Python-programming-exercises](https://github.com/zhiwehu/Python-programming-exercises)|100+ Python challenging programming exercises|26667|-|2024-04-07|
-|162|[google-research/tuning_playbook](https://github.com/google-research/tuning_playbook)|A playbook for systematically maximizing the performance of deep learning models.|26576|-|2024-06-18|
-|163|[MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)|This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps ...|26490|Shell|2024-08-19|
-|164|[swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui)|Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.|26371|JavaScript|2024-09-23|
-|165|[cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications)|A curated list of free courses & certifications.|26108|-|2024-08-06|
-|166|[getredash/redash](https://github.com/getredash/redash)|Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.|26028|Python|2024-09-19|
-|167|[dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws)|💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws|25749|Shell|2024-06-12|
-|168|[Asabeneh/30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React)|30 Days of  React challenge is a step by step guide to learn React in 30 days.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw|25447|JavaScript|2024-08-17|
+|148|[facebook/folly](https://github.com/facebook/folly)|An open-source C++ library developed and used at Facebook.|28227|C++|2024-09-27|
+|149|[AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips)|⚡️ A collection of tips to help take your CSS skills pro 🦾|28187|-|2024-06-23|
+|150|[llvm/llvm-project](https://github.com/llvm/llvm-project)|The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.|28169|LLVM|2024-09-27|
+|151|[ZuzooVn/machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)|A complete daily plan for studying to become a machine learning engineer.|28080|-|2024-06-11|
+|152|[microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)|10 Weeks, 20 Lessons, Data Science for All!|27821|Jupyter Notebook|2024-08-27|
+|153|[ageron/handson-ml2](https://github.com/ageron/handson-ml2)|A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.|27770|Jupyter Notebook|2024-06-13|
+|154|[wesbos/JavaScript30](https://github.com/wesbos/JavaScript30)|30 Day Vanilla JS Challenge|27608|HTML|2024-08-09|
+|155|[google/comprehensive-rust](https://github.com/google/comprehensive-rust)|This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.|27600|Rust|2024-09-27|
+|156|[viraptor/reverse-interview](https://github.com/viraptor/reverse-interview)|Questions to ask the company during your interview|27460|-|2024-09-04|
+|157|[Pierian-Data/Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp)|Course Files for Complete Python 3 Bootcamp Course on Udemy|27319|Jupyter Notebook|2024-08-09|
+|158|[eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml)|📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.|27189|-|2024-07-18|
+|159|[cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial)|How to create an OS from scratch|27037|C|2024-07-25|
+|160|[GitbookIO/gitbook](https://github.com/GitbookIO/gitbook)|The open source frontend for GitBook doc sites|27014|TypeScript|2024-09-27|
+|161|[zhiwehu/Python-programming-exercises](https://github.com/zhiwehu/Python-programming-exercises)|100+ Python challenging programming exercises|26672|-|2024-04-07|
+|162|[MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)|This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps ...|26619|Shell|2024-08-19|
+|163|[google-research/tuning_playbook](https://github.com/google-research/tuning_playbook)|A playbook for systematically maximizing the performance of deep learning models.|26585|-|2024-06-18|
+|164|[swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui)|Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.|26374|JavaScript|2024-09-23|
+|165|[cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications)|A curated list of free courses & certifications.|26121|-|2024-08-06|
+|166|[getredash/redash](https://github.com/getredash/redash)|Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.|26031|Python|2024-09-19|
+|167|[dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws)|💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws|25747|Shell|2024-06-12|
+|168|[Asabeneh/30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React)|30 Days of  React challenge is a step by step guide to learn React in 30 days.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw|25457|JavaScript|2024-08-17|
 |169|[mbeaudru/modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)|Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.|25334|-|2024-05-04|
-|170|[haizlin/fe-interview](https://github.com/haizlin/fe-interview)|前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），6000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……|25311|JavaScript|2024-09-25|
-|171|[tmrts/go-patterns](https://github.com/tmrts/go-patterns)|Curated list of Go design patterns, recipes and idioms|25131|Go|2024-05-14|
-|172|[openai/CLIP](https://github.com/openai/CLIP)|CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image|24902|Jupyter Notebook|2024-07-23|
-|173|[viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode)|🎨 A curated list of delightful VS Code packages and resources.|24875|JavaScript|2024-06-21|
-|174|[sdras/awesome-actions](https://github.com/sdras/awesome-actions)|A curated list of awesome actions to use on GitHub|24854|-|2024-09-01|
-|175|[matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift)|A collaborative list of awesome Swift libraries and resources. Feel free to contribute!|24757|Swift|2024-08-19|
-|176|[DataTalksClub/data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)|Free Data Engineering course! |24655|Jupyter Notebook|2024-08-29|
-|177|[awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)|A curated list of amazingly awesome open-source sysadmin resources.|24652|-|2024-08-18|
-|178|[abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)|😎 A curated list of awesome GitHub Profile which updates in real time |24169|-|2024-08-19|
-|179|[goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices)|📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (July 2023)|23973|JavaScript|2024-06-27|
-|180|[keon/algorithms](https://github.com/keon/algorithms)|Minimal examples of data structures and algorithms in Python|23950|Python|2024-07-14|
-|181|[changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial)|📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly   https://changkun.de/modern-cpp/|23911|C++|2024-08-17|
-|182|[sudheerj/javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions)|List of 1000 JavaScript Interview Questions|23735|JavaScript|2024-09-18|
-|183|[ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning)|A curated list of awesome Deep Learning tutorials, projects and communities.|23718|-|2024-04-30|
-|184|[bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook)|Mastering Bitcoin 3rd Edition - Programming the Open Blockchain|23432|AsciiDoc|2024-08-14|
+|170|[haizlin/fe-interview](https://github.com/haizlin/fe-interview)|前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），6000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……|25311|JavaScript|2024-09-26|
+|171|[tmrts/go-patterns](https://github.com/tmrts/go-patterns)|Curated list of Go design patterns, recipes and idioms|25136|Go|2024-05-14|
+|172|[openai/CLIP](https://github.com/openai/CLIP)|CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image|24930|Jupyter Notebook|2024-07-23|
+|173|[viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode)|🎨 A curated list of delightful VS Code packages and resources.|24878|JavaScript|2024-06-21|
+|174|[sdras/awesome-actions](https://github.com/sdras/awesome-actions)|A curated list of awesome actions to use on GitHub|24858|-|2024-09-01|
+|175|[matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift)|A collaborative list of awesome Swift libraries and resources. Feel free to contribute!|24758|Swift|2024-08-19|
+|176|[DataTalksClub/data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)|Free Data Engineering course! |24661|Jupyter Notebook|2024-08-29|
+|177|[awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)|A curated list of amazingly awesome open-source sysadmin resources.|24661|-|2024-08-18|
+|178|[abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)|😎 A curated list of awesome GitHub Profile which updates in real time |24181|-|2024-08-19|
+|179|[goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices)|📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (July 2023)|23975|JavaScript|2024-06-27|
+|180|[keon/algorithms](https://github.com/keon/algorithms)|Minimal examples of data structures and algorithms in Python|23948|Python|2024-07-14|
+|181|[changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial)|📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly   https://changkun.de/modern-cpp/|23913|C++|2024-08-17|
+|182|[sudheerj/javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions)|List of 1000 JavaScript Interview Questions|23746|JavaScript|2024-09-18|
+|183|[ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning)|A curated list of awesome Deep Learning tutorials, projects and communities.|23724|-|2024-04-30|
+|184|[bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook)|Mastering Bitcoin 3rd Edition - Programming the Open Blockchain|23433|AsciiDoc|2024-08-14|
 |185|[javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info)|Modern JavaScript Tutorial |23406|HTML|2024-09-24|
 |186|[MostlyAdequate/mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide)|Mostly adequate guide to FP (in javascript)|23388|JavaScript|2024-09-17|
-|187|[d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en)|Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.|23282|Python|2024-08-18|
-|188|[trekhleb/homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning)|🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained|22969|Jupyter Notebook|2024-05-12|
-|189|[AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics)|Python sample codes for robotics algorithms.|22849|Python|2024-09-24|
-|190|[leereilly/games](https://github.com/leereilly/games)|:video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.|22766|-|2024-04-19|
-|191|[microsoft/api-guidelines](https://github.com/microsoft/api-guidelines)|Microsoft REST API Guidelines|22680|-|2024-09-24|
-|192|[markerikson/react-redux-links](https://github.com/markerikson/react-redux-links)|Curated tutorial and resource links I've collected on React, Redux, ES6, and more|22583|-|2024-07-15|
-|193|[sebastianruder/NLP-progress](https://github.com/sebastianruder/NLP-progress)|Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.|22557|Python|2024-07-28|
-|194|[shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist)|Checklist of the most important security countermeasures when designing, testing, and releasing your API|22378|-|2024-04-16|
-|195|[openai/gpt-2](https://github.com/openai/gpt-2)|Code for the paper "Language Models are Unsupervised Multitask Learners"|22299|Python|2024-08-14|
-|196|[pytorch/examples](https://github.com/pytorch/examples)|A set of examples around pytorch in Vision, Text, Reinforcement Learning, etc.|22266|Python|2024-09-19|
-|197|[TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust)| All Algorithms implemented in Rust |22175|Rust|2024-09-24|
-|198|[luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software)|🐧 A list of awesome Linux softwares |22063|Python|2024-09-16|
-|199|[quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests)|Learn Go with test-driven development|22017|Go|2024-09-17|
-|200|[DesignPatternsPHP/DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP)|Sample code for several design patterns in PHP 8.x|21843|PHP|2024-06-11|
+|187|[d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en)|Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.|23297|Python|2024-08-18|
+|188|[trekhleb/homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning)|🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained|22970|Jupyter Notebook|2024-05-12|
+|189|[AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics)|Python sample codes for robotics algorithms.|22874|Python|2024-09-24|
+|190|[leereilly/games](https://github.com/leereilly/games)|:video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.|22769|-|2024-04-19|
+|191|[microsoft/api-guidelines](https://github.com/microsoft/api-guidelines)|Microsoft REST API Guidelines|22681|-|2024-09-24|
+|192|[markerikson/react-redux-links](https://github.com/markerikson/react-redux-links)|Curated tutorial and resource links I've collected on React, Redux, ES6, and more|22585|-|2024-07-15|
+|193|[sebastianruder/NLP-progress](https://github.com/sebastianruder/NLP-progress)|Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.|22559|Python|2024-07-28|
+|194|[shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist)|Checklist of the most important security countermeasures when designing, testing, and releasing your API|22380|-|2024-04-16|
+|195|[openai/gpt-2](https://github.com/openai/gpt-2)|Code for the paper "Language Models are Unsupervised Multitask Learners"|22303|Python|2024-08-14|
+|196|[pytorch/examples](https://github.com/pytorch/examples)|A set of examples around pytorch in Vision, Text, Reinforcement Learning, etc.|22265|Python|2024-09-19|
+|197|[TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust)| All Algorithms implemented in Rust |22180|Rust|2024-09-24|
+|198|[luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software)|🐧 A list of awesome Linux softwares |22066|Python|2024-09-16|
+|199|[quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests)|Learn Go with test-driven development|22021|Go|2024-09-17|
+|200|[DesignPatternsPHP/DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP)|Sample code for several design patterns in PHP 8.x|21845|PHP|2024-06-11|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

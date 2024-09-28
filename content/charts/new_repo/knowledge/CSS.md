@@ -1,27 +1,27 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > CSS
-<sub>Updated: 2024-09-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-09-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[datawhalechina/hugging-multi-agent](https://github.com/datawhalechina/hugging-multi-agent)|A tutorial based on MetaGPT to quickly help you understand the concept of agent and muti-agent and get started with coding development. 基于MetaGPT的多智能体入门与开发教程|1332|2024-05-10|2023-12-11|
-|2|[Pintree-io/pintree](https://github.com/Pintree-io/pintree)|An intuitive tool for managing and exporting your local bookmarks into a shareable website. |1161|2024-08-14|2024-06-16|
+|2|[Pintree-io/pintree](https://github.com/Pintree-io/pintree)|An intuitive tool for managing and exporting your local bookmarks into a shareable website. |1167|2024-08-14|2024-06-16|
 |3|[CyanVoxel/Obsidian-Notebook-Themes](https://github.com/CyanVoxel/Obsidian-Notebook-Themes)|A Series of Notebook Theme CSS Snippets for Obsidian.|284|2024-04-13|2024-02-01|
-|4|[frontend-joe/css-reels](https://github.com/frontend-joe/css-reels)|Collection of CSS components built specifically for my Instagram page|171|2024-09-19|2024-06-14|
-|5|[sitandr/typst-examples-book](https://github.com/sitandr/typst-examples-book)|Book of educational examples for Typst |165|2024-09-18|2023-11-03|
+|4|[frontend-joe/css-reels](https://github.com/frontend-joe/css-reels)|Collection of CSS components built specifically for my Instagram page|175|2024-09-26|2024-06-14|
+|5|[sitandr/typst-examples-book](https://github.com/sitandr/typst-examples-book)|Book of educational examples for Typst |166|2024-09-18|2023-11-03|
 |6|[genai-handbook/genai-handbook.github.io](https://github.com/genai-handbook/genai-handbook.github.io)|A roadmap for "generative AI" learning resources|145|2024-09-23|2024-05-21|
 |7|[zahariev-webbersof/python-fundamentals-05-2024](https://github.com/zahariev-webbersof/python-fundamentals-05-2024)|Programming Fundamentals with Python - Software University course|109|2024-08-13|2024-05-14|
 |8|[piyushg-07/blogzen-OpenSource](https://github.com/piyushg-07/blogzen-OpenSource)|A collection of resources categorised by tech domains, languages, expertise and much more. Blogzen gives you a quick access to all the resources that you could need at a single place, with a click!|102|2024-08-12|2023-11-26|
-|9|[leptos-rs/book](https://github.com/leptos-rs/book)|The home for the Leptos book, which can be found deployed at https://book.leptos.dev|78|2024-09-17|2023-11-24|
-|10|[microsoft/community-content](https://github.com/microsoft/community-content)|A curated collection of presentations-in-a-box created by Microsoft for speakers to use at user groups and meetups|77|2024-09-20|2024-03-22|
+|9|[microsoft/community-content](https://github.com/microsoft/community-content)|A curated collection of presentations-in-a-box created by Microsoft for speakers to use at user groups and meetups|79|2024-09-26|2024-03-22|
+|10|[leptos-rs/book](https://github.com/leptos-rs/book)|The home for the Leptos book, which can be found deployed at https://book.leptos.dev|78|2024-09-17|2023-11-24|
 |11|[frontend-joe/css-components](https://github.com/frontend-joe/css-components)|Collection of components built with just HTML and CSS.|76|2024-09-12|2024-02-19|
 |12|[CSEdgeOfficial/learn.csedge.courses](https://github.com/CSEdgeOfficial/learn.csedge.courses)|This is a blog for the CSEdge which consists simple articles on different tech things how to do? and what to do?|67|2024-07-23|2024-05-01|
-|13|[NigelOToole/share-url](https://github.com/NigelOToole/share-url)|Share a URL with Web Share, copy to clipboard or to social media|62|2024-06-07|2024-02-28|
-|14|[orcasecurity-research/AIGoat](https://github.com/orcasecurity-research/AIGoat)|AIGoat: A deliberately Vulnerable AI Infrastructure. Learn AI security through solving our challenges.|61|2024-09-09|2024-07-23|
+|13|[orcasecurity-research/AIGoat](https://github.com/orcasecurity-research/AIGoat)|AIGoat: A deliberately Vulnerable AI Infrastructure. Learn AI security through solving our challenges.|65|2024-09-09|2024-07-23|
+|14|[NigelOToole/share-url](https://github.com/NigelOToole/share-url)|Share a URL with Web Share, copy to clipboard or to social media|62|2024-06-07|2024-02-28|
 |15|[geek-cookbook/premix](https://github.com/geek-cookbook/premix)|The "premix" for Funky Penguin's Geek Cookbook|60|2024-08-07|2024-08-07|
-|16|[oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)|DevProfiles is a platform for developers to easily share their profiles, spotlight your skills, and connect with fellow developers in the community.|53|2024-06-25|2023-10-03|
-|17|[diffbot/rss-anything](https://github.com/diffbot/rss-anything)|Transform any old website with a list of links into an RSS Feed|52|2024-09-23|2023-10-27|
+|16|[diffbot/rss-anything](https://github.com/diffbot/rss-anything)|Transform any old website with a list of links into an RSS Feed|54|2024-09-23|2023-10-27|
+|17|[oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)|DevProfiles is a platform for developers to easily share their profiles, spotlight your skills, and connect with fellow developers in the community.|53|2024-06-25|2023-10-03|
 |18|[distantmagic/llmops-handbook](https://github.com/distantmagic/llmops-handbook)|Practical and advanced guide to LLMOps. It provides a solid understanding of large language models’ general concepts, deployment techniques, and software engineering practices.  (work in progress)|48|2024-08-16|2024-06-28|
 |19|[frontend-joe/css-loader-reels](https://github.com/frontend-joe/css-loader-reels)|Collection of CSS loaders|47|2024-06-09|2024-06-04|
 |20|[eazybytes/spring-security](https://github.com/eazybytes/spring-security)|Spring Security Zero to Master along with JWT, OAUTH2 - Code Examples|46|2024-07-28|2024-04-22|
@@ -44,12 +44,12 @@
 |37|[mehdiali-mk/JS-Learning](https://github.com/mehdiali-mk/JS-Learning)|This repository contain all the stuffs and programs that I use to learn JavaScript from begineers to advance level.|16|2024-05-07|2024-01-16|
 |38|[tajulafreen/50Projects-HTML-CSS-JavaScript](https://github.com/tajulafreen/50Projects-HTML-CSS-JavaScript)|This repo is collection of 50 exciting and diverse projects that showcase the power of HTML, CSS, and JavaScript in creating captivating animations and transitions. These projects are designed to demo ...|16|2024-07-12|2023-12-05|
 |39|[godot-rust/book](https://github.com/godot-rust/book)|Documentation and tutorials for gdext, the Rust bindings for Godot 4|16|2024-08-07|2023-10-09|
-|40|[WebDesignMastery/RentalX_20-07-24](https://github.com/WebDesignMastery/RentalX_20-07-24)|Welcome to our comprehensive tutorial on building a responsive car rental website using HTML, CSS, and JavaScript!|15|2024-07-20|2024-07-20|
-|41|[ChandruMuthuswamy/Add-to-cart-page](https://github.com/ChandruMuthuswamy/Add-to-cart-page)|Here is the Add to cart page for E-commerce or food booking website using html,css, javascript|15|2024-07-15|2024-05-25|
-|42|[withaarzoo/100-Days-of-Code](https://github.com/withaarzoo/100-Days-of-Code)|Welcome to my 100 Days of Code GitHub repository! Here, you'll find all the projects and code snippets I've worked on during my 100-day coding journey.|15|2024-06-13|2024-04-08|
-|43|[Voxels-X/voxels-extension](https://github.com/Voxels-X/voxels-extension)|Chrome extension to bookmark land and add timers to your resources to monitor farms in Pixels. Premium features include adding extra bookmarks and auto detection to start timers.|15|2024-08-21|2024-03-01|
-|44|[ChisomJude/Hands-on-Devops-Project](https://github.com/ChisomJude/Hands-on-Devops-Project)|This is a beginner friendly project Devops, Learn by doing |15|2024-06-10|2024-01-09|
-|45|[Elevict/Elevict-Snippets](https://github.com/Elevict/Elevict-Snippets)|A series of useful obsidian CSS snippets.|14|2024-09-26|2024-08-03|
+|40|[Elevict/Elevict-Snippets](https://github.com/Elevict/Elevict-Snippets)|A series of useful obsidian CSS snippets.|15|2024-09-26|2024-08-03|
+|41|[WebDesignMastery/RentalX_20-07-24](https://github.com/WebDesignMastery/RentalX_20-07-24)|Welcome to our comprehensive tutorial on building a responsive car rental website using HTML, CSS, and JavaScript!|15|2024-07-20|2024-07-20|
+|42|[ChandruMuthuswamy/Add-to-cart-page](https://github.com/ChandruMuthuswamy/Add-to-cart-page)|Here is the Add to cart page for E-commerce or food booking website using html,css, javascript|15|2024-07-15|2024-05-25|
+|43|[withaarzoo/100-Days-of-Code](https://github.com/withaarzoo/100-Days-of-Code)|Welcome to my 100 Days of Code GitHub repository! Here, you'll find all the projects and code snippets I've worked on during my 100-day coding journey.|15|2024-06-13|2024-04-08|
+|44|[Voxels-X/voxels-extension](https://github.com/Voxels-X/voxels-extension)|Chrome extension to bookmark land and add timers to your resources to monitor farms in Pixels. Premium features include adding extra bookmarks and auto detection to start timers.|15|2024-08-21|2024-03-01|
+|45|[ChisomJude/Hands-on-Devops-Project](https://github.com/ChisomJude/Hands-on-Devops-Project)|This is a beginner friendly project Devops, Learn by doing |15|2024-06-10|2024-01-09|
 |46|[TOETOE55/async-rt-book](https://github.com/TOETOE55/async-rt-book)|Rust simple async runtime constructions book.|14|2024-04-14|2024-04-12|
 |47|[SartHak-0-Sach/Three-column-preview-card_frontend](https://github.com/SartHak-0-Sach/Three-column-preview-card_frontend)|Explore the diverse options for cab booking with the Three Column Preview Card component. Choose between sedan, SUVs, or luxury vehicles and view their details in an interactive and responsive card la ...|14|2024-06-03|2024-01-11|
 |48|[SartHak-0-Sach/Space-tourism-website-frontend](https://github.com/SartHak-0-Sach/Space-tourism-website-frontend)|Embark on an exciting journey into the cosmos with the Space Tourism Website. Explore the wonders of space travel and book your next adventure among the stars.✨🚀|14|2024-06-03|2024-01-10|
@@ -68,7 +68,7 @@
 |61|[codeaashu/BookMyKids-Internship-Task](https://github.com/codeaashu/BookMyKids-Internship-Task)|BookMyKids|11|2024-08-09|2024-08-01|
 |62|[SartHak-0-Sach/Intro-component-signup-form_frontend_project](https://github.com/SartHak-0-Sach/Intro-component-signup-form_frontend_project)|Enroll in our coding course with ease using the Intro Component Signup Form! This signup component allows users to view the optimal layout for the site depending on their device's screen size, receive ...|11|2024-05-30|2024-01-25|
 |63|[kinode-dao/kinode-book](https://github.com/kinode-dao/kinode-book)|"Rust Book"-style introduction and documentation for Kinode OS|11|2024-07-10|2023-10-16|
-|64|[narze/emkay](https://github.com/narze/emkay)|Share your member card without hassle|11|2024-09-26|2023-10-16|
+|64|[narze/emkay](https://github.com/narze/emkay)|Share your member card without hassle|11|2024-09-27|2023-10-16|
 |65|[tapascript/js-projects](https://github.com/tapascript/js-projects)|A collection of JavaScript projects|10|2024-06-22|2024-04-15|
 |66|[IgnaceMaes/qunit-theme-ember](https://github.com/IgnaceMaes/qunit-theme-ember)|A theme for the QUnit web UI test runner based on the Ember styleguide.|10|2024-08-20|2023-12-04|
 |67|[ChandruMuthuswamy/Food-pre-booking-project](https://github.com/ChandruMuthuswamy/Food-pre-booking-project)|This project is all about reducing waiting time in the restaurants by pre-booking food through our website and save our time as much as possible.|9|2024-07-14|2024-07-09|
@@ -95,11 +95,12 @@
 |88|[samarjit-sahoo/My-Site](https://github.com/samarjit-sahoo/My-Site)|Welcome to my Personal Portfolio GitHub repository! Here, you'll find a curated collection of my journey, projects, and skills in web development and design. From responsive websites to creative desig ...|7|2024-07-27|2024-05-19|
 |89|[WebDesignMastery/E-Learning_11-05-24](https://github.com/WebDesignMastery/E-Learning_11-05-24)|Learn how to create a stunning and user-friendly e-learning landing page from scratch using HTML, CSS, and JavaScript!|7|2024-05-10|2024-05-10|
 |90|[uclahs/surface](https://github.com/uclahs/surface)|Storybook Drupal Theme|7|2024-09-26|2024-02-28|
-|91|[Faiqa-batool/Tailwind-CSS-Tutorial](https://github.com/Faiqa-batool/Tailwind-CSS-Tutorial)|A step by step complete guide on how to set up Tailwind css and create an example Tailwind css project|6|2024-06-30|2024-06-30|
-|92|[CSS-Unicorn/css-animations](https://github.com/CSS-Unicorn/css-animations)|Code Examples from the book "CSS Animations - From Beginner to Expert in Animations" 🦄|6|2024-06-05|2024-06-05|
-|93|[imharshag/AWS-EC2-Web](https://github.com/imharshag/AWS-EC2-Web)|This guide provides a comprehensive step-by-step process for launching a server and hosting a website using Apache HTTP Server on an Amazon EC2 instance. We will use MobaXterm for remote server access ...|6|2024-05-19|2024-05-15|
-|94|[nguyenkhanhquy/jacobin-store-spring-boot](https://github.com/nguyenkhanhquy/jacobin-store-spring-boot)|Final term project of the "Object Oriented Software Engineering" course - Jacobin Store|6|2024-08-04|2024-04-16|
-|95|[Riddim-GLiTCH/Discord-CSS-Snippets](https://github.com/Riddim-GLiTCH/Discord-CSS-Snippets)|Collection of my personal CSS snippets for Discord.|6|2024-07-08|2023-12-29|
+|91|[bonjour-npy/typora-npy-notebook-theme](https://github.com/bonjour-npy/typora-npy-notebook-theme)|My personal Typora theme based on official Gitbook Theme|6|2024-07-16|2024-07-06|
+|92|[Faiqa-batool/Tailwind-CSS-Tutorial](https://github.com/Faiqa-batool/Tailwind-CSS-Tutorial)|A step by step complete guide on how to set up Tailwind css and create an example Tailwind css project|6|2024-06-30|2024-06-30|
+|93|[CSS-Unicorn/css-animations](https://github.com/CSS-Unicorn/css-animations)|Code Examples from the book "CSS Animations - From Beginner to Expert in Animations" 🦄|6|2024-06-05|2024-06-05|
+|94|[imharshag/AWS-EC2-Web](https://github.com/imharshag/AWS-EC2-Web)|This guide provides a comprehensive step-by-step process for launching a server and hosting a website using Apache HTTP Server on an Amazon EC2 instance. We will use MobaXterm for remote server access ...|6|2024-05-19|2024-05-15|
+|95|[nguyenkhanhquy/jacobin-store-spring-boot](https://github.com/nguyenkhanhquy/jacobin-store-spring-boot)|Final term project of the "Object Oriented Software Engineering" course - Jacobin Store|6|2024-08-04|2024-04-16|
+|96|[Riddim-GLiTCH/Discord-CSS-Snippets](https://github.com/Riddim-GLiTCH/Discord-CSS-Snippets)|Collection of my personal CSS snippets for Discord.|6|2024-07-08|2023-12-29|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

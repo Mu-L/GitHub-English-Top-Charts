@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Assembly
-<sub>Updated: 2024-09-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-09-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -14,7 +14,7 @@
 |7|[nanochess/bootLogo](https://github.com/nanochess/bootLogo)|Logo language in 508 bytes (x86 boot sector)|171|2024-04-12|2024-03-19|
 |8|[banmrgamefun40/Catizen-Auto-bot-autofarm](https://github.com/banmrgamefun40/Catizen-Auto-bot-autofarm)|We will help you automate all processes in the catizen game @catizenbot  auto farm Catzien |168|2024-05-27|2024-05-27|
 |9|[grimdoomer/Halo-2-HD](https://github.com/grimdoomer/Halo-2-HD)|HD patch for Halo 2 on the original Xbox|156|2024-04-08|2024-03-14|
-|10|[tfdsoft/famidash](https://github.com/tfdsoft/famidash)|Geometry Dash for the Nintendo Entertainment System|151|2024-09-26|2024-04-03|
+|10|[tfdsoft/famidash](https://github.com/tfdsoft/famidash)|Geometry Dash for the Nintendo Entertainment System|151|2024-09-27|2024-04-03|
 |11|[luamfb/intro_x86-64](https://github.com/luamfb/intro_x86-64)|Introduction to x86-64 assembly|140|2024-05-23|2023-09-30|
 |12|[azya52/BrickEmuPy](https://github.com/azya52/BrickEmuPy)|Brick Game (aka Tetris) emulator in Python with PyQt6|111|2024-07-28|2023-11-12|
 |13|[bakekenytownsend8/Catizen-auto-bot](https://github.com/bakekenytownsend8/Catizen-auto-bot)|Catizen auto bot free download / We will help you automate all processes in the catizen game / catizen tool / catizen clicker / catizen miner / catizen soft / catizen software / hack catizen / tools f ...|109|2024-06-03|2024-06-03|
@@ -28,7 +28,7 @@
 |21|[fashbestplays98/Citizens_Conflict_free_token](https://github.com/fashbestplays98/Citizens_Conflict_free_token)|-|86|2024-05-17|2024-05-17|
 |22|[broom19hogcher/Airdrop_free](https://github.com/broom19hogcher/Airdrop_free)|-|86|2024-05-10|2024-05-10|
 |23|[nicsure/TD-H3-Engineering](https://github.com/nicsure/TD-H3-Engineering)|Experimentation with the TIDRADIO TD-H3|84|2024-08-30|2024-05-30|
-|24|[cRz-Shadows/Pokemon_Yellow_Legacy](https://github.com/cRz-Shadows/Pokemon_Yellow_Legacy)|This is a Pokémon Rom Hack made by TheSmithPlays with the intended purpose of fixing Pokémon Yellow into a more polished experience while staying true to the vision of Generation 1's Yellow.|78|2024-08-14|2023-12-08|
+|24|[cRz-Shadows/Pokemon_Yellow_Legacy](https://github.com/cRz-Shadows/Pokemon_Yellow_Legacy)|This is a Pokémon Rom Hack made by TheSmithPlays with the intended purpose of fixing Pokémon Yellow into a more polished experience while staying true to the vision of Generation 1's Yellow.|79|2024-08-14|2023-12-08|
 |25|[MystoganSync/AutoFarmCatizen](https://github.com/MystoganSync/AutoFarmCatizen)|A useful tool for automation of some mandatory in-game actions @catizenbot,  @Catizen_Mntbot|76|2024-05-30|2024-03-27|
 |26|[cRz-Shadows/Pokemon_Crystal_Legacy](https://github.com/cRz-Shadows/Pokemon_Crystal_Legacy)|This is a Pokémon Rom Hack made by TheSmithPlays with the intended purpose of fixing Pokémon Crystal into a more polished experience while staying true to the vision of Generation 2.|74|2024-08-30|2023-10-06|
 |27|[tgrysztar/fasm2](https://github.com/tgrysztar/fasm2)|flat assembler 2|71|2024-09-21|2024-03-12|
@@ -37,7 +37,7 @@
 |30|[knockoutdicaprio2/Cube-auto-bot-farm](https://github.com/knockoutdicaprio2/Cube-auto-bot-farm)|Bot that mines coins in cubes coin , @cubesonthewater_bot|67|2024-05-18|2024-05-17|
 |31|[InkboxSoftware/smallEXE](https://github.com/InkboxSoftware/smallEXE)|-|64|2024-06-28|2024-06-27|
 |32|[skypipeswitok793/Bull-Run-auto-farm-bot](https://github.com/skypipeswitok793/Bull-Run-auto-farm-bot)|Bot that mines coins in Bull Run - BullApp_bot|64|2024-05-18|2024-05-18|
-|33|[ruke1ire/RTF](https://github.com/ruke1ire/RTF)|A State-Space Model with Rational Transfer Function Representation.|62|2024-05-17|2024-03-01|
+|33|[ruke1ire/RTF](https://github.com/ruke1ire/RTF)|A State-Space Model with Rational Transfer Function Representation.|63|2024-05-17|2024-03-01|
 |34|[ki3v/xtramtest](https://github.com/ki3v/xtramtest)|RAM test ROM for IBM PC/XT and Clones|57|2024-09-03|2024-05-21|
 |35|[kil65frostball/axie-infinity-bot](https://github.com/kil65frostball/axie-infinity-bot)|axie-infinity axieinfinity axie-infinity-bot axie-infinity-farming-bot axieinfinity-auto-bot axie-infinity-script axie-infinity-bot-farm|56|2024-06-03|2024-06-03|
 |36|[neozeed/dos400](https://github.com/neozeed/dos400)|Microsoft DOS 4.00|54|2024-04-30|2024-04-26|
@@ -52,7 +52,7 @@
 |45|[bruddog/Tecmo_Super_Bowl_NES_Disassembly](https://github.com/bruddog/Tecmo_Super_Bowl_NES_Disassembly)|A disassembly of the game Tecmo Super Bowl into rebuildable 6502 source code|32|2024-04-20|2024-04-19|
 |46|[Print3M/shellcodes](https://github.com/Print3M/shellcodes)|My shellcodes (or shellcodish-things) written for educational purpose in NASM assembly.|30|2024-07-23|2024-07-23|
 |47|[boot41worth/MemeFi-auto-bot](https://github.com/boot41worth/MemeFi-auto-bot)|MemeFi bot auto farm - @memefi_coin_bot, https://t.me/memeficlub memefi auto bot free download / We will help you automate all processes in the memefi game / memefi tool / memefi clicker / memefi mine ...|29|2024-06-06|2024-06-06|
-|48|[SvarDOS/edrdos](https://github.com/SvarDOS/edrdos)|Enhanced DR-DOS kernel and command interpreter ported to JWasm and OpenWatcom C|28|2024-09-21|2023-11-27|
+|48|[SvarDOS/edrdos](https://github.com/SvarDOS/edrdos)|Enhanced DR-DOS kernel and command interpreter ported to JWasm and OpenWatcom C|29|2024-09-21|2023-11-27|
 |49|[nstarke/bootfuzz](https://github.com/nstarke/bootfuzz)|A MBR Fuzzer|27|2024-04-03|2024-03-23|
 |50|[ArTicZera/AcidOS](https://github.com/ArTicZera/AcidOS)|Small Real Mode OS made in Assembly|27|2024-04-25|2024-03-09|
 |51|[krakenlake/vmon](https://github.com/krakenlake/vmon)|RISC-V machine code monitor|26|2024-09-03|2023-12-14|
@@ -97,9 +97,9 @@
 |90|[achilles48/PlayDoge-AutoFarm-and-Bot-Setup](https://github.com/achilles48/PlayDoge-AutoFarm-and-Bot-Setup)|PlayDoge-Clicking PlayDoge-TokenCollection PlayDoge-EnergyManagement PlayDoge-MultitapAutomation PlayDoge-SpeedBooster PlayDoge-AutoClicker PlayDoge-EnergyRegen PlayDoge-CoinCollection PlayDoge-Clicke ...|14|2024-06-06|2024-06-06|
 |91|[indyjo/voxel-st](https://github.com/indyjo/voxel-st)|An experimental VoxelSpace engine for the Atari ST|14|2024-09-23|2024-04-28|
 |92|[LLONSIT/Wave-Race-64](https://github.com/LLONSIT/Wave-Race-64)|A work in progress decompilation of Wave Race 64|14|2024-07-03|2024-01-28|
-|93|[gwEm303/maxYMiser_replay](https://github.com/gwEm303/maxYMiser_replay)|maxYMiser replay routine|13|2024-08-04|2024-07-15|
-|94|[djh0ffman/TinyTro](https://github.com/djh0ffman/TinyTro)|The Twitch Elite Tiny Cracktro|13|2024-05-23|2023-11-12|
-|95|[safin-m/zerOS](https://github.com/safin-m/zerOS)|Minimal operating system written in Rust|12|2024-09-26|2024-09-23|
+|93|[safin-m/zerOS](https://github.com/safin-m/zerOS)|Minimal operating system written in Rust|13|2024-09-26|2024-09-23|
+|94|[gwEm303/maxYMiser_replay](https://github.com/gwEm303/maxYMiser_replay)|maxYMiser replay routine|13|2024-08-04|2024-07-15|
+|95|[djh0ffman/TinyTro](https://github.com/djh0ffman/TinyTro)|The Twitch Elite Tiny Cracktro|13|2024-05-23|2023-11-12|
 |96|[devon-artmeier/sonic-cd-disassembly](https://github.com/devon-artmeier/sonic-cd-disassembly)|A disassembly of Sonic CD (1993) for the Sega CD|12|2024-09-26|2024-09-21|
 |97|[griffinbaker12/nand2tetris](https://github.com/griffinbaker12/nand2tetris)|-|12|2024-08-10|2024-08-02|
 |98|[davepl/MACRO-11](https://github.com/davepl/MACRO-11)|Random stuff in MACRO-11|12|2024-08-07|2024-07-12|
@@ -126,21 +126,21 @@
 |119|[matthiaskramm/soul_on_fire](https://github.com/matthiaskramm/soul_on_fire)|Source code for "Soul on Fire", winning 4k entry at X2024.|10|2024-05-24|2024-05-24|
 |120|[scalable-analyses/sme](https://github.com/scalable-analyses/sme)|-|10|2024-09-26|2024-05-18|
 |121|[city41/kof94te](https://github.com/city41/kof94te)|King of Fighters 94: Team Edit Edition|10|2024-08-20|2024-03-10|
-|122|[Vishwajeet-Londhe/SPPU-SEM4-Computer-Engineering-Codes-2019-Pattern](https://github.com/Vishwajeet-Londhe/SPPU-SEM4-Computer-Engineering-Codes-2019-Pattern)|-|10|2024-04-02|2024-01-28|
-|123|[ErrorNoInternet/asmfetch](https://github.com/ErrorNoInternet/asmfetch)|A fetch tool written in x86-64 assembly for Linux|9|2024-09-20|2024-08-20|
-|124|[devon-artmeier/incomplete-chaotix-disassembly](https://github.com/devon-artmeier/incomplete-chaotix-disassembly)|An incomplete, but buildable disassembly of Chaotix (1995) for the Sega 32X|9|2024-08-07|2024-08-05|
-|125|[LNSSPsd/arm64-mcpelauncher-server](https://github.com/LNSSPsd/arm64-mcpelauncher-server)|Minecraft Bedrock Edition BDS-liked server for aarch64 devices like raspi|9|2024-08-04|2024-08-04|
-|126|[joncampbell123/windows_sdk_collection](https://github.com/joncampbell123/windows_sdk_collection)|-|9|2024-07-28|2024-07-27|
-|127|[luyaohan1001/YesRTOS](https://github.com/luyaohan1001/YesRTOS)|Build an RTOS from scratch, yes!|9|2024-07-21|2024-06-18|
-|128|[skiselev/z80-tests](https://github.com/skiselev/z80-tests)|Z80 CPU Testing Software|9|2024-05-17|2024-05-01|
-|129|[ytmytm/1541-RAMBOardII](https://github.com/ytmytm/1541-RAMBOardII)|RAM/ROM expansion for 1541-II that supports DolphinDOS 2 and patched JiffyDOS/SpeedDOS/CBM DOS to cache whole tracks in extra RAM|9|2024-05-08|2024-04-21|
-|130|[Sha0den/poketcg_v2](https://github.com/Sha0den/poketcg_v2)|Pokemon Trading Card Game for the Game Boy Color with many simple improvements. Look at CHANGELOG.md for an overview of the changes. |9|2024-09-15|2024-04-15|
-|131|[nstarke/instrfuzz](https://github.com/nstarke/instrfuzz)|A CPU Instruction Fuzzer for QEMU x86|9|2024-04-08|2024-03-29|
-|132|[xrarch/mintia2](https://github.com/xrarch/mintia2)|-|9|2024-09-25|2024-02-18|
-|133|[b3rendsh/msxdos2s](https://github.com/b3rendsh/msxdos2s)|MSXDOS 2 smaller 32K rom and updated BEER IDE driver|9|2024-08-31|2024-01-23|
-|134|[marcrobledo/game-boy-batteryless-patcher](https://github.com/marcrobledo/game-boy-batteryless-patcher)|An RGBDS project that eases creation of battery-less patches for bootleg Game Boy cartridges.|9|2024-09-09|2024-01-21|
-|135|[Dhebug/Encounter](https://github.com/Dhebug/Encounter)|An upgraded version of the 1983 Encounter game from Severn Software|9|2024-09-26|2024-01-02|
-|136|[NirvaCx/RadIceCream](https://github.com/NirvaCx/RadIceCream)|RISC-V Assembly project|9|2024-07-02|2023-11-23|
+|122|[xrarch/mintia2](https://github.com/xrarch/mintia2)|-|10|2024-09-25|2024-02-18|
+|123|[Vishwajeet-Londhe/SPPU-SEM4-Computer-Engineering-Codes-2019-Pattern](https://github.com/Vishwajeet-Londhe/SPPU-SEM4-Computer-Engineering-Codes-2019-Pattern)|-|10|2024-04-02|2024-01-28|
+|124|[NirvaCx/RadIceCream](https://github.com/NirvaCx/RadIceCream)|RISC-V Assembly project|10|2024-07-02|2023-11-23|
+|125|[ErrorNoInternet/asmfetch](https://github.com/ErrorNoInternet/asmfetch)|A fetch tool written in x86-64 assembly for Linux|9|2024-09-20|2024-08-20|
+|126|[devon-artmeier/incomplete-chaotix-disassembly](https://github.com/devon-artmeier/incomplete-chaotix-disassembly)|An incomplete, but buildable disassembly of Chaotix (1995) for the Sega 32X|9|2024-08-07|2024-08-05|
+|127|[LNSSPsd/arm64-mcpelauncher-server](https://github.com/LNSSPsd/arm64-mcpelauncher-server)|Minecraft Bedrock Edition BDS-liked server for aarch64 devices like raspi|9|2024-08-04|2024-08-04|
+|128|[joncampbell123/windows_sdk_collection](https://github.com/joncampbell123/windows_sdk_collection)|-|9|2024-07-28|2024-07-27|
+|129|[luyaohan1001/YesRTOS](https://github.com/luyaohan1001/YesRTOS)|Build an RTOS from scratch, yes!|9|2024-07-21|2024-06-18|
+|130|[skiselev/z80-tests](https://github.com/skiselev/z80-tests)|Z80 CPU Testing Software|9|2024-05-17|2024-05-01|
+|131|[ytmytm/1541-RAMBOardII](https://github.com/ytmytm/1541-RAMBOardII)|RAM/ROM expansion for 1541-II that supports DolphinDOS 2 and patched JiffyDOS/SpeedDOS/CBM DOS to cache whole tracks in extra RAM|9|2024-05-08|2024-04-21|
+|132|[Sha0den/poketcg_v2](https://github.com/Sha0den/poketcg_v2)|Pokemon Trading Card Game for the Game Boy Color with many simple improvements. Look at CHANGELOG.md for an overview of the changes. |9|2024-09-15|2024-04-15|
+|133|[nstarke/instrfuzz](https://github.com/nstarke/instrfuzz)|A CPU Instruction Fuzzer for QEMU x86|9|2024-04-08|2024-03-29|
+|134|[b3rendsh/msxdos2s](https://github.com/b3rendsh/msxdos2s)|MSXDOS 2 smaller 32K rom and updated BEER IDE driver|9|2024-08-31|2024-01-23|
+|135|[marcrobledo/game-boy-batteryless-patcher](https://github.com/marcrobledo/game-boy-batteryless-patcher)|An RGBDS project that eases creation of battery-less patches for bootleg Game Boy cartridges.|9|2024-09-09|2024-01-21|
+|136|[Dhebug/Encounter](https://github.com/Dhebug/Encounter)|An upgraded version of the 1983 Encounter game from Severn Software|9|2024-09-26|2024-01-02|
 |137|[Mr-1504/Assembly](https://github.com/Mr-1504/Assembly)|-|9|2024-08-09|2023-11-05|
 |138|[lethal-guitar/Duke1Decomp](https://github.com/lethal-guitar/Duke1Decomp)|Snippets of decompiled/reconstructed Duke Nukem 1 source code|9|2024-06-25|2023-11-03|
 |139|[markisha64/ddw3](https://github.com/markisha64/ddw3)|Digimon world 3/2003 decompilation|9|2024-08-07|2023-10-08|
@@ -156,7 +156,7 @@
 |149|[Halston-R-2003/PulsarOS](https://github.com/Halston-R-2003/PulsarOS)|The Pulsar Operating System|8|2024-07-19|2024-05-09|
 |150|[SMGCommunity/SMG2-Decomp](https://github.com/SMGCommunity/SMG2-Decomp)|A decompilation of Super Mario Galaxy 2.|8|2024-04-21|2024-04-15|
 |151|[murymi/xerpent](https://github.com/murymi/xerpent)|snake game |8|2024-08-22|2024-03-21|
-|152|[pq-code-package/mlkem-c-aarch64](https://github.com/pq-code-package/mlkem-c-aarch64)|ML-KEM implementation optimized for aarch64|8|2024-09-26|2024-03-18|
+|152|[pq-code-package/mlkem-c-aarch64](https://github.com/pq-code-package/mlkem-c-aarch64)|ML-KEM implementation optimized for aarch64|8|2024-09-27|2024-03-18|
 |153|[scash-project/cpuminer-scash](https://github.com/scash-project/cpuminer-scash)|RandomX CPU miner for Scash|8|2024-05-12|2024-02-17|
 |154|[palazzol/CyberamicControlCenter](https://github.com/palazzol/CyberamicControlCenter)|Repo for docs and info about the Cyberamic Control Center|8|2024-08-30|2024-02-17|
 |155|[ADM228/ATtiny85APU](https://github.com/ADM228/ATtiny85APU)|A soundchip made out of an ATtiny25/45/85|8|2024-07-18|2024-01-21|
@@ -172,7 +172,7 @@
 |165|[oerg866/TRW-BiosMods](https://github.com/oerg866/TRW-BiosMods)|Retro motherboard BIOS modifications released on TheRetroWeb|7|2024-05-10|2024-04-10|
 |166|[notmirmo/MD5HasherGB](https://github.com/notmirmo/MD5HasherGB)|A MD5 hasher that run on gameboy|7|2024-03-29|2024-03-29|
 |167|[tarik-ibrahimovic/eduBOS5](https://github.com/tarik-ibrahimovic/eduBOS5)|A compact, configurable RISC-V core|7|2024-08-01|2024-03-24|
-|168|[COMP122/comp122-f24](https://github.com/COMP122/comp122-f24)|-|7|2024-09-25|2024-03-18|
+|168|[COMP122/comp122-f24](https://github.com/COMP122/comp122-f24)|-|7|2024-09-26|2024-03-18|
 |169|[mytechnotalent/STM32F4_Persistent_Flash_Driver](https://github.com/mytechnotalent/STM32F4_Persistent_Flash_Driver)|An STM32F4, persistent flash driver written entirely in Assembler.|7|2024-03-31|2024-03-08|
 |170|[Marimari2342/Organizacion-de-Computadoras](https://github.com/Marimari2342/Organizacion-de-Computadoras)|Ejercicios de Organización de Computadoras y resumen del final.|7|2024-04-09|2024-02-17|
 |171|[0x1do/FlappyBird](https://github.com/0x1do/FlappyBird)|-|7|2024-04-17|2024-02-13|
@@ -187,24 +187,24 @@
 |180|[aleena92510/wastelang](https://github.com/aleena92510/wastelang)|-|6|2024-08-30|2024-08-15|
 |181|[Pecusx/dino-game](https://github.com/Pecusx/dino-game)|-|6|2024-08-30|2024-08-09|
 |182|[zorchenhimer/nes-game-of-life](https://github.com/zorchenhimer/nes-game-of-life)|Conway's Game of Life on the NES|6|2024-07-28|2024-07-20|
-|183|[dzonerzy/gopcode](https://github.com/dzonerzy/gopcode)|-|6|2024-07-19|2024-07-14|
-|184|[dotdot0/os_c](https://github.com/dotdot0/os_c)|Creating a 32 bit x86 hobby Operating System |6|2024-07-03|2024-06-30|
-|185|[everything8215/ff5](https://github.com/everything8215/ff5)|Disassembly and ROM info for Final Fantasy V|6|2024-09-14|2024-06-28|
-|186|[JJMugenyi/AkiraOS](https://github.com/JJMugenyi/AkiraOS)|Official Repo for AkiraOS.|6|2024-06-16|2024-06-15|
-|187|[diku-compSys/compSys-e2024](https://github.com/diku-compSys/compSys-e2024)|-|6|2024-09-02|2024-06-12|
-|188|[joeywang4/Flexo](https://github.com/joeywang4/Flexo)|A compiler for microarchitectural weird machines|6|2024-08-10|2024-05-23|
-|189|[jerellsworth/free_vgms](https://github.com/jerellsworth/free_vgms)|Sega Genesis Music Source Files For Everybody|6|2024-07-20|2024-05-10|
-|190|[rohansingh4/ZK-Fabric-Validator](https://github.com/rohansingh4/ZK-Fabric-Validator)|Implementing end to end zero knowledge proof |6|2024-05-07|2024-05-01|
-|191|[PaulForgey/xasm](https://github.com/PaulForgey/xasm)|65c02 assembler for Commander X16|6|2024-06-17|2024-04-27|
-|192|[nmtun/computer_architecture_lab_Hust](https://github.com/nmtun/computer_architecture_lab_Hust)|Source code and weekly reports for the Computer Architecture Lab at HUST|6|2024-06-21|2024-04-21|
-|193|[acasamit/assembly-Reverse-Shell](https://github.com/acasamit/assembly-Reverse-Shell)|I created a simple reverse shell in assembly language for Unix systems.|6|2024-04-21|2024-04-20|
-|194|[cilerba/ereader](https://github.com/cilerba/ereader)|Custom Pokémon Emerald e-Reader Cards|6|2024-08-05|2024-04-19|
-|195|[rumbleminze/double-dragon-snes](https://github.com/rumbleminze/double-dragon-snes)|SNES port of the NES game Double Dragon|6|2024-06-21|2024-04-17|
-|196|[rumbleminze/nes-to-snes-template](https://github.com/rumbleminze/nes-to-snes-template)|A Template for Porting NES games to SNES|6|2024-06-19|2024-04-14|
-|197|[neozeed/Windows_3.0_ddk_prerel_19900501](https://github.com/neozeed/Windows_3.0_ddk_prerel_19900501)|Microsoft Windows 3.0 DDK Pre-release dated 1990 05 01|6|2024-04-01|2024-04-01|
-|198|[d0rb/LogoFail-PoC](https://github.com/d0rb/LogoFail-PoC)|This is a hypothetical demonstration of the process involved in exploiting LogoFail, it theoretically includes the necessary steps.|6|2024-03-30|2024-03-30|
-|199|[PraneethJain/portfolio](https://github.com/PraneethJain/portfolio)|Portfolio website written in assembly|6|2024-09-25|2024-03-29|
-|200|[Skeleton590/dasm](https://github.com/Skeleton590/dasm)|-|6|2024-03-28|2024-03-27|
+|183|[Print3M/shellcoder](https://github.com/Print3M/shellcoder)|Shellcoder.py - simple script to automate shellcoding process and shellcode testing.|6|2024-07-23|2024-07-19|
+|184|[dzonerzy/gopcode](https://github.com/dzonerzy/gopcode)|-|6|2024-07-19|2024-07-14|
+|185|[dotdot0/os_c](https://github.com/dotdot0/os_c)|Creating a 32 bit x86 hobby Operating System |6|2024-07-03|2024-06-30|
+|186|[everything8215/ff5](https://github.com/everything8215/ff5)|Disassembly and ROM info for Final Fantasy V|6|2024-09-14|2024-06-28|
+|187|[JJMugenyi/AkiraOS](https://github.com/JJMugenyi/AkiraOS)|Official Repo for AkiraOS.|6|2024-06-16|2024-06-15|
+|188|[diku-compSys/compSys-e2024](https://github.com/diku-compSys/compSys-e2024)|-|6|2024-09-02|2024-06-12|
+|189|[joeywang4/Flexo](https://github.com/joeywang4/Flexo)|A compiler for microarchitectural weird machines|6|2024-08-10|2024-05-23|
+|190|[jerellsworth/free_vgms](https://github.com/jerellsworth/free_vgms)|Sega Genesis Music Source Files For Everybody|6|2024-07-20|2024-05-10|
+|191|[rohansingh4/ZK-Fabric-Validator](https://github.com/rohansingh4/ZK-Fabric-Validator)|Implementing end to end zero knowledge proof |6|2024-05-07|2024-05-01|
+|192|[PaulForgey/xasm](https://github.com/PaulForgey/xasm)|65c02 assembler for Commander X16|6|2024-06-17|2024-04-27|
+|193|[nmtun/computer_architecture_lab_Hust](https://github.com/nmtun/computer_architecture_lab_Hust)|Source code and weekly reports for the Computer Architecture Lab at HUST|6|2024-06-21|2024-04-21|
+|194|[acasamit/assembly-Reverse-Shell](https://github.com/acasamit/assembly-Reverse-Shell)|I created a simple reverse shell in assembly language for Unix systems.|6|2024-04-21|2024-04-20|
+|195|[cilerba/ereader](https://github.com/cilerba/ereader)|Custom Pokémon Emerald e-Reader Cards|6|2024-08-05|2024-04-19|
+|196|[rumbleminze/double-dragon-snes](https://github.com/rumbleminze/double-dragon-snes)|SNES port of the NES game Double Dragon|6|2024-06-21|2024-04-17|
+|197|[rumbleminze/nes-to-snes-template](https://github.com/rumbleminze/nes-to-snes-template)|A Template for Porting NES games to SNES|6|2024-06-19|2024-04-14|
+|198|[neozeed/Windows_3.0_ddk_prerel_19900501](https://github.com/neozeed/Windows_3.0_ddk_prerel_19900501)|Microsoft Windows 3.0 DDK Pre-release dated 1990 05 01|6|2024-04-01|2024-04-01|
+|199|[d0rb/LogoFail-PoC](https://github.com/d0rb/LogoFail-PoC)|This is a hypothetical demonstration of the process involved in exploiting LogoFail, it theoretically includes the necessary steps.|6|2024-03-30|2024-03-30|
+|200|[PraneethJain/portfolio](https://github.com/PraneethJain/portfolio)|Portfolio website written in assembly|6|2024-09-25|2024-03-29|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
