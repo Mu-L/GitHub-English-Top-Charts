@@ -1,16 +1,16 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Assembly
-<sub>Updated: 2024-09-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-09-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode)|Collection of malware source code for a variety of platforms in an array of different programming languages.|15632|11|2024-07-10|
-|2|[mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering)|A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM and embedded RISC-V architectures.|11025|7|2024-09-27|
+|1|[vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode)|Collection of malware source code for a variety of platforms in an array of different programming languages.|15633|11|2024-07-10|
+|2|[mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering)|A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM and embedded RISC-V architectures.|11033|7|2024-09-27|
 |3|[0xAX/asm](https://github.com/0xAX/asm)|Learning assembly for Linux x86_64|2239|1|2024-08-20|
 |4|[azkadev/operating_system_guide](https://github.com/azkadev/operating_system_guide)|Operating System Guide Dari 0|339|1|2024-04-13|
 |5|[intel/optimization-manual](https://github.com/intel/optimization-manual)|Contains the source code examples described in the "Intel® 64 and IA-32 Architectures Optimization Reference Manual"|776|1|2024-05-03|
-|6|[rgplantz/itco_ARM](https://github.com/rgplantz/itco_ARM)|For RPi book|4|0|2024-09-25|
+|6|[rgplantz/itco_ARM](https://github.com/rgplantz/itco_ARM)|For RPi book|4|0|2024-09-28|
 |7|[thechampagne/sdl2-asm](https://github.com/thechampagne/sdl2-asm)|SDL2 examples in Assemblers.|3|0|2024-05-27|
 |8|[ReferTV/Assembly-Calculator](https://github.com/ReferTV/Assembly-Calculator)|The Simple Calculator project is a demonstration of basic arithmetic operations implemented in x86_64 assembly language. This project serves as an educational resource for those interested in learning ...|2|0|2024-04-10|
 |9|[sverx/PSGlib](https://github.com/sverx/PSGlib)|Z80 ASM library (and C conversion/compression tools) to allow replay of SN76489 VGMs as background music/SFX in SEGA Master System / SEGA Game Gear homebrew programs|45|0|2024-04-04|
@@ -28,10 +28,10 @@
 |21|[andrewt0301/hse-acos-course](https://github.com/andrewt0301/hse-acos-course)|Materials for the "Computer Architecture and Operating Systems" course taught at Faculty of Computer Science of Higher School of Economics|31|0|2024-09-15|
 |22|[Drunella/u5remastered](https://github.com/Drunella/u5remastered)|Ultima V remastered for EasyFlash and 1581|22|0|2024-09-15|
 |23|[Omarmasalmah/Mips_assembly_medical_test_system](https://github.com/Omarmasalmah/Mips_assembly_medical_test_system)|MIPS Assembly project for Computer Architecture Course implements a patient medical record management system.|4|0|2024-04-30|
-|24|[mschwartz/assembly-tutorial](https://github.com/mschwartz/assembly-tutorial)|Programming in assembly language tutorial|591|0|2024-09-10|
+|24|[mschwartz/assembly-tutorial](https://github.com/mschwartz/assembly-tutorial)|Programming in assembly language tutorial|592|0|2024-09-10|
 |25|[tony-cruise/ProgrammingGamesForTheNES](https://github.com/tony-cruise/ProgrammingGamesForTheNES)|Support files for the book "Classic Game Programming on the NES"|26|0|2024-06-14|
 |26|[alejoriosm04/university-repository](https://github.com/alejoriosm04/university-repository)|All my projects and workshops during the different courses of the Computer Science Program taught at EAFIT University.|4|0|2024-09-24|
-|27|[Candle-Electric/VMU_Development_Beginners-Tutorial](https://github.com/Candle-Electric/VMU_Development_Beginners-Tutorial)|A Guide For VMU Development For Beginners .|16|0|2024-09-26|
+|27|[Candle-Electric/VMU_Development_Beginners-Tutorial](https://github.com/Candle-Electric/VMU_Development_Beginners-Tutorial)|A Guide For VMU Development For Beginners .|16|0|2024-09-28|
 |28|[nerdprojects/epson-hx20-software](https://github.com/nerdprojects/epson-hx20-software)|Collection of small programs I wrote for the HX-20|4|0|2024-04-22|
 |29|[langel/vic20-songs](https://github.com/langel/vic20-songs)|collection of audio programs for commodore vic20|3|0|2024-07-30|
 |30|[kunichiko/X68000_MSX_Simulator](https://github.com/kunichiko/X68000_MSX_Simulator)|Just my study of MSX Simulator working on the X68000 series computers.|10|0|2024-07-14|
@@ -39,7 +39,7 @@
 |32|[lancekindle/DMGreport](https://github.com/lancekindle/DMGreport)|DMG and CGB (Color Game Boy) tutorials for coding assembly games with RGBDS|59|0|2024-09-01|
 |33|[brscn2/metuceng](https://github.com/brscn2/metuceng)|Collection of my course homeworks/projects at METU CEng|3|0|2024-05-31|
 |34|[McHogardty/z80](https://github.com/McHogardty/z80)|A collection of docs and code for my breadboard z80 project.|3|0|2024-04-29|
-|35|[shikaan/x86-64-asm-intro](https://github.com/shikaan/x86-64-asm-intro)|Learning x86-64 assembly|17|0|2024-09-26|
+|35|[shikaan/x86-64-asm-intro](https://github.com/shikaan/x86-64-asm-intro)|Learning x86-64 assembly|18|0|2024-09-26|
 |36|[AndersBNielsen/65uino](https://github.com/AndersBNielsen/65uino)|6502 learning platform in a familiar form factor|69|0|2024-09-09|
 |37|[adithya2424/STM32_SERIES](https://github.com/adithya2424/STM32_SERIES)|Guide for bare metal programming using stm32|4|0|2024-05-01|
 |38|[markmoxon/master-elite-beebasm](https://github.com/markmoxon/master-elite-beebasm)|Fully documented and annotated source code for Elite on the BBC Master|26|0|2024-09-18|
@@ -73,7 +73,7 @@
 |66|[Slattstudio/BetrayedAllianceBook1](https://github.com/Slattstudio/BetrayedAllianceBook1)|Betrayed Alliance is a fanmade DOS-based game with classic handmade EGA pixel art and type-parser interface. Book 1 is the first installment of a planned trilogy of games, each expanding on the world, ...|38|0|2024-07-22|
 |67|[byte-engineer/my-drafts](https://github.com/byte-engineer/my-drafts)|Draft for learn programming language|2|0|2024-05-19|
 |68|[mabushelbaia/Arm-Assembly](https://github.com/mabushelbaia/Arm-Assembly)|Arm Assembly programing examples and classworks.|3|0|2024-09-25|
-|69|[gmarino2048/64bit-os-tutorial](https://github.com/gmarino2048/64bit-os-tutorial)|This OS Tutorial expands on the fundamental concepts covered in cfenollosa/os-tutorial and covers entering long mode on the x86_64 architecture. It also uses clang rather than relying on an external c ...|159|0|2024-08-30|
+|69|[gmarino2048/64bit-os-tutorial](https://github.com/gmarino2048/64bit-os-tutorial)|This OS Tutorial expands on the fundamental concepts covered in cfenollosa/os-tutorial and covers entering long mode on the x86_64 architecture. It also uses clang rather than relying on an external c ...|160|0|2024-08-30|
 |70|[31b4/pte-proginf-bsc](https://github.com/31b4/pte-proginf-bsc)|zero to hero proginf bsc step by step tutorial|4|0|2024-09-02|
 |71|[cityxen/Commodore64_Programming](https://github.com/cityxen/Commodore64_Programming)|Commodore 64 Programming KickAssembler Library and Examples|44|0|2024-07-18|
 |72|[q60/rot13](https://github.com/q60/rot13)|This is a collection of ROT13 encoding programms written in different languages. Just for fun.|30|0|2024-08-24|
@@ -106,28 +106,27 @@
 |99|[indimail/tinydnssec](https://github.com/indimail/tinydnssec)|djbdns with dnssec, dnscurve support - a collection of Domain Name System tools|3|0|2024-09-02|
 |100|[linuxplayground/6502-retro-banked-v3](https://github.com/linuxplayground/6502-retro-banked-v3)|An ever growing list of 6502 projects.|5|0|2024-09-21|
 |101|[bektidk/hello-world](https://github.com/bektidk/hello-world)|This repository contains "Hello, World!" scripts in multiple programming languages. It's a simple and useful resource for developers to see how to write a basic program in different languages.|3|0|2024-07-29|
-|102|[GauChoob/musyx](https://github.com/GauChoob/musyx)|A guide to the structure of MusyX data files used in DMG and CGB games. Also contains a python script to convert the data back into project files.|6|0|2024-03-29|
-|103|[Ian-McG-1970/c64](https://github.com/Ian-McG-1970/c64)|6502 code examples|3|0|2024-09-16|
-|104|[RetroCogs/Mega65Tutorials](https://github.com/RetroCogs/Mega65Tutorials)|Various tutorials for coding in 45gs02 on the Mega65|10|0|2024-09-15|
-|105|[iss000/oricOpenLibrary](https://github.com/iss000/oricOpenLibrary)|Collection of open source functions for Oric-1, Atmos, Telestrat, Pravetz-8D 8-bit retro cmputers.|6|0|2024-09-11|
-|106|[AdilKoken/RISC-V-Assembly-Introductory-Exercises](https://github.com/AdilKoken/RISC-V-Assembly-Introductory-Exercises)|collection of exercises designed to introduce students to the fundamental concepts of computer architecture using the RISC-V instruction set.|14|0|2024-04-28|
-|107|[Logan-Hansen/PokemonCrystal](https://github.com/Logan-Hansen/PokemonCrystal)|Pokemon Crystal Disassembly Modded following tutorials|3|0|2024-09-27|
-|108|[MEGA65/mega65-examples](https://github.com/MEGA65/mega65-examples)|A gathering point for community created software examples for the MEGA65.|12|0|2024-08-27|
-|109|[simozzer/Oric6502](https://github.com/simozzer/Oric6502)|Trying to re-learn 6502 for the Oric computer|2|0|2024-04-05|
-|110|[folsomcp/specpolFlow](https://github.com/folsomcp/specpolFlow)|Tools and tutorials for the analysis of stellar spectropolarimetric observations.|5|0|2024-08-03|
-|111|[LinkHpp/TinyKernel](https://github.com/LinkHpp/TinyKernel)|Just a tiny kernel I'm trying to do to learn how they work|2|0|2024-08-27|
-|112|[camel-cdr/rvv-bench](https://github.com/camel-cdr/rvv-bench)|A collection of RISC-V Vector (RVV) benchmarks to help developers write portably performant RVV code|79|0|2024-09-03|
-|113|[EvilBytecode/Go-Assembly](https://github.com/EvilBytecode/Go-Assembly)|Examples how to use a Assm (Assembly) in a go.|15|0|2024-07-01|
-|114|[devon-artmeier/genesis-decompression](https://github.com/devon-artmeier/genesis-decompression)|Custom written implementations of decompression functions for various algorithms for the SEGA Genesis/Mega Drive|2|0|2024-09-25|
-|115|[LubosKuzma/ITSC204](https://github.com/LubosKuzma/ITSC204)|ITSC204 course|2|0|2024-04-08|
-|116|[albs-br/msx-tests](https://github.com/albs-br/msx-tests)|Small pieces of code made while learning some new MSX stuff, especially MSX 2 and over|4|0|2024-09-02|
-|117|[hoglet67/MMFS](https://github.com/hoglet67/MMFS)|Modern SD Card File System for Acorn 8-bit Machine (Master, Beeb, Electron)|68|0|2024-07-16|
-|118|[bell-sw/glibc-string](https://github.com/bell-sw/glibc-string)|Collection of glibc optimized asm string implementations|4|0|2024-09-24|
-|119|[alan-turing-institute/hut23-compiler-club](https://github.com/alan-turing-institute/hut23-compiler-club)|Informal club to learn about computer fundamentals|3|0|2024-09-18|
-|120|[richardturnnidge/lessons](https://github.com/richardturnnidge/lessons)|z80 assembly code to accompany video lessons|7|0|2024-05-01|
-|121|[42Bastian/lynx_hacking](https://github.com/42Bastian/lynx_hacking)|Collection of Lynx demos, trial.|9|0|2024-07-06|
-|122|[gmostofabd/8051-Assembly-Programming-and-Proteus-Simulation](https://github.com/gmostofabd/8051-Assembly-Programming-and-Proteus-Simulation)|⚙️  A comprehensive Tutorials on ATMEL 8051 Series Microcontroller Programming (AT89S51/52) using Assembly Language.  🔧 Learn how to use ATMEL 8051 Microcontrollers from the ground up! 🔧 This reposito ...|15|0|2024-09-27|
-|123|[mytechnotalent/Embedded-Assembler](https://github.com/mytechnotalent/Embedded-Assembler)|A FREE comprehensive step-by-step embedded Assembler tutorial covering the basics including coding your own vector table and linker script from scratch, I/O programming all the way to up to developing ...|35|0|2024-04-01|
+|102|[Ian-McG-1970/c64](https://github.com/Ian-McG-1970/c64)|6502 code examples|3|0|2024-09-16|
+|103|[RetroCogs/Mega65Tutorials](https://github.com/RetroCogs/Mega65Tutorials)|Various tutorials for coding in 45gs02 on the Mega65|10|0|2024-09-15|
+|104|[iss000/oricOpenLibrary](https://github.com/iss000/oricOpenLibrary)|Collection of open source functions for Oric-1, Atmos, Telestrat, Pravetz-8D 8-bit retro cmputers.|6|0|2024-09-11|
+|105|[AdilKoken/RISC-V-Assembly-Introductory-Exercises](https://github.com/AdilKoken/RISC-V-Assembly-Introductory-Exercises)|collection of exercises designed to introduce students to the fundamental concepts of computer architecture using the RISC-V instruction set.|14|0|2024-04-28|
+|106|[Logan-Hansen/PokemonCrystal](https://github.com/Logan-Hansen/PokemonCrystal)|Pokemon Crystal Disassembly Modded following tutorials|3|0|2024-09-27|
+|107|[MEGA65/mega65-examples](https://github.com/MEGA65/mega65-examples)|A gathering point for community created software examples for the MEGA65.|12|0|2024-08-27|
+|108|[simozzer/Oric6502](https://github.com/simozzer/Oric6502)|Trying to re-learn 6502 for the Oric computer|2|0|2024-04-05|
+|109|[folsomcp/specpolFlow](https://github.com/folsomcp/specpolFlow)|Tools and tutorials for the analysis of stellar spectropolarimetric observations.|5|0|2024-09-28|
+|110|[LinkHpp/TinyKernel](https://github.com/LinkHpp/TinyKernel)|Just a tiny kernel I'm trying to do to learn how they work|2|0|2024-08-27|
+|111|[camel-cdr/rvv-bench](https://github.com/camel-cdr/rvv-bench)|A collection of RISC-V Vector (RVV) benchmarks to help developers write portably performant RVV code|79|0|2024-09-03|
+|112|[EvilBytecode/Go-Assembly](https://github.com/EvilBytecode/Go-Assembly)|Examples how to use a Assm (Assembly) in a go.|15|0|2024-07-01|
+|113|[devon-artmeier/genesis-decompression](https://github.com/devon-artmeier/genesis-decompression)|Custom written implementations of decompression functions for various algorithms for the SEGA Genesis/Mega Drive|2|0|2024-09-25|
+|114|[LubosKuzma/ITSC204](https://github.com/LubosKuzma/ITSC204)|ITSC204 course|2|0|2024-04-08|
+|115|[albs-br/msx-tests](https://github.com/albs-br/msx-tests)|Small pieces of code made while learning some new MSX stuff, especially MSX 2 and over|4|0|2024-09-02|
+|116|[hoglet67/MMFS](https://github.com/hoglet67/MMFS)|Modern SD Card File System for Acorn 8-bit Machine (Master, Beeb, Electron)|68|0|2024-07-16|
+|117|[bell-sw/glibc-string](https://github.com/bell-sw/glibc-string)|Collection of glibc optimized asm string implementations|4|0|2024-09-24|
+|118|[alan-turing-institute/hut23-compiler-club](https://github.com/alan-turing-institute/hut23-compiler-club)|Informal club to learn about computer fundamentals|3|0|2024-09-18|
+|119|[richardturnnidge/lessons](https://github.com/richardturnnidge/lessons)|z80 assembly code to accompany video lessons|7|0|2024-05-01|
+|120|[42Bastian/lynx_hacking](https://github.com/42Bastian/lynx_hacking)|Collection of Lynx demos, trial.|9|0|2024-07-06|
+|121|[gmostofabd/8051-Assembly-Programming-and-Proteus-Simulation](https://github.com/gmostofabd/8051-Assembly-Programming-and-Proteus-Simulation)|⚙️  A comprehensive Tutorials on ATMEL 8051 Series Microcontroller Programming (AT89S51/52) using Assembly Language.  🔧 Learn how to use ATMEL 8051 Microcontrollers from the ground up! 🔧 This reposito ...|15|0|2024-09-27|
+|122|[mytechnotalent/Embedded-Assembler](https://github.com/mytechnotalent/Embedded-Assembler)|A FREE comprehensive step-by-step embedded Assembler tutorial covering the basics including coding your own vector table and linker script from scratch, I/O programming all the way to up to developing ...|35|0|2024-04-01|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

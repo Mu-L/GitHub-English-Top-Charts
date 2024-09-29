@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Groovy
-<sub>Updated: 2024-09-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-09-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -14,7 +14,7 @@
 |7|[snyk-labs/snyk-cicd-integration-examples](https://github.com/snyk-labs/snyk-cicd-integration-examples)|Examples of integrating the Snyk CLI into a CI/CD system|78|2024-04-02|
 |8|[cloudogu/ces-build-lib](https://github.com/cloudogu/ces-build-lib)|Jenkins pipeline shared library adding features for Maven, Gradle, Docker, SonarQube, Git and others|74|2024-09-26|
 |9|[opendevstack/ods-jenkins-shared-library](https://github.com/opendevstack/ods-jenkins-shared-library)|Shared Jenkins library which all ODS projects & components use - provisioning, SonarQube code scanning, Nexus publishing, OpenShift template based deployments and repository orchestration|71|2024-09-27|
-|10|[HariSekhon/Jenkins](https://github.com/HariSekhon/Jenkins)|Jenkins CI/CD - Advanced Jenkinsfile & Groovy Shared Library of reusable functions and pipelines - AWS, GCP, Docker, Kubernetes, ArgoCD, Slack notifications, Git Merge, Terraform, Cloudflare, Jenkins  ...|62|2024-09-23|
+|10|[HariSekhon/Jenkins](https://github.com/HariSekhon/Jenkins)|Jenkins CI/CD - Advanced Jenkinsfile & Groovy Shared Library of reusable functions and pipelines - AWS, GCP, Docker, Kubernetes, ArgoCD, Slack notifications, Git Merge, Terraform, Cloudflare, Jenkins  ...|63|2024-09-23|
 |11|[stchar/pipeline-sharedlib-testharness](https://github.com/stchar/pipeline-sharedlib-testharness)|JenkinsPipelineUnit test harness for a Jenkins Shared Library|42|2024-07-08|
 |12|[daluobai-devops/jenkins-shared-library](https://github.com/daluobai-devops/jenkins-shared-library)|Jenkins Pipeline Extending with Shared Libraries |38|2024-09-18|
 |13|[paulk-asert/groovy-data-science](https://github.com/paulk-asert/groovy-data-science)|Some Data Science examples using Groovy|36|2024-07-01|
@@ -48,7 +48,7 @@
 |41|[elcicd/el-CICD](https://github.com/elcicd/el-CICD)|A Jenkins shared library that powers el-CICD pipelines.|5|2024-08-21|
 |42|[Naveiras-Lab/MarrowQuant](https://github.com/Naveiras-Lab/MarrowQuant)|MarrowQuant is a user-friendly algorithm for the quantification of H&E bone marrow tissue biopsies in whole slide images, implemented as a series of QuPath Scripts. Keywords: Digital Pathology, Whole  ...|5|2024-04-19|
 |43|[apache/netbeans-jenkins-lib](https://github.com/apache/netbeans-jenkins-lib)|Apache NetBeans Shared Jenkins Pipeline|5|2024-09-20|
-|44|[couchbaselabs/sdkbuild-jenkinsfiles](https://github.com/couchbaselabs/sdkbuild-jenkinsfiles)|Collection of Jenkinsfiles for sdkbuild|5|2024-09-24|
+|44|[couchbaselabs/sdkbuild-jenkinsfiles](https://github.com/couchbaselabs/sdkbuild-jenkinsfiles)|Collection of Jenkinsfiles for sdkbuild|5|2024-09-27|
 |45|[engswee/flashpipe-demo](https://github.com/engswee/flashpipe-demo)|FlashPipe Examples Repository|4|2024-09-25|
 |46|[infofabrik/reportserver-samples](https://github.com/infofabrik/reportserver-samples)|Useful scripting examples for ReportServer|4|2024-09-17|
 |47|[Hubbitus/groovy-test-examples](https://github.com/Hubbitus/groovy-test-examples)|Groovy findings, snippets, examples. Mostly for memorize and sharing.|4|2024-07-06|
@@ -58,9 +58,11 @@
 |51|[networkupstools/jenkins-dynamatrix](https://github.com/networkupstools/jenkins-dynamatrix)|A shared library to do a sort of matrix build based on available swarm agent labels|3|2024-08-02|
 |52|[egonw/ons-wikidata](https://github.com/egonw/ons-wikidata)|Open Notebook for Wikidata scripts|3|2024-09-23|
 |53|[adaptivecomputing/plugins-mws](https://github.com/adaptivecomputing/plugins-mws)|MWS built-in plugins (including examples and production plugins)|3|2024-09-25|
-|54|[University-of-Strathclyde-LTE-Team/moodle-plugin-ci-jenkins](https://github.com/University-of-Strathclyde-LTE-Team/moodle-plugin-ci-jenkins)|A Jenkins shared library for running moodle-plugin-ci|2|2024-05-30|
-|55|[shasait/cipa](https://github.com/shasait/cipa)|Jenkins SharedLib - Continuous Integration Pipeline Activities|2|2024-09-12|
-|56|[bahmanm/stockperson](https://github.com/bahmanm/stockperson)|Practical exercises to learn a programming language|2|2024-09-23|
+|54|[Gopi1892/Devops-Learning-Material](https://github.com/Gopi1892/Devops-Learning-Material)|This is repository for Cloud and Devops Interview Question|2|2024-09-28|
+|55|[seqeralabs/libseqera](https://github.com/seqeralabs/libseqera)|Library for Java & Groovy modules shared across Seqera projects|2|2024-09-26|
+|56|[University-of-Strathclyde-LTE-Team/moodle-plugin-ci-jenkins](https://github.com/University-of-Strathclyde-LTE-Team/moodle-plugin-ci-jenkins)|A Jenkins shared library for running moodle-plugin-ci|2|2024-05-30|
+|57|[shasait/cipa](https://github.com/shasait/cipa)|Jenkins SharedLib - Continuous Integration Pipeline Activities|2|2024-09-12|
+|58|[bahmanm/stockperson](https://github.com/bahmanm/stockperson)|Practical exercises to learn a programming language|2|2024-09-23|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

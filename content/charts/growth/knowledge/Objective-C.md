@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Objective-C
-<sub>Updated: 2024-09-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-09-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -17,7 +17,7 @@
 |10|[onfido/onfido-ios-sdk](https://github.com/onfido/onfido-ios-sdk)|A Swift client for the Onfido API and a collection of UI elements to capture photos of documents.|100|0|2024-09-26|
 |11|[ComPDFKit/compdfkit-pdf-sdk-ios-swift](https://github.com/ComPDFKit/compdfkit-pdf-sdk-ios-swift)|Show how to integrate ComPDFKit PDF SDK to build PDF viewer and editor on iOS & macOS.|14|0|2024-08-19|
 |12|[gonzoua/AudioBookBinder](https://github.com/gonzoua/AudioBookBinder)|GUI and command-line utility for converting audiobooks to m4b format|226|0|2024-08-16|
-|13|[ReverseApple/RemoveBooksDRM](https://github.com/ReverseApple/RemoveBooksDRM)| Books EPUB DRM Removal|54|0|2024-08-16|
+|13|[ReverseApple/RemoveBooksDRM](https://github.com/ReverseApple/RemoveBooksDRM)| Books EPUB DRM Removal|55|0|2024-08-16|
 |14|[Aynnor/YogaKitDemo](https://github.com/Aynnor/YogaKitDemo)|This is FaceBook layout Framework YogaKit test demo.|3|0|2024-08-26|
 |15|[electricbolt/bindkit](https://github.com/electricbolt/bindkit)|Two-way data binding framework for iOS. Only one API to learn.|13|0|2024-08-11|
 |16|[nihalsharma/Clock-Bar](https://github.com/nihalsharma/Clock-Bar)|Macbook   Clock, right on the touch bar|300|0|2024-04-18|
@@ -28,7 +28,7 @@
 |21|[tangtiancheng/DouYinComment](https://github.com/tangtiancheng/DouYinComment)|iOS Widget Video Gif Play Animation 1. gif视频播放小组件, 帧动画小组件, 摇摇乐小组件, 网易云iOS小组件,动态Widget,时钟组件,风扇组件,滚动照片组件; 2.抖音视频转场动画,抖音左滑push进个人主页, 评论手势拖拽效果 , 视频播放, 边下边播, 预加载, TikTok ; 3.铃声多多,上传铃声音频到库乐队(GarageBand) 4.微 ...|567|0|2024-08-07|
 |22|[doraorak/insheaders](https://github.com/doraorak/insheaders)|Objc headers of instagram 333.0.4. Along with FBSharedFramework. Uploaded mainly for my own use.|3|0|2024-06-28|
 |23|[aprosvetova/actuator](https://github.com/aprosvetova/actuator)|Golang library that allows you to actuate your MacBook Force Touch trackpad|15|0|2024-09-07|
-|24|[Alinto/sogo](https://github.com/Alinto/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1784|0|2024-09-26|
+|24|[Alinto/sogo](https://github.com/Alinto/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1785|0|2024-09-26|
 |25|[PoomSmart/IDAObjcTypes](https://github.com/PoomSmart/IDAObjcTypes)|A collection of types & functions definitions useful for iOS/macOS binaries analysis.|325|0|2024-09-15|
 |26|[First-Iraqi-Bank/fib-ios-sdk](https://github.com/First-Iraqi-Bank/fib-ios-sdk)|This is the FIB Payment IOS SDK repository and mostly contains documentation around guidelines and policies as well as the releases for the various languages supported by the FIB SDK.|5|0|2024-09-05|
 |27|[tidev/ti.facebook](https://github.com/tidev/ti.facebook)|Support for the native Facebook SDK in Titanium using JavaScript|50|0|2024-05-17|

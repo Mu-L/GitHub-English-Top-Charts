@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Shell
-<sub>Updated: 2024-09-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-09-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -13,12 +13,12 @@
 |6|[seifrajhi/awesome-platform-engineering-tools](https://github.com/seifrajhi/awesome-platform-engineering-tools)|A curated list of Platform Engineering Tools|312|2024-09-10|2023-12-02|
 |7|[XiudingCai/Awesome-Mamba-Collection](https://github.com/XiudingCai/Awesome-Mamba-Collection)|A curated collection of papers, tutorials, videos, and other valuable resources related to Mamba.|231|2024-07-21|2024-01-29|
 |8|[opea-project/GenAIExamples](https://github.com/opea-project/GenAIExamples)|Generative AI Examples is a collection of GenAI examples such as ChatQnA, Copilot, which illustrate the pipeline capabilities of the Open Platform for Enterprise AI (OPEA) project.|230|2024-09-27|2024-03-20|
-|9|[topological-modular-forms/Darwin-Typeface](https://github.com/topological-modular-forms/Darwin-Typeface)|This is the project repository for Darwin, a typeface for books and articles, with a focus on scientific writing.|211|2024-07-18|2024-02-12|
+|9|[topological-modular-forms/Darwin-Typeface](https://github.com/topological-modular-forms/Darwin-Typeface)|This is the project repository for Darwin, a typeface for books and articles, with a focus on scientific writing.|213|2024-07-18|2024-02-12|
 |10|[dxzenith/Ora-Protocol-Node](https://github.com/dxzenith/Ora-Protocol-Node)|One Click guide to run ora node on VPS using CLI|140|2024-09-15|2024-09-15|
-|11|[gaurav210233/simple-hyprland](https://github.com/gaurav210233/simple-hyprland)|A comprehensive guide for transitioning from traditional desktop environments to the minimalist, customizable Hyprland window manager, featuring detailed installation instructions, configuration tips, ...|100|2024-08-08|2024-05-26|
+|11|[gaurav210233/simple-hyprland](https://github.com/gaurav210233/simple-hyprland)|A comprehensive guide for transitioning from traditional desktop environments to the minimalist, customizable Hyprland window manager, featuring detailed installation instructions, configuration tips, ...|99|2024-08-08|2024-05-26|
 |12|[PR3SIDENT/enshrouded-community](https://github.com/PR3SIDENT/enshrouded-community)|A repository of guides, files and settings for self-hosting the game Enshrouded.|95|2024-08-07|2024-01-12|
 |13|[ai-driven-dev/ai-driven-dev-community](https://github.com/ai-driven-dev/ai-driven-dev-community)|A collection of tools, prompts, snippets and agents for developers that use AI, daily.|92|2024-08-02|2023-11-19|
-|14|[DjangoPeng/agent-hub](https://github.com/DjangoPeng/agent-hub)|This repository is a hub for AI Agent projects, including GitHub Sentinel, LanguageMentor, and ChatPPT, designed to enhance enterprise workflows, language learning, and multimodal interaction. Explore ...|84|2024-09-25|2024-08-14|
+|14|[DjangoPeng/agent-hub](https://github.com/DjangoPeng/agent-hub)|This repository is a hub for AI Agent projects, including GitHub Sentinel, LanguageMentor, and ChatPPT, designed to enhance enterprise workflows, language learning, and multimodal interaction. Explore ...|85|2024-09-28|2024-08-14|
 |15|[Layr-Labs/eigenda-operator-setup](https://github.com/Layr-Labs/eigenda-operator-setup)|Quick start setup guide for EigenDA|80|2024-09-26|2023-11-08|
 |16|[Seeed-Projects/jetson-examples](https://github.com/Seeed-Projects/jetson-examples)|The jetson-examples repository by Seeed Studio offers a seamless, one-line command deployment to run vision AI and Generative AI models on the NVIDIA Jetson platform.|74|2024-09-20|2024-06-24|
 |17|[tigerbeetle/tigerlings](https://github.com/tigerbeetle/tigerlings)|Learn TigerBeetle by fixing tiny broken scripts!|68|2024-07-08|2024-06-18|
@@ -29,10 +29,10 @@
 |22|[gtech-mulearn/IEEE-LAUNCHPAD](https://github.com/gtech-mulearn/IEEE-LAUNCHPAD)|Connect with top employers and elevate your career! Craft your digital identity, engage with μLearn Campus Chapters, and showcase your skills to potential recruiters. Don't miss this opportunity to la ...|53|2024-06-29|2024-03-29|
 |23|[awwsmm/daily-bevy](https://github.com/awwsmm/daily-bevy)|Learn Bevy (and Rust) by exploring a small example (almost) every day|52|2024-04-06|2024-01-25|
 |24|[infiniteremote/installer](https://github.com/infiniteremote/installer)|Infinite Remote Installer, installs RustDesk Server and Opensource API Server, (Get an addressbook etc for free)  a True Free and OSS alternative to TeamViewer, AnyDesk etc|49|2024-09-09|2024-02-06|
-|25|[zunxbt/pop-mining](https://github.com/zunxbt/pop-mining)|One Click guide to start PoP Mining on VPS|45|2024-09-20|2024-09-20|
+|25|[zunxbt/pop-mining](https://github.com/zunxbt/pop-mining)|One Click guide to start PoP Mining on VPS|46|2024-09-20|2024-09-20|
 |26|[saikiranpi/Mastering-Docker](https://github.com/saikiranpi/Mastering-Docker)|Mastering-Docker|44|2024-09-24|2024-06-20|
 |27|[nalgeon/tryxinyminutes](https://github.com/nalgeon/tryxinyminutes)|Live code tutorials in your browser|44|2024-08-17|2024-02-16|
-|28|[ryanmsartor/RGXX-Custom-MinUI-Paks](https://github.com/ryanmsartor/RGXX-Custom-MinUI-Paks)|A collection of mods for MinUI and the stock OS for Anbernic H700 devices|40|2024-09-15|2024-06-02|
+|28|[ryanmsartor/RGXX-Custom-MinUI-Paks](https://github.com/ryanmsartor/RGXX-Custom-MinUI-Paks)|A collection of mods for MinUI and the stock OS for Anbernic H700 devices|41|2024-09-15|2024-06-02|
 |29|[cremich/awesome-q-developer](https://github.com/cremich/awesome-q-developer)|🤖 🧑‍💻  🛠️ A curated list of awesome things related to Amazon Q Developer |33|2024-09-02|2023-10-13|
 |30|[syednadeembe/devops-questions-101](https://github.com/syednadeembe/devops-questions-101)|This repo contains some interesting and real-time Devops related topics, questions as part of 'Devops questions 101' series. These questions will help you evaluate your current state of knowledge and  ...|32|2024-08-04|2024-03-01|
 

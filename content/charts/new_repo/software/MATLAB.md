@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > MATLAB
-<sub>Updated: 2024-09-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-09-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -63,31 +63,31 @@
 |56|[liqiao19/ISAC](https://github.com/liqiao19/ISAC)|Code for IEEE Tcom paper: Sensing User’s Activity, Channel, and Location with Near-Field Extra-Large-Scale MIMO|12|2024-05-26|2023-11-29|
 |57|[tasteofbbq/ICA4ATWS](https://github.com/tasteofbbq/ICA4ATWS)|For the paper 'A novel isogeometric coupling approach for assembled thin-walled structures', here is the core code and implementation that demonstrate the logic of the paper. |11|2024-08-09|2024-07-30|
 |58|[thomasxiaodongwu/SomeCNNBymatLab](https://github.com/thomasxiaodongwu/SomeCNNBymatLab)|BILSTM，GRU，LSTM|11|2024-05-19|2024-05-19|
-|59|[santoshpanda1995/MATLAB-for-all](https://github.com/santoshpanda1995/MATLAB-for-all)|This comprehensive collection covers everything from the foundational basics to advanced techniques related to MATLAB. I will try to cover the basic introduction, looping, plotting, image processing,  ...|11|2024-07-12|2024-05-07|
-|60|[GerrysHazzah/DCGT-IOV--Dynamic-Cooperative-Game-Theory-in-IOV](https://github.com/GerrysHazzah/DCGT-IOV--Dynamic-Cooperative-Game-Theory-in-IOV)|-|11|2024-07-07|2024-04-11|
-|61|[ayapandada/DeAEP](https://github.com/ayapandada/DeAEP)|Approximated Expectation Propagation assisted Decentralized Signal Detection for Uplink Massive MIMO-OTFS Systems|11|2024-04-17|2024-04-02|
-|62|[Zheng-Meng/Reservoir-Computing-and-Hyperparameter-Optimization](https://github.com/Zheng-Meng/Reservoir-Computing-and-Hyperparameter-Optimization)|Reservoir computing for short-and long-term prediction of chaotic systems, with tasks Lorenz and Mackey-Glass systems. Bayesian optimization (hyperparameter optimization algorithm) is used to tune the ...|11|2024-04-17|2024-04-01|
-|63|[Ahlfeldt/ARSW2015-toolkit](https://github.com/Ahlfeldt/ARSW2015-toolkit)|The economics of density: Evidence from the Berlin Wal: Toolkit|11|2024-06-22|2024-03-08|
-|64|[f-brinkmann/AKtools](https://github.com/f-brinkmann/AKtools)|-|11|2024-08-22|2024-02-26|
-|65|[OpenwaterHealth/opw_neuromod_sw](https://github.com/OpenwaterHealth/opw_neuromod_sw)|Openwater's Open-Source Neuromodulation Software|11|2024-07-11|2023-12-07|
-|66|[UTokyoTsuchiyaLAB/UNLSI](https://github.com/UTokyoTsuchiyaLAB/UNLSI)|-|11|2024-07-06|2023-11-09|
-|67|[biopto/EWALD](https://github.com/biopto/EWALD)|EWALD: optical diffraction tomography reconstruction software|11|2024-07-18|2023-10-03|
-|68|[mahdieslaminet/genetic_algorithm_for_intrusion_detection](https://github.com/mahdieslaminet/genetic_algorithm_for_intrusion_detection)|Selection of dynamic features based on genetic algorithm of non-dominant sorting and combination with Fuzzy clustering for intrusion detection system|10|2024-08-11|2024-07-29|
-|69|[mahdieslaminet/Advanced-Techniques-for-LFM-and-NLFM](https://github.com/mahdieslaminet/Advanced-Techniques-for-LFM-and-NLFM)|Advanced-Techniques-for-LFM-and-NLFM|10|2024-08-02|2024-07-29|
-|70|[ASML-Labs/MATFrost.jl](https://github.com/ASML-Labs/MATFrost.jl)|Seamless embedding of Julia in MATLAB.|10|2024-09-06|2024-07-04|
-|71|[Yuyyyuuu/PostProccess-PDR](https://github.com/Yuyyyuuu/PostProccess-PDR)|-|10|2024-06-18|2024-06-18|
-|72|[Yuyyyuuu/GNSS-INS-LC](https://github.com/Yuyyyuuu/GNSS-INS-LC)|-|10|2024-06-18|2024-06-18|
-|73|[E-vogel/Point_Charge_Simulator](https://github.com/E-vogel/Point_Charge_Simulator)|-|10|2024-06-23|2024-06-16|
-|74|[wotaoyin/IterativeDisplay](https://github.com/wotaoyin/IterativeDisplay)|The IterativeDisplay class for MATLAB is designed to assist in displaying iterative process updates in a structured and customizable manner.|10|2024-06-08|2024-06-08|
-|75|[elifbeyzatok00/Optimization-Of-The-BWO-Algorithm](https://github.com/elifbeyzatok00/Optimization-Of-The-BWO-Algorithm)|Optimization Of The Beluga Whale Optimization (BWO) Algorithm - Beluga Balinası Optimizasyonu (BWO) Algoritmasının Optimizasyonu|10|2024-07-08|2024-05-30|
-|76|[akui1321/PostPDR](https://github.com/akui1321/PostPDR)|A MATLAB-based project designed to implement Pedestrian Dead Reckoning (PDR) for accurate positioning.|10|2024-06-11|2024-05-21|
-|77|[Sergio-Vicenzo/GPSL1-DPEmodule](https://github.com/Sergio-Vicenzo/GPSL1-DPEmodule)|Open-source GNSS Direct Position Estimation Plug-in Module for MATLAB-based Two-step Positioning Software Defined Receivers|10|2024-09-14|2024-05-07|
-|78|[Miner-Zhang/Deep-Learning-Models-in-Modulation-Classification](https://github.com/Miner-Zhang/Deep-Learning-Models-in-Modulation-Classification)|This project utilizes three deep learning models, DNN, CNN, and LSTM, for the classification and recognition of 11 modulation types, including BPSK, QPSK, 8PSK, 16QAM, 64QAM, PAM4, GFSK, CPFSK, B-FM,  ...|10|2024-04-29|2024-04-29|
-|79|[facebookresearch/Reality-Labs-Egocentric-ET](https://github.com/facebookresearch/Reality-Labs-Egocentric-ET)|Data and code for the paper "Motor “laziness” constrains fixation selection in real-world tasks": www.pnas.org/doi/10.1073/pnas.2302239121 |10|2024-06-19|2024-04-26|
-|80|[mistybeep/Joint-Distributed-Precoding-and-Beamforming-for-RIS-aided-Cell-Free-Massive-MIMO-Systems](https://github.com/mistybeep/Joint-Distributed-Precoding-and-Beamforming-for-RIS-aided-Cell-Free-Massive-MIMO-Systems)|-|10|2024-04-12|2024-04-11|
-|81|[liuhtbupt/compressed-sensing-enabled-integrated-sensing-and-communication](https://github.com/liuhtbupt/compressed-sensing-enabled-integrated-sensing-and-communication)|The code about published ISAC paper|10|2024-04-03|2024-04-03|
-|82|[Raziz1/PCB_Business_Card](https://github.com/Raziz1/PCB_Business_Card)|A PCB business card with NFC capabilities designed in KiCad|10|2024-04-18|2024-04-02|
-|83|[RealJackYeh/AC_Motor_Control_Loop_Design](https://github.com/RealJackYeh/AC_Motor_Control_Loop_Design)|-|10|2024-06-13|2024-03-19|
+|59|[Sergio-Vicenzo/GPSL1-DPEmodule](https://github.com/Sergio-Vicenzo/GPSL1-DPEmodule)|Open-source GNSS Direct Position Estimation Plug-in Module for MATLAB-based Two-step Positioning Software Defined Receivers|11|2024-09-14|2024-05-07|
+|60|[santoshpanda1995/MATLAB-for-all](https://github.com/santoshpanda1995/MATLAB-for-all)|This comprehensive collection covers everything from the foundational basics to advanced techniques related to MATLAB. I will try to cover the basic introduction, looping, plotting, image processing,  ...|11|2024-07-12|2024-05-07|
+|61|[GerrysHazzah/DCGT-IOV--Dynamic-Cooperative-Game-Theory-in-IOV](https://github.com/GerrysHazzah/DCGT-IOV--Dynamic-Cooperative-Game-Theory-in-IOV)|-|11|2024-07-07|2024-04-11|
+|62|[ayapandada/DeAEP](https://github.com/ayapandada/DeAEP)|Approximated Expectation Propagation assisted Decentralized Signal Detection for Uplink Massive MIMO-OTFS Systems|11|2024-04-17|2024-04-02|
+|63|[Zheng-Meng/Reservoir-Computing-and-Hyperparameter-Optimization](https://github.com/Zheng-Meng/Reservoir-Computing-and-Hyperparameter-Optimization)|Reservoir computing for short-and long-term prediction of chaotic systems, with tasks Lorenz and Mackey-Glass systems. Bayesian optimization (hyperparameter optimization algorithm) is used to tune the ...|11|2024-04-17|2024-04-01|
+|64|[RealJackYeh/AC_Motor_Control_Loop_Design](https://github.com/RealJackYeh/AC_Motor_Control_Loop_Design)|-|11|2024-06-13|2024-03-19|
+|65|[Ahlfeldt/ARSW2015-toolkit](https://github.com/Ahlfeldt/ARSW2015-toolkit)|The economics of density: Evidence from the Berlin Wal: Toolkit|11|2024-06-22|2024-03-08|
+|66|[f-brinkmann/AKtools](https://github.com/f-brinkmann/AKtools)|-|11|2024-08-22|2024-02-26|
+|67|[OpenwaterHealth/opw_neuromod_sw](https://github.com/OpenwaterHealth/opw_neuromod_sw)|Openwater's Open-Source Neuromodulation Software|11|2024-07-11|2023-12-07|
+|68|[UTokyoTsuchiyaLAB/UNLSI](https://github.com/UTokyoTsuchiyaLAB/UNLSI)|-|11|2024-07-06|2023-11-09|
+|69|[biopto/EWALD](https://github.com/biopto/EWALD)|EWALD: optical diffraction tomography reconstruction software|11|2024-07-18|2023-10-03|
+|70|[mahdieslaminet/genetic_algorithm_for_intrusion_detection](https://github.com/mahdieslaminet/genetic_algorithm_for_intrusion_detection)|Selection of dynamic features based on genetic algorithm of non-dominant sorting and combination with Fuzzy clustering for intrusion detection system|10|2024-08-11|2024-07-29|
+|71|[mahdieslaminet/Advanced-Techniques-for-LFM-and-NLFM](https://github.com/mahdieslaminet/Advanced-Techniques-for-LFM-and-NLFM)|Advanced-Techniques-for-LFM-and-NLFM|10|2024-08-02|2024-07-29|
+|72|[ASML-Labs/MATFrost.jl](https://github.com/ASML-Labs/MATFrost.jl)|Seamless embedding of Julia in MATLAB.|10|2024-09-06|2024-07-04|
+|73|[Yuyyyuuu/PostProccess-PDR](https://github.com/Yuyyyuuu/PostProccess-PDR)|-|10|2024-06-18|2024-06-18|
+|74|[Yuyyyuuu/GNSS-INS-LC](https://github.com/Yuyyyuuu/GNSS-INS-LC)|-|10|2024-06-18|2024-06-18|
+|75|[E-vogel/Point_Charge_Simulator](https://github.com/E-vogel/Point_Charge_Simulator)|-|10|2024-06-23|2024-06-16|
+|76|[wotaoyin/IterativeDisplay](https://github.com/wotaoyin/IterativeDisplay)|The IterativeDisplay class for MATLAB is designed to assist in displaying iterative process updates in a structured and customizable manner.|10|2024-06-08|2024-06-08|
+|77|[elifbeyzatok00/Optimization-Of-The-BWO-Algorithm](https://github.com/elifbeyzatok00/Optimization-Of-The-BWO-Algorithm)|Optimization Of The Beluga Whale Optimization (BWO) Algorithm - Beluga Balinası Optimizasyonu (BWO) Algoritmasının Optimizasyonu|10|2024-07-08|2024-05-30|
+|78|[akui1321/PostPDR](https://github.com/akui1321/PostPDR)|A MATLAB-based project designed to implement Pedestrian Dead Reckoning (PDR) for accurate positioning.|10|2024-06-11|2024-05-21|
+|79|[Miner-Zhang/Deep-Learning-Models-in-Modulation-Classification](https://github.com/Miner-Zhang/Deep-Learning-Models-in-Modulation-Classification)|This project utilizes three deep learning models, DNN, CNN, and LSTM, for the classification and recognition of 11 modulation types, including BPSK, QPSK, 8PSK, 16QAM, 64QAM, PAM4, GFSK, CPFSK, B-FM,  ...|10|2024-04-29|2024-04-29|
+|80|[facebookresearch/Reality-Labs-Egocentric-ET](https://github.com/facebookresearch/Reality-Labs-Egocentric-ET)|Data and code for the paper "Motor “laziness” constrains fixation selection in real-world tasks": www.pnas.org/doi/10.1073/pnas.2302239121 |10|2024-06-19|2024-04-26|
+|81|[mistybeep/Joint-Distributed-Precoding-and-Beamforming-for-RIS-aided-Cell-Free-Massive-MIMO-Systems](https://github.com/mistybeep/Joint-Distributed-Precoding-and-Beamforming-for-RIS-aided-Cell-Free-Massive-MIMO-Systems)|-|10|2024-04-12|2024-04-11|
+|82|[liuhtbupt/compressed-sensing-enabled-integrated-sensing-and-communication](https://github.com/liuhtbupt/compressed-sensing-enabled-integrated-sensing-and-communication)|The code about published ISAC paper|10|2024-04-03|2024-04-03|
+|83|[Raziz1/PCB_Business_Card](https://github.com/Raziz1/PCB_Business_Card)|A PCB business card with NFC capabilities designed in KiCad|10|2024-04-18|2024-04-02|
 |84|[alexschimel/Espresso](https://github.com/alexschimel/Espresso)|Multibeam water-column visualization and processing|10|2024-08-20|2024-03-06|
 |85|[COBRAPROsimulator/COBRAPRO](https://github.com/COBRAPROsimulator/COBRAPRO)|-|10|2024-09-22|2024-02-10|
 |86|[ZekunLiuOpt/MMV-ADMM-L20](https://github.com/ZekunLiuOpt/MMV-ADMM-L20)|The code for the article ''Alternating Direction Method of Multipliers Based on ℓ2,0-Norm for Multiple Measurement Vector Problem''|10|2024-07-23|2024-02-09|
@@ -110,101 +110,101 @@
 |103|[getOcr/WiLab-plus](https://github.com/getOcr/WiLab-plus)|An improved system and link level simulator for ISAC and 5G NR Sidelink positioning|9|2024-09-26|2024-04-24|
 |104|[whuinsar/IPGS](https://github.com/whuinsar/IPGS)|-|9|2024-05-31|2024-04-22|
 |105|[gdalsanto/rir2fdn](https://github.com/gdalsanto/rir2fdn)|Companion code for the DAFx24 paper RIR2FDN|9|2024-09-05|2024-03-25|
-|106|[zxcn/MSSLSJointCalibration](https://github.com/zxcn/MSSLSJointCalibration)|This project provides Matlab code and verification data for paper entitled "A joint calibration method for monocular speckle structured light system".|9|2024-03-29|2024-02-18|
-|107|[dance858/Toeplitz-covariance-estimation](https://github.com/dance858/Toeplitz-covariance-estimation)|-|9|2024-04-13|2023-12-22|
-|108|[purnanandelango/ct-scvx](https://github.com/purnanandelango/ct-scvx)|Successive Convexification with Continuous-Time Constraint Satisfaction|9|2024-09-13|2023-10-14|
-|109|[simscape/EV-Thermal-Management-Simscape-ELIV-2023](https://github.com/simscape/EV-Thermal-Management-Simscape-ELIV-2023)|Model for ELIV Conference 2023|9|2024-05-02|2023-10-13|
-|110|[shining0611armor/Electrical-Distribution-Simulation--Voltage-Current-Profile-Active-Reactive-Power-Line-Efficiency](https://github.com/shining0611armor/Electrical-Distribution-Simulation--Voltage-Current-Profile-Active-Reactive-Power-Line-Efficiency)|Here we provide a simulation of the distribution of electricity profile with MATLAB. (Note: the report is in Persian language)|8|2024-09-02|2024-07-29|
-|111|[rshante0426/AOSG](https://github.com/rshante0426/AOSG)|Unsupervised multimodal change detection based on adaptive optimization of structured graph|8|2024-07-21|2024-07-18|
-|112|[nhanng9115/Joint-Communications-and-Sensing-Design-for-Multi-Carrier-MIMO-Systems](https://github.com/nhanng9115/Joint-Communications-and-Sensing-Design-for-Multi-Carrier-MIMO-Systems)|Source code for paper "Joint Communications and Sensing Design for Multi-Carrier MIMO Systems" in IEEE SSP 2023.|8|2024-06-19|2024-06-19|
-|113|[burakozpoyraz/MATLAB-EURO24-Predictor](https://github.com/burakozpoyraz/MATLAB-EURO24-Predictor)|MATLAB-based score predictor for 2024 European Championship|8|2024-06-16|2024-06-16|
-|114|[RDJLM/Link-Level-Simulator-for-THz-MIMO-ISAC](https://github.com/RDJLM/Link-Level-Simulator-for-THz-MIMO-ISAC)|A Link-Level Simulator for Terahertz MIMO Integrated Sensing and Communication v1.0|8|2024-07-05|2024-05-25|
-|115|[PM-Hu/MatPFF](https://github.com/PM-Hu/MatPFF)|MatPFF: Matlab FEM program for phase-field fracture (AT1/2, PFCZM) simulation|8|2024-06-01|2024-05-16|
-|116|[HaozeyuLinus/ClassificationOfLowOrderIdemHomGroups](https://github.com/HaozeyuLinus/ClassificationOfLowOrderIdemHomGroups)|Code for auxiliary classification of lower order idempotent hom-groups|8|2024-06-23|2024-05-16|
-|117|[MorePanda123/TubeRRT](https://github.com/MorePanda123/TubeRRT)|This is the code for the homotopic path planning algorithm, named Tube-RRT*.|8|2024-04-25|2024-04-25|
-|118|[LacoLuo/ISAC-Backscatter](https://github.com/LacoLuo/ISAC-Backscatter)|ISAC with Backscattering RFID Tags: Joint Beamforming Design|8|2024-04-30|2024-04-13|
-|119|[yuthreestone/Machine-Learning-and-Deep-Learning-with-MATLAB](https://github.com/yuthreestone/Machine-Learning-and-Deep-Learning-with-MATLAB)|-|8|2024-04-22|2024-04-11|
-|120|[zhaolin820/TTD-configurations-for-near-field-beamforming-parallel-serial-or-hybrid](https://github.com/zhaolin820/TTD-configurations-for-near-field-beamforming-parallel-serial-or-hybrid)|The code for the paper "TTD Configurations for Near-Field Beamforming: Parallel, Serial, or Hybrid?" in IEEE Transactions on Communications|8|2024-07-23|2024-04-04|
-|121|[rshante0426/GSGM](https://github.com/rshante0426/GSGM)|Global Structure Graph Mapping for  Multimodal Change Detection|8|2024-07-18|2024-03-05|
-|122|[PROTEUS-SIM/PROTEUS](https://github.com/PROTEUS-SIM/PROTEUS)|-|8|2024-07-21|2024-01-11|
-|123|[ARCLab-MIT/MOCAT-MC](https://github.com/ARCLab-MIT/MOCAT-MC)|MIT Orbital Capacity Assessment Toolbox MC for the LEO environment|8|2024-08-21|2023-12-14|
-|124|[GaoxingZheng/UFA_toolbox](https://github.com/GaoxingZheng/UFA_toolbox)|U fiber analysis: a toolbox for automated quantification of U-fibers and white matter hyperintensities|8|2024-07-19|2023-12-09|
-|125|[wenfanwu/schism-toolbox](https://github.com/wenfanwu/schism-toolbox)|A MATLAB toolbox designed for the SCHISM ocean model|8|2024-08-27|2023-11-26|
-|126|[MIT-SPARK/certifiable_tracking](https://github.com/MIT-SPARK/certifiable_tracking)|-|8|2024-09-02|2023-11-16|
-|127|[junbolian/HEOA](https://github.com/junbolian/HEOA)|The source code of human evolutionary optimization algorithm (HEOA)|8|2024-05-15|2023-11-15|
-|128|[TinyMPC/tinympc-matlab](https://github.com/TinyMPC/tinympc-matlab)|MATLAB interactive interface for TinyMPC|8|2024-06-04|2023-11-08|
-|129|[arvin1367/3-D-Deformation-Inversion](https://github.com/arvin1367/3-D-Deformation-Inversion)|A MATLAB toolbox for automatically calculating SAR-derived 3-D deformation maps of glacier, landslide, and land subsidence|8|2024-09-03|2023-11-01|
-|130|[mbkers/ship-trajectory-prediction](https://github.com/mbkers/ship-trajectory-prediction)|Ship trajectory prediction using Recurrent Neural Networks (RNNs).|8|2024-09-07|2023-10-25|
-|131|[caoding1996/Federated-Learning-and-CNN-based-Channel-Estimation-in-5G-Ray-Tracing-Vehicular-Channels](https://github.com/caoding1996/Federated-Learning-and-CNN-based-Channel-Estimation-in-5G-Ray-Tracing-Vehicular-Channels)|-|8|2024-05-14|2023-10-24|
-|132|[nla-group/classix-matlab](https://github.com/nla-group/classix-matlab)|Fast and explainable clustering in MATLAB|8|2024-08-07|2023-10-23|
-|133|[X-FLY-BIRD/2D-MUSIC-MUltiple-SIgnal-Classification--Algorithm](https://github.com/X-FLY-BIRD/2D-MUSIC-MUltiple-SIgnal-Classification--Algorithm)|MUISC algorithm for two-dimensional direction-of-arrival (DOA) estimation.|7|2024-08-23|2024-08-21|
-|134|[YF-W/FGRM-AMOD](https://github.com/YF-W/FGRM-AMOD)|FGRM-AMOD: An Adaptive Multi-View Outlier Detection Algorithm based on Fuzzy Rough Set Multi-Granularity(2024,Code)|7|2024-08-11|2024-08-11|
-|135|[zhaolin820/beamfocusing-optimization-for-near-field-wideband-multi-user-communications](https://github.com/zhaolin820/beamfocusing-optimization-for-near-field-wideband-multi-user-communications)|The code for the paper "Beamfocusing Optimization for Near-Field Wideband Multi-User Communications" in IEEE Transactions on Communications|7|2024-09-07|2024-07-23|
-|136|[AlexN-R/Neural-Network-Controller-for-Hybrid-Energy-Management-System-Applied-to-Electric-Vehicles-](https://github.com/AlexN-R/Neural-Network-Controller-for-Hybrid-Energy-Management-System-Applied-to-Electric-Vehicles-)|This is the repository of sources and codes used in that paper of same name (under evaluation).|7|2024-07-03|2024-07-03|
-|137|[MoritzGrundei/tour-into-the-picture](https://github.com/MoritzGrundei/tour-into-the-picture)|This repository contains our group solution for the 2024 challenge in the computer vision class|7|2024-07-09|2024-06-17|
-|138|[qiongwu86/Joint-Optimization-of-AoI-and-Energy-Consumption-in-NR-V2X-System-based-on-DRL](https://github.com/qiongwu86/Joint-Optimization-of-AoI-and-Energy-Consumption-in-NR-V2X-System-based-on-DRL)|-|7|2024-06-06|2024-06-06|
-|139|[marcosalvv/MIMO-OTFS-Communication-System](https://github.com/marcosalvv/MIMO-OTFS-Communication-System)|-|7|2024-08-01|2024-05-23|
-|140|[ooibhadode/FreeTO](https://github.com/ooibhadode/FreeTO)|Freeform 3D topology optimization in MATLAB using structured meshes with smooth boundaries|7|2024-07-06|2024-05-15|
-|141|[RakeshK-Dev/Doppler-Shift-in-5G-NTN](https://github.com/RakeshK-Dev/Doppler-Shift-in-5G-NTN)|MATLAB Simulation to observe the variations in Doppler shift and the Channel Impulse Response due to mobility, sample rate in Freq Selective Fading TDL and Narrowband Flat Fading Channel models.|7|2024-05-13|2024-05-13|
-|142|[ifnspaml/EC-Evaluation-Toolbox](https://github.com/ifnspaml/EC-Evaluation-Toolbox)|Toolbox for Evaluation of AEC/AES Systems|7|2024-07-31|2024-05-13|
-|143|[preugr/Fluid-antenna-block-diagonal-model](https://github.com/preugr/Fluid-antenna-block-diagonal-model)|This repository contains the Matlab code for the research paper entitled "A New Spatial Block Correlation Model for Fluid Antenna Systems"|7|2024-05-10|2024-05-06|
-|144|[kenoticpurge/Corotational-Beam-Elements](https://github.com/kenoticpurge/Corotational-Beam-Elements)|You ever just wanted to do some large deformation, nonlinear analysis of beams?|7|2024-04-30|2024-04-30|
-|145|[liqiao19/Massive_AIoT_Access](https://github.com/liqiao19/Massive_AIoT_Access)|-|7|2024-05-25|2024-04-28|
-|146|[anzhonghu/Compressed-Sensing-and-Kalman-Filter-Based-Channel-Tracking-for-mmWave-Massive-MIMO-Systems](https://github.com/anzhonghu/Compressed-Sensing-and-Kalman-Filter-Based-Channel-Tracking-for-mmWave-Massive-MIMO-Systems)|Compressed Sensing and Kalman Filter Based Channel Tracking for mmWave Massive MIMO Systems|7|2024-04-24|2024-04-24|
-|147|[chuanstudyup/Overactuated-ROV-Simulation](https://github.com/chuanstudyup/Overactuated-ROV-Simulation)|A simulink platform for Overactuated ROV (BlueROV Heav): dynamic positioning, path following... |7|2024-04-19|2024-04-16|
-|148|[IlyaKuprov/Spinach](https://github.com/IlyaKuprov/Spinach)|A spin dynamics simulation package that covers the whole of magnetic resonance spectroscopy and imaging.|7|2024-09-27|2024-04-13|
-|149|[Du-Songtao/Towards-fast-embedded-moving-horizon-state-of-charge-estimation-for-lithium-ion-batteries](https://github.com/Du-Songtao/Towards-fast-embedded-moving-horizon-state-of-charge-estimation-for-lithium-ion-batteries)|The Matlab/Octave code for our paper "Towards fast embedded moving horizon state-of-charge estimation for lithium-ion batteries"|7|2024-05-21|2024-04-05|
-|150|[SamanthaSmith04/Multi-Agent-Robot-Path-Planning-for-Warehouse-Environments](https://github.com/SamanthaSmith04/Multi-Agent-Robot-Path-Planning-for-Warehouse-Environments)|Samantha Smith, Anutam Srinivasan, Izaiah Wiley ECE/MECHE 5463 - Real Time Robotics Final Group Project|7|2024-04-21|2024-04-04|
-|151|[hakanbugraerentug/Differentially-Private-Frequency-Sketches-for-Intermittent-Queries-on-Large-Data-Streams](https://github.com/hakanbugraerentug/Differentially-Private-Frequency-Sketches-for-Intermittent-Queries-on-Large-Data-Streams)|[IEEE International Conference on Big Data (Big Data)], [2020]|7|2024-04-03|2024-04-03|
-|152|[WhiteTowerBear/Fourier-Planar-Expansion-FarField-Channel-Model](https://github.com/WhiteTowerBear/Fourier-Planar-Expansion-FarField-Channel-Model)|L. Wei et al., "Multi-User Holographic MIMO Surfaces: Channel Modeling and Spectral Efficiency Analysis," in IEEE Journal of Selected Topics in Signal Processing, vol. 16, no. 5, pp. 1112-1124, Aug. 2 ...|7|2024-04-02|2024-04-02|
-|153|[golshanilab/UCLA_2P_Miniscope](https://github.com/golshanilab/UCLA_2P_Miniscope)|UCLA Multiphoton Miniature Microscope|7|2024-06-25|2024-03-28|
-|154|[vikiehm/gc-ppsm](https://github.com/vikiehm/gc-ppsm)|-|7|2024-07-02|2024-03-26|
-|155|[claudioperez/GeometricTransformations](https://github.com/claudioperez/GeometricTransformations)|Geometrically exact finite element analysis.|7|2024-09-11|2024-02-20|
-|156|[junbolian/PO](https://github.com/junbolian/PO)|The source code of Parrot Optimizer (PO)|7|2024-04-12|2024-02-07|
-|157|[TUDelft-DataDrivenControl/Automatica2024_CL-DeePC](https://github.com/TUDelft-DataDrivenControl/Automatica2024_CL-DeePC)|Code for submission to 2024 submission to Automatica titled "Closed-loop Data-enabled Predictive Control and its equivalence with Closed-loop Subspace Predictive Control"|7|2024-09-26|2024-01-26|
-|158|[hanbaeklee/ComputationLab](https://github.com/hanbaeklee/ComputationLab)|-|7|2024-09-01|2024-01-24|
-|159|[ArminMoghimi/Tensor-based-keypoint-detection](https://github.com/ArminMoghimi/Tensor-based-keypoint-detection)|Tensor-based Keypoint Detection and Matching for Radiometric and Geometric Multispectral Image Matching.|7|2024-09-06|2024-01-06|
-|160|[EduTole/Dynamic-Macroeconomics](https://github.com/EduTole/Dynamic-Macroeconomics)|-|7|2024-07-27|2023-12-22|
-|161|[jumanamirza/LR-FHSS-receiver](https://github.com/jumanamirza/LR-FHSS-receiver)|Long-Range Frequency Hopping Spread Spectrum (LR-FHSS) receiver that able to decode LR-FHSS packets|7|2024-08-16|2023-12-19|
-|162|[tomgarth/ISC_Earthquake_Toolbox](https://github.com/tomgarth/ISC_Earthquake_Toolbox)|A set of MATLAB functions for downloading and handling earthquake data from the International Seismological Centre (ISC)|7|2024-08-07|2023-11-30|
-|163|[LinStab2D/LinStab2D](https://github.com/LinStab2D/LinStab2D)|Stability and resolvent analysis of compressible viscous flows in MATLAB |7|2024-09-10|2023-11-28|
-|164|[AILocAR/androidGnss](https://github.com/AILocAR/androidGnss)|MATLAB Codes for Pseudorange Positioning with Android Raw GNSS Measurements|7|2024-05-26|2023-11-14|
-|165|[JinshuaiBai/RPIM_NNS](https://github.com/JinshuaiBai/RPIM_NNS)|MATLAB codes for the RPIM-NNS|7|2024-06-26|2023-11-09|
-|166|[maltekrack/NLvib](https://github.com/maltekrack/NLvib)| NLvib is a Matlab tool for nonlinear vibration analysis.|7|2024-06-19|2023-11-08|
-|167|[mjihoon930/Lithium-Ion-Battery-Reduced-Order-Model-FDM-Pade-Approximation-Optimization-Based-](https://github.com/mjihoon930/Lithium-Ion-Battery-Reduced-Order-Model-FDM-Pade-Approximation-Optimization-Based-)|-|7|2024-05-06|2023-10-28|
-|168|[RealJackYeh/ep168_smo](https://github.com/RealJackYeh/ep168_smo)|-|7|2024-06-03|2023-10-07|
-|169|[ihSruhtrA/ihSruhtrA](https://github.com/ihSruhtrA/ihSruhtrA)|-|6|2024-09-10|2024-09-10|
-|170|[versionbaygt/MATLABJokes](https://github.com/versionbaygt/MATLABJokes)|Get MATLAB to tell you a joke.|6|2024-09-14|2024-08-29|
-|171|[mistybeep/WMMSE-Manifold-Optimization-for-MultiUser-MISO](https://github.com/mistybeep/WMMSE-Manifold-Optimization-for-MultiUser-MISO)|-|6|2024-09-21|2024-08-27|
-|172|[RasitEvduzen/NonLinearControl](https://github.com/RasitEvduzen/NonLinearControl)|-|6|2024-07-27|2024-07-20|
-|173|[JianchengAn/SIM-2-MUMISO](https://github.com/JianchengAn/SIM-2-MUMISO)|This is the code for utilizing Stacked Intelligent Metasurfaces (SIM) to implement Multiuser precoding|6|2024-07-17|2024-07-17|
-|174|[zh267/offRL](https://github.com/zh267/offRL)|applying offRL to solve control problems by MATLAB|6|2024-07-03|2024-07-03|
-|175|[hanegeyavuz/YildizNAV](https://github.com/hanegeyavuz/YildizNAV)|Yildiz Navigation is an R&D project focusing on GPS Jamming Status.|6|2024-06-21|2024-06-21|
-|176|[YyangSJ/Near-field-Channel-Estimation-Recovery-Algorithms](https://github.com/YyangSJ/Near-field-Channel-Estimation-Recovery-Algorithms)|-|6|2024-06-10|2024-06-10|
-|177|[OmegaEta/NEO-GGIW-PMBM](https://github.com/OmegaEta/NEO-GGIW-PMBM)|This repository contains the Matlab implementations of the NEO-GGIW-PMBM tracker|6|2024-06-06|2024-06-06|
-|178|[whuwanji/Micropolar_PDDO_Code](https://github.com/whuwanji/Micropolar_PDDO_Code)|The code is for implementing fracture behavior of micropolar continuum with peridynamic differential operator method.|6|2024-06-05|2024-06-05|
-|179|[SaiManojGubbala/Image-Steganography](https://github.com/SaiManojGubbala/Image-Steganography)|This is a project on implementing Image steganography in Matlab using Block - DCT and Huffman Encoding|6|2024-06-11|2024-06-04|
-|180|[nhanng9115/Fairness-Enhancement-of-UAV-Systems-With-Hybrid-Active-Passive-RIS](https://github.com/nhanng9115/Fairness-Enhancement-of-UAV-Systems-With-Hybrid-Active-Passive-RIS)|Fairness Enhancement of UAV Systems With Hybrid Active-Passive RIS|6|2024-05-28|2024-05-28|
-|181|[DayoSun/The-Hiking-Optimization-Algorithm](https://github.com/DayoSun/The-Hiking-Optimization-Algorithm)|This repository is for the related codes for the Hiking Optimization Algorithm|6|2024-05-13|2024-05-10|
-|182|[sefaaras/2024-mso](https://github.com/sefaaras/2024-mso)|-|6|2024-06-15|2024-05-07|
-|183|[orbittheworld/GMANM](https://github.com/orbittheworld/GMANM)|Generalized Matrix-form Atomic Norm Minimization for 2D DOA|6|2024-05-06|2024-05-06|
-|184|[chauby/two_link_arm_in_coppeliasim](https://github.com/chauby/two_link_arm_in_coppeliasim)|-|6|2024-05-04|2024-05-04|
-|185|[LValentinaGambuzza/Code-for-Reconstructing-higher-order-interactions-in-coupled-dynamical-systems](https://github.com/LValentinaGambuzza/Code-for-Reconstructing-higher-order-interactions-in-coupled-dynamical-systems)|This directory contains the MATLAB code for the paper Reconstructing higher-order interactions in coupled dynamical systems by Federico Malizia, Alessandra Corso, Lucia Valentina Gambuzza, Giovanni Ru ...|6|2024-05-02|2024-05-02|
-|186|[Gusoooooz/TFS-LGFCA](https://github.com/Gusoooooz/TFS-LGFCA)|Local-Global Fuzzy Clustering with Anchor Graph (TFS-2023)|6|2024-05-01|2024-05-01|
-|187|[anzhonghu/Channel-Estimation-via-Subcarrier-Grouping-for-Wideband-mmWave-Hybrid-Massive-MIMO-OFDM-Systems](https://github.com/anzhonghu/Channel-Estimation-via-Subcarrier-Grouping-for-Wideband-mmWave-Hybrid-Massive-MIMO-OFDM-Systems)|Channel Estimation via Subcarrier Grouping for Wideband mmWave Hybrid Massive MIMO-OFDM Systems|6|2024-04-24|2024-04-24|
-|188|[KPrawda/mosaic_noise_removal](https://github.com/KPrawda/mosaic_noise_removal)|Non-stationary noise removal from repeated sweep measurements|6|2024-08-19|2024-04-24|
-|189|[heatherw3521/NUDFT](https://github.com/heatherw3521/NUDFT)|MATLAB code for developing a fast least-squares solver for type-II NUDFT|6|2024-04-26|2024-04-23|
-|190|[TMackay-Champion/LinaForma](https://github.com/TMackay-Champion/LinaForma)|LinaForma calculates the optimal pressure-temperature conditions experienced by a rock and the associated uncertainty.|6|2024-05-03|2024-04-23|
-|191|[marekjarocinski/jkshocks_update_fed_202401](https://github.com/marekjarocinski/jkshocks_update_fed_202401)|-|6|2024-04-20|2024-04-19|
-|192|[oist-cnru/The-Bayesian-Behavior-Framework](https://github.com/oist-cnru/The-Bayesian-Behavior-Framework)|-|6|2024-05-28|2024-04-16|
-|193|[LacoLuo/Integrated-Imaging-Comm](https://github.com/LacoLuo/Integrated-Imaging-Comm)|Integrated Imaging and Communication with Reconfigurable Intelligent Surfaces|6|2024-04-14|2024-04-13|
-|194|[Pierciest/AC-Polito-23-24](https://github.com/Pierciest/AC-Polito-23-24)|-|6|2024-06-03|2024-04-09|
-|195|[mpoluektov/cutfem-mech-2d](https://github.com/mpoluektov/cutfem-mech-2d)|2D CutFEM in MATLAB|6|2024-04-09|2024-04-09|
-|196|[asnsams/Compressive-Sensing-Image-Reconstruction-Basic-Algorithm](https://github.com/asnsams/Compressive-Sensing-Image-Reconstruction-Basic-Algorithm)|This MATLAB code demonstrates the application of L1 optimization, L2 optimization, and Orthogonal Matching Pursuit (OMP) for the reconstruction of an image from its sparse representation, showcasing t ...|6|2024-06-29|2024-04-06|
-|197|[erdemeray/TBPRL-Codes](https://github.com/erdemeray/TBPRL-Codes)|This repo includes the necessary files to use rate-adaptive protograph-based raptor-like LDPC codes designed for information reconciliation of CV-QKD systems.|6|2024-06-04|2024-04-01|
-|198|[nirmitparikh8/MPC-Controller](https://github.com/nirmitparikh8/MPC-Controller)|This repository contains MATLAB code for simulating an adaptive Model Predictive Control (MPC) based obstacle avoidance system for an ego vehicle. The simulation is performed in a discrete-time settin ...|6|2024-03-31|2024-03-31|
-|199|[longzhen520/S2MVTC](https://github.com/longzhen520/S2MVTC)|The code of CVPR2024 "S^2MVTC: a Simple yet Efficient Scalable Multi-View Tensor Clustering "|6|2024-04-03|2024-03-07|
-|200|[Petrus1904/HandbookLinearDPC](https://github.com/Petrus1904/HandbookLinearDPC)|A collection of code examples for different Data-driven Predictive Control algorithms applied to LTI systems.|6|2024-08-16|2024-03-01|
+|106|[dance858/Toeplitz-covariance-estimation](https://github.com/dance858/Toeplitz-covariance-estimation)|-|9|2024-04-13|2023-12-22|
+|107|[purnanandelango/ct-scvx](https://github.com/purnanandelango/ct-scvx)|Successive Convexification with Continuous-Time Constraint Satisfaction|9|2024-09-13|2023-10-14|
+|108|[simscape/EV-Thermal-Management-Simscape-ELIV-2023](https://github.com/simscape/EV-Thermal-Management-Simscape-ELIV-2023)|Model for ELIV Conference 2023|9|2024-05-02|2023-10-13|
+|109|[shining0611armor/Electrical-Distribution-Simulation--Voltage-Current-Profile-Active-Reactive-Power-Line-Efficiency](https://github.com/shining0611armor/Electrical-Distribution-Simulation--Voltage-Current-Profile-Active-Reactive-Power-Line-Efficiency)|Here we provide a simulation of the distribution of electricity profile with MATLAB. (Note: the report is in Persian language)|8|2024-09-02|2024-07-29|
+|110|[rshante0426/AOSG](https://github.com/rshante0426/AOSG)|Unsupervised multimodal change detection based on adaptive optimization of structured graph|8|2024-07-21|2024-07-18|
+|111|[nhanng9115/Joint-Communications-and-Sensing-Design-for-Multi-Carrier-MIMO-Systems](https://github.com/nhanng9115/Joint-Communications-and-Sensing-Design-for-Multi-Carrier-MIMO-Systems)|Source code for paper "Joint Communications and Sensing Design for Multi-Carrier MIMO Systems" in IEEE SSP 2023.|8|2024-06-19|2024-06-19|
+|112|[burakozpoyraz/MATLAB-EURO24-Predictor](https://github.com/burakozpoyraz/MATLAB-EURO24-Predictor)|MATLAB-based score predictor for 2024 European Championship|8|2024-06-16|2024-06-16|
+|113|[RDJLM/Link-Level-Simulator-for-THz-MIMO-ISAC](https://github.com/RDJLM/Link-Level-Simulator-for-THz-MIMO-ISAC)|A Link-Level Simulator for Terahertz MIMO Integrated Sensing and Communication v1.0|8|2024-07-05|2024-05-25|
+|114|[PM-Hu/MatPFF](https://github.com/PM-Hu/MatPFF)|MatPFF: Matlab FEM program for phase-field fracture (AT1/2, PFCZM) simulation|8|2024-06-01|2024-05-16|
+|115|[HaozeyuLinus/ClassificationOfLowOrderIdemHomGroups](https://github.com/HaozeyuLinus/ClassificationOfLowOrderIdemHomGroups)|Code for auxiliary classification of lower order idempotent hom-groups|8|2024-06-23|2024-05-16|
+|116|[MorePanda123/TubeRRT](https://github.com/MorePanda123/TubeRRT)|This is the code for the homotopic path planning algorithm, named Tube-RRT*.|8|2024-04-25|2024-04-25|
+|117|[LacoLuo/ISAC-Backscatter](https://github.com/LacoLuo/ISAC-Backscatter)|ISAC with Backscattering RFID Tags: Joint Beamforming Design|8|2024-04-30|2024-04-13|
+|118|[yuthreestone/Machine-Learning-and-Deep-Learning-with-MATLAB](https://github.com/yuthreestone/Machine-Learning-and-Deep-Learning-with-MATLAB)|-|8|2024-04-22|2024-04-11|
+|119|[zhaolin820/TTD-configurations-for-near-field-beamforming-parallel-serial-or-hybrid](https://github.com/zhaolin820/TTD-configurations-for-near-field-beamforming-parallel-serial-or-hybrid)|The code for the paper "TTD Configurations for Near-Field Beamforming: Parallel, Serial, or Hybrid?" in IEEE Transactions on Communications|8|2024-07-23|2024-04-04|
+|120|[rshante0426/GSGM](https://github.com/rshante0426/GSGM)|Global Structure Graph Mapping for  Multimodal Change Detection|8|2024-07-18|2024-03-05|
+|121|[PROTEUS-SIM/PROTEUS](https://github.com/PROTEUS-SIM/PROTEUS)|-|8|2024-07-21|2024-01-11|
+|122|[ARCLab-MIT/MOCAT-MC](https://github.com/ARCLab-MIT/MOCAT-MC)|MIT Orbital Capacity Assessment Toolbox MC for the LEO environment|8|2024-08-21|2023-12-14|
+|123|[GaoxingZheng/UFA_toolbox](https://github.com/GaoxingZheng/UFA_toolbox)|U fiber analysis: a toolbox for automated quantification of U-fibers and white matter hyperintensities|8|2024-07-19|2023-12-09|
+|124|[wenfanwu/schism-toolbox](https://github.com/wenfanwu/schism-toolbox)|A MATLAB toolbox designed for the SCHISM ocean model|8|2024-08-27|2023-11-26|
+|125|[MIT-SPARK/certifiable_tracking](https://github.com/MIT-SPARK/certifiable_tracking)|-|8|2024-09-02|2023-11-16|
+|126|[junbolian/HEOA](https://github.com/junbolian/HEOA)|The source code of human evolutionary optimization algorithm (HEOA)|8|2024-05-15|2023-11-15|
+|127|[TinyMPC/tinympc-matlab](https://github.com/TinyMPC/tinympc-matlab)|MATLAB interactive interface for TinyMPC|8|2024-06-04|2023-11-08|
+|128|[arvin1367/3-D-Deformation-Inversion](https://github.com/arvin1367/3-D-Deformation-Inversion)|A MATLAB toolbox for automatically calculating SAR-derived 3-D deformation maps of glacier, landslide, and land subsidence|8|2024-09-03|2023-11-01|
+|129|[mbkers/ship-trajectory-prediction](https://github.com/mbkers/ship-trajectory-prediction)|Ship trajectory prediction using Recurrent Neural Networks (RNNs).|8|2024-09-07|2023-10-25|
+|130|[caoding1996/Federated-Learning-and-CNN-based-Channel-Estimation-in-5G-Ray-Tracing-Vehicular-Channels](https://github.com/caoding1996/Federated-Learning-and-CNN-based-Channel-Estimation-in-5G-Ray-Tracing-Vehicular-Channels)|-|8|2024-05-14|2023-10-24|
+|131|[nla-group/classix-matlab](https://github.com/nla-group/classix-matlab)|Fast and explainable clustering in MATLAB|8|2024-08-07|2023-10-23|
+|132|[X-FLY-BIRD/2D-MUSIC-MUltiple-SIgnal-Classification--Algorithm](https://github.com/X-FLY-BIRD/2D-MUSIC-MUltiple-SIgnal-Classification--Algorithm)|MUISC algorithm for two-dimensional direction-of-arrival (DOA) estimation.|7|2024-08-23|2024-08-21|
+|133|[YF-W/FGRM-AMOD](https://github.com/YF-W/FGRM-AMOD)|FGRM-AMOD: An Adaptive Multi-View Outlier Detection Algorithm based on Fuzzy Rough Set Multi-Granularity(2024,Code)|7|2024-08-11|2024-08-11|
+|134|[zhaolin820/beamfocusing-optimization-for-near-field-wideband-multi-user-communications](https://github.com/zhaolin820/beamfocusing-optimization-for-near-field-wideband-multi-user-communications)|The code for the paper "Beamfocusing Optimization for Near-Field Wideband Multi-User Communications" in IEEE Transactions on Communications|7|2024-09-07|2024-07-23|
+|135|[AlexN-R/Neural-Network-Controller-for-Hybrid-Energy-Management-System-Applied-to-Electric-Vehicles-](https://github.com/AlexN-R/Neural-Network-Controller-for-Hybrid-Energy-Management-System-Applied-to-Electric-Vehicles-)|This is the repository of sources and codes used in that paper of same name (under evaluation).|7|2024-07-03|2024-07-03|
+|136|[MoritzGrundei/tour-into-the-picture](https://github.com/MoritzGrundei/tour-into-the-picture)|This repository contains our group solution for the 2024 challenge in the computer vision class|7|2024-07-09|2024-06-17|
+|137|[qiongwu86/Joint-Optimization-of-AoI-and-Energy-Consumption-in-NR-V2X-System-based-on-DRL](https://github.com/qiongwu86/Joint-Optimization-of-AoI-and-Energy-Consumption-in-NR-V2X-System-based-on-DRL)|-|7|2024-06-06|2024-06-06|
+|138|[marcosalvv/MIMO-OTFS-Communication-System](https://github.com/marcosalvv/MIMO-OTFS-Communication-System)|-|7|2024-08-01|2024-05-23|
+|139|[ooibhadode/FreeTO](https://github.com/ooibhadode/FreeTO)|Freeform 3D topology optimization in MATLAB using structured meshes with smooth boundaries|7|2024-07-06|2024-05-15|
+|140|[RakeshK-Dev/Doppler-Shift-in-5G-NTN](https://github.com/RakeshK-Dev/Doppler-Shift-in-5G-NTN)|MATLAB Simulation to observe the variations in Doppler shift and the Channel Impulse Response due to mobility, sample rate in Freq Selective Fading TDL and Narrowband Flat Fading Channel models.|7|2024-05-13|2024-05-13|
+|141|[ifnspaml/EC-Evaluation-Toolbox](https://github.com/ifnspaml/EC-Evaluation-Toolbox)|Toolbox for Evaluation of AEC/AES Systems|7|2024-07-31|2024-05-13|
+|142|[preugr/Fluid-antenna-block-diagonal-model](https://github.com/preugr/Fluid-antenna-block-diagonal-model)|This repository contains the Matlab code for the research paper entitled "A New Spatial Block Correlation Model for Fluid Antenna Systems"|7|2024-05-10|2024-05-06|
+|143|[kenoticpurge/Corotational-Beam-Elements](https://github.com/kenoticpurge/Corotational-Beam-Elements)|You ever just wanted to do some large deformation, nonlinear analysis of beams?|7|2024-04-30|2024-04-30|
+|144|[liqiao19/Massive_AIoT_Access](https://github.com/liqiao19/Massive_AIoT_Access)|-|7|2024-05-25|2024-04-28|
+|145|[anzhonghu/Compressed-Sensing-and-Kalman-Filter-Based-Channel-Tracking-for-mmWave-Massive-MIMO-Systems](https://github.com/anzhonghu/Compressed-Sensing-and-Kalman-Filter-Based-Channel-Tracking-for-mmWave-Massive-MIMO-Systems)|Compressed Sensing and Kalman Filter Based Channel Tracking for mmWave Massive MIMO Systems|7|2024-04-24|2024-04-24|
+|146|[chuanstudyup/Overactuated-ROV-Simulation](https://github.com/chuanstudyup/Overactuated-ROV-Simulation)|A simulink platform for Overactuated ROV (BlueROV Heav): dynamic positioning, path following... |7|2024-04-19|2024-04-16|
+|147|[IlyaKuprov/Spinach](https://github.com/IlyaKuprov/Spinach)|A spin dynamics simulation package that covers the whole of magnetic resonance spectroscopy and imaging.|7|2024-09-27|2024-04-13|
+|148|[Du-Songtao/Towards-fast-embedded-moving-horizon-state-of-charge-estimation-for-lithium-ion-batteries](https://github.com/Du-Songtao/Towards-fast-embedded-moving-horizon-state-of-charge-estimation-for-lithium-ion-batteries)|The Matlab/Octave code for our paper "Towards fast embedded moving horizon state-of-charge estimation for lithium-ion batteries"|7|2024-05-21|2024-04-05|
+|149|[SamanthaSmith04/Multi-Agent-Robot-Path-Planning-for-Warehouse-Environments](https://github.com/SamanthaSmith04/Multi-Agent-Robot-Path-Planning-for-Warehouse-Environments)|Samantha Smith, Anutam Srinivasan, Izaiah Wiley ECE/MECHE 5463 - Real Time Robotics Final Group Project|7|2024-04-21|2024-04-04|
+|150|[hakanbugraerentug/Differentially-Private-Frequency-Sketches-for-Intermittent-Queries-on-Large-Data-Streams](https://github.com/hakanbugraerentug/Differentially-Private-Frequency-Sketches-for-Intermittent-Queries-on-Large-Data-Streams)|[IEEE International Conference on Big Data (Big Data)], [2020]|7|2024-04-03|2024-04-03|
+|151|[WhiteTowerBear/Fourier-Planar-Expansion-FarField-Channel-Model](https://github.com/WhiteTowerBear/Fourier-Planar-Expansion-FarField-Channel-Model)|L. Wei et al., "Multi-User Holographic MIMO Surfaces: Channel Modeling and Spectral Efficiency Analysis," in IEEE Journal of Selected Topics in Signal Processing, vol. 16, no. 5, pp. 1112-1124, Aug. 2 ...|7|2024-04-02|2024-04-02|
+|152|[golshanilab/UCLA_2P_Miniscope](https://github.com/golshanilab/UCLA_2P_Miniscope)|UCLA Multiphoton Miniature Microscope|7|2024-06-25|2024-03-28|
+|153|[vikiehm/gc-ppsm](https://github.com/vikiehm/gc-ppsm)|-|7|2024-07-02|2024-03-26|
+|154|[claudioperez/GeometricTransformations](https://github.com/claudioperez/GeometricTransformations)|Geometrically exact finite element analysis.|7|2024-09-11|2024-02-20|
+|155|[junbolian/PO](https://github.com/junbolian/PO)|The source code of Parrot Optimizer (PO)|7|2024-04-12|2024-02-07|
+|156|[TUDelft-DataDrivenControl/Automatica2024_CL-DeePC](https://github.com/TUDelft-DataDrivenControl/Automatica2024_CL-DeePC)|Code for submission to 2024 submission to Automatica titled "Closed-loop Data-enabled Predictive Control and its equivalence with Closed-loop Subspace Predictive Control"|7|2024-09-26|2024-01-26|
+|157|[hanbaeklee/ComputationLab](https://github.com/hanbaeklee/ComputationLab)|-|7|2024-09-01|2024-01-24|
+|158|[ArminMoghimi/Tensor-based-keypoint-detection](https://github.com/ArminMoghimi/Tensor-based-keypoint-detection)|Tensor-based Keypoint Detection and Matching for Radiometric and Geometric Multispectral Image Matching.|7|2024-09-06|2024-01-06|
+|159|[EduTole/Dynamic-Macroeconomics](https://github.com/EduTole/Dynamic-Macroeconomics)|-|7|2024-07-27|2023-12-22|
+|160|[jumanamirza/LR-FHSS-receiver](https://github.com/jumanamirza/LR-FHSS-receiver)|Long-Range Frequency Hopping Spread Spectrum (LR-FHSS) receiver that able to decode LR-FHSS packets|7|2024-08-16|2023-12-19|
+|161|[tomgarth/ISC_Earthquake_Toolbox](https://github.com/tomgarth/ISC_Earthquake_Toolbox)|A set of MATLAB functions for downloading and handling earthquake data from the International Seismological Centre (ISC)|7|2024-08-07|2023-11-30|
+|162|[LinStab2D/LinStab2D](https://github.com/LinStab2D/LinStab2D)|Stability and resolvent analysis of compressible viscous flows in MATLAB |7|2024-09-10|2023-11-28|
+|163|[AILocAR/androidGnss](https://github.com/AILocAR/androidGnss)|MATLAB Codes for Pseudorange Positioning with Android Raw GNSS Measurements|7|2024-05-26|2023-11-14|
+|164|[JinshuaiBai/RPIM_NNS](https://github.com/JinshuaiBai/RPIM_NNS)|MATLAB codes for the RPIM-NNS|7|2024-06-26|2023-11-09|
+|165|[maltekrack/NLvib](https://github.com/maltekrack/NLvib)| NLvib is a Matlab tool for nonlinear vibration analysis.|7|2024-06-19|2023-11-08|
+|166|[mjihoon930/Lithium-Ion-Battery-Reduced-Order-Model-FDM-Pade-Approximation-Optimization-Based-](https://github.com/mjihoon930/Lithium-Ion-Battery-Reduced-Order-Model-FDM-Pade-Approximation-Optimization-Based-)|-|7|2024-05-06|2023-10-28|
+|167|[RealJackYeh/ep168_smo](https://github.com/RealJackYeh/ep168_smo)|-|7|2024-06-03|2023-10-07|
+|168|[ihSruhtrA/ihSruhtrA](https://github.com/ihSruhtrA/ihSruhtrA)|-|6|2024-09-10|2024-09-10|
+|169|[versionbaygt/MATLABJokes](https://github.com/versionbaygt/MATLABJokes)|Get MATLAB to tell you a joke.|6|2024-09-14|2024-08-29|
+|170|[mistybeep/WMMSE-Manifold-Optimization-for-MultiUser-MISO](https://github.com/mistybeep/WMMSE-Manifold-Optimization-for-MultiUser-MISO)|-|6|2024-09-21|2024-08-27|
+|171|[RasitEvduzen/NonLinearControl](https://github.com/RasitEvduzen/NonLinearControl)|-|6|2024-07-27|2024-07-20|
+|172|[JianchengAn/SIM-2-MUMISO](https://github.com/JianchengAn/SIM-2-MUMISO)|This is the code for utilizing Stacked Intelligent Metasurfaces (SIM) to implement Multiuser precoding|6|2024-07-17|2024-07-17|
+|173|[zh267/offRL](https://github.com/zh267/offRL)|applying offRL to solve control problems by MATLAB|6|2024-07-03|2024-07-03|
+|174|[hanegeyavuz/YildizNAV](https://github.com/hanegeyavuz/YildizNAV)|Yildiz Navigation is an R&D project focusing on GPS Jamming Status.|6|2024-06-21|2024-06-21|
+|175|[YyangSJ/Near-field-Channel-Estimation-Recovery-Algorithms](https://github.com/YyangSJ/Near-field-Channel-Estimation-Recovery-Algorithms)|-|6|2024-06-10|2024-06-10|
+|176|[OmegaEta/NEO-GGIW-PMBM](https://github.com/OmegaEta/NEO-GGIW-PMBM)|This repository contains the Matlab implementations of the NEO-GGIW-PMBM tracker|6|2024-06-06|2024-06-06|
+|177|[whuwanji/Micropolar_PDDO_Code](https://github.com/whuwanji/Micropolar_PDDO_Code)|The code is for implementing fracture behavior of micropolar continuum with peridynamic differential operator method.|6|2024-06-05|2024-06-05|
+|178|[SaiManojGubbala/Image-Steganography](https://github.com/SaiManojGubbala/Image-Steganography)|This is a project on implementing Image steganography in Matlab using Block - DCT and Huffman Encoding|6|2024-06-11|2024-06-04|
+|179|[nhanng9115/Fairness-Enhancement-of-UAV-Systems-With-Hybrid-Active-Passive-RIS](https://github.com/nhanng9115/Fairness-Enhancement-of-UAV-Systems-With-Hybrid-Active-Passive-RIS)|Fairness Enhancement of UAV Systems With Hybrid Active-Passive RIS|6|2024-05-28|2024-05-28|
+|180|[DayoSun/The-Hiking-Optimization-Algorithm](https://github.com/DayoSun/The-Hiking-Optimization-Algorithm)|This repository is for the related codes for the Hiking Optimization Algorithm|6|2024-05-13|2024-05-10|
+|181|[sefaaras/2024-mso](https://github.com/sefaaras/2024-mso)|-|6|2024-06-15|2024-05-07|
+|182|[orbittheworld/GMANM](https://github.com/orbittheworld/GMANM)|Generalized Matrix-form Atomic Norm Minimization for 2D DOA|6|2024-05-06|2024-05-06|
+|183|[chauby/two_link_arm_in_coppeliasim](https://github.com/chauby/two_link_arm_in_coppeliasim)|-|6|2024-05-04|2024-05-04|
+|184|[LValentinaGambuzza/Code-for-Reconstructing-higher-order-interactions-in-coupled-dynamical-systems](https://github.com/LValentinaGambuzza/Code-for-Reconstructing-higher-order-interactions-in-coupled-dynamical-systems)|This directory contains the MATLAB code for the paper Reconstructing higher-order interactions in coupled dynamical systems by Federico Malizia, Alessandra Corso, Lucia Valentina Gambuzza, Giovanni Ru ...|6|2024-05-02|2024-05-02|
+|185|[Gusoooooz/TFS-LGFCA](https://github.com/Gusoooooz/TFS-LGFCA)|Local-Global Fuzzy Clustering with Anchor Graph (TFS-2023)|6|2024-05-01|2024-05-01|
+|186|[anzhonghu/Channel-Estimation-via-Subcarrier-Grouping-for-Wideband-mmWave-Hybrid-Massive-MIMO-OFDM-Systems](https://github.com/anzhonghu/Channel-Estimation-via-Subcarrier-Grouping-for-Wideband-mmWave-Hybrid-Massive-MIMO-OFDM-Systems)|Channel Estimation via Subcarrier Grouping for Wideband mmWave Hybrid Massive MIMO-OFDM Systems|6|2024-04-24|2024-04-24|
+|187|[KPrawda/mosaic_noise_removal](https://github.com/KPrawda/mosaic_noise_removal)|Non-stationary noise removal from repeated sweep measurements|6|2024-08-19|2024-04-24|
+|188|[heatherw3521/NUDFT](https://github.com/heatherw3521/NUDFT)|MATLAB code for developing a fast least-squares solver for type-II NUDFT|6|2024-04-26|2024-04-23|
+|189|[TMackay-Champion/LinaForma](https://github.com/TMackay-Champion/LinaForma)|LinaForma calculates the optimal pressure-temperature conditions experienced by a rock and the associated uncertainty.|6|2024-05-03|2024-04-23|
+|190|[marekjarocinski/jkshocks_update_fed_202401](https://github.com/marekjarocinski/jkshocks_update_fed_202401)|-|6|2024-04-20|2024-04-19|
+|191|[oist-cnru/The-Bayesian-Behavior-Framework](https://github.com/oist-cnru/The-Bayesian-Behavior-Framework)|-|6|2024-05-28|2024-04-16|
+|192|[LacoLuo/Integrated-Imaging-Comm](https://github.com/LacoLuo/Integrated-Imaging-Comm)|Integrated Imaging and Communication with Reconfigurable Intelligent Surfaces|6|2024-04-14|2024-04-13|
+|193|[Pierciest/AC-Polito-23-24](https://github.com/Pierciest/AC-Polito-23-24)|-|6|2024-06-03|2024-04-09|
+|194|[mpoluektov/cutfem-mech-2d](https://github.com/mpoluektov/cutfem-mech-2d)|2D CutFEM in MATLAB|6|2024-04-09|2024-04-09|
+|195|[asnsams/Compressive-Sensing-Image-Reconstruction-Basic-Algorithm](https://github.com/asnsams/Compressive-Sensing-Image-Reconstruction-Basic-Algorithm)|This MATLAB code demonstrates the application of L1 optimization, L2 optimization, and Orthogonal Matching Pursuit (OMP) for the reconstruction of an image from its sparse representation, showcasing t ...|6|2024-06-29|2024-04-06|
+|196|[erdemeray/TBPRL-Codes](https://github.com/erdemeray/TBPRL-Codes)|This repo includes the necessary files to use rate-adaptive protograph-based raptor-like LDPC codes designed for information reconciliation of CV-QKD systems.|6|2024-06-04|2024-04-01|
+|197|[nirmitparikh8/MPC-Controller](https://github.com/nirmitparikh8/MPC-Controller)|This repository contains MATLAB code for simulating an adaptive Model Predictive Control (MPC) based obstacle avoidance system for an ego vehicle. The simulation is performed in a discrete-time settin ...|6|2024-03-31|2024-03-31|
+|198|[longzhen520/S2MVTC](https://github.com/longzhen520/S2MVTC)|The code of CVPR2024 "S^2MVTC: a Simple yet Efficient Scalable Multi-View Tensor Clustering "|6|2024-04-03|2024-03-07|
+|199|[Petrus1904/HandbookLinearDPC](https://github.com/Petrus1904/HandbookLinearDPC)|A collection of code examples for different Data-driven Predictive Control algorithms applied to LTI systems.|6|2024-08-16|2024-03-01|
+|200|[SkaiLord/Optimization-Techniques](https://github.com/SkaiLord/Optimization-Techniques)|Lab codes for Optimization Techniques (UMA035)|6|2024-05-01|2024-02-17|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

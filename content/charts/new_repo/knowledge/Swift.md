@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Swift
-<sub>Updated: 2024-09-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-09-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[Lakr233/NotchDrop](https://github.com/Lakr233/NotchDrop)|Use your MacBook's notch like Dynamic Island for temporary storing files and AirDrop|1408|2024-08-23|2024-07-07|
+|1|[Lakr233/NotchDrop](https://github.com/Lakr233/NotchDrop)|Use your MacBook's notch like Dynamic Island for temporary storing files and AirDrop|1410|2024-08-23|2024-07-07|
 |2|[jaywcjlove/copybook-generator](https://github.com/jaywcjlove/copybook-generator)|"Copybook Generator" is a powerful copybook generation tool designed to meet the writing practice needs of different users.|862|2024-09-19|2024-06-12|
-|3|[ml-explore/mlx-swift-examples](https://github.com/ml-explore/mlx-swift-examples)|Examples using MLX Swift|760|2024-09-27|2024-02-22|
+|3|[ml-explore/mlx-swift-examples](https://github.com/ml-explore/mlx-swift-examples)|Examples using MLX Swift|842|2024-09-27|2024-02-22|
 |4|[apple/swift-embedded-examples](https://github.com/apple/swift-embedded-examples)|A collection of example projects using Embedded Swift|694|2024-09-26|2023-12-01|
 |5|[mikelikesdesign/SwiftUI-experiments](https://github.com/mikelikesdesign/SwiftUI-experiments)|Examples with SwiftUI that showcase various interactions, animations and more|380|2024-09-13|2024-01-01|
 |6|[abdulrahimiliasu/swiftystuff](https://github.com/abdulrahimiliasu/swiftystuff)|Collection of some swift UI stuff|189|2024-09-07|2024-01-21|
@@ -18,10 +18,10 @@
 |11|[shu223/iOS-GenAI-Sampler](https://github.com/shu223/iOS-GenAI-Sampler)|A collection of Generative AI examples on iOS.|69|2024-07-31|2024-05-29|
 |12|[TouSC/Video2LivePhoto](https://github.com/TouSC/Video2LivePhoto)|Support iOS17 & Wallpaper: a Tool with Example of how to convert a video into a LivePhoto|55|2024-06-20|2024-04-02|
 |13|[davbeck/swift-glob](https://github.com/davbeck/swift-glob)|A native Swift implementation of glob match patterns.|46|2024-07-15|2023-11-23|
-|14|[DandyLyons/NativeRegexExamples](https://github.com/DandyLyons/NativeRegexExamples)|A crowd sourced repository for examples of Swift's native Regex type.|37|2024-09-24|2024-08-31|
+|14|[DandyLyons/NativeRegexExamples](https://github.com/DandyLyons/NativeRegexExamples)|A crowd sourced repository for examples of Swift's native Regex type.|38|2024-09-24|2024-08-31|
 |15|[ynagatomo/HLS360VideoMaterial](https://github.com/ynagatomo/HLS360VideoMaterial)|A sample project that shows how to use a video material with a HTTP Live Streaming (HLS) 360 video in visionOS.|29|2024-08-26|2024-08-25|
 |16|[kaviappletec/MyTool](https://github.com/kaviappletec/MyTool)|This is a tool that you can learn about A12+ iCloud Bypass |28|2024-07-05|2024-07-05|
-|17|[krzyzanowskim/STTextKitPlus](https://github.com/krzyzanowskim/STTextKitPlus)|Collection of TextKit 2 helpers used to build STTextView.|27|2024-09-18|2023-10-19|
+|17|[krzyzanowskim/STTextKitPlus](https://github.com/krzyzanowskim/STTextKitPlus)|Collection of TextKit 2 helpers used to build STTextView.|27|2024-09-28|2023-10-19|
 |18|[rgmez/Design-Patterns-in-Swift](https://github.com/rgmez/Design-Patterns-in-Swift)|This repository is dedicated to exploring various design patterns used in Swift programming. It serves as a guide for both novice and experienced developers to understand and implement design patterns ...|24|2024-03-31|2023-11-22|
 |19|[bernndr/swift-macros](https://github.com/bernndr/swift-macros)|Collection of useful macros|22|2024-07-09|2023-11-21|
 |20|[Pixeland-Tech/SharePlayMock](https://github.com/Pixeland-Tech/SharePlayMock)|An extension API of Swift GroupActivities API to make testing SharePlay features in visionOS easier.|19|2024-09-01|2024-07-04|
@@ -37,7 +37,7 @@
 |30|[TopGApps/QR-Share-Pro](https://github.com/TopGApps/QR-Share-Pro)|The free, open-source, user-privacy focused way to scan, share, and make QR codes.|11|2024-08-25|2024-03-03|
 |31|[42Box/iOS](https://github.com/42Box/iOS)|The collection of all the sites you need for 42 Life.|11|2024-09-05|2023-12-21|
 |32|[phhai1710/HPElectronicProgramGuide](https://github.com/phhai1710/HPElectronicProgramGuide)|A powerful EPG (Electronic Program Guide) UI library for iOS in Swift. Create stunning program guide interfaces with ease.|10|2024-08-06|2024-05-05|
-|33|[nmggithub/Kass](https://github.com/nmggithub/Kass)|Kass is a collection of modules for reverse-engineering and security research on macOS, written in Swift.|9|2024-09-27|2024-07-11|
+|33|[nmggithub/Kass](https://github.com/nmggithub/Kass)|Kass is a collection of modules for reverse-engineering and security research on macOS, written in Swift.|9|2024-09-28|2024-07-11|
 |34|[igor11191708/sharelink-for-swiftui](https://github.com/igor11191708/sharelink-for-swiftui)|ShareLink button for SwiftUI to share various types pdf image text location url of data such as strings, URLs, images, data, attributed strings, and location Swift Compatible with ios 14, share link|9|2024-09-14|2024-07-02|
 |35|[sarangborude/Bubbles](https://github.com/sarangborude/Bubbles)|Sample project for the Bubble Shader Graph tutorial|8|2024-09-23|2024-07-23|
 |36|[trozware/mos_book_code](https://github.com/trozware/mos_book_code)|Downloadable projects and files for use with the 2nd edition of the macOS by Tutorials book by Sarah Reichelt.|8|2024-07-22|2024-07-22|

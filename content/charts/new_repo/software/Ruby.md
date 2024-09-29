@@ -1,18 +1,18 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Ruby
-<sub>Updated: 2024-09-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-09-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[maybe-finance/maybe](https://github.com/maybe-finance/maybe)|The OS for your personal finances|29616|2024-09-27|2024-01-01|
-|2|[Freika/dawarich](https://github.com/Freika/dawarich)|Self-hosted alternative to Google Location History (Google Maps Timeline)|1959|2024-09-23|2024-03-24|
+|1|[maybe-finance/maybe](https://github.com/maybe-finance/maybe)|The OS for your personal finances|29690|2024-09-28|2024-01-01|
+|2|[Freika/dawarich](https://github.com/Freika/dawarich)|Self-hosted alternative to Google Location History (Google Maps Timeline)|1965|2024-09-28|2024-03-24|
 |3|[Multiwoven/multiwoven](https://github.com/Multiwoven/multiwoven)|🔥🔥🔥 Open Source Alternative to Hightouch, Census, and RudderStack - Reverse ETL & Data Activation|1128|2024-09-27|2023-10-20|
 |4|[ankane/transformers-ruby](https://github.com/ankane/transformers-ruby)|State-of-the-art transformers for Ruby|647|2024-09-17|2024-08-19|
 |5|[wouterken/crystalruby](https://github.com/wouterken/crystalruby)|Embed Crystal code directly in Ruby|596|2024-09-15|2024-04-07|
-|6|[rails/rubocop-rails-omakase](https://github.com/rails/rubocop-rails-omakase)|Omakase Ruby styling for Rails|412|2024-09-15|2023-12-29|
+|6|[rails/rubocop-rails-omakase](https://github.com/rails/rubocop-rails-omakase)|Omakase Ruby styling for Rails|413|2024-09-15|2023-12-29|
 |7|[joemasilotti/daily-log](https://github.com/joemasilotti/daily-log)|A Rails, iOS, and (upcoming) Android app to track my daily habits like exercise, medication, food, and water.|241|2024-07-11|2023-12-05|
-|8|[mattbrictson/nextgen](https://github.com/mattbrictson/nextgen)|Generate your next Rails app interactively! This template includes production-ready recommendations for testing, security, developer productivity, and modern frontends. Plus optional Vite support! ⚡️|235|2024-09-27|2023-10-07|
+|8|[mattbrictson/nextgen](https://github.com/mattbrictson/nextgen)|Generate your next Rails app interactively! This template includes production-ready recommendations for testing, security, developer productivity, and modern frontends. Plus optional Vite support! ⚡️|236|2024-09-28|2023-10-07|
 |9|[accessd/terminal-sunday](https://github.com/accessd/terminal-sunday)|Start each new terminal session with a thought-provoking reminder of the time you have to make the most of your life!|234|2024-08-04|2024-01-03|
 |10|[soutaro/rbs-inline](https://github.com/soutaro/rbs-inline)|Inline RBS type declaration|224|2024-09-26|2024-04-04|
 |11|[rameerez/allgood](https://github.com/rameerez/allgood)|✅ Quickly set up a health check page for your Rails app|217|2024-09-27|2024-08-22|
@@ -22,16 +22,16 @@
 |15|[excid3/refer](https://github.com/excid3/refer)|Referral codes for Ruby on Rails applications|195|2024-09-25|2024-06-11|
 |16|[ymoyao/cocoapods-privacy](https://github.com/ymoyao/cocoapods-privacy)|a cocoapods plugin to auto manager Xcode PrivacyInfo.xcprivacy file(create && search)|188|2024-04-18|2024-01-25|
 |17|[bensheldon/activerecord-has_some_of_many](https://github.com/bensheldon/activerecord-has_some_of_many)|Optimized top-N-per-group Active Record associations using lateral joins |187|2024-09-12|2024-07-26|
-|18|[rbui-labs/rbui](https://github.com/rbui-labs/rbui)|Ruby gem for RBUI Components|178|2024-09-25|2023-11-07|
+|18|[rbui-labs/rbui](https://github.com/rbui-labs/rbui)|Ruby gem for RBUI Components|185|2024-09-25|2023-11-07|
 |19|[AndyObtiva/how-to-build-desktop-applications-in-ruby](https://github.com/AndyObtiva/how-to-build-desktop-applications-in-ruby)|Code Exercises for RubyConf 2023 Workshop: How To Build Desktop Applications in Ruby (Andy Maleh)|178|2024-09-23|2023-11-07|
 |20|[gbaptista/ollama-ai](https://github.com/gbaptista/ollama-ai)|A Ruby gem for interacting with Ollama's API that allows you to run open source AI LLMs (Large Language Models) locally.|175|2024-07-21|2024-01-06|
 |21|[fatkodima/active_record_tracer](https://github.com/fatkodima/active_record_tracer)|A tracer for Active Record queries|170|2024-08-10|2024-07-10|
 |22|[harrison-broadbent/better_mailer_previews](https://github.com/harrison-broadbent/better_mailer_previews)|Better Mailer Previews is a Ruby on Rails gem that makes it easier to preview ActionMailer email templates.|157|2024-06-04|2023-12-02|
-|23|[kagisearch/bangs](https://github.com/kagisearch/bangs)|Repository of bangs used by Kagi Search|147|2024-09-23|2024-02-14|
-|24|[vidarh/rubywm](https://github.com/vidarh/rubywm)|An X11 window manager in pure Ruby|147|2024-07-02|2024-01-21|
-|25|[excid3/ferrum_pdf](https://github.com/excid3/ferrum_pdf)|A PDF generator for Rails using Ferrum & headless Chrome|141|2024-09-25|2024-09-20|
-|26|[mattbrictson/bundle_update_interactive](https://github.com/mattbrictson/bundle_update_interactive)|A stylish interactive mode for Bundler, inspired by `yarn upgrade-interactive`|141|2024-09-19|2024-07-08|
-|27|[rails/solid_cable](https://github.com/rails/solid_cable)|A database backed ActionCable adapter|141|2024-09-24|2024-01-03|
+|23|[rails/solid_cable](https://github.com/rails/solid_cable)|A database backed ActionCable adapter|148|2024-09-28|2024-01-03|
+|24|[excid3/ferrum_pdf](https://github.com/excid3/ferrum_pdf)|A PDF generator for Rails using Ferrum & headless Chrome|147|2024-09-25|2024-09-20|
+|25|[kagisearch/bangs](https://github.com/kagisearch/bangs)|Repository of bangs used by Kagi Search|147|2024-09-23|2024-02-14|
+|26|[vidarh/rubywm](https://github.com/vidarh/rubywm)|An X11 window manager in pure Ruby|147|2024-07-02|2024-01-21|
+|27|[mattbrictson/bundle_update_interactive](https://github.com/mattbrictson/bundle_update_interactive)|A stylish interactive mode for Bundler, inspired by `yarn upgrade-interactive`|141|2024-09-19|2024-07-08|
 |28|[socketry/flappy-bird](https://github.com/socketry/flappy-bird)|-|134|2024-09-25|2024-04-24|
 |29|[healthie/activerecord_cursor_paginate](https://github.com/healthie/activerecord_cursor_paginate)|Cursor-based pagination for ActiveRecord|127|2024-08-28|2024-03-05|
 |30|[caley-io/email-rails](https://github.com/caley-io/email-rails)|A new era for emails|123|2024-06-21|2024-02-08|
@@ -46,60 +46,60 @@
 |39|[elastic/crawler](https://github.com/elastic/crawler)|-|104|2024-09-27|2024-04-02|
 |40|[sublayerapp/sublayer](https://github.com/sublayerapp/sublayer)|A model-agnostic Ruby Generative AI DSL and framework. Provides base classes for building Generators, Actions, Tasks, and Agents that can be used to build AI powered applications in Ruby.|102|2024-09-24|2023-11-02|
 |41|[gbaptista/gemini-ai](https://github.com/gbaptista/gemini-ai)|A Ruby Gem for interacting with Gemini through Vertex AI, Generative Language API, or AI Studio, Google's generative AI services.|95|2024-07-21|2023-12-14|
-|42|[kaka-ruto/carpitan](https://github.com/kaka-ruto/carpitan)|Power to the People|93|2024-08-05|2024-06-13|
-|43|[baweaver/refactor](https://github.com/baweaver/refactor)|Utilities for refactoring and upgrading Ruby code based on ASTs.|91|2024-05-06|2024-05-06|
-|44|[TelosLabs/rails-world](https://github.com/TelosLabs/rails-world)|Official App for the Rails World 2024 Conference|88|2024-09-26|2024-06-25|
-|45|[nickthecook/archyve](https://github.com/nickthecook/archyve)|-|87|2024-09-26|2024-03-12|
-|46|[sacckey/rubyboy](https://github.com/sacckey/rubyboy)|A Game Boy emulator written in Ruby|87|2024-09-22|2023-10-13|
+|42|[TelosLabs/rails-world](https://github.com/TelosLabs/rails-world)|Official App for the Rails World 2024 Conference|93|2024-09-26|2024-06-25|
+|43|[kaka-ruto/carpitan](https://github.com/kaka-ruto/carpitan)|Power to the People|93|2024-08-05|2024-06-13|
+|44|[baweaver/refactor](https://github.com/baweaver/refactor)|Utilities for refactoring and upgrading Ruby code based on ASTs.|91|2024-05-06|2024-05-06|
+|45|[nickthecook/archyve](https://github.com/nickthecook/archyve)|-|89|2024-09-28|2024-03-12|
+|46|[sacckey/rubyboy](https://github.com/sacckey/rubyboy)|A Game Boy emulator written in Ruby|87|2024-09-28|2023-10-13|
 |47|[adrienpoly/daisy-on-rails](https://github.com/adrienpoly/daisy-on-rails)|Modern Ruby on Rails template with DaisyUI|84|2024-07-10|2023-12-17|
 |48|[fractaledmind/litestream-ruby](https://github.com/fractaledmind/litestream-ruby)|-|84|2024-09-06|2023-12-11|
-|49|[OlympiaAI/open_router](https://github.com/OlympiaAI/open_router)|Ruby library for OpenRouter API|82|2024-07-28|2024-03-19|
-|50|[Shopify/product-taxonomy](https://github.com/Shopify/product-taxonomy)|Shopify's standardized product taxonomy.|82|2024-09-27|2024-01-29|
-|51|[mschnitzer/ark-survival-ascended-linux-container-image](https://github.com/mschnitzer/ark-survival-ascended-linux-container-image)|A docker/podman container that is able to run an ARK: Survival Ascended on a Linux host.|82|2024-09-09|2023-10-25|
-|52|[Purple-Stock/open-erp](https://github.com/Purple-Stock/open-erp)|ERP Open Source. Uma opção Open Source para o Bling ERP e Tiny ERP. Controle de estoque por QR Code, gerador de notas fiscais, financeiro, Business Inteligence(BI). Integrações com ecommerce e marketp ...|80|2024-09-27|2023-12-14|
+|49|[mschnitzer/ark-survival-ascended-linux-container-image](https://github.com/mschnitzer/ark-survival-ascended-linux-container-image)|A docker/podman container that is able to run an ARK: Survival Ascended on a Linux host.|83|2024-09-09|2023-10-25|
+|50|[OlympiaAI/open_router](https://github.com/OlympiaAI/open_router)|Ruby library for OpenRouter API|82|2024-07-28|2024-03-19|
+|51|[Shopify/product-taxonomy](https://github.com/Shopify/product-taxonomy)|Shopify's standardized product taxonomy.|82|2024-09-28|2024-01-29|
+|52|[Purple-Stock/open-erp](https://github.com/Purple-Stock/open-erp)|ERP Open Source. Uma opção Open Source para o Bling ERP e Tiny ERP. Controle de estoque por QR Code, gerador de notas fiscais, financeiro, Business Inteligence(BI). Integrações com ecommerce e marketp ...|81|2024-09-27|2023-12-14|
 |53|[MoskitoHero/barley](https://github.com/MoskitoHero/barley)|Barley is a fast and efficient ActiveModel serializer|80|2024-09-25|2023-10-09|
 |54|[BemiHQ/bemi-rails](https://github.com/BemiHQ/bemi-rails)|Robust data change tracking for Rails|79|2024-08-13|2024-03-08|
 |55|[keygen-sh/union_of](https://github.com/keygen-sh/union_of)|Create associations that combine multiple Active Record associations using a SQL UNION under the hood.|78|2024-08-17|2024-02-02|
-|56|[michal-kazmierczak/opentelemetry-rails-example](https://github.com/michal-kazmierczak/opentelemetry-rails-example)|-|74|2024-05-27|2023-11-10|
-|57|[pocke/activerecord-originator](https://github.com/pocke/activerecord-originator)|A RubyGem adding SQL comments to indicate the origin of the SQL|70|2024-08-14|2024-03-12|
-|58|[0xFacet/ethscriptions-indexer](https://github.com/0xFacet/ethscriptions-indexer)|The official indexer of the Ethscriptions Protocol|70|2024-08-05|2023-12-17|
-|59|[Envek/sidekiq-fair_tenant](https://github.com/Envek/sidekiq-fair_tenant)|Sidekiq middleware to re-route “greedy” clients’ jobs to slower queues|68|2024-04-01|2024-01-12|
-|60|[mikik0/omochi](https://github.com/mikik0/omochi)| Omochi leverages static analysis techniques to scrutinize Ruby codebases and identify methods that lack associated spec files. |66|2024-08-18|2023-12-10|
-|61|[Shopify/worldwide](https://github.com/Shopify/worldwide)|A gem to assist with the internationalization and localization of ruby code|66|2024-09-25|2023-10-24|
-|62|[OlympiaAI/raix-rails](https://github.com/OlympiaAI/raix-rails)|Ruby AI eXtensions for Rails|65|2024-06-25|2024-04-03|
+|56|[michal-kazmierczak/opentelemetry-rails-example](https://github.com/michal-kazmierczak/opentelemetry-rails-example)|-|76|2024-05-27|2023-11-10|
+|57|[OlympiaAI/raix-rails](https://github.com/OlympiaAI/raix-rails)|Ruby AI eXtensions for Rails|70|2024-06-25|2024-04-03|
+|58|[pocke/activerecord-originator](https://github.com/pocke/activerecord-originator)|A RubyGem adding SQL comments to indicate the origin of the SQL|70|2024-08-14|2024-03-12|
+|59|[0xFacet/ethscriptions-indexer](https://github.com/0xFacet/ethscriptions-indexer)|The official indexer of the Ethscriptions Protocol|70|2024-08-05|2023-12-17|
+|60|[Envek/sidekiq-fair_tenant](https://github.com/Envek/sidekiq-fair_tenant)|Sidekiq middleware to re-route “greedy” clients’ jobs to slower queues|68|2024-04-01|2024-01-12|
+|61|[mikik0/omochi](https://github.com/mikik0/omochi)| Omochi leverages static analysis techniques to scrutinize Ruby codebases and identify methods that lack associated spec files. |66|2024-08-18|2023-12-10|
+|62|[Shopify/worldwide](https://github.com/Shopify/worldwide)|A gem to assist with the internationalization and localization of ruby code|66|2024-09-25|2023-10-24|
 |63|[solid-process/solid-process](https://github.com/solid-process/solid-process)|Write business logic for Ruby/Rails that scales.|63|2024-06-24|2024-03-06|
 |64|[candlefinance/cache](https://github.com/candlefinance/cache)|A key/value store for React Native |62|2024-05-18|2023-10-11|
 |65|[cheddar-me/pecorino](https://github.com/cheddar-me/pecorino)|Rate limiter for Rails based on leaky buckets|58|2024-05-20|2023-10-30|
-|66|[IIC2143/Syllabus-2024-1](https://github.com/IIC2143/Syllabus-2024-1)|-|56|2024-06-10|2024-03-05|
-|67|[kobaltz/mission_control-servers](https://github.com/kobaltz/mission_control-servers)|Monitor for Ruby on Rails applications' server resources|56|2024-09-20|2024-02-05|
-|68|[a-chacon/oas_rails](https://github.com/a-chacon/oas_rails)|Generate Automatic Interactive Documentation for Your Rails API|55|2024-09-10|2024-07-21|
+|66|[a-chacon/oas_rails](https://github.com/a-chacon/oas_rails)|Generate Automatic Interactive Documentation for Your Rails API|56|2024-09-27|2024-07-21|
+|67|[IIC2143/Syllabus-2024-1](https://github.com/IIC2143/Syllabus-2024-1)|-|56|2024-06-10|2024-03-05|
+|68|[kobaltz/mission_control-servers](https://github.com/kobaltz/mission_control-servers)|Monitor for Ruby on Rails applications' server resources|56|2024-09-20|2024-02-05|
 |69|[tompng/selftrick2024](https://github.com/tompng/selftrick2024)|-|55|2024-05-17|2024-05-15|
 |70|[keshavbiswa/active_record_anonymizer](https://github.com/keshavbiswa/active_record_anonymizer)|A ruby gem to anonymize your ActiveRecord attributes with ease.|55|2024-04-07|2023-12-14|
 |71|[ConfigLMM/ConfigLMM](https://github.com/ConfigLMM/ConfigLMM)|Manage configuration for your applications/systems/services/servers|54|2024-08-14|2024-07-11|
 |72|[inhouse-work/protos](https://github.com/inhouse-work/protos)|A UI component library built with Phlex, Tailwindcss, and daisyUI|52|2024-09-25|2024-03-01|
 |73|[instructor-ai/instructor-rb](https://github.com/instructor-ai/instructor-rb)|Structured outputs for LLMs|51|2024-06-12|2024-01-19|
-|74|[pawurb/pg-locks-monitor](https://github.com/pawurb/pg-locks-monitor)|A simple tool to observe PostgreSQL database locks in Rails apps.|50|2024-09-20|2024-05-31|
-|75|[schpet/cool_id](https://github.com/schpet/cool_id)|generate ids for your rails records that have a prefix indicating what model they belong to, followed by a nanoid|48|2024-09-08|2024-08-16|
+|74|[schpet/cool_id](https://github.com/schpet/cool_id)|generate ids for your rails records that have a prefix indicating what model they belong to, followed by a nanoid|50|2024-09-08|2024-08-16|
+|75|[pawurb/pg-locks-monitor](https://github.com/pawurb/pg-locks-monitor)|A simple tool to observe PostgreSQL database locks in Rails apps.|50|2024-09-20|2024-05-31|
 |76|[keygen-sh/null_association](https://github.com/keygen-sh/null_association)|Use the null object pattern with Active Record associations.|48|2024-08-16|2024-07-26|
 |77|[virolea/rosetta](https://github.com/virolea/rosetta)|Unobstrusive Internationalization solution for Rails applications.|47|2024-09-26|2024-08-29|
 |78|[git179979506/cocoapods-sled](https://github.com/git179979506/cocoapods-sled)|-|47|2024-06-22|2024-05-29|
-|79|[skryukov/typelizer](https://github.com/skryukov/typelizer)|A TypeScript type generator for Ruby serializers.|46|2024-09-27|2024-08-02|
-|80|[StevenJL/periodoxical](https://github.com/StevenJL/periodoxical)|Generating date/times based on rules.  Perfect for (but not limited to) calendar/scheduling applications|46|2024-07-06|2024-05-24|
-|81|[virolea/panoptic](https://github.com/virolea/panoptic)|Web interface for the SolidQueue queuing backend|46|2024-04-05|2023-12-28|
-|82|[rameerez/profitable](https://github.com/rameerez/profitable)|💸 Calculate the MRR, ARR, churn, LTV, ARPU, total revenue & valuation of your pay-powered Rails SaaS app.|45|2024-09-27|2024-08-29|
-|83|[keygen-sh/temporary_tables](https://github.com/keygen-sh/temporary_tables)|Create temporary tables and models in RSpec tests.|45|2024-08-15|2024-04-03|
-|84|[CentOS/centos-bootc](https://github.com/CentOS/centos-bootc)|Create and maintain base bootable container images from Fedora ELN and CentOS Stream packages|45|2024-05-24|2023-10-31|
-|85|[ksylvest/omniai](https://github.com/ksylvest/omniai)|OmniAI standardizes the APIs for multiple AI providers like OpenAI's Chat GPT, Mistral's LeChat, Claude's Anthropic and Google's Gemini.|44|2024-09-09|2024-06-10|
-|86|[trinhngocthuyen/cocoapods-spm](https://github.com/trinhngocthuyen/cocoapods-spm)|A CocoaPods plugin to add SPM dependencies to CocoaPods-based projects|44|2024-09-07|2023-11-28|
-|87|[headmandev/passive_columns](https://github.com/headmandev/passive_columns)|ActiveRecord module that allows you to skip selecting specific columns by default and retrieve only on-demand|43|2024-08-11|2024-06-08|
-|88|[solid-process/solid-rails-app](https://github.com/solid-process/solid-rails-app)|Web and REST API made with Ruby on Rails + solid-process|43|2024-06-21|2024-03-23|
-|89|[phlex-ruby/flecks](https://github.com/phlex-ruby/flecks)|-|42|2024-09-26|2024-09-24|
+|79|[phlex-ruby/flecks](https://github.com/phlex-ruby/flecks)|-|46|2024-09-26|2024-09-24|
+|80|[skryukov/typelizer](https://github.com/skryukov/typelizer)|A TypeScript type generator for Ruby serializers.|46|2024-09-27|2024-08-02|
+|81|[StevenJL/periodoxical](https://github.com/StevenJL/periodoxical)|Generating date/times based on rules.  Perfect for (but not limited to) calendar/scheduling applications|46|2024-07-06|2024-05-24|
+|82|[virolea/panoptic](https://github.com/virolea/panoptic)|Web interface for the SolidQueue queuing backend|46|2024-04-05|2023-12-28|
+|83|[rameerez/profitable](https://github.com/rameerez/profitable)|💸 Calculate the MRR, ARR, churn, LTV, ARPU, total revenue & valuation of your pay-powered Rails SaaS app.|45|2024-09-27|2024-08-29|
+|84|[keygen-sh/temporary_tables](https://github.com/keygen-sh/temporary_tables)|Create temporary tables and models in RSpec tests.|45|2024-08-15|2024-04-03|
+|85|[CentOS/centos-bootc](https://github.com/CentOS/centos-bootc)|Create and maintain base bootable container images from Fedora ELN and CentOS Stream packages|45|2024-05-24|2023-10-31|
+|86|[ksylvest/omniai](https://github.com/ksylvest/omniai)|OmniAI standardizes the APIs for multiple AI providers like OpenAI's Chat GPT, Mistral's LeChat, Claude's Anthropic and Google's Gemini.|44|2024-09-09|2024-06-10|
+|87|[trinhngocthuyen/cocoapods-spm](https://github.com/trinhngocthuyen/cocoapods-spm)|A CocoaPods plugin to add SPM dependencies to CocoaPods-based projects|44|2024-09-07|2023-11-28|
+|88|[headmandev/passive_columns](https://github.com/headmandev/passive_columns)|ActiveRecord module that allows you to skip selecting specific columns by default and retrieve only on-demand|43|2024-08-11|2024-06-08|
+|89|[solid-process/solid-rails-app](https://github.com/solid-process/solid-rails-app)|Web and REST API made with Ruby on Rails + solid-process|43|2024-06-21|2024-03-23|
 |90|[Kuper-Tech/sbmt-pact](https://github.com/Kuper-Tech/sbmt-pact)|Ruby gem for simplified Pact testing between microservices, supporting the latest Pact specifications and multiple transport protocols|42|2024-09-11|2024-09-11|
 |91|[github-community-projects/graphql-client](https://github.com/github-community-projects/graphql-client)|A Ruby library for declaring, composing and executing GraphQL queries|42|2024-09-09|2024-01-23|
 |92|[pawurb/devloop](https://github.com/pawurb/devloop)|An automated test runner for Rails that instantly executes specs based on a recent git diff output.|41|2024-09-03|2024-03-03|
 |93|[bholmesdev/astro-on-rails](https://github.com/bholmesdev/astro-on-rails)|Ruby on Rails with Astro as the view layer|40|2024-06-06|2024-06-03|
 |94|[yatish27/shore](https://github.com/yatish27/shore)|Modern Ruby on Rails template to start every new project. Skip the boilerplate and focus on what's unique to your project.|39|2024-09-01|2024-04-19|
-|95|[fractaledmind/enlitenment](https://github.com/fractaledmind/enlitenment)|A Rails application template script to lead your app to SQLite enlightenment.|37|2024-09-18|2024-08-15|
+|95|[fractaledmind/enlitenment](https://github.com/fractaledmind/enlitenment)|A Rails application template script to lead your app to SQLite enlightenment.|38|2024-09-18|2024-08-15|
 |96|[Shopify/protoboeuf](https://github.com/Shopify/protoboeuf)|Experimenting with a protobuf implementation|37|2024-09-09|2024-02-05|
 |97|[Shopify/atlas_engine](https://github.com/Shopify/atlas_engine)|Atlas Engine is a Ruby gem that provides a global address validation API using open source data|37|2024-06-20|2024-01-16|
 |98|[drnic/promptcraft](https://github.com/drnic/promptcraft)|Try new system prompts on your AI conversations. Over and over until you're happy.|36|2024-05-21|2024-05-07|
@@ -118,18 +118,18 @@
 |111|[ahogappa0613/kompo](https://github.com/ahogappa0613/kompo)|A tool to pack Ruby and Ruby scripts in one binary. This tool is still under development.|32|2024-05-30|2024-04-01|
 |112|[patterns-ai-core/ecommerce-ai-assistant-demo](https://github.com/patterns-ai-core/ecommerce-ai-assistant-demo)|An e-commerce AI assistant built with Langchain.rb|32|2024-09-16|2024-03-24|
 |113|[Kuper-Tech/sbmt-kafka_producer](https://github.com/Kuper-Tech/sbmt-kafka_producer)|Ruby gem for producing Kafka messages|32|2024-09-18|2024-02-26|
-|114|[excid3/mailbin](https://github.com/excid3/mailbin)|Record and view Rails ActionMailer emails sent in development|31|2024-09-25|2024-07-29|
-|115|[fsndzomga/mistral_rb](https://github.com/fsndzomga/mistral_rb)|An Easy-to-Use Mistral API Wrapper for Ruby Developers.|31|2024-05-31|2023-12-22|
-|116|[tenderlove/zeroconf](https://github.com/tenderlove/zeroconf)|Multicast DNS client and server written in pure Ruby|31|2024-08-15|2023-12-16|
-|117|[userlist/active_model-relation](https://github.com/userlist/active_model-relation)|Query collections of ActiveModel objects like an ActiveRecord::Relation|30|2024-09-18|2024-08-30|
-|118|[sorah/publikes](https://github.com/sorah/publikes)|publish twitter likes|30|2024-06-18|2024-06-15|
-|119|[evilmartians/capybara-thruster](https://github.com/evilmartians/capybara-thruster)|Thruster server definition for Capybara|30|2024-07-08|2024-05-28|
-|120|[cheddar-me/munster](https://github.com/cheddar-me/munster)|Webhook processing engine for Rails apps|30|2024-08-08|2024-05-08|
-|121|[andrerav/regelverk-for-innleie](https://github.com/andrerav/regelverk-for-innleie)|En primer som oppsummerer essensen av det nye regelverket for innleie, og konsekvenser av dette for selvstendige IT-konsulenter.|30|2024-09-21|2024-03-15|
-|122|[testdouble/azure-blob](https://github.com/testdouble/azure-blob)|Azure blob client and Active Storage adapter. |29|2024-09-13|2024-04-06|
-|123|[searls/dry_eraser](https://github.com/searls/dry_eraser)|Like Active Record's validation feature, but for destroying models|29|2024-05-16|2024-03-26|
-|124|[Kuper-Tech/sbmt-kafka_consumer](https://github.com/Kuper-Tech/sbmt-kafka_consumer)|Ruby gem for consuming Kafka messages|29|2024-09-25|2024-02-26|
-|125|[PhlexyUI/phlexy_ui](https://github.com/PhlexyUI/phlexy_ui)|✨ PhlexyUI is a Ruby UI component library for DaisyUI using Phlex|28|2024-09-27|2024-08-01|
+|114|[userlist/active_model-relation](https://github.com/userlist/active_model-relation)|Query collections of ActiveModel objects like an ActiveRecord::Relation|31|2024-09-18|2024-08-30|
+|115|[PhlexyUI/phlexy_ui](https://github.com/PhlexyUI/phlexy_ui)|✨ PhlexyUI is a Ruby UI component library for DaisyUI using Phlex|31|2024-09-27|2024-08-01|
+|116|[excid3/mailbin](https://github.com/excid3/mailbin)|Record and view Rails ActionMailer emails sent in development|31|2024-09-25|2024-07-29|
+|117|[fsndzomga/mistral_rb](https://github.com/fsndzomga/mistral_rb)|An Easy-to-Use Mistral API Wrapper for Ruby Developers.|31|2024-05-31|2023-12-22|
+|118|[tenderlove/zeroconf](https://github.com/tenderlove/zeroconf)|Multicast DNS client and server written in pure Ruby|31|2024-08-15|2023-12-16|
+|119|[sorah/publikes](https://github.com/sorah/publikes)|publish twitter likes|30|2024-06-18|2024-06-15|
+|120|[evilmartians/capybara-thruster](https://github.com/evilmartians/capybara-thruster)|Thruster server definition for Capybara|30|2024-07-08|2024-05-28|
+|121|[cheddar-me/munster](https://github.com/cheddar-me/munster)|Webhook processing engine for Rails apps|30|2024-08-08|2024-05-08|
+|122|[andrerav/regelverk-for-innleie](https://github.com/andrerav/regelverk-for-innleie)|En primer som oppsummerer essensen av det nye regelverket for innleie, og konsekvenser av dette for selvstendige IT-konsulenter.|30|2024-09-21|2024-03-15|
+|123|[testdouble/azure-blob](https://github.com/testdouble/azure-blob)|Azure blob client and Active Storage adapter. |29|2024-09-13|2024-04-06|
+|124|[searls/dry_eraser](https://github.com/searls/dry_eraser)|Like Active Record's validation feature, but for destroying models|29|2024-05-16|2024-03-26|
+|125|[Kuper-Tech/sbmt-kafka_consumer](https://github.com/Kuper-Tech/sbmt-kafka_consumer)|Ruby gem for consuming Kafka messages|29|2024-09-25|2024-02-26|
 |126|[narralabs/i18n-ai](https://github.com/narralabs/i18n-ai)|A gem that automatically converts your locales into different languages|27|2024-08-13|2024-07-31|
 |127|[ianks/nicetest](https://github.com/ianks/nicetest)|minitest + cli + colors|27|2024-09-20|2024-07-10|
 |128|[nolantait/deskbot](https://github.com/nolantait/deskbot)|Desktop automation library for Ruby|27|2024-05-25|2024-05-23|
@@ -154,14 +154,14 @@
 |147|[wheresfrank/voterr](https://github.com/wheresfrank/voterr)|Voting through your Plex movies to watch with your friends|23|2024-09-27|2024-09-01|
 |148|[AliOsm/phlex-icons](https://github.com/AliOsm/phlex-icons)|General icons extension for Phlex. Includes more than 🎨 12,000 icons.|23|2024-09-27|2024-08-29|
 |149|[carlosdanielpohlod/rails_tracepoint_stack](https://github.com/carlosdanielpohlod/rails_tracepoint_stack)|A formatted output of all methods called in your rails application of code created by the developer, with the complete path to the class/module, including passed params.|23|2024-09-12|2024-07-14|
-|150|[ozeias/homebrew-postgresql](https://github.com/ozeias/homebrew-postgresql)|-|23|2024-05-06|2024-02-16|
-|151|[hschne/puny-monitor](https://github.com/hschne/puny-monitor)|A batteries-included monitoring tool for single hosts. Works great with Kamal 💎|22|2024-09-24|2024-09-15|
-|152|[virolea/persisted_attributes](https://github.com/virolea/persisted_attributes)|Add persisted fields to active record models without migrations. |22|2024-09-27|2024-08-01|
-|153|[avo-hq/active_storage-blurhash](https://github.com/avo-hq/active_storage-blurhash)|-|22|2024-08-22|2024-06-09|
-|154|[ledsun/orbital_ring](https://github.com/ledsun/orbital_ring)|This is a prototype of a front-end framework made in Ruby.|22|2024-05-12|2024-05-12|
-|155|[urumo/ruby_type_system](https://github.com/urumo/ruby_type_system)|-|22|2024-07-13|2024-01-22|
-|156|[ruby/repl_type_completor](https://github.com/ruby/repl_type_completor)|-|22|2024-09-09|2023-11-28|
-|157|[OlympiaAI/raix](https://github.com/OlympiaAI/raix)|Ruby AI eXtensions|21|2024-07-02|2024-04-03|
+|150|[OlympiaAI/raix](https://github.com/OlympiaAI/raix)|Ruby AI eXtensions|23|2024-07-02|2024-04-03|
+|151|[ozeias/homebrew-postgresql](https://github.com/ozeias/homebrew-postgresql)|-|23|2024-05-06|2024-02-16|
+|152|[hschne/puny-monitor](https://github.com/hschne/puny-monitor)|A batteries-included monitoring tool for single hosts. Works great with Kamal 💎|22|2024-09-24|2024-09-15|
+|153|[virolea/persisted_attributes](https://github.com/virolea/persisted_attributes)|Add persisted fields to active record models without migrations. |22|2024-09-27|2024-08-01|
+|154|[avo-hq/active_storage-blurhash](https://github.com/avo-hq/active_storage-blurhash)|-|22|2024-08-22|2024-06-09|
+|155|[ledsun/orbital_ring](https://github.com/ledsun/orbital_ring)|This is a prototype of a front-end framework made in Ruby.|22|2024-05-12|2024-05-12|
+|156|[urumo/ruby_type_system](https://github.com/urumo/ruby_type_system)|-|22|2024-07-13|2024-01-22|
+|157|[ruby/repl_type_completor](https://github.com/ruby/repl_type_completor)|-|22|2024-09-09|2023-11-28|
 |158|[feapaydin/rubygpt](https://github.com/feapaydin/rubygpt)|Ruby wrapper for OpenAI's ChatGPT APIs.|21|2024-08-28|2024-02-20|
 |159|[hiremav/spectre](https://github.com/hiremav/spectre)|Spectre is a Ruby gem that makes it easy to AI-enable your Ruby on Rails application.|20|2024-09-25|2024-08-27|
 |160|[naveenrajm7/vagrant_utm](https://github.com/naveenrajm7/vagrant_utm)| UTM provider for Vagrant|20|2024-08-09|2024-07-15|
@@ -172,7 +172,7 @@
 |165|[BookingSync/dionysus-rb](https://github.com/BookingSync/dionysus-rb)|A framework on top of Karafka for Change Data Capture on the model level.|20|2024-08-02|2023-10-18|
 |166|[hopsoft/fmt](https://github.com/hopsoft/fmt)|CLI Templating System and String Formatter|19|2024-09-22|2024-07-26|
 |167|[Ash3550879/Homey](https://github.com/Ash3550879/Homey)|-|19|2024-07-01|2024-07-01|
-|168|[loomchild/theo-rails](https://github.com/loomchild/theo-rails)|Theo is a small and elegant HTML-like template language for Ruby on Rails, featuring natural partials and computed attributes.|19|2024-09-13|2024-06-16|
+|168|[loomchild/theo-rails](https://github.com/loomchild/theo-rails)|Theo is a small and elegant HTML-like template language for Ruby on Rails, featuring natural partials and computed attributes.|19|2024-09-28|2024-06-16|
 |169|[nshki/naisho](https://github.com/nshki/naisho)|Send personal data deletion request emails to hundreds of data brokers at once.|19|2024-07-11|2024-06-10|
 |170|[owaiswiz/tabler_icons_ruby](https://github.com/owaiswiz/tabler_icons_ruby)|Use any icon from over 4950+ tabler icons with Rails or any Ruby app.|19|2024-08-04|2024-02-17|
 |171|[apicraft-dev/apicraft-rails](https://github.com/apicraft-dev/apicraft-rails)|🚀 Accelerates your development by 2-3x with an API Design First approach. Seamlessly integrates with the Rails server—no fancy tooling or expenses required.|18|2024-09-12|2024-08-31|
@@ -186,17 +186,17 @@
 |179|[CompanyCam/tiptap-ruby](https://github.com/CompanyCam/tiptap-ruby)|A library that allows you to generate, parse, and render TipTap documents in Ruby.|18|2024-09-19|2023-10-28|
 |180|[webamm-org/mokkku](https://github.com/webamm-org/mokkku)|Mokkku is a simple library to provide fake data that is unique for your project. You can easily use LLM like GPT, Gemini, or Claude to fill the mock that based on your database schema.|17|2024-08-22|2024-07-31|
 |181|[thedayisntgray/SimpleRag](https://github.com/thedayisntgray/SimpleRag)|Simple Rag is a lightweight library that transforms any Ruby project into a simple RAG application.|17|2024-09-08|2024-07-28|
-|182|[mperham/job_roundup](https://github.com/mperham/job_roundup)|Benchmarking various background job engines|17|2024-08-05|2024-06-25|
-|183|[keygen-sh/statement_timeout](https://github.com/keygen-sh/statement_timeout)|Wrap an Active Record transaction or query in a local statement timeout.|17|2024-08-14|2024-05-29|
-|184|[WaterSwallow/Many_Fold](https://github.com/WaterSwallow/Many_Fold)|-|17|2024-08-19|2024-05-21|
-|185|[digital-fabric/sirop](https://github.com/digital-fabric/sirop)|Ruby code rewriter|17|2024-04-29|2024-02-20|
-|186|[KeldenPDorji/KeldenPDorji.github.io](https://github.com/KeldenPDorji/KeldenPDorji.github.io)|-|17|2024-05-28|2024-02-15|
-|187|[google-checks/checks-fastlane-plugin](https://github.com/google-checks/checks-fastlane-plugin)|This plugin scans your mobile app using Google Checks to uncover compliance issues and data collection/sharing behaviors.|17|2024-06-14|2024-02-08|
-|188|[wassson/minitest-openapi](https://github.com/wassson/minitest-openapi)|API documentation generator based on the OpenAPI spec.|17|2024-05-24|2023-12-31|
-|189|[MadBomber/aia](https://github.com/MadBomber/aia)|AI Assistant (aia) a Ruby Gem for using genAI on the CLI|17|2024-08-21|2023-11-23|
-|190|[searls/feed2gram](https://github.com/searls/feed2gram)|Reads an Atom feed and posts its entries to Instagram (basically feed2toot, but for Instagram)|17|2024-08-14|2023-10-29|
-|191|[sebyx07/ruby2html](https://github.com/sebyx07/ruby2html)|Rails views with ruby|16|2024-09-06|2024-08-07|
-|192|[appacademy/aa-public-ruby-curriculum](https://github.com/appacademy/aa-public-ruby-curriculum)|-|16|2024-08-08|2024-07-11|
+|182|[appacademy/aa-public-ruby-curriculum](https://github.com/appacademy/aa-public-ruby-curriculum)|-|17|2024-08-08|2024-07-11|
+|183|[mperham/job_roundup](https://github.com/mperham/job_roundup)|Benchmarking various background job engines|17|2024-08-05|2024-06-25|
+|184|[keygen-sh/statement_timeout](https://github.com/keygen-sh/statement_timeout)|Wrap an Active Record transaction or query in a local statement timeout.|17|2024-08-14|2024-05-29|
+|185|[WaterSwallow/Many_Fold](https://github.com/WaterSwallow/Many_Fold)|-|17|2024-08-19|2024-05-21|
+|186|[digital-fabric/sirop](https://github.com/digital-fabric/sirop)|Ruby code rewriter|17|2024-04-29|2024-02-20|
+|187|[KeldenPDorji/KeldenPDorji.github.io](https://github.com/KeldenPDorji/KeldenPDorji.github.io)|-|17|2024-05-28|2024-02-15|
+|188|[google-checks/checks-fastlane-plugin](https://github.com/google-checks/checks-fastlane-plugin)|This plugin scans your mobile app using Google Checks to uncover compliance issues and data collection/sharing behaviors.|17|2024-06-14|2024-02-08|
+|189|[wassson/minitest-openapi](https://github.com/wassson/minitest-openapi)|API documentation generator based on the OpenAPI spec.|17|2024-05-24|2023-12-31|
+|190|[MadBomber/aia](https://github.com/MadBomber/aia)|AI Assistant (aia) a Ruby Gem for using genAI on the CLI|17|2024-08-21|2023-11-23|
+|191|[searls/feed2gram](https://github.com/searls/feed2gram)|Reads an Atom feed and posts its entries to Instagram (basically feed2toot, but for Instagram)|17|2024-08-14|2023-10-29|
+|192|[sebyx07/ruby2html](https://github.com/sebyx07/ruby2html)|Rails views with ruby|16|2024-09-06|2024-08-07|
 |193|[timbot1789/rubygo](https://github.com/timbot1789/rubygo)|A simple Go game made in ruby|16|2024-06-22|2024-06-17|
 |194|[lewispb/kamal-prometheus-example](https://github.com/lewispb/kamal-prometheus-example)|An example Rails app demonstrating using Prometheus metrics with Kamal|16|2024-05-24|2024-05-23|
 |195|[NitrixXero/sftphy](https://github.com/NitrixXero/sftphy)|SFTP File Manager|16|2024-04-16|2024-04-16|
