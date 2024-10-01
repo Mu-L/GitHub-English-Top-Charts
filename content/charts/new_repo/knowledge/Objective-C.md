@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Objective-C
-<sub>Updated: 2024-09-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-10-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -14,8 +14,9 @@
 |7|[aysecetin/365-days-of-coding-with-Swift](https://github.com/aysecetin/365-days-of-coding-with-Swift)| This repo serves as a resource where I document my Swift learning process. I will share my learnings and projects here as I learn the Swift language and the SwiftUI framework.|3|2024-09-16|2024-08-15|
 |8|[doraorak/insheaders](https://github.com/doraorak/insheaders)|Objc headers of instagram 333.0.4. Along with FBSharedFramework. Uploaded mainly for my own use.|3|2024-06-28|2024-06-28|
 |9|[bigc0127/Hackintosh-HP-DevOne](https://github.com/bigc0127/Hackintosh-HP-DevOne)|this is my EFI folder for running MacOS on the HP DevOne (HP EliteBook 845 G8)|2|2024-07-13|2024-07-13|
-|10|[MichaelLedger/ThreadSafeDictionary](https://github.com/MichaelLedger/ThreadSafeDictionary)|NSMutableDictionary of iOS is not threadsafe. You may encountered problem when read/write shared NSMutableDictinary from multiple thread. I want to make fast and threadsafe mutable dictionary.|2|2024-06-18|2024-06-17|
-|11|[deffkaaaa/Sorter](https://github.com/deffkaaaa/Sorter)|A sorting program that was created for KPI Coursework, 1st year, 2nd semester|2|2024-05-29|2024-05-29|
+|10|[Smohana-Priya/Animations](https://github.com/Smohana-Priya/Animations)|Simple animation examples|2|2024-09-26|2024-06-22|
+|11|[MichaelLedger/ThreadSafeDictionary](https://github.com/MichaelLedger/ThreadSafeDictionary)|NSMutableDictionary of iOS is not threadsafe. You may encountered problem when read/write shared NSMutableDictinary from multiple thread. I want to make fast and threadsafe mutable dictionary.|2|2024-06-18|2024-06-17|
+|12|[deffkaaaa/Sorter](https://github.com/deffkaaaa/Sorter)|A sorting program that was created for KPI Coursework, 1st year, 2nd semester|2|2024-05-29|2024-05-29|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>
