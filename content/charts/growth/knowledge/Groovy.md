@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Groovy
-<sub>Updated: 2024-10-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-10-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -24,11 +24,11 @@
 |17|[gabriel-rodrigues-f/btp-samples](https://github.com/gabriel-rodrigues-f/btp-samples)|Useful code snippets for use in SAP Cloud Integration integrations|3|0|2024-09-25|
 |18|[electronicvisions/jenlib](https://github.com/electronicvisions/jenlib)|Jenlib is a shared library offering various helpers and abstractions for Jenkins CI instances.|11|0|2024-09-23|
 |19|[lucas-sancere/QuPath_Codes](https://github.com/lucas-sancere/QuPath_Codes)|Collection of some groovy scripts for QuPath. Public repo but made mostly for personal use. |5|0|2024-07-10|
-|20|[lmagyar/homeassistant-addon-samba-interface](https://github.com/lmagyar/homeassistant-addon-samba-interface)|Restores interfaces configuration for the official Home Assistant Samba add-on https://github.com/home-assistant/addons/tree/master/samba|21|0|2024-09-20|
+|20|[lmagyar/homeassistant-addon-samba-interface](https://github.com/lmagyar/homeassistant-addon-samba-interface)|Restores interfaces configuration for the official Home Assistant Samba add-on https://github.com/home-assistant/addons/tree/master/samba|21|0|2024-10-01|
 |21|[Antiz96/Linux-Server](https://github.com/Antiz96/Linux-Server)|Linux servers/services installations, configurations, ansible playbooks and customizations/preferences (with config/dotfiles).|3|0|2024-09-24|
 |22|[HariSekhon/Jenkins](https://github.com/HariSekhon/Jenkins)|Jenkins CI/CD - Advanced Jenkinsfile & Groovy Shared Library of reusable functions and pipelines - AWS, GCP, Docker, Kubernetes, ArgoCD, Slack notifications, Git Merge, Terraform, Cloudflare, Jenkins  ...|63|0|2024-09-23|
-|23|[hmcts/cnp-jenkins-library](https://github.com/hmcts/cnp-jenkins-library)|Shared jenkins library|29|0|2024-09-30|
-|24|[opendevstack/ods-jenkins-shared-library](https://github.com/opendevstack/ods-jenkins-shared-library)|Shared Jenkins library which all ODS projects & components use - provisioning, SonarQube code scanning, Nexus publishing, OpenShift template based deployments and repository orchestration|71|0|2024-09-27|
+|23|[hmcts/cnp-jenkins-library](https://github.com/hmcts/cnp-jenkins-library)|Shared jenkins library|29|0|2024-10-01|
+|24|[opendevstack/ods-jenkins-shared-library](https://github.com/opendevstack/ods-jenkins-shared-library)|Shared Jenkins library which all ODS projects & components use - provisioning, SonarQube code scanning, Nexus publishing, OpenShift template based deployments and repository orchestration|71|0|2024-10-01|
 |25|[cloudogu/gitops-build-lib](https://github.com/cloudogu/gitops-build-lib)|Jenkins pipeline shared library for automating deployments via GitOps|31|0|2024-09-23|
 |26|[colinbut/jenkins-pipelines](https://github.com/colinbut/jenkins-pipelines)|A collection of different types of Jenkinsfile (Pipeline as Code)|15|0|2024-08-26|
 |27|[paulk-asert/groovy-data-science](https://github.com/paulk-asert/groovy-data-science)|Some Data Science examples using Groovy|36|0|2024-07-01|
@@ -37,7 +37,7 @@
 |30|[engswee/flashpipe-demo](https://github.com/engswee/flashpipe-demo)|FlashPipe Examples Repository|4|0|2024-09-25|
 |31|[snyk-labs/snyk-cicd-integration-examples](https://github.com/snyk-labs/snyk-cicd-integration-examples)|Examples of integrating the Snyk CLI into a CI/CD system|78|0|2024-04-02|
 |32|[daluobai-devops/jenkins-shared-library](https://github.com/daluobai-devops/jenkins-shared-library)|Jenkins Pipeline Extending with Shared Libraries |38|0|2024-09-18|
-|33|[apache/netbeans-jenkins-lib](https://github.com/apache/netbeans-jenkins-lib)|Apache NetBeans Shared Jenkins Pipeline|5|0|2024-09-20|
+|33|[apache/netbeans-jenkins-lib](https://github.com/apache/netbeans-jenkins-lib)|Apache NetBeans Shared Jenkins Pipeline|5|0|2024-10-01|
 |34|[University-of-Strathclyde-LTE-Team/moodle-plugin-ci-jenkins](https://github.com/University-of-Strathclyde-LTE-Team/moodle-plugin-ci-jenkins)|A Jenkins shared library for running moodle-plugin-ci|2|0|2024-05-30|
 |35|[elcicd/el-CICD](https://github.com/elcicd/el-CICD)|A Jenkins shared library that powers el-CICD pipelines.|5|0|2024-08-21|
 |36|[evry-ace/jenkins-ace-library](https://github.com/evry-ace/jenkins-ace-library)|Ace Shared Library for Jenkins Pipeline|7|0|2024-09-23|

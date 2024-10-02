@@ -1,17 +1,17 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Pascal
-<sub>Updated: 2024-10-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-10-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[Fr0sT-Brutal/awesome-pascal](https://github.com/Fr0sT-Brutal/awesome-pascal)|A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!|1803|2024-04-25|
-|2|[dpradov/keynote-nf](https://github.com/dpradov/keynote-nf)|Tabbed notebook with RichText editor, multi-level notes and strong encryption.|252|2024-09-29|
+|2|[dpradov/keynote-nf](https://github.com/dpradov/keynote-nf)|Tabbed notebook with RichText editor, multi-level notes and strong encryption.|252|2024-10-01|
 |3|[gabr42/GpDelphiUnits](https://github.com/gabr42/GpDelphiUnits)|A collection of my open sourced Delphi units|168|2024-06-12|
 |4|[jimmckeeth/DelphiPatterns](https://github.com/jimmckeeth/DelphiPatterns)|Complete set of all the GoF design patterns implemented in Delphi language|163|2024-07-29|
-|5|[frones/ACBr](https://github.com/frones/ACBr)|Projeto ACBr - O branch master é um repositório espelho do SVN original (svn://svn.code.sf.net/p/acbr/code/trunk2), criado e mantido com git-svn.|151|2024-09-25|
+|5|[frones/ACBr](https://github.com/frones/ACBr)|Projeto ACBr - O branch master é um repositório espelho do SVN original (svn://svn.code.sf.net/p/acbr/code/trunk2), criado e mantido com git-svn.|152|2024-09-25|
 |6|[grijjy/JustAddCode](https://github.com/grijjy/JustAddCode)|Code snippets from Grijjy's Just Add Code blog|136|2024-08-07|
-|7|[avk959/LGenerics](https://github.com/avk959/LGenerics)|Generic algorithms and data structures for Lazarus/Free Pascal|111|2024-09-27|
+|7|[avk959/LGenerics](https://github.com/avk959/LGenerics)|Generic algorithms and data structures for Lazarus/Free Pascal|112|2024-09-27|
 |8|[matortheeternal/TES5EditScripts](https://github.com/matortheeternal/TES5EditScripts)|A collection of TES5Edit/FNVEdit scripts for modders.|86|2024-07-06|
 |9|[RetroNick2020/raster-master](https://github.com/RetroNick2020/raster-master)|Raster Master Sprite/Icon/Map editor for Windows 10/11 that generates putimage code and map code for Open Watcom, gcc, AmigaBASIC, Amiga C, Amiga Pascal ,QuickBasic, QB64, Quick C, Turbo Pascal,  free ...|68|2024-09-30|
 |10|[ultibohub/Examples](https://github.com/ultibohub/Examples)|Ultibo Examples|44|2024-08-27|
@@ -23,7 +23,7 @@
 |16|[TheLazyTomcat/lib.SharedMemoryStream](https://github.com/TheLazyTomcat/lib.SharedMemoryStream)|Simple class that creates and provides access to a shared (system-wide) memory with standard stream interface (read, write, seek, ...).|14|2024-09-13|
 |17|[Kagamma/nepper](https://github.com/Kagamma/nepper)|OPL2/3 tracker that runs on IBM XT and clones like the Book 8088|13|2024-04-24|
 |18|[PhrozenIO/Snippets](https://github.com/PhrozenIO/Snippets)|Repository that will progressively hold tiny projects and code snippets.|12|2024-05-22|
-|19|[PascalCorpsman/mini_projects](https://github.com/PascalCorpsman/mini_projects)|Collection of small and easy to understand mini projects that are too big to be a example and to small to be a real project|11|2024-09-28|
+|19|[PascalCorpsman/mini_projects](https://github.com/PascalCorpsman/mini_projects)|Collection of small and easy to understand mini projects that are too big to be a example and to small to be a real project|11|2024-10-01|
 |20|[GuvaCode/Ray4LazExample](https://github.com/GuvaCode/Ray4LazExample)|Additional raylib examples from third-party developers. Rewritten for the Pascal language.|11|2024-08-24|
 |21|[NickHodges/NickBookCode](https://github.com/NickHodges/NickBookCode)|The code for all three of Nick Hodges' Delphi Books|10|2024-06-10|
 |22|[joecare99/Public](https://github.com/joecare99/Public)|A Convolut of Ideas, Components, Examples and Projects|10|2024-06-28|
