@@ -1,15 +1,15 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Assembly
-<sub>Updated: 2024-10-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-10-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode)|Collection of malware source code for a variety of platforms in an array of different programming languages.|15634|2024-07-10|
-|2|[mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering)|A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM and embedded RISC-V architectures.|11054|2024-09-27|
-|3|[0xAX/asm](https://github.com/0xAX/asm)|Learning assembly for Linux x86_64|2238|2024-08-20|
+|1|[vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode)|Collection of malware source code for a variety of platforms in an array of different programming languages.|15638|2024-07-10|
+|2|[mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering)|A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM and embedded RISC-V architectures.|11056|2024-09-27|
+|3|[0xAX/asm](https://github.com/0xAX/asm)|Learning assembly for Linux x86_64|2240|2024-08-20|
 |4|[intel/optimization-manual](https://github.com/intel/optimization-manual)|Contains the source code examples described in the "Intel® 64 and IA-32 Architectures Optimization Reference Manual"|776|2024-05-03|
-|5|[mschwartz/assembly-tutorial](https://github.com/mschwartz/assembly-tutorial)|Programming in assembly language tutorial|599|2024-09-10|
+|5|[mschwartz/assembly-tutorial](https://github.com/mschwartz/assembly-tutorial)|Programming in assembly language tutorial|600|2024-09-10|
 |6|[azkadev/operating_system_guide](https://github.com/azkadev/operating_system_guide)|Operating System Guide Dari 0|339|2024-04-13|
 |7|[netspooky/golfclub](https://github.com/netspooky/golfclub)|Binary Golf Examples and Resources|247|2024-06-30|
 |8|[gmarino2048/64bit-os-tutorial](https://github.com/gmarino2048/64bit-os-tutorial)|This OS Tutorial expands on the fundamental concepts covered in cfenollosa/os-tutorial and covers entering long mode on the x86_64 architecture. It also uses clang rather than relying on an external c ...|162|2024-08-30|
@@ -35,7 +35,7 @@
 |28|[Apress/learn-to-program-w-assembly](https://github.com/Apress/learn-to-program-w-assembly)|Source Code for 'Learn to Program with Assembly' by Jonathan Bartlett|31|2024-07-05|
 |29|[andrewt0301/hse-acos-course](https://github.com/andrewt0301/hse-acos-course)|Materials for the "Computer Architecture and Operating Systems" course taught at Faculty of Computer Science of Higher School of Economics|31|2024-09-15|
 |30|[dsoze1138/MPLABX_pic-as_examples](https://github.com/dsoze1138/MPLABX_pic-as_examples)|Examples from XC8-PIC-Assembler-UG-for-EE-50002994A.pdf|30|2024-08-09|
-|31|[q60/rot13](https://github.com/q60/rot13)|This is a collection of ROT13 encoding programms written in different languages. Just for fun.|30|2024-08-24|
+|31|[q60/rot13](https://github.com/q60/rot13)|This is a collection of ROT13 encoding programms written in different languages. Just for fun.|30|2024-10-03|
 |32|[Kartones/gameboy](https://github.com/Kartones/gameboy)|Gameboy development examples and tools|28|2024-09-19|
 |33|[tony-cruise/ProgrammingGamesForTheNES](https://github.com/tony-cruise/ProgrammingGamesForTheNES)|Support files for the book "Classic Game Programming on the NES"|26|2024-06-14|
 |34|[markmoxon/master-elite-beebasm](https://github.com/markmoxon/master-elite-beebasm)|Fully documented and annotated source code for Elite on the BBC Master|26|2024-09-18|
@@ -43,10 +43,10 @@
 |36|[lajohnston/smslib](https://github.com/lajohnston/smslib)|Z80 libraries for the Sega Master System|22|2024-07-13|
 |37|[shikaan/x86-64-asm-intro](https://github.com/shikaan/x86-64-asm-intro)|Learning x86-64 assembly|19|2024-09-26|
 |38|[EhsanShahbazii/Usefull-Telegram-Bots](https://github.com/EhsanShahbazii/Usefull-Telegram-Bots)|🤖A collection of the best and most practical Telegram bots that make many things easy for us. Downloading files from social networks, receiving information, making gifs, downloading music, etc🤖|18|2024-09-04|
-|39|[SvOlli/sorbus](https://github.com/SvOlli/sorbus)|The Sorbus Computer is a very simple 65c02 computer for tinkering and learning|16|2024-10-02|
+|39|[SvOlli/sorbus](https://github.com/SvOlli/sorbus)|The Sorbus Computer is a very simple 65c02 computer for tinkering and learning|16|2024-10-03|
 |40|[aappleby/gbmicrotest](https://github.com/aappleby/gbmicrotest)|A large collection of as-small-as-possible tests for your Game Boy emulator|16|2024-04-26|
-|41|[Candle-Electric/VMU_Development_Beginners-Tutorial](https://github.com/Candle-Electric/VMU_Development_Beginners-Tutorial)|A Guide For VMU Development For Beginners .|16|2024-10-02|
-|42|[gmostofabd/8051-Assembly-Programming-and-Proteus-Simulation](https://github.com/gmostofabd/8051-Assembly-Programming-and-Proteus-Simulation)|⚙️  A comprehensive Tutorials on ATMEL 8051 Series Microcontrollers (AT89S51/52) Programming using Assembly Language.  Learn how to use 8051 Microcontrollers from the ground up! This repository covers ...|16|2024-10-01|
+|41|[Candle-Electric/VMU_Development_Beginners-Tutorial](https://github.com/Candle-Electric/VMU_Development_Beginners-Tutorial)|A Guide For VMU Development For Beginners .|16|2024-10-03|
+|42|[gmostofabd/8051-Assembly-Programming-and-Proteus-Simulation](https://github.com/gmostofabd/8051-Assembly-Programming-and-Proteus-Simulation)|⚙️  A comprehensive Tutorials on ATMEL 8051 Series Microcontrollers (AT89S51/52) Programming using Assembly Language.  Learn how to use 8051 Microcontrollers from the ground up! This repository covers ...|16|2024-10-03|
 |43|[EdSalisbury/edventure](https://github.com/EdSalisbury/edventure)|Atari 800 Roguelike - Tutorial series: https://youtu.be/whhTuBpkcrY|16|2024-09-13|
 |44|[EvilBytecode/Go-Assembly](https://github.com/EvilBytecode/Go-Assembly)|Examples how to use a Assm (Assembly) in a go.|15|2024-07-01|
 |45|[hoangsonww/Digital-Design-Labs](https://github.com/hoangsonww/Digital-Design-Labs)|🖥️ A collection of SystemVerilog modules and Assembly programs. This repo includes examples of decoders, encoders, binary adders, and interactive games such as Guessing Game implemented in hardware de ...|15|2024-06-21|
@@ -65,7 +65,7 @@
 |58|[mkwcat/gecko-codes](https://github.com/mkwcat/gecko-codes)|Collection of various gecko codes I've made for Wii games|8|2024-06-27|
 |59|[skx/cpm-dist](https://github.com/skx/cpm-dist)|A curated collection of CP/M software|8|2024-06-24|
 |60|[huanguang-z/discipline-core-courses](https://github.com/huanguang-z/discipline-core-courses)|The record of my learning experience of CS discipline-core-courses|8|2024-05-18|
-|61|[richardturnnidge/lessons](https://github.com/richardturnnidge/lessons)|z80 assembly code to accompany video lessons|7|2024-05-01|
+|61|[richardturnnidge/lessons](https://github.com/richardturnnidge/lessons)|z80 assembly code to accompany video lessons|7|2024-10-03|
 |62|[Faiqa-batool/Assembly-Language-Programming](https://github.com/Faiqa-batool/Assembly-Language-Programming)|This repository contains all the programs I coded in the course of Assembly Language Programming.|7|2024-07-12|
 |63|[Turboxray/PCE_translucent_demo_examples](https://github.com/Turboxray/PCE_translucent_demo_examples)|A series of builds showing how to perform translucency effects on the PCE.|6|2024-08-25|
 |64|[kyle41111/MalwareDevelopment](https://github.com/kyle41111/MalwareDevelopment)|The projects im more confident in while learning Malware Development|6|2024-09-03|
@@ -77,7 +77,7 @@
 |70|[EmbeddedSam/EEEN10202_Assembly_Examples](https://github.com/EmbeddedSam/EEEN10202_Assembly_Examples)|pic-as examples for use in the EEEN10202 course|5|2024-04-19|
 |71|[markmoxon/elite-compendium-bbc-master](https://github.com/markmoxon/elite-compendium-bbc-master)|Source for the Elite Compendium on the BBC Master, a collection of the best Acornsoft Elite hacks on one disc|5|2024-08-27|
 |72|[linuxplayground/6502-retro-banked-v3](https://github.com/linuxplayground/6502-retro-banked-v3)|An ever growing list of 6502 projects.|5|2024-09-21|
-|73|[folsomcp/specpolFlow](https://github.com/folsomcp/specpolFlow)|Tools and tutorials for the analysis of stellar spectropolarimetric observations.|5|2024-10-02|
+|73|[folsomcp/specpolFlow](https://github.com/folsomcp/specpolFlow)|Tools and tutorials for the analysis of stellar spectropolarimetric observations.|5|2024-10-03|
 |74|[dieterwhitt/FizzBuzz_Copyable_2](https://github.com/dieterwhitt/FizzBuzz_Copyable_2)|FizzBuzz Tutorial|4|2024-10-02|
 |75|[CHUN983/nuk_assembly_project](https://github.com/CHUN983/nuk_assembly_project)|the assembly learning|4|2024-06-13|
 |76|[Omarmasalmah/Mips_assembly_medical_test_system](https://github.com/Omarmasalmah/Mips_assembly_medical_test_system)|MIPS Assembly project for Computer Architecture Course implements a patient medical record management system.|4|2024-04-30|
@@ -92,7 +92,7 @@
 |85|[adithya2424/STM32_SERIES](https://github.com/adithya2424/STM32_SERIES)|Guide for bare metal programming using stm32|4|2024-05-01|
 |86|[rgplantz/itco_ARM](https://github.com/rgplantz/itco_ARM)|For RPi book|4|2024-10-02|
 |87|[albs-br/msx-tests](https://github.com/albs-br/msx-tests)|Small pieces of code made while learning some new MSX stuff, especially MSX 2 and over|4|2024-09-02|
-|88|[Nikitat0/StarbirdOS](https://github.com/Nikitat0/StarbirdOS)|Operational system created by Alliance to Restore the Republic (SysPro OSE course project)|3|2024-10-01|
+|88|[Nikitat0/StarbirdOS](https://github.com/Nikitat0/StarbirdOS)|Operational system created by Alliance to Restore the Republic (SysPro OSE course project)|3|2024-10-03|
 |89|[xfcasio/bento](https://github.com/xfcasio/bento)|A collection of macros intended at making assembly more convenient to write and a bit closer to C. Only for x86_64 linux and the FASM assembler (for now).|3|2024-08-20|
 |90|[Ryzee119/visor_hello_world](https://github.com/Ryzee119/visor_hello_world)|Minimilast OG Xbox Visor Exploit to Hello World - Just me tinkering learning about it|3|2024-09-30|
 |91|[cticenhour/moose-workshop-ukaea](https://github.com/cticenhour/moose-workshop-ukaea)|Tutorial files for the MOOSE portion of the 2024 UKAEA School on Open-Source Software for Fusion Engineering Simulation|3|2024-08-05|
@@ -112,7 +112,7 @@
 |105|[mabushelbaia/Arm-Assembly](https://github.com/mabushelbaia/Arm-Assembly)|Arm Assembly programing examples and classworks.|3|2024-09-25|
 |106|[Ian-McG-1970/c64](https://github.com/Ian-McG-1970/c64)|6502 code examples|3|2024-09-16|
 |107|[zoggins/RC2014](https://github.com/zoggins/RC2014)|My collection of code and docs for the RC2014.|3|2024-09-11|
-|108|[indimail/tinydnssec](https://github.com/indimail/tinydnssec)|djbdns with dnssec, dnscurve support - a collection of Domain Name System tools|3|2024-10-01|
+|108|[indimail/tinydnssec](https://github.com/indimail/tinydnssec)|djbdns with dnssec, dnscurve support - a collection of Domain Name System tools|3|2024-10-03|
 |109|[raventid/coursera_learning](https://github.com/raventid/coursera_learning)|Used to be my Coursera's homeworks and notes. Now it's a knowledge kitchen sink :)|3|2024-09-23|
 |110|[langel/vic20-songs](https://github.com/langel/vic20-songs)|collection of audio programs for commodore vic20|3|2024-07-30|
 |111|[lajohnston/zest](https://github.com/lajohnston/zest)|Test runner for the Sega Master System, for use with WLA DX|3|2024-07-13|

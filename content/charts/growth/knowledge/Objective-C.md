@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Objective-C
-<sub>Updated: 2024-10-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-10-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -25,11 +25,11 @@
 |18|[Demine0/Hackintosh-Magicbook-16.1](https://github.com/Demine0/Hackintosh-Magicbook-16.1)|Hackintosh for Honor Magicbook 16.1 HYM-WXX|4|0|2024-06-30|
 |19|[aysecetin/365-days-of-coding-with-Swift](https://github.com/aysecetin/365-days-of-coding-with-Swift)| This repo serves as a resource where I document my Swift learning process. I will share my learnings and projects here as I learn the Swift language and the SwiftUI framework.|3|0|2024-09-16|
 |20|[iBurnApp/iBurn-iOS](https://github.com/iBurnApp/iBurn-iOS)|iBurn is an offline map and guide for the Burning Man art festival.|70|0|2024-09-17|
-|21|[autobooks/autobooks-ios](https://github.com/autobooks/autobooks-ios)|Autobooks SDK for iOS|4|0|2024-10-01|
+|21|[autobooks/autobooks-ios](https://github.com/autobooks/autobooks-ios)|Autobooks SDK for iOS|4|0|2024-10-03|
 |22|[tangtiancheng/DouYinComment](https://github.com/tangtiancheng/DouYinComment)|iOS Widget Video Gif Play Animation 1. gif视频播放小组件, 帧动画小组件, 摇摇乐小组件, 网易云iOS小组件,动态Widget,时钟组件,风扇组件,滚动照片组件; 2.抖音视频转场动画,抖音左滑push进个人主页, 评论手势拖拽效果 , 视频播放, 边下边播, 预加载, TikTok ; 3.铃声多多,上传铃声音频到库乐队(GarageBand) 4.微 ...|568|0|2024-08-07|
 |23|[doraorak/insheaders](https://github.com/doraorak/insheaders)|Objc headers of instagram 333.0.4. Along with FBSharedFramework. Uploaded mainly for my own use.|3|0|2024-06-28|
 |24|[aprosvetova/actuator](https://github.com/aprosvetova/actuator)|Golang library that allows you to actuate your MacBook Force Touch trackpad|15|0|2024-09-07|
-|25|[Alinto/sogo](https://github.com/Alinto/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1786|0|2024-10-01|
+|25|[Alinto/sogo](https://github.com/Alinto/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1788|0|2024-10-01|
 |26|[PoomSmart/IDAObjcTypes](https://github.com/PoomSmart/IDAObjcTypes)|A collection of types & functions definitions useful for iOS/macOS binaries analysis.|325|0|2024-09-15|
 |27|[First-Iraqi-Bank/fib-ios-sdk](https://github.com/First-Iraqi-Bank/fib-ios-sdk)|This is the FIB Payment IOS SDK repository and mostly contains documentation around guidelines and policies as well as the releases for the various languages supported by the FIB SDK.|5|0|2024-09-05|
 |28|[tidev/ti.facebook](https://github.com/tidev/ti.facebook)|Support for the native Facebook SDK in Titanium using JavaScript|50|0|2024-05-17|

@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Groovy
-<sub>Updated: 2024-10-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-10-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -27,7 +27,7 @@
 |20|[lmagyar/homeassistant-addon-samba-interface](https://github.com/lmagyar/homeassistant-addon-samba-interface)|Restores interfaces configuration for the official Home Assistant Samba add-on https://github.com/home-assistant/addons/tree/master/samba|21|0|2024-10-01|
 |21|[Antiz96/Linux-Server](https://github.com/Antiz96/Linux-Server)|Linux servers/services installations, configurations, ansible playbooks and customizations/preferences (with config/dotfiles).|3|0|2024-09-24|
 |22|[HariSekhon/Jenkins](https://github.com/HariSekhon/Jenkins)|Jenkins CI/CD - Advanced Jenkinsfile & Groovy Shared Library of reusable functions and pipelines - AWS, GCP, Docker, Kubernetes, ArgoCD, Slack notifications, Git Merge, Terraform, Cloudflare, Jenkins  ...|63|0|2024-09-23|
-|23|[hmcts/cnp-jenkins-library](https://github.com/hmcts/cnp-jenkins-library)|Shared jenkins library|29|0|2024-10-02|
+|23|[hmcts/cnp-jenkins-library](https://github.com/hmcts/cnp-jenkins-library)|Shared jenkins library|29|0|2024-10-03|
 |24|[opendevstack/ods-jenkins-shared-library](https://github.com/opendevstack/ods-jenkins-shared-library)|Shared Jenkins library which all ODS projects & components use - provisioning, SonarQube code scanning, Nexus publishing, OpenShift template based deployments and repository orchestration|72|0|2024-10-01|
 |25|[cloudogu/gitops-build-lib](https://github.com/cloudogu/gitops-build-lib)|Jenkins pipeline shared library for automating deployments via GitOps|31|0|2024-09-23|
 |26|[colinbut/jenkins-pipelines](https://github.com/colinbut/jenkins-pipelines)|A collection of different types of Jenkinsfile (Pipeline as Code)|15|0|2024-08-26|
@@ -41,7 +41,7 @@
 |34|[elcicd/el-CICD](https://github.com/elcicd/el-CICD)|A Jenkins shared library that powers el-CICD pipelines.|5|0|2024-08-21|
 |35|[evry-ace/jenkins-ace-library](https://github.com/evry-ace/jenkins-ace-library)|Ace Shared Library for Jenkins Pipeline|7|0|2024-09-23|
 |36|[shasait/cipa](https://github.com/shasait/cipa)|Jenkins SharedLib - Continuous Integration Pipeline Activities|2|0|2024-09-12|
-|37|[seqeralabs/libseqera](https://github.com/seqeralabs/libseqera)|Library for Java & Groovy modules shared across Seqera projects|2|0|2024-09-29|
+|37|[seqeralabs/libseqera](https://github.com/seqeralabs/libseqera)|Library for Java & Groovy modules shared across Seqera projects|2|0|2024-10-03|
 |38|[techiescamp/jenkins-shared-library](https://github.com/techiescamp/jenkins-shared-library)|A Jenkins shared library code examples with Jenkinfiles|36|0|2024-09-04|
 |39|[stchar/pipeline-sharedlib-testharness](https://github.com/stchar/pipeline-sharedlib-testharness)|JenkinsPipelineUnit test harness for a Jenkins Shared Library|42|0|2024-07-08|
 |40|[jenkins-infra/pipeline-library](https://github.com/jenkins-infra/pipeline-library)|Collection of custom steps and variables for our Jenkins instance(s)|291|0|2024-09-24|
@@ -52,8 +52,8 @@
 |45|[nubenetes/awesome-kubernetes](https://github.com/nubenetes/awesome-kubernetes)|A curated list of awesome references collected since 2018.|608|0|2024-09-01|
 |46|[trishagee/spock-testing-demo](https://github.com/trishagee/spock-testing-demo)|Simple project to show how to use Spock to test Java code|20|0|2024-07-25|
 |47|[coreos/coreos-ci-lib](https://github.com/coreos/coreos-ci-lib)|Jenkins pipeline shared library for CoreOS continuous integration|10|0|2024-09-23|
-|48|[guicamest/GDuplicate-Finder](https://github.com/guicamest/GDuplicate-Finder)|GDuplicate Finder - A Groovy way to find duplicates among your computer and network shares!|30|0|2024-09-30|
-|49|[mschuchard/jenkins-devops-libs](https://github.com/mschuchard/jenkins-devops-libs)|Collection of Jenkins Pipeline shared libraries for common DevOps software.|130|0|2024-09-26|
+|48|[guicamest/GDuplicate-Finder](https://github.com/guicamest/GDuplicate-Finder)|GDuplicate Finder - A Groovy way to find duplicates among your computer and network shares!|30|0|2024-10-03|
+|49|[mschuchard/jenkins-devops-libs](https://github.com/mschuchard/jenkins-devops-libs)|Collection of Jenkins Pipeline shared libraries for common DevOps software.|130|0|2024-10-03|
 |50|[hoto/jenkinsfile-examples](https://github.com/hoto/jenkinsfile-examples)|Executable examples of Jenkinsfiles.|218|0|2024-09-19|
 |51|[RedHatInsights/insights-pipeline-lib](https://github.com/RedHatInsights/insights-pipeline-lib)|Jenkins shared library used by the Insights team at Red Hat|15|0|2024-09-16|
 |52|[firstBitMarksistskaya/jenkins-lib](https://github.com/firstBitMarksistskaya/jenkins-lib)|Jenkins shared library для 1С:Предприятие 8|159|0|2024-09-12|

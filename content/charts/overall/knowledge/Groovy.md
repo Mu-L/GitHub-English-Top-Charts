@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Groovy
-<sub>Updated: 2024-10-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-10-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -10,7 +10,7 @@
 |3|[jenkins-infra/pipeline-library](https://github.com/jenkins-infra/pipeline-library)|Collection of custom steps and variables for our Jenkins instance(s)|291|2024-09-24|
 |4|[hoto/jenkinsfile-examples](https://github.com/hoto/jenkinsfile-examples)|Executable examples of Jenkinsfiles.|218|2024-09-19|
 |5|[firstBitMarksistskaya/jenkins-lib](https://github.com/firstBitMarksistskaya/jenkins-lib)|Jenkins shared library для 1С:Предприятие 8|159|2024-09-12|
-|6|[mschuchard/jenkins-devops-libs](https://github.com/mschuchard/jenkins-devops-libs)|Collection of Jenkins Pipeline shared libraries for common DevOps software.|130|2024-09-26|
+|6|[mschuchard/jenkins-devops-libs](https://github.com/mschuchard/jenkins-devops-libs)|Collection of Jenkins Pipeline shared libraries for common DevOps software.|130|2024-10-03|
 |7|[cloudogu/ces-build-lib](https://github.com/cloudogu/ces-build-lib)|Jenkins pipeline shared library adding features for Maven, Gradle, Docker, SonarQube, Git and others|74|2024-09-30|
 |8|[opendevstack/ods-jenkins-shared-library](https://github.com/opendevstack/ods-jenkins-shared-library)|Shared Jenkins library which all ODS projects & components use - provisioning, SonarQube code scanning, Nexus publishing, OpenShift template based deployments and repository orchestration|72|2024-10-01|
 |9|[HariSekhon/Jenkins](https://github.com/HariSekhon/Jenkins)|Jenkins CI/CD - Advanced Jenkinsfile & Groovy Shared Library of reusable functions and pipelines - AWS, GCP, Docker, Kubernetes, ArgoCD, Slack notifications, Git Merge, Terraform, Cloudflare, Jenkins  ...|63|2024-09-23|
@@ -20,8 +20,8 @@
 |13|[techiescamp/jenkins-shared-library](https://github.com/techiescamp/jenkins-shared-library)|A Jenkins shared library code examples with Jenkinfiles|36|2024-09-04|
 |14|[boxboat/dockhand-jenkins](https://github.com/boxboat/dockhand-jenkins)|Upstream Jenkins Shared Library to Build, Promote, and Deploy Docker images|36|2024-09-26|
 |15|[cloudogu/gitops-build-lib](https://github.com/cloudogu/gitops-build-lib)|Jenkins pipeline shared library for automating deployments via GitOps|31|2024-09-23|
-|16|[guicamest/GDuplicate-Finder](https://github.com/guicamest/GDuplicate-Finder)|GDuplicate Finder - A Groovy way to find duplicates among your computer and network shares!|30|2024-09-30|
-|17|[hmcts/cnp-jenkins-library](https://github.com/hmcts/cnp-jenkins-library)|Shared jenkins library|29|2024-10-02|
+|16|[guicamest/GDuplicate-Finder](https://github.com/guicamest/GDuplicate-Finder)|GDuplicate Finder - A Groovy way to find duplicates among your computer and network shares!|30|2024-10-03|
+|17|[hmcts/cnp-jenkins-library](https://github.com/hmcts/cnp-jenkins-library)|Shared jenkins library|29|2024-10-03|
 |18|[kiegroup/jenkins-pipeline-shared-libraries](https://github.com/kiegroup/jenkins-pipeline-shared-libraries)|This repository contains shared libraries used across different KIE Jenkins pipeline scripts.|25|2024-09-05|
 |19|[Ableton/python-pipeline-utils](https://github.com/Ableton/python-pipeline-utils)|Jenkins shared pipeline library for Python-related utilities|25|2024-09-26|
 |20|[d3scomp/NPRG014](https://github.com/d3scomp/NPRG014)|Supplementary materials for the course of "Concepts of Modern Programming Languages" (NPRG014) taught at Charles University, Prague, Czech Republic.|24|2024-09-29|
@@ -57,7 +57,7 @@
 |50|[egonw/ons-wikidata](https://github.com/egonw/ons-wikidata)|Open Notebook for Wikidata scripts|3|2024-09-23|
 |51|[adaptivecomputing/plugins-mws](https://github.com/adaptivecomputing/plugins-mws)|MWS built-in plugins (including examples and production plugins)|3|2024-09-25|
 |52|[Gopi1892/Devops-Learning-Material](https://github.com/Gopi1892/Devops-Learning-Material)|This is repository for Cloud and Devops Interview Question|2|2024-09-28|
-|53|[seqeralabs/libseqera](https://github.com/seqeralabs/libseqera)|Library for Java & Groovy modules shared across Seqera projects|2|2024-09-29|
+|53|[seqeralabs/libseqera](https://github.com/seqeralabs/libseqera)|Library for Java & Groovy modules shared across Seqera projects|2|2024-10-03|
 |54|[University-of-Strathclyde-LTE-Team/moodle-plugin-ci-jenkins](https://github.com/University-of-Strathclyde-LTE-Team/moodle-plugin-ci-jenkins)|A Jenkins shared library for running moodle-plugin-ci|2|2024-05-30|
 |55|[shasait/cipa](https://github.com/shasait/cipa)|Jenkins SharedLib - Continuous Integration Pipeline Activities|2|2024-09-12|
 |56|[bahmanm/stockperson](https://github.com/bahmanm/stockperson)|Practical exercises to learn a programming language|2|2024-09-23|
