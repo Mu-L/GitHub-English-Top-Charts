@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Objective-C
-<sub>Updated: 2024-10-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-10-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -18,7 +18,7 @@
 |11|[onfido/onfido-ios-sdk](https://github.com/onfido/onfido-ios-sdk)|A Swift client for the Onfido API and a collection of UI elements to capture photos of documents.|100|0|2024-09-26|
 |12|[ComPDFKit/compdfkit-pdf-sdk-ios-swift](https://github.com/ComPDFKit/compdfkit-pdf-sdk-ios-swift)|Show how to integrate ComPDFKit PDF SDK to build PDF viewer and editor on iOS & macOS.|14|0|2024-08-19|
 |13|[gonzoua/AudioBookBinder](https://github.com/gonzoua/AudioBookBinder)|GUI and command-line utility for converting audiobooks to m4b format|228|0|2024-08-16|
-|14|[ReverseApple/RemoveBooksDRM](https://github.com/ReverseApple/RemoveBooksDRM)| Books EPUB DRM Removal|56|0|2024-08-16|
+|14|[ReverseApple/RemoveBooksDRM](https://github.com/ReverseApple/RemoveBooksDRM)| Books EPUB DRM Removal|57|0|2024-08-16|
 |15|[Aynnor/YogaKitDemo](https://github.com/Aynnor/YogaKitDemo)|This is FaceBook layout Framework YogaKit test demo.|3|0|2024-08-26|
 |16|[electricbolt/bindkit](https://github.com/electricbolt/bindkit)|Two-way data binding framework for iOS. Only one API to learn.|13|0|2024-08-11|
 |17|[nihalsharma/Clock-Bar](https://github.com/nihalsharma/Clock-Bar)|Macbook   Clock, right on the touch bar|300|0|2024-04-18|

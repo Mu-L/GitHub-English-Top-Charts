@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Objective-C
-<sub>Updated: 2024-10-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-10-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -24,7 +24,7 @@
 |17|[onfido/onfido-ios-sdk](https://github.com/onfido/onfido-ios-sdk)|A Swift client for the Onfido API and a collection of UI elements to capture photos of documents.|100|2024-09-26|
 |18|[iBurnApp/iBurn-iOS](https://github.com/iBurnApp/iBurn-iOS)|iBurn is an offline map and guide for the Burning Man art festival.|70|2024-09-17|
 |19|[plaid/plaid-link-examples](https://github.com/plaid/plaid-link-examples)|Plaid Link Webview, ReactNative examples|63|2024-04-17|
-|20|[ReverseApple/RemoveBooksDRM](https://github.com/ReverseApple/RemoveBooksDRM)| Books EPUB DRM Removal|56|2024-08-16|
+|20|[ReverseApple/RemoveBooksDRM](https://github.com/ReverseApple/RemoveBooksDRM)| Books EPUB DRM Removal|57|2024-08-16|
 |21|[timonus/TJActivityViewController](https://github.com/timonus/TJActivityViewController)|Simple customization for the iOS share sheet.|54|2024-09-05|
 |22|[jimstudt/timelapse](https://github.com/jimstudt/timelapse)|Mac OS X command line utility to turn a series of images into a video.|54|2024-06-19|
 |23|[tidev/ti.facebook](https://github.com/tidev/ti.facebook)|Support for the native Facebook SDK in Titanium using JavaScript|50|2024-05-17|

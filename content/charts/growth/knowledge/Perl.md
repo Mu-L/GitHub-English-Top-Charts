@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Perl
-<sub>Updated: 2024-10-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-10-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -10,17 +10,17 @@
 |3|[stevemussmann/file_converters](https://github.com/stevemussmann/file_converters)|A collection of file format converters to prepare input for several popular phylogenetic and population genetics software packages.|5|0|2024-07-05|
 |4|[folio-org/folio-install](https://github.com/folio-org/folio-install)|Runbooks for FOLIO installation|22|0|2024-08-02|
 |5|[LArSoft/larsoft](https://github.com/LArSoft/larsoft)|This code is part of the Liquid Argon Software (LArSoft) project. It contains simulation and reconstruction algorithms for LAr TPC detectors.  If you have a problem, please log a redmine issue: https: ...|7|0|2024-10-02|
-|6|[TheKevJames/tools](https://github.com/TheKevJames/tools)|collection of tools too small to deserve their own repo|17|0|2024-10-02|
+|6|[TheKevJames/tools](https://github.com/TheKevJames/tools)|collection of tools too small to deserve their own repo|17|0|2024-10-05|
 |7|[ebi-wp/EBISearch-webservice-clients](https://github.com/ebi-wp/EBISearch-webservice-clients)|A collection of Web Service Clients to consume EBI Search RESTful APIs.|4|0|2024-04-09|
 |8|[ananthchellappa/perl](https://github.com/ananthchellappa/perl)|WIP collection of useful utilities.|2|0|2024-06-03|
 |9|[libwww-perl/HTML-Parser](https://github.com/libwww-perl/HTML-Parser)|The HTML-Parser distribution is is a collection of modules that parse and extract information from HTML documents.|6|0|2024-08-06|
 |10|[waldner/croncal](https://github.com/waldner/croncal)|Utility to convert a crontab file to a list of actual events within a date range.|48|0|2024-10-04|
 |11|[CaryMillsap/tracing-oracle](https://github.com/CaryMillsap/tracing-oracle)|Scripts associated with Cary Millsap and Jeff Holt’s “Tracing Oracle” book project.|10|0|2024-06-24|
 |12|[trizen/perl-scripts](https://github.com/trizen/perl-scripts)|A nice collection of day-to-day Perl scripts.|131|0|2024-10-04|
-|13|[centreon/centreon-plugins](https://github.com/centreon/centreon-plugins)|Collection of standard plugins to discover and gather cloud-to-edge metrics and status across your whole IT infrastructure. |310|0|2024-10-04|
+|13|[centreon/centreon-plugins](https://github.com/centreon/centreon-plugins)|Collection of standard plugins to discover and gather cloud-to-edge metrics and status across your whole IT infrastructure. |311|0|2024-10-04|
 |14|[geertu/linux-scripts](https://github.com/geertu/linux-scripts)|Collection of scripts for Linux kernel development|11|0|2024-06-06|
-|15|[X4BNet/lists_torexit](https://github.com/X4BNet/lists_torexit)|List of Tor exit nodes built by CI|8|0|2024-10-04|
-|16|[polimi-aos-lab/course-labs-2425](https://github.com/polimi-aos-lab/course-labs-2425)|Code shared during AOS course labs (AY 24/25)|9|0|2024-10-04|
+|15|[X4BNet/lists_torexit](https://github.com/X4BNet/lists_torexit)|List of Tor exit nodes built by CI|8|0|2024-10-05|
+|16|[polimi-aos-lab/course-labs-2425](https://github.com/polimi-aos-lab/course-labs-2425)|Code shared during AOS course labs (AY 24/25)|10|0|2024-10-04|
 |17|[maros/DateTime-Format-CLDR](https://github.com/maros/DateTime-Format-CLDR)|Parse and format CLDR time patterns with Perl|5|0|2024-07-22|
 |18|[jlab/fold-grammars](https://github.com/jlab/fold-grammars)|Collection of bgap code for RNA folding|3|0|2024-08-12|
 |19|[jkeenan/devel-git-multibisect](https://github.com/jkeenan/devel-git-multibisect)|Gather and study test output over a range of git commits|3|0|2024-04-23|
@@ -43,7 +43,7 @@
 |36|[ShephedProject/shepherd](https://github.com/ShephedProject/shepherd)|Shepherd delivers reliable, high-quality Australian TV guide data (EPG).|20|0|2024-09-24|
 |37|[shlomif/Freenode-programming-channel-FAQ](https://github.com/shlomif/Freenode-programming-channel-FAQ)|A Frequently Asked Questions List of the Freenode ##programming Channel.|47|0|2024-09-30|
 |38|[zonemaster/zonemaster-engine](https://github.com/zonemaster/zonemaster-engine)|The Zonemaster Engine - part of the Zonemaster project|34|0|2024-09-17|
-|39|[hachiojipm/awesome-perl](https://github.com/hachiojipm/awesome-perl)|A curated list of awesome Perl frameworks and libraries. Come on Pull Requests!|671|0|2024-08-07|
+|39|[hachiojipm/awesome-perl](https://github.com/hachiojipm/awesome-perl)|A curated list of awesome Perl frameworks and libraries. Come on Pull Requests!|672|0|2024-08-07|
 |40|[tykling/ansible-roles](https://github.com/tykling/ansible-roles)|Ansible roles shared between my different Ansible installations|8|0|2024-09-11|
 |41|[treeman/why_cryptocurrencies](https://github.com/treeman/why_cryptocurrencies)|Source for the book "Why Cryptocurrencies?"|53|0|2024-05-10|
 |42|[kwwette/pdflibrarian](https://github.com/kwwette/pdflibrarian)|Manage a library of academic papers in PDF format with embedded BibTeX metadata|3|0|2024-09-18|
@@ -57,7 +57,7 @@
 |50|[snowballstem/snowball-data](https://github.com/snowballstem/snowball-data)|Test data for snowball stemming algorithms|29|0|2024-10-04|
 |51|[perfsonar/perl-shared](https://github.com/perfsonar/perl-shared)|Shared libraries used by perl packages and referenced as a submodule in many git repos|7|0|2024-09-11|
 |52|[morgannprice/PaperBLAST](https://github.com/morgannprice/PaperBLAST)|PaperBLAST: find papers about a protein or its homologs|34|0|2024-10-01|
-|53|[Catch-up-TV-and-More/xmltv](https://github.com/Catch-up-TV-and-More/xmltv)|TV guides - XMLTV|24|0|2024-10-03|
+|53|[Catch-up-TV-and-More/xmltv](https://github.com/Catch-up-TV-and-More/xmltv)|TV guides - XMLTV|24|0|2024-10-04|
 |54|[payjp/payjp-perl](https://github.com/payjp/payjp-perl)|Tutorial: |2|0|2024-05-15|
 |55|[matteoacrossi/texprlcount](https://github.com/matteoacrossi/texprlcount)|Perl script that evaluates the word count of a tex document according to the PRL length guidelines|31|0|2024-04-26|
 |56|[munin-monitoring/munin](https://github.com/munin-monitoring/munin)|Main repository for munin master / node / plugins|1977|0|2024-10-02|
@@ -90,8 +90,8 @@
 |83|[hasadna/openlaw-bot](https://github.com/hasadna/openlaw-bot)|Israel updated book of laws|10|0|2024-09-23|
 |84|[chrisarg/perlAssembly](https://github.com/chrisarg/perlAssembly)|Examples of using Perl to augment NASM and vice versa|10|0|2024-07-04|
 |85|[kambala-decapitator/medianxl-rus](https://github.com/kambala-decapitator/medianxl-rus)|A collection of scripts and files for Diablo II: Median XL Russian translation|14|0|2024-05-15|
-|86|[shlomif/shlomif-snippets](https://github.com/shlomif/shlomif-snippets)|My Collection of various short, exploratory or demonstrative code files in Perl, Python and other langs|5|0|2024-07-24|
-|87|[mhop/fhem-mirror](https://github.com/mhop/fhem-mirror)|Branch 'master' is an unofficial read-only-mirror of  https://svn.fhem.de/fhem/trunk which is updated once a day. (branch sf_old a mirror of the old repo: svn://svn.code.sf.net/p/fhem/code/trunk)|107|0|2024-10-04|
+|86|[shlomif/shlomif-snippets](https://github.com/shlomif/shlomif-snippets)|My Collection of various short, exploratory or demonstrative code files in Perl, Python and other langs|5|0|2024-10-05|
+|87|[mhop/fhem-mirror](https://github.com/mhop/fhem-mirror)|Branch 'master' is an unofficial read-only-mirror of  https://svn.fhem.de/fhem/trunk which is updated once a day. (branch sf_old a mirror of the old repo: svn://svn.code.sf.net/p/fhem/code/trunk)|107|0|2024-10-05|
 |88|[jimyoshida/self-taught-devops](https://github.com/jimyoshida/self-taught-devops)|Technologies and concepts for advanced DevOps engineers to learn|3|0|2024-05-26|
 |89|[EquinoxOpenLibraryInitiative/migration-tools](https://github.com/EquinoxOpenLibraryInitiative/migration-tools)|A collection of tools used for migrations and data projects in Evergreen and Koha.|12|0|2024-05-10|
 |90|[zonemaster/zonemaster-ldns](https://github.com/zonemaster/zonemaster-ldns)|A Perl interface module for Zonemaster to NLnet Labs' ldns library|8|0|2024-09-12|

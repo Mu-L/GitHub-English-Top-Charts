@@ -1,19 +1,19 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Groovy
-<sub>Updated: 2024-10-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-10-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[nebula-plugins/gradle-lint-plugin](https://github.com/nebula-plugins/gradle-lint-plugin)|A pluggable and configurable linter tool for identifying and reporting on patterns of misuse or deprecations in Gradle scripts. |769|2024-09-23|
-|2|[nubenetes/awesome-kubernetes](https://github.com/nubenetes/awesome-kubernetes)|A curated list of awesome references collected since 2018.|608|2024-09-01|
+|2|[nubenetes/awesome-kubernetes](https://github.com/nubenetes/awesome-kubernetes)|A curated list of awesome references collected since 2018.|609|2024-09-01|
 |3|[jenkins-infra/pipeline-library](https://github.com/jenkins-infra/pipeline-library)|Collection of custom steps and variables for our Jenkins instance(s)|292|2024-09-24|
 |4|[hoto/jenkinsfile-examples](https://github.com/hoto/jenkinsfile-examples)|Executable examples of Jenkinsfiles.|218|2024-09-19|
 |5|[firstBitMarksistskaya/jenkins-lib](https://github.com/firstBitMarksistskaya/jenkins-lib)|Jenkins shared library для 1С:Предприятие 8|159|2024-09-12|
 |6|[mschuchard/jenkins-devops-libs](https://github.com/mschuchard/jenkins-devops-libs)|Collection of Jenkins Pipeline shared libraries for common DevOps software.|130|2024-10-03|
 |7|[cloudogu/ces-build-lib](https://github.com/cloudogu/ces-build-lib)|Jenkins pipeline shared library adding features for Maven, Gradle, Docker, SonarQube, Git and others|74|2024-09-30|
 |8|[opendevstack/ods-jenkins-shared-library](https://github.com/opendevstack/ods-jenkins-shared-library)|Shared Jenkins library which all ODS projects & components use - provisioning, SonarQube code scanning, Nexus publishing, OpenShift template based deployments and repository orchestration|72|2024-10-01|
-|9|[HariSekhon/Jenkins](https://github.com/HariSekhon/Jenkins)|Jenkins CI/CD - Advanced Jenkinsfile & Groovy Shared Library of reusable functions and pipelines - AWS, GCP, Docker, Kubernetes, ArgoCD, Slack notifications, Git Merge, Terraform, Cloudflare, Jenkins  ...|63|2024-09-23|
+|9|[HariSekhon/Jenkins](https://github.com/HariSekhon/Jenkins)|Jenkins CI/CD - Advanced Jenkinsfile & Groovy Shared Library of reusable functions and pipelines - AWS, GCP, Docker, Kubernetes, ArgoCD, Slack notifications, Git Merge, Terraform, Cloudflare, Jenkins  ...|63|2024-10-04|
 |10|[arc42/arc42-generator](https://github.com/arc42/arc42-generator)|a gradle build to generate all derived templates from arc42-master|45|2024-10-04|
 |11|[stchar/pipeline-sharedlib-testharness](https://github.com/stchar/pipeline-sharedlib-testharness)|JenkinsPipelineUnit test harness for a Jenkins Shared Library|42|2024-07-08|
 |12|[daluobai-devops/jenkins-shared-library](https://github.com/daluobai-devops/jenkins-shared-library)|Jenkins Pipeline Extending with Shared Libraries |38|2024-09-18|
@@ -44,7 +44,7 @@
 |37|[dalet-oss/flex-scripting-examples](https://github.com/dalet-oss/flex-scripting-examples)|To demonstrate how to write Flex scripts in an IDE environment|6|2024-09-23|
 |38|[chrismld/jenkins-pipeline-tutorial](https://github.com/chrismld/jenkins-pipeline-tutorial)|Jenkins Pipeline Tutorial|6|2024-05-28|
 |39|[lucas-sancere/QuPath_Codes](https://github.com/lucas-sancere/QuPath_Codes)|Collection of some groovy scripts for QuPath. Public repo but made mostly for personal use. |5|2024-07-10|
-|40|[elcicd/el-CICD](https://github.com/elcicd/el-CICD)|A Jenkins shared library that powers el-CICD pipelines.|5|2024-08-21|
+|40|[elcicd/el-CICD](https://github.com/elcicd/el-CICD)|A Jenkins shared library that powers el-CICD pipelines.|5|2024-10-05|
 |41|[Naveiras-Lab/MarrowQuant](https://github.com/Naveiras-Lab/MarrowQuant)|MarrowQuant is a user-friendly algorithm for the quantification of H&E bone marrow tissue biopsies in whole slide images, implemented as a series of QuPath Scripts. Keywords: Digital Pathology, Whole  ...|5|2024-04-19|
 |42|[apache/netbeans-jenkins-lib](https://github.com/apache/netbeans-jenkins-lib)|Apache NetBeans Shared Jenkins Pipeline|5|2024-10-01|
 |43|[couchbaselabs/sdkbuild-jenkinsfiles](https://github.com/couchbaselabs/sdkbuild-jenkinsfiles)|Collection of Jenkinsfiles for sdkbuild|5|2024-10-02|
@@ -53,7 +53,7 @@
 |46|[Hubbitus/groovy-test-examples](https://github.com/Hubbitus/groovy-test-examples)|Groovy findings, snippets, examples. Mostly for memorize and sharing.|4|2024-07-06|
 |47|[DevMadhup/Jenkins_SharedLib](https://github.com/DevMadhup/Jenkins_SharedLib)|This repository has Jenkins Shared Library |3|2024-08-26|
 |48|[gabriel-rodrigues-f/btp-samples](https://github.com/gabriel-rodrigues-f/btp-samples)|Useful code snippets for use in SAP Cloud Integration integrations|3|2024-09-25|
-|49|[Antiz96/Linux-Server](https://github.com/Antiz96/Linux-Server)|Linux servers/services installations, configurations, ansible playbooks and customizations/preferences (with config/dotfiles).|3|2024-09-24|
+|49|[Antiz96/Linux-Server](https://github.com/Antiz96/Linux-Server)|Linux servers/services installations, configurations, ansible playbooks and customizations/preferences (with config/dotfiles).|3|2024-10-05|
 |50|[networkupstools/jenkins-dynamatrix](https://github.com/networkupstools/jenkins-dynamatrix)|A shared library to do a sort of matrix build based on available swarm agent labels|3|2024-08-02|
 |51|[egonw/ons-wikidata](https://github.com/egonw/ons-wikidata)|Open Notebook for Wikidata scripts|3|2024-09-23|
 |52|[adaptivecomputing/plugins-mws](https://github.com/adaptivecomputing/plugins-mws)|MWS built-in plugins (including examples and production plugins)|3|2024-09-25|

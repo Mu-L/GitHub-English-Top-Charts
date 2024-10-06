@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Vim script
-<sub>Updated: 2024-10-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-10-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[pasky/claude.vim](https://github.com/pasky/claude.vim)|Claude vim plugin for AI pair programming - a hacker's gateway to LLMs|171|2024-07-27|2024-06-27|
+|1|[pasky/claude.vim](https://github.com/pasky/claude.vim)|Claude vim plugin for AI pair programming - a hacker's gateway to LLMs|172|2024-07-27|2024-06-27|
 |2|[FittenTech/fittencode.vim](https://github.com/FittenTech/fittencode.vim)|Fitten Code AI Programming Assistant for Vim|77|2024-07-01|2024-01-30|
-|3|[xero/evangelion.nvim](https://github.com/xero/evangelion.nvim)|a colorscheme for {neo,}vim inspired by neon genesis evangelion. supports diagnostics, cmp, fzf, gitsigns, lazy, lsp, lualine, telescope, treesitter, trouble, which-key, & more.|70|2024-10-01|2024-08-31|
+|3|[xero/evangelion.nvim](https://github.com/xero/evangelion.nvim)|a colorscheme for {neo,}vim inspired by neon genesis evangelion. supports diagnostics, cmp, fzf, gitsigns, lazy, lsp, lualine, telescope, treesitter, trouble, which-key, & more.|71|2024-10-01|2024-08-31|
 |4|[girishji/scope.vim](https://github.com/girishji/scope.vim)|Minimal, fast, and extensible fuzzy finder.|64|2024-09-27|2024-03-01|
 |5|[laktak/tome](https://github.com/laktak/tome)|🔁 Script playbooks for frequent commands in any terminal application|43|2024-05-09|2024-05-04|
 |6|[girishji/devdocs.vim](https://github.com/girishji/devdocs.vim)|Lookup  API documentation from devdocs.io without leaving Vim.|41|2024-09-20|2024-02-12|
@@ -23,9 +23,9 @@
 |16|[girishji/easyjump.vim](https://github.com/girishji/easyjump.vim)|The Vim motion you've always wanted.|17|2024-06-06|2023-11-17|
 |17|[sainttttt/flesh-and-blood](https://github.com/sainttttt/flesh-and-blood)|low contrast vim/nvim colorscheme for bitmap/pixel fonts |17|2024-07-12|2023-11-09|
 |18|[elkasztano/nushell-syntax-vim](https://github.com/elkasztano/nushell-syntax-vim)|Nushell syntax highlighting for Vim|17|2024-05-16|2023-10-29|
-|19|[ovikrai/mojo-syntax](https://github.com/ovikrai/mojo-syntax)|Mojo 🔥 Language Syntax Highlighting for Vim|16|2024-04-11|2024-02-29|
-|20|[kawarimidoll/autoplay.vim](https://github.com/kawarimidoll/autoplay.vim)|Operate Vim automatically 🛼|16|2024-07-15|2023-12-31|
-|21|[mosesmbadi/k8s-local-lab](https://github.com/mosesmbadi/k8s-local-lab)|Play with Kubernetes Locally|15|2024-06-07|2024-02-29|
+|19|[mosesmbadi/k8s-local-lab](https://github.com/mosesmbadi/k8s-local-lab)|Play with Kubernetes Locally|16|2024-06-07|2024-02-29|
+|20|[ovikrai/mojo-syntax](https://github.com/ovikrai/mojo-syntax)|Mojo 🔥 Language Syntax Highlighting for Vim|16|2024-04-11|2024-02-29|
+|21|[kawarimidoll/autoplay.vim](https://github.com/kawarimidoll/autoplay.vim)|Operate Vim automatically 🛼|16|2024-07-15|2023-12-31|
 |22|[honeymontana/vimrc](https://github.com/honeymontana/vimrc)|my .vimrc|14|2024-09-21|2024-09-21|
 |23|[kawarimidoll/tuskk.vim](https://github.com/kawarimidoll/tuskk.vim)|Tabun Ugoku SKK for vim|14|2024-05-15|2023-12-20|
 |24|[AmberLehmann/candyland.nvim](https://github.com/AmberLehmann/candyland.nvim)|A cute pink and blue colorscheme for Neovim|13|2024-09-21|2024-05-27|
@@ -56,21 +56,21 @@
 |49|[guptarohit/dotfiles](https://github.com/guptarohit/dotfiles)|📍~/. my dotfiles ⚙️ for macOS, iterm2, git, vim, zsh, stow |6|2024-04-07|2024-02-16|
 |50|[Sharpless298/vimrc](https://github.com/Sharpless298/vimrc)|-|6|2024-09-28|2024-02-16|
 |51|[Togohogo1/dotfiles](https://github.com/Togohogo1/dotfiles)|Linux configuration files. “Just some alien fruit salad to keep you in the zone”!|6|2024-05-05|2024-01-04|
-|52|[ericaviana12/Senac-tat](https://github.com/ericaviana12/Senac-tat)|Repositório de conteúdo das aulas do curso Técnico de Informática - Senac Tatuapé|6|2024-10-04|2023-11-15|
+|52|[ericaviana12/Senac-tat](https://github.com/ericaviana12/Senac-tat)|Repositório de conteúdo das aulas do curso Técnico de Informática - Senac Tatuapé|6|2024-10-05|2023-11-15|
 |53|[vds2212/vim-remotions](https://github.com/vds2212/vim-remotions)|Vim plugin to repeat key-commands including motions using the , and ; keys.|6|2024-07-09|2023-10-16|
 |54|[lifepillar/vim-keysound](https://github.com/lifepillar/vim-keysound)|Turn Vim into a typewriter!|6|2024-05-05|2023-10-14|
-|55|[gerardjensen/jutge_plug](https://github.com/gerardjensen/jutge_plug)|A Vim plugin to interface with jutge.org within Vim.|5|2024-09-03|2024-08-25|
-|56|[cwshugg/fops.vim](https://github.com/cwshugg/fops.vim)|A Vim plugin that provides useful commands for file operations.|5|2024-08-27|2024-07-24|
-|57|[wolandark/vim-piper](https://github.com/wolandark/vim-piper)|text to speech for vim using piper|5|2024-07-29|2024-07-20|
-|58|[ubaldot/vim9-conversion-aid](https://github.com/ubaldot/vim9-conversion-aid)|A little help for upgrading your scripts to vim9 language.|5|2024-09-12|2024-07-20|
-|59|[cwshugg/argonaut.vim](https://github.com/cwshugg/argonaut.vim)|Supercharge your Vim commands with powerful, customizable argument parsing!|5|2024-08-02|2024-07-19|
-|60|[chriszarate/yazi.vim](https://github.com/chriszarate/yazi.vim)|yazi integration for plain vim|5|2024-05-15|2024-05-13|
-|61|[modularml/mojo.vim](https://github.com/modularml/mojo.vim)|Vim configuration files for Mojo🔥|5|2024-04-15|2024-04-15|
-|62|[mityu/vim-backpair](https://github.com/mityu/vim-backpair)|Dive into parenthesis you just inserted.|5|2024-06-21|2024-03-06|
-|63|[noir-lang/noir-nvim](https://github.com/noir-lang/noir-nvim)|A NeoVim plugin providing syntax highlighting and LSP support for Noir|5|2024-08-16|2024-01-17|
-|64|[yuluo-yx/use](https://github.com/yuluo-yx/use)|awesome use|5|2024-09-16|2024-01-14|
-|65|[Shougo/dpp-ext-lazy](https://github.com/Shougo/dpp-ext-lazy)|Lazy ext for dpp.vim|5|2024-09-06|2023-10-12|
-|66|[rickhowe/diffunitsyntax](https://github.com/rickhowe/diffunitsyntax)|Highlight word or character based diff units in diff format|4|2024-10-03|2024-09-07|
+|55|[rickhowe/diffunitsyntax](https://github.com/rickhowe/diffunitsyntax)|Highlight word or character based diff units in diff format|5|2024-10-03|2024-09-07|
+|56|[gerardjensen/jutge_plug](https://github.com/gerardjensen/jutge_plug)|A Vim plugin to interface with jutge.org within Vim.|5|2024-09-03|2024-08-25|
+|57|[cwshugg/fops.vim](https://github.com/cwshugg/fops.vim)|A Vim plugin that provides useful commands for file operations.|5|2024-08-27|2024-07-24|
+|58|[wolandark/vim-piper](https://github.com/wolandark/vim-piper)|text to speech for vim using piper|5|2024-07-29|2024-07-20|
+|59|[ubaldot/vim9-conversion-aid](https://github.com/ubaldot/vim9-conversion-aid)|A little help for upgrading your scripts to vim9 language.|5|2024-09-12|2024-07-20|
+|60|[cwshugg/argonaut.vim](https://github.com/cwshugg/argonaut.vim)|Supercharge your Vim commands with powerful, customizable argument parsing!|5|2024-08-02|2024-07-19|
+|61|[chriszarate/yazi.vim](https://github.com/chriszarate/yazi.vim)|yazi integration for plain vim|5|2024-05-15|2024-05-13|
+|62|[modularml/mojo.vim](https://github.com/modularml/mojo.vim)|Vim configuration files for Mojo🔥|5|2024-04-15|2024-04-15|
+|63|[mityu/vim-backpair](https://github.com/mityu/vim-backpair)|Dive into parenthesis you just inserted.|5|2024-06-21|2024-03-06|
+|64|[noir-lang/noir-nvim](https://github.com/noir-lang/noir-nvim)|A NeoVim plugin providing syntax highlighting and LSP support for Noir|5|2024-08-16|2024-01-17|
+|65|[yuluo-yx/use](https://github.com/yuluo-yx/use)|awesome use|5|2024-09-16|2024-01-14|
+|66|[Shougo/dpp-ext-lazy](https://github.com/Shougo/dpp-ext-lazy)|Lazy ext for dpp.vim|5|2024-09-06|2023-10-12|
 |67|[sodapopcan/vim-mixer](https://github.com/sodapopcan/vim-mixer)|Elixir text objects + Mix ecosystem tools|4|2024-09-22|2024-07-06|
 |68|[TheanhPhung/hyprland_dotfiles](https://github.com/TheanhPhung/hyprland_dotfiles)|-|4|2024-07-11|2024-06-23|
 |69|[jecxjo/rest-client.vim](https://github.com/jecxjo/rest-client.vim)|A vim port of the VSCode Rest Client|4|2024-06-13|2024-06-03|

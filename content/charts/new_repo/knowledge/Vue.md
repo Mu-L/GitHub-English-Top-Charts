@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Vue
-<sub>Updated: 2024-10-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-10-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[nuxt/learn.nuxt.com](https://github.com/nuxt/learn.nuxt.com)|[Work in Progress] An interactive tutorial and playground for Nuxt|534|2024-10-02|2023-11-21|
-|2|[GradientSurfer/Draw2Img](https://github.com/GradientSurfer/Draw2Img)|A simple web UI for interactive text-guided image to image generation, intended for any age and skill level.|290|2024-06-05|2024-01-03|
-|3|[atinux/npm-chart](https://github.com/atinux/npm-chart)|Visualize npm downloads in a beautiful chart, ready to be shared with your community.|260|2024-09-25|2024-09-17|
+|2|[GradientSurfer/Draw2Img](https://github.com/GradientSurfer/Draw2Img)|A simple web UI for interactive text-guided image to image generation, intended for any age and skill level.|289|2024-06-05|2024-01-03|
+|3|[atinux/npm-chart](https://github.com/atinux/npm-chart)|Visualize npm downloads in a beautiful chart, ready to be shared with your community.|261|2024-09-25|2024-09-17|
 |4|[acalejos/merquery](https://github.com/acalejos/merquery)|Interactive HTTP Client for Livebook w/ power-ups|210|2024-07-06|2024-02-11|
 |5|[themeselection/vue-cheatsheet](https://github.com/themeselection/vue-cheatsheet)|The one and only Vue cheatsheet you will ever need.|175|2024-04-23|2024-01-10|
 |6|[unjs/undocs](https://github.com/unjs/undocs)|Minimal Documentation theme and CLI for shared usage across UnJS projects.|173|2024-10-01|2024-01-12|
