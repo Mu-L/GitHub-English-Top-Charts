@@ -1,14 +1,14 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > C++
-<sub>Updated: 2024-10-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-10-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[Xacone/BestEdrOfTheMarket](https://github.com/Xacone/BestEdrOfTheMarket)|Little user-mode AV/EDR evasion lab for training & learning purposes|982|2024-05-02|2023-11-12|
-|2|[efchatz/pandora](https://github.com/efchatz/pandora)|A red team tool that assists into extracting/dumping master credentials and/or entries from different password managers.|569|2024-10-05|2023-11-03|
+|2|[efchatz/pandora](https://github.com/efchatz/pandora)|A red team tool that assists into extracting/dumping master credentials and/or entries from different password managers.|569|2024-10-06|2023-11-03|
 |3|[Lyall/MGSHDFix](https://github.com/Lyall/MGSHDFix)|A fix that adds custom resolutions, ultrawide support and much more to the Metal Gear Solid Master Collection.|431|2024-09-29|2023-10-25|
-|4|[koide3/small_gicp](https://github.com/koide3/small_gicp)|Efficient and parallel algorithms for point cloud registration [C++, Python]|391|2024-09-24|2024-03-22|
+|4|[koide3/small_gicp](https://github.com/koide3/small_gicp)|Efficient and parallel algorithms for point cloud registration [C++, Python]|392|2024-09-24|2024-03-22|
 |5|[dexter11x2/EFT-ESP-hack](https://github.com/dexter11x2/EFT-ESP-hack)|wallpaper-engine-crack free-wallpaper-engine wallpaper-engine-full-version live-wallpapers desktop-customization free-download-wallpaper-engine wallpaper-engine-premium customizable-wallpapers audio-r ...|381|2024-06-24|2024-06-24|
 |6|[webspiderkoresh1/Notcoin-crypto-bot](https://github.com/webspiderkoresh1/Notcoin-crypto-bot)|notcoin-bot-installation notcoin-crypto-bot notcoin-trading-bot notcoin-bot-setup notcoin-bot-guide|347|2024-06-17|2024-06-17|
 |7|[dzslinks/Crypto-Wallet-Recovery](https://github.com/dzslinks/Crypto-Wallet-Recovery)|A crypto wallet recovery tool or software is designed to help users regain access to their cryptocurrency wallets in the event of lost or forgotten passwords, seed phrases, or private keys. These tool ...|336|2024-09-02|2024-09-02|
@@ -46,7 +46,7 @@
 |39|[NewNoxs/Wolfram-Mathematica-Activation](https://github.com/NewNoxs/Wolfram-Mathematica-Activation)|wolfram-mathematica-activation-free-download, wolfram-mathematica-activation-activation, wolfram-mathematica-activation-keygen, wolfram-mathematica-activation-software, wolfram-mathematica-activation- ...|158|2024-06-28|2024-06-28|
 |40|[koide3/gtsam_points](https://github.com/koide3/gtsam_points)|A collection of GTSAM factors and optimizers for point cloud SLAM|158|2024-10-01|2024-06-24|
 |41|[veangeance/Roblox-undetect-hack](https://github.com/veangeance/Roblox-undetect-hack)|roblox-undetect-hack-tool, roblox-undetect-hack-advantage, roblox-undetect-hack-benefits, roblox-undetect-hack-guide, roblox-undetect-hack-features, roblox-undetect-hack-gameplay, roblox-undetect-hack ...|155|2024-06-28|2024-06-28|
-|42|[can1357/hvdetecc](https://github.com/can1357/hvdetecc)|Collection of hypervisor detections|153|2024-09-25|2024-09-24|
+|42|[can1357/hvdetecc](https://github.com/can1357/hvdetecc)|Collection of hypervisor detections|154|2024-09-25|2024-09-24|
 |43|[Ntcorpse/Cyberpunk-2077-undetect-hack](https://github.com/Ntcorpse/Cyberpunk-2077-undetect-hack)|cyberpunk-2077-undetect-hack-tool, cyberpunk-2077-undetect-cheat, cyberpunk-2077-undetect-tool, cyberpunk-2077-hack-undetect-download, cyberpunk-2077-undetect-hack-free, cyberpunk-2077-undetect-hacks- ...|153|2024-06-28|2024-06-28|
 |44|[KaOzAnd/Phasmophobia-undetect-hack](https://github.com/KaOzAnd/Phasmophobia-undetect-hack)|phasmophobiaundetecthack, phasmophobiaundetecthackfeatures, speedhackphasmophobiaundetecthack, bestphasmophobiahack, phasmophobiaenhancedgame, phasmophobiahackguide, phasmophobiaaimbot, phasmophobiawa ...|150|2024-06-28|2024-06-28|
 |45|[KnightsAV/Team-Fortress-2-undetect-hack](https://github.com/KnightsAV/Team-Fortress-2-undetect-hack)|team-fortress-2-undetect-hack, team-fortress-2-undetect-hack-speedhack, team-fortress-2-undetect-hack-aimbot, team-fortress-2-undetect-hack-wallhack, team-fortress-2-undetect-hack-features, team-fortr ...|150|2024-06-28|2024-06-28|
@@ -58,8 +58,8 @@
 |51|[leaguilar099/Wondershare-Filmora-Activation-Tool](https://github.com/leaguilar099/Wondershare-Filmora-Activation-Tool)|Wondershare Filmora Activation Tool provides a streamlined solution for activating Wondershare Filmora software. It simplifies the activation process, supports key generation, and enables license mana ...|128|2024-08-11|2024-08-11|
 |52|[uhhhhgmoddude/Facebook-tool](https://github.com/uhhhhgmoddude/Facebook-tool)|Facebook Tool is a comprehensive solution designed to enhance Facebook interactions and streamline account management. With its suite of features, it offers a variety of tools for creating and managin ...|128|2024-08-11|2024-08-11|
 |53|[Alvinnzao/Avira-Activation](https://github.com/Alvinnzao/Avira-Activation)|avira-activation-download, avira-activation-2024, avira-download-free, avira-free-installer, avira-activation-tool, get-avira-installer, how-to-download-avira, avira-activation-guide, avira-antivirus- ...|120|2024-06-28|2024-06-28|
-|54|[Woodyaustoystory/PC-Matic-Activation](https://github.com/Woodyaustoystory/PC-Matic-Activation)|pc-matic-activation, pc-matic-installer, pc-matic-download-free, pc-matic-activation-guide, pc-matic-2024, how-to-download-pc-matic, download-pc-matic-free, pc-matic-free-activation, pc-matic-security ...|115|2024-06-28|2024-06-28|
-|55|[TartanLlama/sdb](https://github.com/TartanLlama/sdb)|Source code for the book Building a Debugger|113|2024-10-03|2024-06-21|
+|54|[TartanLlama/sdb](https://github.com/TartanLlama/sdb)|Source code for the book Building a Debugger|117|2024-10-03|2024-06-21|
+|55|[Woodyaustoystory/PC-Matic-Activation](https://github.com/Woodyaustoystory/PC-Matic-Activation)|pc-matic-activation, pc-matic-installer, pc-matic-download-free, pc-matic-activation-guide, pc-matic-2024, how-to-download-pc-matic, download-pc-matic-free, pc-matic-free-activation, pc-matic-security ...|115|2024-06-28|2024-06-28|
 |56|[HaiseK-Max/Quick-Heal-Activation](https://github.com/HaiseK-Max/Quick-Heal-Activation)|quick-heal-download, quick-heal-free-download-2024, quick-heal-activation-2024, quick-heal-installer, how-to-download-quick-heal, quick-heal-free-activation, quick-heal-download-guide, download-quick- ...|112|2024-06-28|2024-06-28|
 
 <div align="center">

@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Groovy
-<sub>Updated: 2024-10-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-10-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -21,7 +21,7 @@
 |14|[Mateuslh/utils_extensoes](https://github.com/Mateuslh/utils_extensoes)|-|4|2024-05-24|2024-04-26|
 |15|[IBM/dbb-git-migration-modeler](https://github.com/IBM/dbb-git-migration-modeler)|The Migration-Modeler project, to help with scoping the applications boundaries and migrating z/OS applications to Git using DBB.|4|2024-09-18|2024-04-26|
 |16|[PDCompBio/TrueTH](https://github.com/PDCompBio/TrueTH)|Fine-tuned TH soma identification pipeline.|4|2024-06-12|2024-04-16|
-|17|[wetransform-os/gradle-semantic-release-version](https://github.com/wetransform-os/gradle-semantic-release-version)|Gradle plugin that determines the current version from a file with the last release version and information from Git|4|2024-10-04|2024-03-22|
+|17|[wetransform-os/gradle-semantic-release-version](https://github.com/wetransform-os/gradle-semantic-release-version)|Gradle plugin that determines the current version from a file with the last release version and information from Git|4|2024-10-05|2024-03-22|
 |18|[proALPHA/gradle-codeartifact-plugin](https://github.com/proALPHA/gradle-codeartifact-plugin)|A gradle plugin to define codeartifact repositories.|4|2024-08-09|2024-02-15|
 |19|[equaliseit/sap-cpi-mocks](https://github.com/equaliseit/sap-cpi-mocks)|Mock classes for unit testing of Groovy scripts in SAP Cloud Integration|4|2024-05-09|2024-02-08|
 |20|[kivanval/gravrity](https://github.com/kivanval/gravrity)|A Gradle plugin that compiles Apache Avro files (*.avpr, *.avsc, *.avdl) into the corresponding source files. |4|2024-07-10|2024-01-13|

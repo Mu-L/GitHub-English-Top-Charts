@@ -1,22 +1,22 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > TeX
-<sub>Updated: 2024-10-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-10-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[AlonzoLeeeooo/awesome-text-to-image-studies](https://github.com/AlonzoLeeeooo/awesome-text-to-image-studies)|A collection of awesome text-to-image generation studies.|354|2024-09-30|2024-02-11|
-|2|[AlonzoLeeeooo/awesome-video-generation](https://github.com/AlonzoLeeeooo/awesome-video-generation)|A collection of awesome video generation studies.|291|2024-09-30|2024-01-30|
+|1|[AlonzoLeeeooo/awesome-text-to-image-studies](https://github.com/AlonzoLeeeooo/awesome-text-to-image-studies)|A collection of awesome text-to-image generation studies.|355|2024-09-30|2024-02-11|
+|2|[AlonzoLeeeooo/awesome-video-generation](https://github.com/AlonzoLeeeooo/awesome-video-generation)|A collection of awesome video generation studies.|292|2024-09-30|2024-01-30|
 |3|[fabiotosi92/Awesome-Deep-Stereo-Matching](https://github.com/fabiotosi92/Awesome-Deep-Stereo-Matching)|A curated list of awesome Deep Stereo Matching resources |208|2024-10-01|2024-03-18|
 |4|[yun-long/Foundations-of-Robotics](https://github.com/yun-long/Foundations-of-Robotics)|Learn fundamental knowledge in robotics |182|2024-06-16|2024-05-13|
 |5|[AlonzoLeeeooo/awesome-image-inpainting-studies](https://github.com/AlonzoLeeeooo/awesome-image-inpainting-studies)|A collection of awesome image inpainting studies.|135|2024-09-20|2024-01-30|
 |6|[hadipourh/course-cryptanalysis](https://github.com/hadipourh/course-cryptanalysis)|A Course in Cryptanalysis|130|2024-08-16|2024-06-13|
-|7|[Heegu-sama/Homm3BG](https://github.com/Heegu-sama/Homm3BG)|Repository for rewriting the rule book.|127|2024-10-05|2024-02-08|
+|7|[Heegu-sama/Homm3BG](https://github.com/Heegu-sama/Homm3BG)|Repository for rewriting the rule book.|130|2024-10-06|2024-02-08|
 |8|[phys-sim-book/mdbook-src](https://github.com/phys-sim-book/mdbook-src)|The mdbook source of a free online book on the theory and algorithms of physics-based simulations. You are welcome to make contributions by submitting pull requests or directly contacting the authors.|90|2024-08-12|2024-03-10|
 |9|[natolambert/rlhf-book](https://github.com/natolambert/rlhf-book)|Textbook on reinforcement learning from human feedback|52|2024-10-04|2024-05-24|
 |10|[FabienPetitEconomics/WorkingPaperTemplate](https://github.com/FabienPetitEconomics/WorkingPaperTemplate)|WorkingPaperTemplate is a LaTeX template for working papers and presentations.|45|2024-04-12|2024-04-12|
-|11|[TideDra/seu-thesis-typst](https://github.com/TideDra/seu-thesis-typst)|东南大学Typst论文模板库|32|2024-05-23|2024-01-24|
-|12|[sueszli/tu-wien-data-science-summaries](https://github.com/sueszli/tu-wien-data-science-summaries)|notes from my master's|31|2024-10-03|2024-02-19|
+|11|[sueszli/tu-wien-data-science-summaries](https://github.com/sueszli/tu-wien-data-science-summaries)|notes from my master's|33|2024-10-03|2024-02-19|
+|12|[TideDra/seu-thesis-typst](https://github.com/TideDra/seu-thesis-typst)|东南大学Typst论文模板库|32|2024-05-23|2024-01-24|
 |13|[Octopus058/China-University-of-Petroleum-Dining-Guide](https://github.com/Octopus058/China-University-of-Petroleum-Dining-Guide)|The guide of dining in China University of Petroleum (CUP)|25|2024-09-17|2024-09-17|
 |14|[IAS-Uni-Siegen/EMD_course](https://github.com/IAS-Uni-Siegen/EMD_course)|Fundamentals of electrical machines and drives course material|24|2024-10-04|2024-03-24|
 |15|[OpenMachine-ai/transformer-tricks](https://github.com/OpenMachine-ai/transformer-tricks)|A collection of tricks to speed up LLMs|24|2024-10-04|2024-03-11|
@@ -40,26 +40,26 @@
 |33|[hurak/orr](https://github.com/hurak/orr)|Optimal and Robust Control – lecture notes for a graduate course B(E)3M35ORR at CTU in Prague, Czechia|11|2024-07-23|2024-02-19|
 |34|[rsnikhil/Book_BLang_RISCV](https://github.com/rsnikhil/Book_BLang_RISCV)|Book to (1) learn BLang (BSV) using a RISC-V example and (2) learn to design a pipelined RISC-V CPU using BSV for HDL coding|11|2024-07-17|2024-01-20|
 |35|[ryantibs/statlearn-s24](https://github.com/ryantibs/statlearn-s24)|Course materials for Advanced Topics in Statistical Learning, Spring 2024|11|2024-08-26|2024-01-12|
-|36|[ysulyma/analytic-stacks](https://github.com/ysulyma/analytic-stacks)|Crowd-sourced notes for the Clausen-Scholze course on Analyic Stacks|10|2024-08-13|2024-04-27|
-|37|[robert-haas/awesome-biomedical-knowledge-graphs](https://github.com/robert-haas/awesome-biomedical-knowledge-graphs)|A curated list of biomedical knowledge graphs and of resources for their construction.|10|2024-08-18|2024-02-06|
-|38|[James-Thorson/Spatio-temporal-models-for-ecologists](https://github.com/James-Thorson/Spatio-temporal-models-for-ecologists)|Code associated with textbook "Spatio-Temporal Models for Ecologists"|10|2024-05-22|2023-12-22|
+|36|[James-Thorson/Spatio-temporal-models-for-ecologists](https://github.com/James-Thorson/Spatio-temporal-models-for-ecologists)|Code associated with textbook "Spatio-Temporal Models for Ecologists"|11|2024-05-22|2023-12-22|
+|37|[ysulyma/analytic-stacks](https://github.com/ysulyma/analytic-stacks)|Crowd-sourced notes for the Clausen-Scholze course on Analyic Stacks|10|2024-08-13|2024-04-27|
+|38|[robert-haas/awesome-biomedical-knowledge-graphs](https://github.com/robert-haas/awesome-biomedical-knowledge-graphs)|A curated list of biomedical knowledge graphs and of resources for their construction.|10|2024-08-18|2024-02-06|
 |39|[Mjrovai/XIAO_Big_Power_Small_Board-ebook](https://github.com/Mjrovai/XIAO_Big_Power_Small_Board-ebook)|Mastering Arduino and TinyML|10|2024-05-12|2023-12-11|
 |40|[xiamyphys/litetable](https://github.com/xiamyphys/litetable)|A LaTeX template provides a beautiful design of class schedule with colorful course blocks.|10|2024-10-01|2023-11-05|
 |41|[Learning-Robotics/motion-planning](https://github.com/Learning-Robotics/motion-planning)|WIP: Course on motion planning|10|2024-09-04|2023-10-10|
 |42|[geocompx/geocompjl](https://github.com/geocompx/geocompjl)|Geocomputation with Julia: an open source book|9|2024-09-25|2024-09-18|
-|43|[lammpstutorials/lammpstutorials-article](https://github.com/lammpstutorials/lammpstutorials-article)| LAMMPS tutorials for both beginners and advanced users: the article |9|2024-10-05|2024-06-13|
+|43|[lammpstutorials/lammpstutorials-article](https://github.com/lammpstutorials/lammpstutorials-article)| LAMMPS tutorials for both beginners and advanced users: the article |9|2024-10-06|2024-06-13|
 |44|[sotopia-lab/awesome-social-agents](https://github.com/sotopia-lab/awesome-social-agents)|A collection of works that investigate social agents, simulations and their real-world impact in text, embodied, and robotics contexts.|9|2024-04-21|2024-04-04|
-|45|[bracke/AdaReferenceCard](https://github.com/bracke/AdaReferenceCard)|Reference Card / Cheatsheet of Ada Attributes, Aspects, Pragmas and Standard Library|9|2024-07-14|2024-03-22|
-|46|[Slookeur/OPEN](https://github.com/Slookeur/OPEN)|LaTeX files for the OPEN tutorial |9|2024-07-17|2023-12-06|
-|47|[danieleavitabile/numerical-analysis-mathematical-neuroscience](https://github.com/danieleavitabile/numerical-analysis-mathematical-neuroscience)|This is material written for the masterclass Numerical and Analytical Methods for Spatially-Extended Neurobiological Networks, held at the Centre for Complex Systems Studies, University of Utrecht in  ...|8|2024-05-23|2024-05-06|
-|48|[marl-book/slides](https://github.com/marl-book/slides)|Lecture slides for the MARL book (www.marl-book.com)|8|2024-09-20|2024-03-26|
+|45|[marl-book/slides](https://github.com/marl-book/slides)|Lecture slides for the MARL book (www.marl-book.com)|9|2024-09-20|2024-03-26|
+|46|[bracke/AdaReferenceCard](https://github.com/bracke/AdaReferenceCard)|Reference Card / Cheatsheet of Ada Attributes, Aspects, Pragmas and Standard Library|9|2024-07-14|2024-03-22|
+|47|[Slookeur/OPEN](https://github.com/Slookeur/OPEN)|LaTeX files for the OPEN tutorial |9|2024-07-17|2023-12-06|
+|48|[danieleavitabile/numerical-analysis-mathematical-neuroscience](https://github.com/danieleavitabile/numerical-analysis-mathematical-neuroscience)|This is material written for the masterclass Numerical and Analytical Methods for Spatially-Extended Neurobiological Networks, held at the Centre for Complex Systems Studies, University of Utrecht in  ...|8|2024-05-23|2024-05-06|
 |49|[natalies-teaching/Comp683_CompBio_2024](https://github.com/natalies-teaching/Comp683_CompBio_2024)|Course Page for Comp683, Spring 2024|8|2024-04-22|2023-12-18|
-|50|[Dear-Luca/Algebra-notes](https://github.com/Dear-Luca/Algebra-notes)|My notes from the algebra and geometry course|7|2024-05-24|2024-05-19|
-|51|[AIandGlobalDevelopmentLab/eo-poverty-review](https://github.com/AIandGlobalDevelopmentLab/eo-poverty-review)|Directory of papers on Earth Observation (EO), Machine Learning (ML), and Causal Inference (CI)|7|2024-09-28|2024-05-05|
-|52|[kapelner/QC_MATH_342W_Spring_2024](https://github.com/kapelner/QC_MATH_342W_Spring_2024)|Course Homepage for Math 342W / 642 / RM 742 Fundamentals of Data Science at Queens College|7|2024-05-20|2024-01-15|
-|53|[thanicsamin/Lecture-Notes](https://github.com/thanicsamin/Lecture-Notes)|Lecture notes from courses|6|2024-10-04|2024-09-28|
-|54|[ebruneton/toypc](https://github.com/ebruneton/toypc)|This repository contains the source code of the book "Programming a toy computer from scratch"|6|2024-09-01|2024-08-19|
-|55|[llm-authorship/survey](https://github.com/llm-authorship/survey)|Paper list for the paper "Authorship Attribution in the Era of Large Language Models: Problems, Methodologies, and Challenges"|6|2024-09-09|2024-07-22|
+|50|[llm-authorship/survey](https://github.com/llm-authorship/survey)|Paper list for the paper "Authorship Attribution in the Era of Large Language Models: Problems, Methodologies, and Challenges"|7|2024-09-09|2024-07-22|
+|51|[Dear-Luca/Algebra-notes](https://github.com/Dear-Luca/Algebra-notes)|My notes from the algebra and geometry course|7|2024-05-24|2024-05-19|
+|52|[AIandGlobalDevelopmentLab/eo-poverty-review](https://github.com/AIandGlobalDevelopmentLab/eo-poverty-review)|Directory of papers on Earth Observation (EO), Machine Learning (ML), and Causal Inference (CI)|7|2024-09-28|2024-05-05|
+|53|[kapelner/QC_MATH_342W_Spring_2024](https://github.com/kapelner/QC_MATH_342W_Spring_2024)|Course Homepage for Math 342W / 642 / RM 742 Fundamentals of Data Science at Queens College|7|2024-05-20|2024-01-15|
+|54|[thanicsamin/Lecture-Notes](https://github.com/thanicsamin/Lecture-Notes)|Lecture notes from courses|6|2024-10-04|2024-09-28|
+|55|[ebruneton/toypc](https://github.com/ebruneton/toypc)|This repository contains the source code of the book "Programming a toy computer from scratch"|6|2024-09-01|2024-08-19|
 |56|[nikomatsakis/latex-paper](https://github.com/nikomatsakis/latex-paper)|Template for latex papers published online.|6|2024-06-11|2024-06-11|
 |57|[april211/Conf_Papers_2024](https://github.com/april211/Conf_Papers_2024)|Interesting papers related to graph data mining. (published on ICML, IJCAI, KDD 2024... )|6|2024-09-09|2024-05-21|
 |58|[computron/scientific-paper-flow](https://github.com/computron/scientific-paper-flow)|A repository containing a checklist for scientific paper writing.|6|2024-04-18|2024-04-12|
@@ -95,7 +95,7 @@
 |88|[ClementineCttn/SLRbanism](https://github.com/ClementineCttn/SLRbanism)|Shared code to demonstrate SLR for urbanism guidelines|4|2024-06-18|2024-02-15|
 |89|[metalbobinou/courses](https://github.com/metalbobinou/courses)|Computer Science courses (mainly in french)|4|2024-06-18|2024-01-29|
 |90|[sohamch08/Academic-Notes](https://github.com/sohamch08/Academic-Notes)|All lecture notes of the topics i learned though out my academic life are here|4|2024-10-05|2024-01-10|
-|91|[Tbrosnan12/TP_notes](https://github.com/Tbrosnan12/TP_notes)|These are a collection of the notes I made during my undergrad in Theoretical Physics at Trinity College Dublin |4|2024-10-04|2023-12-28|
+|91|[Tbrosnan12/TP_notes](https://github.com/Tbrosnan12/TP_notes)|These are a collection of the notes I made during my undergrad in Theoretical Physics at Trinity College Dublin |4|2024-10-06|2023-12-28|
 |92|[ARessegetesStery/Course-Notes](https://github.com/ARessegetesStery/Course-Notes)|Collective notes for courses I have taken|4|2024-07-19|2023-12-13|
 |93|[MehranMorabiPazoki/thesis-template-master](https://github.com/MehranMorabiPazoki/thesis-template-master)|Thesis Template Master|4|2024-05-06|2023-12-10|
 |94|[myst-templates/plain_latex_book](https://github.com/myst-templates/plain_latex_book)|A plain latex book template|4|2024-05-20|2023-11-22|
