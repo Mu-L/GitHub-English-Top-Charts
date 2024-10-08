@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > R
-<sub>Updated: 2024-10-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-10-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -16,7 +16,7 @@
 |9|[ABohynDOE/HSDS](https://github.com/ABohynDOE/HSDS)|Data package for the data sets from the book "A Handbook of Small Data Sets" by David Hand (1994)|16|2024-06-28|2024-06-17|
 |10|[milos-agathon/3d-river-maps](https://github.com/milos-agathon/3d-river-maps)|Explore the capabilities of the `rayshader` package in R with my new tutorial. I'll guide you through the process of creating detailed 3D elevation and river maps for any country. This step-by-step tu ...|16|2024-05-27|2024-05-27|
 |11|[kchaz/CausalCourseNotes](https://github.com/kchaz/CausalCourseNotes)|Course notes on causal inference|16|2024-09-17|2023-12-23|
-|12|[lter/ssecr](https://github.com/lter/ssecr)|Synthesis Skills for Early Career Researchers (SSECR) course|15|2024-10-04|2024-01-17|
+|12|[lter/ssecr](https://github.com/lter/ssecr)|Synthesis Skills for Early Career Researchers (SSECR) course|15|2024-10-07|2024-01-17|
 |13|[xuyiqing/lalonde](https://github.com/xuyiqing/lalonde)|Replications data and code for "LaLonde (1986) after Nearly Four Decades: Lessons Learned" |14|2024-06-14|2024-05-30|
 |14|[comp-med/sparse-proteomic-prediction-of-common-and-rare-diseases](https://github.com/comp-med/sparse-proteomic-prediction-of-common-and-rare-diseases)|This repository contains code associated with the study "Proteomic signatures improve risk predictions for common and rare diseases" (DOI pending)  The provided scripts are not designed to work out of ...|12|2024-07-03|2024-06-06|
 |15|[VictoriaKlyueva/Statistic-in-R](https://github.com/VictoriaKlyueva/Statistic-in-R)|Laboratory work of course "Mathematics for Computer Science 3"|11|2024-06-12|2024-05-31|
@@ -39,6 +39,7 @@
 |32|[Fanyi177/Effects-of-Diets-on-Risks-of-Cancer-and-the-Mediating-role-of-Metabolites](https://github.com/Fanyi177/Effects-of-Diets-on-Risks-of-Cancer-and-the-Mediating-role-of-Metabolites)|Effects of Adherence to Mediterranean and MIND Diets, and the Mediating Effect of Metabolites on Risks of Overall and 22 Specific Cancers: a cohort study in UK Biobank|6|2024-04-10|2024-01-24|
 |33|[mjfrigaard/sap](https://github.com/mjfrigaard/sap)|A collection of {S}hiny {A}pp-{P}ackages|6|2024-09-24|2023-10-15|
 |34|[milos-agathon/temperature-anomaly-maps](https://github.com/milos-agathon/temperature-anomaly-maps)|In this repo, you'll learn how to use NASA's temperature anomaly data to create detailed maps in R. We'll cover how to reproject the data into different map projections, including Robinson and Orthogr ...|5|2024-06-09|2024-06-09|
+|35|[jtanevski/kasumi](https://github.com/jtanevski/kasumi)|Identification of persistent local patterns in spatial omics data|5|2024-10-04|2024-03-18|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

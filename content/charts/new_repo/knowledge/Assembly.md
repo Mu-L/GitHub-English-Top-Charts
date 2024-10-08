@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Assembly
-<sub>Updated: 2024-10-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-10-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -28,14 +28,14 @@
 |21|[Omarmasalmah/Mips_assembly_medical_test_system](https://github.com/Omarmasalmah/Mips_assembly_medical_test_system)|MIPS Assembly project for Computer Architecture Course implements a patient medical record management system.|4|2024-04-30|2024-04-21|
 |22|[Optiroc/SHVC-LZ](https://github.com/Optiroc/SHVC-LZ)|A collection of decoders for various modern Lempel-Ziv compression variants targeting the Super Famicom/Nintendo system.|4|2024-09-21|2024-03-30|
 |23|[31b4/pte-proginf-bsc](https://github.com/31b4/pte-proginf-bsc)|zero to hero proginf bsc step by step tutorial|4|2024-09-02|2023-12-13|
-|24|[HsHs-dev/ICS-15-213-2015](https://github.com/HsHs-dev/ICS-15-213-2015)|My attempt to Carnegie Mellon University Introduction to Computer Systems course 15-213 2015.|3|2024-10-06|2024-09-21|
+|24|[HsHs-dev/ICS-15-213-2015](https://github.com/HsHs-dev/ICS-15-213-2015)|My attempt to Carnegie Mellon University Introduction to Computer Systems course 15-213 2015.|3|2024-10-07|2024-09-21|
 |25|[Nikitat0/StarbirdOS](https://github.com/Nikitat0/StarbirdOS)|Operational system created by Alliance to Restore the Republic (SysPro OSE course project)|3|2024-10-05|2024-09-13|
 |26|[xfcasio/bento](https://github.com/xfcasio/bento)|A collection of macros intended at making assembly more convenient to write and a bit closer to C. Only for x86_64 linux and the FASM assembler (for now).|3|2024-08-20|2024-08-15|
 |27|[Ryzee119/visor_hello_world](https://github.com/Ryzee119/visor_hello_world)|Minimilast OG Xbox Visor Exploit to Hello World - Just me tinkering learning about it|3|2024-10-04|2024-08-07|
 |28|[cticenhour/moose-workshop-ukaea](https://github.com/cticenhour/moose-workshop-ukaea)|Tutorial files for the MOOSE portion of the 2024 UKAEA School on Open-Source Software for Fusion Engineering Simulation|3|2024-08-05|2024-08-01|
 |29|[bektidk/hello-world](https://github.com/bektidk/hello-world)|This repository contains "Hello, World!" scripts in multiple programming languages. It's a simple and useful resource for developers to see how to write a basic program in different languages.|3|2024-07-31|2024-07-31|
 |30|[bektidk/hello-world](https://github.com/bektidk/hello-world)|This repository contains "Hello, World!" scripts in multiple programming languages. It's a simple and useful resource for developers to see how to write a basic program in different languages.|3|2024-07-29|2024-07-29|
-|31|[DavidArlington/MAC-65](https://github.com/DavidArlington/MAC-65)|A place to house any MAC/65 code samples from my YouTube tutorial series.|3|2024-09-24|2024-07-25|
+|31|[DavidArlington/MAC-65](https://github.com/DavidArlington/MAC-65)|A place to house any MAC/65 code samples from my YouTube tutorial series.|3|2024-10-07|2024-07-25|
 |32|[maganharenan/SNES](https://github.com/maganharenan/SNES)|A study hub for SNES programming with assembly|3|2024-07-13|2024-06-06|
 |33|[Rafaelmdcarneiro/wb_sms](https://github.com/Rafaelmdcarneiro/wb_sms)|WonderBoy built for the Sega Master System in 1986.|3|2024-05-24|2024-05-24|
 |34|[winterrdog/x86-bootloader](https://github.com/winterrdog/x86-bootloader)|A hobby project to learn how to make a bootloader. Written in C and x86 Assembly|3|2024-05-02|2024-04-27|

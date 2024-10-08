@@ -1,15 +1,15 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Objective-C
-<sub>Updated: 2024-10-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-10-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[ibireme/YYKit](https://github.com/ibireme/YYKit)|A collection of iOS components.|13987|2024-06-25|
+|1|[ibireme/YYKit](https://github.com/ibireme/YYKit)|A collection of iOS components.|13988|2024-06-25|
 |2|[shaojiankui/JKCategories](https://github.com/shaojiankui/JKCategories)|JKCategories(iOS-Categories,Category), a collection of useful Objective-C Categories extending iOS Frameworks such as Foundation,UIKit,CoreData,QuartzCore,CoreLocation,MapKit Etc.|3339|2024-05-31|
-|3|[thiagoperes/IDMPhotoBrowser](https://github.com/thiagoperes/IDMPhotoBrowser)|Photo Browser / Viewer inspired by Facebook's and Tweetbot's with ARC support, swipe-to-dismiss, image progress and more|2712|2024-04-11|
+|3|[thiagoperes/IDMPhotoBrowser](https://github.com/thiagoperes/IDMPhotoBrowser)|Photo Browser / Viewer inspired by Facebook's and Tweetbot's with ARC support, swipe-to-dismiss, image progress and more|2711|2024-04-11|
 |4|[EvgenyKarkan/EKAlgorithms](https://github.com/EvgenyKarkan/EKAlgorithms)|EKAlgorithms contains some well known CS algorithms & data structures.|2423|2024-09-19|
-|5|[Alinto/sogo](https://github.com/Alinto/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1789|2024-10-01|
+|5|[Alinto/sogo](https://github.com/Alinto/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1789|2024-10-07|
 |6|[tangtiancheng/DouYinComment](https://github.com/tangtiancheng/DouYinComment)|iOS Widget Video Gif Play Animation 1. gif视频播放小组件, 帧动画小组件, 摇摇乐小组件, 网易云iOS小组件,动态Widget,时钟组件,风扇组件,滚动照片组件; 2.抖音视频转场动画,抖音左滑push进个人主页, 评论手势拖拽效果 , 视频播放, 边下边播, 预加载, TikTok ; 3.铃声多多,上传铃声音频到库乐队(GarageBand) 4.微 ...|568|2024-08-07|
 |7|[MobClub/ShareSDK-for-iOS](https://github.com/MobClub/ShareSDK-for-iOS)|快捷好用的社会化分享组件 Convenient SDK for SNS Share Feature|465|2024-09-19|
 |8|[PoomSmart/IDAObjcTypes](https://github.com/PoomSmart/IDAObjcTypes)|A collection of types & functions definitions useful for iOS/macOS binaries analysis.|326|2024-09-15|
@@ -23,14 +23,14 @@
 |16|[aik002/RSBypass](https://github.com/aik002/RSBypass)|Rocksmith 2014 Remastered Edition dylib patch for loading and playing CDLC|110|2024-08-04|
 |17|[onfido/onfido-ios-sdk](https://github.com/onfido/onfido-ios-sdk)|A Swift client for the Onfido API and a collection of UI elements to capture photos of documents.|100|2024-09-26|
 |18|[iBurnApp/iBurn-iOS](https://github.com/iBurnApp/iBurn-iOS)|iBurn is an offline map and guide for the Burning Man art festival.|70|2024-09-17|
-|19|[plaid/plaid-link-examples](https://github.com/plaid/plaid-link-examples)|Plaid Link Webview, ReactNative examples|63|2024-04-17|
+|19|[plaid/plaid-link-examples](https://github.com/plaid/plaid-link-examples)|Plaid Link Webview, ReactNative examples|64|2024-04-17|
 |20|[ReverseApple/RemoveBooksDRM](https://github.com/ReverseApple/RemoveBooksDRM)| Books EPUB DRM Removal|57|2024-08-16|
 |21|[timonus/TJActivityViewController](https://github.com/timonus/TJActivityViewController)|Simple customization for the iOS share sheet.|54|2024-09-05|
 |22|[jimstudt/timelapse](https://github.com/jimstudt/timelapse)|Mac OS X command line utility to turn a series of images into a video.|54|2024-06-19|
 |23|[tidev/ti.facebook](https://github.com/tidev/ti.facebook)|Support for the native Facebook SDK in Titanium using JavaScript|50|2024-05-17|
 |24|[Countly/countly-sample-ios](https://github.com/Countly/countly-sample-ios)|Sample iOS projects to demonstrate how to use Countly SDKs. For Android sample, check Android repository and documentation.|32|2024-08-12|
-|25|[tillt/KompleteSynthesia](https://github.com/tillt/KompleteSynthesia)|Native Instruments Komplete Kontrol Light Guide support for Synthesia|25|2024-04-27|
-|26|[urbanairship/ios-samples](https://github.com/urbanairship/ios-samples)|A collection of samples using the Urban Airship ios-library|25|2024-04-30|
+|25|[urbanairship/ios-samples](https://github.com/urbanairship/ios-samples)|A collection of samples using the Urban Airship ios-library|25|2024-04-30|
+|26|[tillt/KompleteSynthesia](https://github.com/tillt/KompleteSynthesia)|Native Instruments Komplete Kontrol Light Guide support for Synthesia|24|2024-04-27|
 |27|[xujingzhou/FunVideo](https://github.com/xujingzhou/FunVideo)|A series of embeddable theme into video, include animation and voice.|22|2024-05-03|
 |28|[barry-ran/learn-macos](https://github.com/barry-ran/learn-macos)|learn macos develop|20|2024-08-21|
 |29|[aprosvetova/actuator](https://github.com/aprosvetova/actuator)|Golang library that allows you to actuate your MacBook Force Touch trackpad|15|2024-09-07|
@@ -60,7 +60,6 @@
 |53|[Smohana-Priya/Animations](https://github.com/Smohana-Priya/Animations)|Simple animation examples|2|2024-09-26|
 |54|[MichaelLedger/ThreadSafeDictionary](https://github.com/MichaelLedger/ThreadSafeDictionary)|NSMutableDictionary of iOS is not threadsafe. You may encountered problem when read/write shared NSMutableDictinary from multiple thread. I want to make fast and threadsafe mutable dictionary.|2|2024-06-18|
 |55|[deffkaaaa/Sorter](https://github.com/deffkaaaa/Sorter)|A sorting program that was created for KPI Coursework, 1st year, 2nd semester|2|2024-05-29|
-|56|[wltrup/Algs-Smoothing-Line-Segments](https://github.com/wltrup/Algs-Smoothing-Line-Segments)|How to smooth a collection of points by interpolating them with Bezier curves.|2|2024-04-07|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

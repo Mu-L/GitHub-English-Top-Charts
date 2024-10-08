@@ -1,15 +1,15 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > MATLAB
-<sub>Updated: 2024-10-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-10-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[lzz19980125/awesome-time-series-segmentation-papers](https://github.com/lzz19980125/awesome-time-series-segmentation-papers)|This repository contains a reading list of papers on Time Series Segmentation. This repository is still being continuously improved.|423|2024-09-03|2024-01-27|
+|1|[lzz19980125/awesome-time-series-segmentation-papers](https://github.com/lzz19980125/awesome-time-series-segmentation-papers)|This repository contains a reading list of papers on Time Series Segmentation. This repository is still being continuously improved.|424|2024-09-03|2024-01-27|
 |2|[emilbjornson/mimobook](https://github.com/emilbjornson/mimobook)|Simulation code and accompanying material for the textbook "Introduction to Multiple Antenna Communications and Reconfigurable Surfaces" by Emil Björnson and Özlem Tuğfe Demir, Boston-Delft: now publi ...|62|2024-05-17|2024-01-11|
-|3|[KSKelvin-Github/Qspice](https://github.com/KSKelvin-Github/Qspice)|Qspice technique, symbols and examples|30|2024-10-02|2023-10-13|
+|3|[KSKelvin-Github/Qspice](https://github.com/KSKelvin-Github/Qspice)|Qspice technique, symbols and examples|30|2024-10-07|2023-10-13|
 |4|[SQY2021/Estimation_IEEE-TIE](https://github.com/SQY2021/Estimation_IEEE-TIE)|Parameter Estimation of DAB Converter Using Intelligent Algorithms and Steady-State Modeling Considering Nonidealities (IEEE Transactions on Industrial Electronics (*IEEE TIE*))|20|2024-05-09|2023-11-02|
-|5|[schnitzer-lab/ActSort-public](https://github.com/schnitzer-lab/ActSort-public)|ActSort is an active learning accelerated cell sorter tool for calcium imaging.|19|2024-09-29|2024-08-19|
+|5|[schnitzer-lab/ActSort-public](https://github.com/schnitzer-lab/ActSort-public)|ActSort is an active learning accelerated cell sorter tool for calcium imaging.|19|2024-10-07|2024-08-19|
 |6|[nasa/Rigid-Geometric-Algebra](https://github.com/nasa/Rigid-Geometric-Algebra)|A collection of Matlab classes implementing the Geometric Algebra G(3,0,1) for homogeneous transformations of 3D rigid bodies in 4D projective space, primarily based on Lengyel's convention.|15|2024-04-09|2024-02-09|
 |7|[MColbrook/DMD-Multiverse](https://github.com/MColbrook/DMD-Multiverse)|MATLAB packages accompanying the review article "The Multiverse of Dynamic Mode Decomposition Algorithms"|12|2024-05-01|2023-11-20|
 |8|[mahdieslaminet/turbo_codes](https://github.com/mahdieslaminet/turbo_codes)|Understanding turbo codes: A signal processing study|11|2024-08-18|2024-07-26|

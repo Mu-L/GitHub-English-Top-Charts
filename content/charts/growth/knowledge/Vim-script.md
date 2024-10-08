@@ -1,20 +1,20 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Knowledge > Vim script
-<sub>Updated: 2024-10-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-10-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[wsdjeg/vim-galore-zh_cn](https://github.com/wsdjeg/vim-galore-zh_cn)|Vim 从入门到精通|10469|4|2024-07-06|
-|2|[jbranchaud/til](https://github.com/jbranchaud/til)|:memo: Today I Learned|13409|4|2024-10-04|
-|3|[zenbones-theme/zenbones.nvim](https://github.com/zenbones-theme/zenbones.nvim)|🪨 A collection of contrast-based Vim/Neovim colorschemes|717|1|2024-10-03|
-|4|[antoniosarosi/dotfiles](https://github.com/antoniosarosi/dotfiles)|My dotfiles repo, here you can find all my window manager configs as well as documentation and a guide on how to make your own desktop environment.|853|1|2024-08-13|
-|5|[rafi/awesome-vim-colorschemes](https://github.com/rafi/awesome-vim-colorschemes)|Collection of awesome color schemes for Neo/vim, merged for quick use.|2729|1|2024-05-28|
+|1|[wsdjeg/vim-galore-zh_cn](https://github.com/wsdjeg/vim-galore-zh_cn)|Vim 从入门到精通|10474|4|2024-07-06|
+|2|[jbranchaud/til](https://github.com/jbranchaud/til)|:memo: Today I Learned|13411|4|2024-10-07|
+|3|[zenbones-theme/zenbones.nvim](https://github.com/zenbones-theme/zenbones.nvim)|🪨 A collection of contrast-based Vim/Neovim colorschemes|720|1|2024-10-03|
+|4|[antoniosarosi/dotfiles](https://github.com/antoniosarosi/dotfiles)|My dotfiles repo, here you can find all my window manager configs as well as documentation and a guide on how to make your own desktop environment.|854|1|2024-08-13|
+|5|[rafi/awesome-vim-colorschemes](https://github.com/rafi/awesome-vim-colorschemes)|Collection of awesome color schemes for Neo/vim, merged for quick use.|2731|1|2024-05-28|
 |6|[alextanhongpin/cheat-sheet](https://github.com/alextanhongpin/cheat-sheet)|A list of useful cheat-sheet for different languages/tools|23|0|2024-09-01|
 |7|[Wojonatior/dotfiles](https://github.com/Wojonatior/dotfiles)|Collection of all of my dotfiles|3|0|2024-08-21|
 |8|[TheBeehive/dotfiles](https://github.com/TheBeehive/dotfiles)|A collection of custom user configuration scripts for Linux|3|0|2024-05-22|
 |9|[MahbubAlam231/vim-for-latex](https://github.com/MahbubAlam231/vim-for-latex)|My personalization of vim for mainly LaTeX; containing vimrc, templates, snippets, folding method and abbreviations|3|0|2024-08-30|
-|10|[richlamdev/ansible-desktop-ubuntu](https://github.com/richlamdev/ansible-desktop-ubuntu)|Ansible playbook with roles for Ubuntu desktop deployment|5|0|2024-10-06|
+|10|[richlamdev/ansible-desktop-ubuntu](https://github.com/richlamdev/ansible-desktop-ubuntu)|Ansible playbook with roles for Ubuntu desktop deployment|5|0|2024-10-07|
 |11|[jameslikeslinux/dotfiles](https://github.com/jameslikeslinux/dotfiles)|Dotfiles and other shared home directory things|12|0|2024-10-02|
 |12|[BurntSushi/dotfiles](https://github.com/BurntSushi/dotfiles)|My configuration files and personal collection of scripts.|153|0|2024-09-18|
 |13|[Duan-JM/dotfiles](https://github.com/Duan-JM/dotfiles)|Collection for my dotfiles|9|0|2024-08-19|
@@ -79,10 +79,10 @@
 |72|[tony/vim-config-framework](https://github.com/tony/vim-config-framework)|:green_book: VIM / Neovim configuration framework|96|0|2024-09-07|
 |73|[technicalpickles/dotfiles](https://github.com/technicalpickles/dotfiles)|My shareable dotfiles|20|0|2024-09-30|
 |74|[sophiabrandt/TIL](https://github.com/sophiabrandt/TIL)|📝 Today I learned|4|0|2024-09-26|
-|75|[boycaught/my.dotfiles](https://github.com/boycaught/my.dotfiles)|Sensible developer defaults and automation hooks on MacOS/*nix—inspired by others but idiomatic to my particular development needs and habit. As autodidactic coder, I know I don't do things "by the bo ...|5|0|2024-10-06|
+|75|[boycaught/my.dotfiles](https://github.com/boycaught/my.dotfiles)|Sensible developer defaults and automation hooks on MacOS/*nix—inspired by others but idiomatic to my particular development needs and habit. As autodidactic coder, I know I don't do things "by the bo ...|5|0|2024-10-07|
 |76|[unixbhaskar/AdminScripts](https://github.com/unixbhaskar/AdminScripts)|Collection of scripts use for infrastructure maintenance.|9|0|2024-07-03|
 |77|[bmeurer/dotfiles](https://github.com/bmeurer/dotfiles)|Collection of various dotfiles|5|0|2024-07-12|
-|78|[tweekmonster/helpful.vim](https://github.com/tweekmonster/helpful.vim)|:notebook: Display vim version numbers in docs|177|0|2024-10-06|
+|78|[tweekmonster/helpful.vim](https://github.com/tweekmonster/helpful.vim)|:notebook: Display vim version numbers in docs|177|0|2024-10-07|
 |79|[mrtazz/dotfiles](https://github.com/mrtazz/dotfiles)|collection of my dotfiles|29|0|2024-10-02|
 
 <div align="center">

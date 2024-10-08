@@ -1,17 +1,17 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Growth Ranking > Software > MATLAB
-<sub>Updated: 2024-10-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-10-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03)|-|10382|114|2024-08-05|
-|2|[BAO162/Quadruped_MPC_matlab](https://github.com/BAO162/Quadruped_MPC_matlab)|Quadruped robot linear MPC control, platform Webots + MATLAB|14|2|2024-09-29|
-|3|[TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)|OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.|6876|2|2024-06-01|
+|1|[ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03)|-|10382|113|2024-08-05|
+|2|[BAO162/Quadruped_MPC_matlab](https://github.com/BAO162/Quadruped_MPC_matlab)|Quadruped robot linear MPC control, platform Webots + MATLAB|15|2|2024-09-29|
+|3|[TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)|OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.|6881|2|2024-06-01|
 |4|[taroz/ge-gnss-visibility](https://github.com/taroz/ge-gnss-visibility)|GNSS satellite visibility simulation from Google Earth|103|1|2024-09-06|
 |5|[liuboxun/LLM4CP](https://github.com/liuboxun/LLM4CP)|-|67|1|2024-07-30|
 |6|[NerdsWithAttitudes/WarpFactory](https://github.com/NerdsWithAttitudes/WarpFactory)|WarpFactory is a numerical toolkit for analyzing warp drive spacetimes.|273|1|2024-05-24|
-|7|[Time9Y/Matlab-Machine](https://github.com/Time9Y/Matlab-Machine)|-|699|1|2024-08-23|
+|7|[Time9Y/Matlab-Machine](https://github.com/Time9Y/Matlab-Machine)|-|700|1|2024-08-23|
 |8|[Linfeng-Tang/Image-Fusion](https://github.com/Linfeng-Tang/Image-Fusion)|Deep Learning-based Image Fusion: A Survey|782|1|2024-09-26|
 |9|[taroz/gsdc2023](https://github.com/taroz/gsdc2023)|Google Smartphone Decimeter Challenge 2023|54|1|2024-09-24|
 |10|[BIMK/PlatEMO](https://github.com/BIMK/PlatEMO)|Evolutionary multi-objective optimization platform|1581|1|2024-09-05|
@@ -54,7 +54,7 @@
 |47|[ivsg-psu/PathPlanning_PathTools_PathClassLibrary](https://github.com/ivsg-psu/PathPlanning_PathTools_PathClassLibrary)|This is the Path class library for MATLAB and listing of all functions within this class.|5|0|2024-09-26|
 |48|[Songwei-Zhao/Epidemic-Predict](https://github.com/Songwei-Zhao/Epidemic-Predict)|-|5|0|2024-06-19|
 |49|[Ainray/matlablib](https://github.com/Ainray/matlablib)|-|8|0|2024-08-13|
-|50|[IvoVellekoop/wavesim](https://github.com/IvoVellekoop/wavesim)|High-accuracy simulation of light propagation|27|0|2024-05-06|
+|50|[IvoVellekoop/wavesim](https://github.com/IvoVellekoop/wavesim)|High-accuracy simulation of light propagation|27|0|2024-10-07|
 |51|[MartinKoch123/yaml](https://github.com/MartinKoch123/yaml)|MATLAB YAML parser and emitter based on SnakeYAML |22|0|2024-09-30|
 |52|[corwin365/MatlabFunctions](https://github.com/corwin365/MatlabFunctions)|My main Matlab function path|3|0|2024-04-28|
 |53|[shoheifujitaSF/Pulseq-qalas](https://github.com/shoheifujitaSF/Pulseq-qalas)|-|3|0|2024-04-19|
@@ -156,7 +156,7 @@
 |149|[MarineBioAcousticsRC/silbido](https://github.com/MarineBioAcousticsRC/silbido)|-|6|0|2024-05-20|
 |150|[ashkanpakzad/AirQuant](https://github.com/ashkanpakzad/AirQuant)|AirQuant is a framework based in MATLAB primarily for extracting airway measurements from fully segmented airways of a chest CT.|17|0|2024-08-01|
 |151|[paradisetosan/ShiArthur03_Backup](https://github.com/paradisetosan/ShiArthur03_Backup)|-|14|0|2024-07-13|
-|152|[RoyiAvital/StackExchangeCodes](https://github.com/RoyiAvital/StackExchangeCodes)|Codes related to answers on StackExchange Network.|108|0|2024-09-21|
+|152|[RoyiAvital/StackExchangeCodes](https://github.com/RoyiAvital/StackExchangeCodes)|Codes related to answers on StackExchange Network.|108|0|2024-10-07|
 |153|[shining0611armor/Electrical-Distribution-Simulation--Voltage-Current-Profile-Active-Reactive-Power-Line-Efficiency](https://github.com/shining0611armor/Electrical-Distribution-Simulation--Voltage-Current-Profile-Active-Reactive-Power-Line-Efficiency)|Here we provide a simulation of the distribution of electricity profile with MATLAB. (Note: the report is in Persian language)|8|0|2024-09-02|
 |154|[yrlu/quadrotor](https://github.com/yrlu/quadrotor)|Quadrotor control, path planning and trajectory optimization|854|0|2024-05-05|
 |155|[Xiangyu-Gao/mmWave-radar-signal-processing-and-microDoppler-classification](https://github.com/Xiangyu-Gao/mmWave-radar-signal-processing-and-microDoppler-classification)|Codes and template data for paper "Experiments with mmWave Automotive Radar Test-bed"|269|0|2024-08-16|
@@ -173,7 +173,7 @@
 |166|[HaiyangJin/PTB-Exp-Builder](https://github.com/HaiyangJin/PTB-Exp-Builder)|Custom codes for building psychological experiments based on PsychoToolbox. |5|0|2024-04-27|
 |167|[Eremes1641/DSDA_MATLAB](https://github.com/Eremes1641/DSDA_MATLAB)|A example code for Discrete-Time Sliding Mode Control with Disturbance Compensation & Auxiliary state|4|0|2024-06-08|
 |168|[gaozhen16/Source-Code-L.Qiao](https://github.com/gaozhen16/Source-Code-L.Qiao)|-|6|0|2024-04-30|
-|169|[DasLab/ubr](https://github.com/DasLab/ubr)|Ultraplex-Bowtie2-RNAframework pipeline for analysis of SHAPE-MaP/DMS-MaP big library runs|3|0|2024-10-02|
+|169|[DasLab/ubr](https://github.com/DasLab/ubr)|Ultraplex-Bowtie2-RNAframework pipeline for analysis of SHAPE-MaP/DMS-MaP big library runs|3|0|2024-10-07|
 |170|[joelsimon/omnia](https://github.com/joelsimon/omnia)|Analyze complex and noisy time series with particular emphasis given to seismoacoustic MERMAID signals|8|0|2024-09-25|
 |171|[zhiqianZ/supCPM](https://github.com/zhiqianZ/supCPM)|The algorithm, supervised Capacity Mapping (supCPM), to visualize scRNA-seq data|6|0|2024-08-25|
 |172|[DESL-EPFL/Hybrid_ACDC_power_flow](https://github.com/DESL-EPFL/Hybrid_ACDC_power_flow)|-|3|0|2024-09-25|
@@ -185,7 +185,7 @@
 |178|[kowyo/matlab-progress-bar](https://github.com/kowyo/matlab-progress-bar)|A tqdm alternative in MATLAB|4|0|2024-06-18|
 |179|[RasitEvduzen/KalmanFilter](https://github.com/RasitEvduzen/KalmanFilter)|-|20|0|2024-08-11|
 |180|[lcnbeapp/beapp](https://github.com/lcnbeapp/beapp)|The Batch Electroencephalography Automated Processing Platform (BEAPP)|35|0|2024-09-17|
-|181|[Timmmdavis/CutAndDisplace](https://github.com/Timmmdavis/CutAndDisplace)|Boundary Element MATLAB code. Modelling faults and deformation|47|0|2024-09-23|
+|181|[Timmmdavis/CutAndDisplace](https://github.com/Timmmdavis/CutAndDisplace)|Boundary Element MATLAB code. Modelling faults and deformation|48|0|2024-09-23|
 |182|[Hadrien-Montanelli/lsmlab](https://github.com/Hadrien-Montanelli/lsmlab)|MATLAB package for solving inverse acoustic problems with the LSM|4|0|2024-07-02|
 |183|[trendscenter/fit](https://github.com/trendscenter/fit)|Fusion ICA Toolbox (MATLAB)|24|0|2024-10-04|
 |184|[luigiferiani/multi-DDM](https://github.com/luigiferiani/multi-DDM)|-|3|0|2024-10-03|

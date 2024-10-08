@@ -1,25 +1,25 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Perl
-<sub>Updated: 2024-10-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-10-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[bagder/emails](https://github.com/bagder/emails)|emails I received|226|2024-09-12|2024-01-11|
 |2|[HexaCluster/pgdsat](https://github.com/HexaCluster/pgdsat)|PostgreSQL Database Security Assessment Tool|212|2024-06-10|2024-04-08|
-|3|[ivanreese/2222](https://github.com/ivanreese/2222)|A tiny, silly game that you can program with anything.|49|2024-09-18|2024-07-10|
+|3|[ivanreese/2222](https://github.com/ivanreese/2222)|A tiny, silly game that you can program with anything.|50|2024-09-18|2024-07-10|
 |4|[michaelherger/lms-plugin-tidal](https://github.com/michaelherger/lms-plugin-tidal)|A TIDAL plugin to integrate with the Lyrion Music Server (fka. Logitech Media Server)|43|2024-09-26|2024-02-08|
 |5|[philippe44/lms-deezer](https://github.com/philippe44/lms-deezer)|-|35|2024-07-07|2024-02-17|
 |6|[ZANSIN-sec/ZANSIN](https://github.com/ZANSIN-sec/ZANSIN)|-|29|2024-06-03|2023-12-07|
-|7|[takehaya/Sys-Ebpf](https://github.com/takehaya/Sys-Ebpf)|Sys::Ebpf is a pure-perl library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.In other words eBPF Loader for written in Perl.|27|2024-10-04|2024-07-03|
-|8|[Cyclenerd/aws-pricing](https://github.com/Cyclenerd/aws-pricing)|💸 Choose the optimal Amazon EC2 instance type in the many AWS locations|26|2024-10-04|2024-02-22|
-|9|[LMS-Community/lms-community.github.io](https://github.com/LMS-Community/lms-community.github.io)|This is the web page for the Lyrion Music Server Community repository|26|2024-10-06|2024-01-08|
+|7|[takehaya/Sys-Ebpf](https://github.com/takehaya/Sys-Ebpf)|Sys::Ebpf is a pure-perl library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.In other words eBPF Loader for written in Perl.|28|2024-10-04|2024-07-03|
+|8|[Cyclenerd/aws-pricing](https://github.com/Cyclenerd/aws-pricing)|💸 Choose the optimal Amazon EC2 instance type in the many AWS locations|27|2024-10-04|2024-02-22|
+|9|[LMS-Community/lms-community.github.io](https://github.com/LMS-Community/lms-community.github.io)|This is the web page for the Lyrion Music Server Community repository|26|2024-10-07|2024-01-08|
 |10|[joz-k/ios_backup_extractor](https://github.com/joz-k/ios_backup_extractor)|iOS backup media extraction tool (photos, videos)|25|2024-10-04|2023-11-06|
 |11|[FZJ-JSC/LLview](https://github.com/FZJ-JSC/LLview)|HPC Monitoring Tool|22|2024-07-10|2023-11-03|
 |12|[c-skills/passport](https://github.com/c-skills/passport)|-|20|2024-09-12|2024-09-05|
 |13|[ahrefs/jsonschema2atd](https://github.com/ahrefs/jsonschema2atd)|Generate ATD types from a JSON schema / OpenAPI document|19|2024-08-01|2023-12-20|
 |14|[DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast](https://github.com/DerekPascarella/DeathCrimson2AltarofMelanito-EnglishPatchDreamcast)|English translation patch for the Sega Dreamcast game "Death Crimson 2".|18|2024-08-09|2024-02-12|
-|15|[fglock/PerlOnJava](https://github.com/fglock/PerlOnJava)|An implementation of the Perl programming language designed to run on the Java platform|17|2024-10-04|2024-08-02|
+|15|[fglock/PerlOnJava](https://github.com/fglock/PerlOnJava)|An implementation of the Perl programming language designed to run on the Java platform|17|2024-10-07|2024-08-02|
 |16|[DerekPascarella/Rabbit-EnglishPatchSaturn](https://github.com/DerekPascarella/Rabbit-EnglishPatchSaturn)|English translation patch for the Sega Saturn game "Rabbit".|17|2024-04-22|2024-03-13|
 |17|[Berkeley-CS162/cs162-workspace](https://github.com/Berkeley-CS162/cs162-workspace)|-|17|2024-08-30|2024-01-02|
 |18|[tseemann/scripts](https://github.com/tseemann/scripts)|Miscellaneous Perl scripts from 20 years in microbial bioinformatics|16|2024-07-16|2024-07-15|
@@ -32,11 +32,11 @@
 |25|[sishuowang/Solutions_Manual_CME2006_MESA2014](https://github.com/sishuowang/Solutions_Manual_CME2006_MESA2014)|A solutions manual for all excercises in the Ziheng Yang's two seminall books on statistical molecular evolution: Computational Molecular Evolution (Yang 2006) and Molecular Evolution: A Statistical A ...|12|2024-08-16|2023-10-24|
 |26|[dhaneshdutta/dotfiles](https://github.com/dhaneshdutta/dotfiles)|Minimal and pure hyprland configuration.|11|2024-09-03|2024-08-19|
 |27|[mollusc-labs/slapbird](https://github.com/mollusc-labs/slapbird)|SlapbirdAPM 🐦: An APM (Application Performance Monitor) for Perl 5 web-applications|11|2024-10-04|2024-04-02|
-|28|[luxysiv/revanced-nonroot](https://github.com/luxysiv/revanced-nonroot)|YouTube & YouTube Music Revanced. Will patch after 5 minutes ReVanced release |11|2024-05-26|2024-01-03|
-|29|[jantman/docker-zoneminder](https://github.com/jantman/docker-zoneminder)|Modern, best-practices Debian-based Zoneminder container|11|2024-09-22|2023-11-28|
-|30|[Rishi-Sudhakar/web-scrapper](https://github.com/Rishi-Sudhakar/web-scrapper)|A web scraping software, that allows to fetch text from url specified and saves it in text format, Made with perl.|10|2024-06-06|2024-06-06|
-|31|[madcamel/acmeproxy.pl](https://github.com/madcamel/acmeproxy.pl)|ACME DNS challenge proxy|10|2024-09-19|2024-05-21|
-|32|[smtiitm/Fastspeech2_HS](https://github.com/smtiitm/Fastspeech2_HS)|Indic TTS for Indian Languages: This is a project on developing text-to-speech (TTS) synthesis systems for Indian languages, improving quality of synthesis, as well as small foot print TTS integrated  ...|10|2024-05-06|2024-03-19|
+|28|[smtiitm/Fastspeech2_HS](https://github.com/smtiitm/Fastspeech2_HS)|Indic TTS for Indian Languages: This is a project on developing text-to-speech (TTS) synthesis systems for Indian languages, improving quality of synthesis, as well as small foot print TTS integrated  ...|11|2024-10-07|2024-03-19|
+|29|[luxysiv/revanced-nonroot](https://github.com/luxysiv/revanced-nonroot)|YouTube & YouTube Music Revanced. Will patch after 5 minutes ReVanced release |11|2024-05-26|2024-01-03|
+|30|[jantman/docker-zoneminder](https://github.com/jantman/docker-zoneminder)|Modern, best-practices Debian-based Zoneminder container|11|2024-09-22|2023-11-28|
+|31|[Rishi-Sudhakar/web-scrapper](https://github.com/Rishi-Sudhakar/web-scrapper)|A web scraping software, that allows to fetch text from url specified and saves it in text format, Made with perl.|10|2024-06-06|2024-06-06|
+|32|[madcamel/acmeproxy.pl](https://github.com/madcamel/acmeproxy.pl)|ACME DNS challenge proxy|10|2024-09-19|2024-05-21|
 |33|[andreypopp/ppx_deriving_json](https://github.com/andreypopp/ppx_deriving_json)|Generate JSON encoders/decoders for OCaml data types|10|2024-04-30|2023-11-14|
 |34|[Wenfei-Xian/TIPP](https://github.com/Wenfei-Xian/TIPP)|Telomere local assembly, Improved whole genome polish, and Plastid assembly|10|2024-09-08|2023-10-24|
 |35|[youhgo/DOPP](https://github.com/youhgo/DOPP)|DFIR ORC PARSER PROJECT|9|2024-09-28|2024-09-16|
@@ -57,24 +57,24 @@
 |50|[Bio2Byte/simsapiper](https://github.com/Bio2Byte/simsapiper)|A Nextflow pipeline that creates reliable, structure-informed MSAs of thousands of protein sequences which can supplement structural information from online resources automatically |7|2024-09-03|2023-11-30|
 |51|[blaisebits/CobaltStrikeTools](https://github.com/blaisebits/CobaltStrikeTools)|-|6|2024-07-01|2024-05-23|
 |52|[saiftynet/Calendar](https://github.com/saiftynet/Calendar)|-|6|2024-07-28|2024-05-09|
-|53|[DerekPascarella/Dreamcast-FMV-Auto-Subber](https://github.com/DerekPascarella/Dreamcast-FMV-Auto-Subber)|A utility to batch re-encode Dreamcast SFD videos with baked-in subtitles.|5|2024-10-01|2024-09-27|
-|54|[drylikov/ceph_check_plugin](https://github.com/drylikov/ceph_check_plugin)|Ceph check plugin (for nagios, shiken etc.).|5|2024-09-01|2024-09-01|
-|55|[Whomrx666/satanX-flood](https://github.com/Whomrx666/satanX-flood)|satanX-flood is a DDOS tool that is used to flood a website using the IP address|5|2024-09-01|2024-09-01|
-|56|[drylikov/Network_plugins](https://github.com/drylikov/Network_plugins)|Check plugins for Networking devices to be used in Nagios or Shinken.|5|2024-08-28|2024-08-28|
-|57|[classilla/catbox](https://github.com/classilla/catbox)|Hey, Canon, look what I did to your "work processor."|5|2024-07-14|2024-07-14|
-|58|[S3N4T0R-0X0/Primitive-Bear-APT](https://github.com/S3N4T0R-0X0/Primitive-Bear-APT)|This is a simulation of attack by (Primitive Bear) APT group targeting the State Migration Service of Ukraine |5|2024-05-26|2024-05-23|
-|59|[qoliber/DevOps](https://github.com/qoliber/DevOps)|-|5|2024-06-02|2024-05-09|
-|60|[pacstall/pacup](https://github.com/pacstall/pacup)|Help maintainers update pacscripts (next-gen Perl rewrite)|5|2024-06-07|2024-04-14|
-|61|[extism/perl-sdk](https://github.com/extism/perl-sdk)|Extism Perl Host SDK - easily run WebAssembly modules / plugins from Perl applications|5|2024-08-09|2024-01-19|
-|62|[anhsirk0/rio-themes](https://github.com/anhsirk0/rio-themes)|Modus-themes and Ef-themes for rio terminal.|5|2024-09-08|2023-12-15|
-|63|[aKaReZa75/Programing](https://github.com/aKaReZa75/Programing)|با استفاده از لینک زیر یاد میگیرید که چطور از گیت هاب استفاده کنید و چطوری فایل های خودتون رو دانلود کنید: https://youtu.be/BsykgHpmUt8 |5|2024-05-01|2023-11-12|
+|53|[aKaReZa75/Programing](https://github.com/aKaReZa75/Programing)|با استفاده از لینک زیر یاد میگیرید که چطور از گیت هاب استفاده کنید و چطوری فایل های خودتون رو دانلود کنید: https://youtu.be/BsykgHpmUt8 |6|2024-05-01|2023-11-12|
+|54|[DerekPascarella/Dreamcast-FMV-Auto-Subber](https://github.com/DerekPascarella/Dreamcast-FMV-Auto-Subber)|A utility to batch re-encode Dreamcast SFD videos with baked-in subtitles.|5|2024-10-01|2024-09-27|
+|55|[drylikov/ceph_check_plugin](https://github.com/drylikov/ceph_check_plugin)|Ceph check plugin (for nagios, shiken etc.).|5|2024-09-01|2024-09-01|
+|56|[Whomrx666/satanX-flood](https://github.com/Whomrx666/satanX-flood)|satanX-flood is a DDOS tool that is used to flood a website using the IP address|5|2024-09-01|2024-09-01|
+|57|[drylikov/Network_plugins](https://github.com/drylikov/Network_plugins)|Check plugins for Networking devices to be used in Nagios or Shinken.|5|2024-08-28|2024-08-28|
+|58|[classilla/catbox](https://github.com/classilla/catbox)|Hey, Canon, look what I did to your "work processor."|5|2024-07-14|2024-07-14|
+|59|[S3N4T0R-0X0/Primitive-Bear-APT](https://github.com/S3N4T0R-0X0/Primitive-Bear-APT)|This is a simulation of attack by (Primitive Bear) APT group targeting the State Migration Service of Ukraine |5|2024-05-26|2024-05-23|
+|60|[qoliber/DevOps](https://github.com/qoliber/DevOps)|-|5|2024-06-02|2024-05-09|
+|61|[pacstall/pacup](https://github.com/pacstall/pacup)|Help maintainers update pacscripts (next-gen Perl rewrite)|5|2024-06-07|2024-04-14|
+|62|[extism/perl-sdk](https://github.com/extism/perl-sdk)|Extism Perl Host SDK - easily run WebAssembly modules / plugins from Perl applications|5|2024-08-09|2024-01-19|
+|63|[anhsirk0/rio-themes](https://github.com/anhsirk0/rio-themes)|Modus-themes and Ef-themes for rio terminal.|5|2024-09-08|2023-12-15|
 |64|[robrwo/perl-ipgrep](https://github.com/robrwo/perl-ipgrep)|grep by ip address|5|2024-10-05|2023-11-02|
 |65|[ip-web/Fujify](https://github.com/ip-web/Fujify)|Fujify - Fujifilm film simulation unlocker for other camera brand's RAW images|4|2024-09-23|2024-08-30|
 |66|[lskatz/dists2trees](https://github.com/lskatz/dists2trees)|Generic distances to trees pipeline|4|2024-08-01|2024-06-26|
 |67|[faraui/transport-layer-tcp-protocol](https://github.com/faraui/transport-layer-tcp-protocol)|Transport layer TCP-protocol template in which the corrupted blocks are identified and resent to the transmitter. Used with QRadioLink or GNU Radio to effeciently communicate via radio transmitters.|4|2024-06-24|2024-06-11|
 |68|[elpop/melate](https://github.com/elpop/melate)|Mexican version of lottery (lotto).|4|2024-10-06|2024-04-22|
-|69|[defihook/clusterflow](https://github.com/defihook/clusterflow)|A pipelining tool to automate and standardise bioinformatics analyses on cluster environments.|4|2024-04-26|2024-04-15|
-|70|[kg4zow/remarkable.jms1.info](https://github.com/kg4zow/remarkable.jms1.info)|Source code for remarkable.jms1.info site|4|2024-08-18|2023-11-12|
+|69|[defihook/clusterflow](https://github.com/defihook/clusterflow)|A pipelining tool to automate and standardise bioinformatics analyses on cluster environments.|4|2024-10-07|2024-04-15|
+|70|[kg4zow/remarkable.jms1.info](https://github.com/kg4zow/remarkable.jms1.info)|Source code for remarkable.jms1.info site|4|2024-10-06|2023-11-12|
 |71|[okubax/dotfiles](https://github.com/okubax/dotfiles)|-|3|2024-10-01|2024-09-22|
 |72|[DerekPascarella/Saturn-15bpp-Graphics-Converter](https://github.com/DerekPascarella/Saturn-15bpp-Graphics-Converter)|A utility to convert between SEGA Saturn 15bpp graphic format and bitmaps.|3|2024-09-12|2024-09-12|
 |73|[davorg/dancer-example](https://github.com/davorg/dancer-example)|Basic Dancer2 example|3|2024-09-04|2024-09-03|
