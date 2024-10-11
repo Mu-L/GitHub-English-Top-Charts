@@ -1,19 +1,19 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Software > Objective-C
-<sub>Updated: 2024-10-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-10-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[roothide/Bootstrap](https://github.com/roothide/Bootstrap)|A full featured bootstrap for iOS 15.0-17.0 A8-A17 & M1+M2 using roothide|1218|2024-10-05|2023-12-21|
+|1|[roothide/Bootstrap](https://github.com/roothide/Bootstrap)|A full featured bootstrap for iOS 15.0-17.0 A8-A17 & M1+M2 using roothide|1221|2024-10-05|2023-12-21|
 |2|[dhinakg/aeota](https://github.com/dhinakg/aeota)|AEA OTA/IPSW decryption|242|2024-09-20|2024-06-11|
-|3|[mineek/MuffinStore](https://github.com/mineek/MuffinStore)|-|215|2024-09-07|2024-09-06|
+|3|[mineek/MuffinStore](https://github.com/mineek/MuffinStore)|-|217|2024-09-07|2024-09-06|
 |4|[R00tkitSMM/CVE-2024-27804](https://github.com/R00tkitSMM/CVE-2024-27804)|POC for CVE-2024-27804|132|2024-05-14|2024-05-14|
 |5|[wangtielei/POCs](https://github.com/wangtielei/POCs)|-|109|2024-08-03|2024-05-24|
-|6|[khanhduytran0/FrontBoardAppLauncher](https://github.com/khanhduytran0/FrontBoardAppLauncher)|Reference usage of FrontBoard & UIKit private API to display external app scene|95|2024-09-29|2024-09-21|
+|6|[khanhduytran0/FrontBoardAppLauncher](https://github.com/khanhduytran0/FrontBoardAppLauncher)|Reference usage of FrontBoard & UIKit private API to display external app scene|96|2024-09-29|2024-09-21|
 |7|[simonw/1991-WWW-NeXT-Implementation](https://github.com/simonw/1991-WWW-NeXT-Implementation)|-|91|2024-08-03|2024-08-01|
 |8|[Kyle-Ye/eligibility](https://github.com/Kyle-Ye/eligibility)|-|87|2024-09-12|2024-06-16|
-|9|[fridakitten/FridaCodeManager](https://github.com/fridakitten/FridaCodeManager)|Code/Compile/Install iOS Apps with an App on iOS|82|2024-10-09|2024-03-17|
+|9|[fridakitten/FridaCodeManager](https://github.com/fridakitten/FridaCodeManager)|Code/Compile/Install iOS Apps with an App on iOS|82|2024-10-10|2024-03-17|
 |10|[BreakOnCrash/TrollAppDuplicator](https://github.com/BreakOnCrash/TrollAppDuplicator)|iOS App duplicator for TrollStore|79|2024-10-07|2024-07-18|
 |11|[dayanch96/ShowMyTouches](https://github.com/dayanch96/ShowMyTouches)|The tweak that displays visual indicators for touch interactions on the screen.|71|2024-09-01|2024-07-14|
 |12|[t4minka/ccml](https://github.com/t4minka/ccml)|simple autodiff library|62|2024-08-22|2024-04-24|
@@ -22,7 +22,7 @@
 |15|[DerekSelander/dynadump](https://github.com/DerekSelander/dynadump)|A runtime ObjC class-dump|43|2024-10-04|2024-03-14|
 |16|[brycebostwick/XcodePluginLoader](https://github.com/brycebostwick/XcodePluginLoader)|-|43|2024-06-11|2024-02-09|
 |17|[acquitelol/flora](https://github.com/acquitelol/flora)|A tweak to customize all of your iOS colors!|38|2024-06-25|2024-01-15|
-|18|[codyd51/Mighty-Mitts](https://github.com/codyd51/Mighty-Mitts)|macOS menu bar applet for battery levels of ZMK split keyboards|36|2024-06-14|2024-03-11|
+|18|[codyd51/Mighty-Mitts](https://github.com/codyd51/Mighty-Mitts)|macOS menu bar applet for battery levels of ZMK split keyboards|37|2024-06-14|2024-03-11|
 |19|[xsscx/xnuimagefuzzer](https://github.com/xsscx/xnuimagefuzzer)|XNU Image Fuzzer - iOS App for Fuzzing Images with Objective-C Code covering 12 CGCreateBitmap & CGColorSpace Functions working with Raw Data and String Injection.|35|2024-06-08|2024-02-20|
 |20|[frymanofer/ReactNative_WakeWordDetection](https://github.com/frymanofer/ReactNative_WakeWordDetection)|Create any wake word, deploy on any device and operating system.|33|2024-10-09|2024-07-28|
 |21|[OwnGoalStudio/NoRedirect](https://github.com/OwnGoalStudio/NoRedirect)|A simple tweak that restricts application launching or being launched by other applications.|32|2024-10-06|2024-09-28|
@@ -40,12 +40,12 @@
 |33|[waresnew/badgesync](https://github.com/waresnew/badgesync)|Jailbreak tweak (iOS 14-16) for notification badges with 5k+ downloads|16|2024-09-28|2024-07-03|
 |34|[ryannair05/MitsuhaSix](https://github.com/ryannair05/MitsuhaSix)|Universal iOS audio visualizer|16|2024-05-14|2024-05-14|
 |35|[AlexandraAurora/MusicRPC](https://github.com/AlexandraAurora/MusicRPC)|All-In-One Discord Music RPC for Apple Music, iTunes, Spotify, TIDAL, Deezer and foobar2000.|16|2024-09-26|2024-04-20|
-|36|[OwnGoalStudio/IconRestore](https://github.com/OwnGoalStudio/IconRestore)|Save and restore the layout of your icons.|14|2024-10-01|2024-09-05|
+|36|[OwnGoalStudio/IconRestore](https://github.com/OwnGoalStudio/IconRestore)|Save and restore the layout of your icons.|15|2024-10-01|2024-09-05|
 |37|[LNSSPsd/duckoff](https://github.com/LNSSPsd/duckoff)|Unleash iOS keyboard to suggest/swipe-type swear words|14|2024-05-26|2024-05-26|
 |38|[alfiecg24/libgrabkernel2](https://github.com/alfiecg24/libgrabkernel2)|Easily download the kernelcache for any iOS release, beta or OTA-only version.|14|2024-09-12|2024-03-05|
 |39|[khanhduytran0/MySystemShell](https://github.com/khanhduytran0/MySystemShell)|Demo of using System Shell private API to render view over SpringBoard|13|2024-09-16|2024-09-16|
 |40|[pixelomer/Oneko-iOS](https://github.com/pixelomer/Oneko-iOS)|Port of Oneko for iOS|13|2024-06-29|2024-06-22|
-|41|[holepunchto/bare-kit](https://github.com/holepunchto/bare-kit)|Bare for native application development|12|2024-10-08|2024-06-21|
+|41|[holepunchto/bare-kit](https://github.com/holepunchto/bare-kit)|Bare for native application development|12|2024-10-10|2024-06-21|
 |42|[Cody47/Insta47-for-iOS](https://github.com/Cody47/Insta47-for-iOS)|⚡️ A feature-rich mod for Instagram for iOS. Supports latest sideloading and non-jailbroken devices.|12|2024-10-08|2024-03-07|
 |43|[dimphoton/McDonaldsFix](https://github.com/dimphoton/McDonaldsFix)|A tweak to bypass the forced upgrade in the McDonald's app|11|2024-06-18|2024-06-16|
 |44|[TheGithubJoshua/VolumeFLEX](https://github.com/TheGithubJoshua/VolumeFLEX)|Load FLEX by pressing down both volume buttons.|11|2024-04-30|2024-01-20|
@@ -69,17 +69,17 @@
 |62|[leptos-null/swiftype-dump](https://github.com/leptos-null/swiftype-dump)|Work-in-progress tool to dump Swift types from a Mach-o|7|2024-09-24|2024-09-17|
 |63|[chunkyguy/MoveMe](https://github.com/chunkyguy/MoveMe)|Classic demo of user interaction and animation.|7|2024-09-13|2024-09-11|
 |64|[vantuan88291/react-native-ota-hot-update](https://github.com/vantuan88291/react-native-ota-hot-update)|React native hot update same as code push|7|2024-09-21|2024-08-16|
-|65|[michaelengel/producer](https://github.com/michaelengel/producer)|Smalltalk to Objective-C source-to-source compiler by Brad Cox and Kurt Schmucker (from comp.sources.misc 08/20/87)|7|2024-06-17|2024-06-17|
-|66|[ilnaw/SlideRule](https://github.com/ilnaw/SlideRule)|a simple silder ruler UI component,support CoreHaptics|7|2024-05-16|2024-05-07|
-|67|[jeffssh/objc2](https://github.com/jeffssh/objc2)|C2 using the full power of NSExpressions to replace in memory dylib loading|7|2024-05-23|2024-04-22|
-|68|[gev2002/react-native-vision-camera-v3-face-detection](https://github.com/gev2002/react-native-vision-camera-v3-face-detection)|-|7|2024-05-08|2024-03-20|
-|69|[dtcalabro/libDCWeather](https://github.com/dtcalabro/libDCWeather)|A weather fetching library for jailbroken iOS devices|7|2024-04-15|2024-02-27|
-|70|[chipweinberger/flutter_quick_video_encoder](https://github.com/chipweinberger/flutter_quick_video_encoder)|Quickly encode raw RGB images & PCM audio to MP4 video using the hardware h264 encoder|7|2024-09-20|2024-01-11|
-|71|[chrfalch/react-native-cpp](https://github.com/chrfalch/react-native-cpp)|Simple utilities for creating C++ native modules in React Native|7|2024-07-14|2023-12-12|
-|72|[ChengHust/IEEE-CEC-2024-Competition](https://github.com/ChengHust/IEEE-CEC-2024-Competition)|CEC'2024 Competition on Super Large-scale Multiobjective Optimization for Status Assessment of Measuring Equipment|7|2024-07-23|2023-11-30|
-|73|[lestar348/XRayCoreIOSWrapper](https://github.com/lestar348/XRayCoreIOSWrapper)|IOS package for using Xray core on client side|7|2024-09-16|2023-11-03|
-|74|[mwpcheung/macsubstrate](https://github.com/mwpcheung/macsubstrate)|cydiasubstrate for macos|6|2024-09-23|2024-09-22|
-|75|[Ghost-byte75/ABox_iOS](https://github.com/Ghost-byte75/ABox_iOS)|IOS IPA Signature Tool|6|2024-08-15|2024-08-15|
+|65|[Ghost-byte75/ABox_iOS](https://github.com/Ghost-byte75/ABox_iOS)|IOS IPA Signature Tool|7|2024-08-15|2024-08-15|
+|66|[michaelengel/producer](https://github.com/michaelengel/producer)|Smalltalk to Objective-C source-to-source compiler by Brad Cox and Kurt Schmucker (from comp.sources.misc 08/20/87)|7|2024-06-17|2024-06-17|
+|67|[ilnaw/SlideRule](https://github.com/ilnaw/SlideRule)|a simple silder ruler UI component,support CoreHaptics|7|2024-05-16|2024-05-07|
+|68|[jeffssh/objc2](https://github.com/jeffssh/objc2)|C2 using the full power of NSExpressions to replace in memory dylib loading|7|2024-05-23|2024-04-22|
+|69|[gev2002/react-native-vision-camera-v3-face-detection](https://github.com/gev2002/react-native-vision-camera-v3-face-detection)|-|7|2024-05-08|2024-03-20|
+|70|[dtcalabro/libDCWeather](https://github.com/dtcalabro/libDCWeather)|A weather fetching library for jailbroken iOS devices|7|2024-04-15|2024-02-27|
+|71|[chipweinberger/flutter_quick_video_encoder](https://github.com/chipweinberger/flutter_quick_video_encoder)|Quickly encode raw RGB images & PCM audio to MP4 video using the hardware h264 encoder|7|2024-09-20|2024-01-11|
+|72|[chrfalch/react-native-cpp](https://github.com/chrfalch/react-native-cpp)|Simple utilities for creating C++ native modules in React Native|7|2024-07-14|2023-12-12|
+|73|[ChengHust/IEEE-CEC-2024-Competition](https://github.com/ChengHust/IEEE-CEC-2024-Competition)|CEC'2024 Competition on Super Large-scale Multiobjective Optimization for Status Assessment of Measuring Equipment|7|2024-07-23|2023-11-30|
+|74|[lestar348/XRayCoreIOSWrapper](https://github.com/lestar348/XRayCoreIOSWrapper)|IOS package for using Xray core on client side|7|2024-09-16|2023-11-03|
+|75|[mwpcheung/macsubstrate](https://github.com/mwpcheung/macsubstrate)|cydiasubstrate for macos|6|2024-09-23|2024-09-22|
 |76|[khanhduytran0/DynamicPlayground](https://github.com/khanhduytran0/DynamicPlayground)|Load SpringBoard.framework and create a sandboxed Dynamic Island playground|6|2024-08-11|2024-08-11|
 |77|[s4m13337/MetalLink](https://github.com/s4m13337/MetalLink)|A wrapper for using Metal from Wolfram Language|6|2024-07-08|2024-05-16|
 |78|[coolstar/classiclockscreen](https://github.com/coolstar/classiclockscreen)|ClassicLockScreen OSS|6|2024-05-06|2024-05-06|
@@ -96,7 +96,7 @@
 |89|[frymanofer/KeyWordDetectionIOSFramework](https://github.com/frymanofer/KeyWordDetectionIOSFramework)|This is the IOS framework for KeyWordDetection from DaVoice.io|5|2024-10-08|2024-08-13|
 |90|[colaquecez/react-native-selectable-text](https://github.com/colaquecez/react-native-selectable-text)|-|5|2024-07-30|2024-07-23|
 |91|[NightwindDev/MusicPlayerColor](https://github.com/NightwindDev/MusicPlayerColor)|Colorize the music player on iOS 16!|5|2024-07-17|2024-07-17|
-|92|[MaerskTech/flutter-rum-sdk](https://github.com/MaerskTech/flutter-rum-sdk)|The Flutter RUM Mobile SDK is a powerful tool for developing high-performance mobile applications. Its capabilities in gathering extensive application metrics, coupled with seamless integration with G ...|5|2024-09-30|2024-06-25|
+|92|[MaerskTech/flutter-rum-sdk](https://github.com/MaerskTech/flutter-rum-sdk)|The Flutter RUM Mobile SDK is a powerful tool for developing high-performance mobile applications. Its capabilities in gathering extensive application metrics, coupled with seamless integration with G ...|5|2024-10-10|2024-06-25|
 |93|[ziggear/ZGExpandableTable](https://github.com/ziggear/ZGExpandableTable)|用于 iOS 的可展开/折叠展示JSON对象的 UITableView  An collapsable (expandable) UITableView for showing JSON object iOS.|5|2024-06-22|2024-06-18|
 |94|[bejutassle/react-native-skadnetwork](https://github.com/bejutassle/react-native-skadnetwork)|This module allows you to integrate SKAdNetwork features into your React Native projects seamlessly.|5|2024-06-07|2024-05-24|
 |95|[touchlab/GitPortalCli](https://github.com/touchlab/GitPortalCli)|-|5|2024-08-18|2024-05-20|
@@ -143,14 +143,14 @@
 |136|[farc6/Obj-BF](https://github.com/farc6/Obj-BF)|brainfuck interpreter written in objc|3|2024-04-14|2024-03-15|
 |137|[WeansHHN/Lib-Mod-Skin](https://github.com/WeansHHN/Lib-Mod-Skin)|-|3|2024-07-14|2024-03-13|
 |138|[MHJedli/ideapad-gaming-3-ryzentosh](https://github.com/MHJedli/ideapad-gaming-3-ryzentosh)|Lenovo Ideapad Gaming 3 EFI for your Ryzentosh|3|2024-09-20|2024-03-04|
-|139|[arthurchoung/SmithersXServer](https://github.com/arthurchoung/SmithersXServer)|Simple X Server (X11)|3|2024-04-10|2024-02-24|
-|140|[uakihir0/kbsky-cocoapods](https://github.com/uakihir0/kbsky-cocoapods)|Bluesky/ATProtoco library for Apple Devices with Cocoapods.|3|2024-10-05|2023-12-28|
-|141|[AnkiPro/react-native-file-open](https://github.com/AnkiPro/react-native-file-open)|React Native file opening listener for iOS|3|2024-08-24|2023-12-27|
-|142|[wwdrew/expo-spotify-sdk](https://github.com/wwdrew/expo-spotify-sdk)|Expo Module for native Spotify SDKs|3|2024-06-26|2023-12-08|
-|143|[engagesolutionsgroup/LinkedIn.Hakawai.Net](https://github.com/engagesolutionsgroup/LinkedIn.Hakawai.Net)|LinkedIn.Hakawai binding library for .net7-ios+|3|2024-07-25|2023-11-20|
-|144|[MimiHearingTechnologies/SDK-iOS-Binaries](https://github.com/MimiHearingTechnologies/SDK-iOS-Binaries)|MimiSDK frameworks for integrating with SPM & Cocoapods|3|2024-09-10|2023-11-13|
-|145|[RonFall/sber_pay](https://github.com/RonFall/sber_pay)|-|3|2024-05-21|2023-10-23|
-|146|[AlauddinTheWonder/react-native-esp-smart-config](https://github.com/AlauddinTheWonder/react-native-esp-smart-config)|ESP-TOUCH protocol to seamlessly configure Wi-Fi devices connecting to a router.|3|2024-04-23|2023-10-16|
+|139|[uakihir0/kbsky-cocoapods](https://github.com/uakihir0/kbsky-cocoapods)|Bluesky/ATProtoco library for Apple Devices with Cocoapods.|3|2024-10-05|2023-12-28|
+|140|[AnkiPro/react-native-file-open](https://github.com/AnkiPro/react-native-file-open)|React Native file opening listener for iOS|3|2024-08-24|2023-12-27|
+|141|[wwdrew/expo-spotify-sdk](https://github.com/wwdrew/expo-spotify-sdk)|Expo Module for native Spotify SDKs|3|2024-06-26|2023-12-08|
+|142|[engagesolutionsgroup/LinkedIn.Hakawai.Net](https://github.com/engagesolutionsgroup/LinkedIn.Hakawai.Net)|LinkedIn.Hakawai binding library for .net7-ios+|3|2024-07-25|2023-11-20|
+|143|[MimiHearingTechnologies/SDK-iOS-Binaries](https://github.com/MimiHearingTechnologies/SDK-iOS-Binaries)|MimiSDK frameworks for integrating with SPM & Cocoapods|3|2024-09-10|2023-11-13|
+|144|[RonFall/sber_pay](https://github.com/RonFall/sber_pay)|-|3|2024-05-21|2023-10-23|
+|145|[AlauddinTheWonder/react-native-esp-smart-config](https://github.com/AlauddinTheWonder/react-native-esp-smart-config)|ESP-TOUCH protocol to seamlessly configure Wi-Fi devices connecting to a router.|3|2024-04-23|2023-10-16|
+|146|[MaddTheSane/RCEnvironment](https://github.com/MaddTheSane/RCEnvironment)|Environment editor for Mac OS X|2|2024-10-10|2024-10-09|
 |147|[angelosstampoulisgithub/Objective-C-RadioStations](https://github.com/angelosstampoulisgithub/Objective-C-RadioStations)|I made this simple iOS app in Objective C to show how someone can implement a simple request|2|2024-10-07|2024-10-07|
 |148|[angelosstampoulisgithub/Objective-C-Stack](https://github.com/angelosstampoulisgithub/Objective-C-Stack)|I made this simple iOS app in Objective C as a demo of how someone can implement a Stack in Objective|2|2024-10-04|2024-10-04|
 |149|[angelosstampoulisgithub/Objective-C-Queue](https://github.com/angelosstampoulisgithub/Objective-C-Queue)|I made this simple iOS app in Objective C as a demo of how someone can implement a Queue in Objective C|2|2024-10-04|2024-10-04|
