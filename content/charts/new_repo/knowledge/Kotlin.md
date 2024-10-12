@@ -1,29 +1,29 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Kotlin
-<sub>Updated: 2024-10-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-10-12&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[Acclorite/book-story](https://github.com/Acclorite/book-story)|Material3 eBook reader - Book's Story. Built with Jetpack Compose. Free & Open Source & Ad Free. 7 supported file formats (.txt, .pdf, .epub, .fb2, .zip, .html, .htm), 5 supported languages. Lots of c ...|324|2024-10-08|2023-12-29|
+|1|[Acclorite/book-story](https://github.com/Acclorite/book-story)|Material3 eBook reader - Book's Story. Built with Jetpack Compose. Free & Open Source & Ad Free. 7 supported file formats (.txt, .pdf, .epub, .fb2, .zip, .html, .htm), 5 supported languages. Lots of c ...|333|2024-10-11|2023-12-29|
 |2|[apple/pkl-pantry](https://github.com/apple/pkl-pantry)|Shared Pkl packages|227|2024-06-04|2024-01-19|
-|3|[JohnnySC/ZeroToHeroAndroidTDD](https://github.com/JohnnySC/ZeroToHeroAndroidTDD)|Learn Android by solving TDD tasks|167|2024-09-13|2023-10-18|
-|4|[fethij/Rijksmuseum](https://github.com/fethij/Rijksmuseum)|Delve into the rich collection of masterpieces.|128|2024-10-08|2024-05-29|
-|5|[langerhans/OdinTools](https://github.com/langerhans/OdinTools)|Collection of utilities for the AYN Odin 2|128|2024-05-25|2024-01-08|
-|6|[petros-efthymiou/DailyPulse](https://github.com/petros-efthymiou/DailyPulse)|Education repo offered as material in the courses: Kotlin Multiplatform & Compose Multiplatform Masterclasses.|127|2024-05-02|2023-11-24|
-|7|[B1ays/BHub](https://github.com/B1ays/BHub)|Download, Install and Share mods easily|117|2024-06-25|2024-06-24|
-|8|[fibelatti/photo-widget](https://github.com/fibelatti/photo-widget)|Photo Widget is as simple as it can be: an Android home screen widget to display a photo or collection of photos. It is a free, no-ads, open source alternative for people who want to customize their h ...|111|2024-10-09|2023-10-24|
-|9|[realityexpander/How_to_program_from_ground_up](https://github.com/realityexpander/How_to_program_from_ground_up)|Live code-along document to support my video series about Learning to Program Computers From The Ground Up With Minimal BS.|102|2024-09-10|2024-02-06|
-|10|[KieronQuinn/SmartspacerPlugins](https://github.com/KieronQuinn/SmartspacerPlugins)|A collection of plugins for Smartspacer|95|2024-08-28|2023-10-22|
-|11|[abualgait/BookStoreKMP](https://github.com/abualgait/BookStoreKMP)|📚 Welcome to BookStoreKMP! This kotlin-platform gem blends cutting-edge tech, sleek UI via Jetpack Compose, Ktor for networking, SqlDelight for database magic, and Koin for dependency injection. 🚀💻 |92|2024-06-17|2024-01-24|
-|12|[GetStream/Android-Video-Samples](https://github.com/GetStream/Android-Video-Samples)|📘 Provides a collection of samples that utilize modern Android tech stacks and Stream Video SDK for Kotlin and Compose.|88|2024-10-03|2024-04-08|
-|13|[aloussase/AlexandriaApp](https://github.com/aloussase/AlexandriaApp)|:book: Search for books and download and convert them to different formats|72|2024-06-20|2024-02-19|
-|14|[meta-quest/Meta-Spatial-SDK-Samples](https://github.com/meta-quest/Meta-Spatial-SDK-Samples)|The Meta Spatial SDK Samples is a collection of code samples and projects that demonstrate the capabilities of the Meta Spatial SDK. Meta Spatial SDK enables mobile developers to build Meta Horizon OS ...|64|2024-10-05|2024-09-20|
-|15|[eslamfaisal/android-development-training](https://github.com/eslamfaisal/android-development-training)|Online Android development training to move you from basics to production ready, learning android concepts to create and maintains android projects|54|2024-08-08|2024-02-14|
-|16|[SEAbdulbasit/Camera-KMP](https://github.com/SEAbdulbasit/Camera-KMP)|This repository provides a comprehensive example of how to use the camera in a Kotlin Multiplatform (KMP) project. It demonstrates the implementation of camera functionality across multiple platforms, ...|43|2024-06-02|2024-05-25|
-|17|[nain-F49FF806/sharepaste.oo](https://github.com/nain-F49FF806/sharepaste.oo)|Share pastes privately, with end to end encryption.|43|2024-10-05|2024-04-05|
-|18|[wisemuji/compose-would-you-rather-game](https://github.com/wisemuji/compose-would-you-rather-game)|📱 Compose Multiplatform, 100% UI shared by Compose, generates contents by Gemini|42|2024-09-05|2024-07-25|
-|19|[enmanuel52/Pop-Corns](https://github.com/enmanuel52/Pop-Corns)|Can you guess the best way to eat them? Of course watching a movie :).|39|2024-08-31|2023-10-11|
+|3|[skydoves/kmp-developer-roadmap](https://github.com/skydoves/kmp-developer-roadmap)|🗺 The Kotlin Multiplatform Developer Roadmap offers comprehensive learning paths to help you understand KMP ecosystems.|190|2024-10-11|2024-10-10|
+|4|[JohnnySC/ZeroToHeroAndroidTDD](https://github.com/JohnnySC/ZeroToHeroAndroidTDD)|Learn Android by solving TDD tasks|168|2024-09-13|2023-10-18|
+|5|[fethij/Rijksmuseum](https://github.com/fethij/Rijksmuseum)|Delve into the rich collection of masterpieces.|130|2024-10-10|2024-05-29|
+|6|[langerhans/OdinTools](https://github.com/langerhans/OdinTools)|Collection of utilities for the AYN Odin 2|128|2024-05-25|2024-01-08|
+|7|[petros-efthymiou/DailyPulse](https://github.com/petros-efthymiou/DailyPulse)|Education repo offered as material in the courses: Kotlin Multiplatform & Compose Multiplatform Masterclasses.|127|2024-05-02|2023-11-24|
+|8|[B1ays/BHub](https://github.com/B1ays/BHub)|Download, Install and Share mods easily|120|2024-06-25|2024-06-24|
+|9|[fibelatti/photo-widget](https://github.com/fibelatti/photo-widget)|Photo Widget is as simple as it can be: an Android home screen widget to display a photo or collection of photos. It is a free, no-ads, open source alternative for people who want to customize their h ...|112|2024-10-11|2023-10-24|
+|10|[realityexpander/How_to_program_from_ground_up](https://github.com/realityexpander/How_to_program_from_ground_up)|Live code-along document to support my video series about Learning to Program Computers From The Ground Up With Minimal BS.|102|2024-09-10|2024-02-06|
+|11|[KieronQuinn/SmartspacerPlugins](https://github.com/KieronQuinn/SmartspacerPlugins)|A collection of plugins for Smartspacer|95|2024-08-28|2023-10-22|
+|12|[abualgait/BookStoreKMP](https://github.com/abualgait/BookStoreKMP)|📚 Welcome to BookStoreKMP! This kotlin-platform gem blends cutting-edge tech, sleek UI via Jetpack Compose, Ktor for networking, SqlDelight for database magic, and Koin for dependency injection. 🚀💻 |93|2024-06-17|2024-01-24|
+|13|[GetStream/Android-Video-Samples](https://github.com/GetStream/Android-Video-Samples)|📘 Provides a collection of samples that utilize modern Android tech stacks and Stream Video SDK for Kotlin and Compose.|88|2024-10-11|2024-04-08|
+|14|[aloussase/AlexandriaApp](https://github.com/aloussase/AlexandriaApp)|:book: Search for books and download and convert them to different formats|72|2024-06-20|2024-02-19|
+|15|[meta-quest/Meta-Spatial-SDK-Samples](https://github.com/meta-quest/Meta-Spatial-SDK-Samples)|The Meta Spatial SDK Samples is a collection of code samples and projects that demonstrate the capabilities of the Meta Spatial SDK. Meta Spatial SDK enables mobile developers to build Meta Horizon OS ...|65|2024-10-05|2024-09-20|
+|16|[eslamfaisal/android-development-training](https://github.com/eslamfaisal/android-development-training)|Online Android development training to move you from basics to production ready, learning android concepts to create and maintains android projects|54|2024-08-08|2024-02-14|
+|17|[SEAbdulbasit/Camera-KMP](https://github.com/SEAbdulbasit/Camera-KMP)|This repository provides a comprehensive example of how to use the camera in a Kotlin Multiplatform (KMP) project. It demonstrates the implementation of camera functionality across multiple platforms, ...|43|2024-06-02|2024-05-25|
+|18|[nain-F49FF806/sharepaste.oo](https://github.com/nain-F49FF806/sharepaste.oo)|Share pastes privately, with end to end encryption.|43|2024-10-10|2024-04-05|
+|19|[wisemuji/compose-would-you-rather-game](https://github.com/wisemuji/compose-would-you-rather-game)|📱 Compose Multiplatform, 100% UI shared by Compose, generates contents by Gemini|42|2024-09-05|2024-07-25|
 |20|[ChathuraHettiarachchi/SharedTransitionScope-JetpackCompose-Try](https://github.com/ChathuraHettiarachchi/SharedTransitionScope-JetpackCompose-Try)|Try out new SharedTransitionScope API on Jetpack Compose. This is not well coded, just for testing the API, so don't think much about the implementation :p|36|2024-04-19|2024-04-19|
 |21|[issever22/iCore](https://github.com/issever22/iCore)|iCore is a comprehensive Android library designed to streamline the development process by providing a robust set of modular components. With built-in support for the Model-View-ViewModel (MVVM) archi ...|34|2024-09-27|2024-06-03|
 |22|[uuranus/compose-nature-effects](https://github.com/uuranus/compose-nature-effects)|A collection of Jetpack Compose components inspired by nature.|31|2024-10-04|2024-08-09|
@@ -33,9 +33,9 @@
 |26|[samAricha/Organiks1_KMP_Server](https://github.com/samAricha/Organiks1_KMP_Server)|This is a Kotlin Multiplatform Project for the Organiks Platform with Shared UI plus KTOR for the server side within the same project|27|2024-04-13|2024-01-13|
 |27|[SimformSolutionsPvtLtd/SSCompose-SharedElement](https://github.com/SimformSolutionsPvtLtd/SSCompose-SharedElement)|Step into seamless transitions with the Shared Element Transition API! Create smooth, visually stunning animations between composables in Jetpack Compose. Enhance the user experience by maintaining vi ...|24|2024-09-09|2024-06-28|
 |28|[dgca/expo-rust-demo](https://github.com/dgca/expo-rust-demo)|An example repo showing how to use Rust in React Native via Expo Modules|23|2024-07-12|2024-02-08|
-|29|[ArjunJadeja/Something](https://github.com/ArjunJadeja/Something)|what you should avoid and learn from in kotlin|21|2024-09-25|2024-09-13|
-|30|[w2sv/Composed](https://github.com/w2sv/Composed)| A collection of utils to facilitate development with Jetpack Compose. |21|2024-06-24|2024-02-29|
-|31|[isel-leic-pdm/2425i](https://github.com/isel-leic-pdm/2425i)|Repository for Mobile Device Programming course, winter semester of 2024-2025|20|2024-10-07|2024-09-08|
+|29|[w2sv/Composed](https://github.com/w2sv/Composed)| A collection of utils to facilitate development with Jetpack Compose. |22|2024-06-24|2024-02-29|
+|30|[ArjunJadeja/Something](https://github.com/ArjunJadeja/Something)|what you should avoid and learn from in kotlin|21|2024-09-25|2024-09-13|
+|31|[isel-leic-pdm/2425i](https://github.com/isel-leic-pdm/2425i)|Repository for Mobile Device Programming course, winter semester of 2024-2025|20|2024-10-11|2024-09-08|
 |32|[amsavarthan/reaction-picker](https://github.com/amsavarthan/reaction-picker)|💙 Facebook-like reaction picker library for Android using Jetpack compose|20|2024-04-17|2024-04-01|
 |33|[rschattauer/compose_multiplatform](https://github.com/rschattauer/compose_multiplatform)|This project shows how to use kotlin multiplatform with compose and custom ui components for each platform|20|2024-10-03|2024-01-24|
 |34|[bimalkaf/JetpackCompose_Playground](https://github.com/bimalkaf/JetpackCompose_Playground)|Jetpack Compose code to learn it from scratch |19|2024-09-24|2024-02-22|

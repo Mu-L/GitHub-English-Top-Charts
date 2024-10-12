@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > R
-<sub>Updated: 2024-10-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-10-12&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -27,18 +27,16 @@
 |20|[martinmodrak/modelling-in-stan-2024](https://github.com/martinmodrak/modelling-in-stan-2024)|Materials for the course on Bayesian model building run at Second Faculty of Medicine at Charles University in Prague|9|2024-05-06|2024-02-22|
 |21|[andrewheiss/evalsp24.classes.andrewheiss.com](https://github.com/andrewheiss/evalsp24.classes.andrewheiss.com)|📊 🌐 🧑‍🏫 Website for graduate-level course on program evaluation and causal inference using R, built with Quarto|9|2024-07-30|2024-01-02|
 |22|[milos-agathon/deforestation-maps](https://github.com/milos-agathon/deforestation-maps)|Welcome to this tutorial where you'll learn how to map deforestation using Global Forest Change data (2001-2023) from GLAD. In this repo, we'll cover:  1. Fetching forest cover and tree loss data for  ...|8|2024-09-15|2024-09-12|
-|23|[DDI-Students/data-science-for-health-bms-24-25](https://github.com/DDI-Students/data-science-for-health-bms-24-25)|Tutorial materials for the labs|8|2024-10-04|2024-08-14|
+|23|[DDI-Students/data-science-for-health-bms-24-25](https://github.com/DDI-Students/data-science-for-health-bms-24-25)|Tutorial materials for the labs|8|2024-10-10|2024-08-14|
 |24|[dengxinb2315/CCEP-sRNA](https://github.com/dengxinb2315/CCEP-sRNA)|Study of pan-sRNome and regulatory mechanisms in pseudomonas aeruginosa reveals virulence-related functions of small non-coding RNAs|8|2024-07-08|2024-05-11|
 |25|[naoki-egami/dsl](https://github.com/naoki-egami/dsl)|R package: Design-based Supervised Learning|8|2024-10-08|2024-02-29|
 |26|[RobsonTigre/CausalTimeSeries](https://github.com/RobsonTigre/CausalTimeSeries)|Tutorial on CausalImpact and CausalArima|6|2024-09-24|2024-09-16|
 |27|[milos-agathon/temperature-anomaly-maps](https://github.com/milos-agathon/temperature-anomaly-maps)|In this repo, you'll learn how to use NASA's temperature anomaly data to create detailed maps in R. We'll cover how to reproject the data into different map projections, including Robinson and Orthogr ...|6|2024-06-09|2024-06-09|
-|28|[tsrobinson/oxss24](https://github.com/tsrobinson/oxss24)|Course materials for 2024 Oxford Spring School in Advanced Research Methods|6|2024-04-11|2024-04-01|
-|29|[milos-agathon/3d-elevation-inset-maps](https://github.com/milos-agathon/3d-elevation-inset-maps)|In this repo, we're diving deep into the realm of 3D elevation maps with inset maps, also known as study area maps. We'll harness the power of ggplot2 and rayshader in R to transform your data into st ...|6|2024-05-31|2024-03-18|
-|30|[mblstamps/stamps2024](https://github.com/mblstamps/stamps2024)|Materials for the STAMPS 2024 course at the MBL in Woods Hole, MA, USA|6|2024-07-19|2024-03-15|
-|31|[LucasKook/comets](https://github.com/LucasKook/comets)|Algorithm-agnostic significance testing in supervised learning with multimodal data|6|2024-10-09|2024-01-29|
-|32|[Fanyi177/Effects-of-Diets-on-Risks-of-Cancer-and-the-Mediating-role-of-Metabolites](https://github.com/Fanyi177/Effects-of-Diets-on-Risks-of-Cancer-and-the-Mediating-role-of-Metabolites)|Effects of Adherence to Mediterranean and MIND Diets, and the Mediating Effect of Metabolites on Risks of Overall and 22 Specific Cancers: a cohort study in UK Biobank|6|2024-04-10|2024-01-24|
-|33|[mjfrigaard/sap](https://github.com/mjfrigaard/sap)|A collection of {S}hiny {A}pp-{P}ackages|6|2024-09-24|2023-10-15|
-|34|[jtanevski/kasumi](https://github.com/jtanevski/kasumi)|Identification of persistent local patterns in spatial omics data|5|2024-10-04|2024-03-18|
+|28|[milos-agathon/3d-elevation-inset-maps](https://github.com/milos-agathon/3d-elevation-inset-maps)|In this repo, we're diving deep into the realm of 3D elevation maps with inset maps, also known as study area maps. We'll harness the power of ggplot2 and rayshader in R to transform your data into st ...|6|2024-05-31|2024-03-18|
+|29|[mblstamps/stamps2024](https://github.com/mblstamps/stamps2024)|Materials for the STAMPS 2024 course at the MBL in Woods Hole, MA, USA|6|2024-07-19|2024-03-15|
+|30|[LucasKook/comets](https://github.com/LucasKook/comets)|Algorithm-agnostic significance testing in supervised learning with multimodal data|6|2024-10-11|2024-01-29|
+|31|[mjfrigaard/sap](https://github.com/mjfrigaard/sap)|A collection of {S}hiny {A}pp-{P}ackages|6|2024-09-24|2023-10-15|
+|32|[jtanevski/kasumi](https://github.com/jtanevski/kasumi)|Identification of persistent local patterns in spatial omics data|5|2024-10-04|2024-03-18|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

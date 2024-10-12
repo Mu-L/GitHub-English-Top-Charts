@@ -1,14 +1,14 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # Overall Ranking > Knowledge > Vim script
-<sub>Updated: 2024-10-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-10-12&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[jbranchaud/til](https://github.com/jbranchaud/til)|:memo: Today I Learned|13417|2024-10-10|
-|2|[wsdjeg/vim-galore-zh_cn](https://github.com/wsdjeg/vim-galore-zh_cn)|Vim 从入门到精通|10479|2024-07-06|
+|1|[jbranchaud/til](https://github.com/jbranchaud/til)|:memo: Today I Learned|13419|2024-10-11|
+|2|[wsdjeg/vim-galore-zh_cn](https://github.com/wsdjeg/vim-galore-zh_cn)|Vim 从入门到精通|10484|2024-07-06|
 |3|[rafi/awesome-vim-colorschemes](https://github.com/rafi/awesome-vim-colorschemes)|Collection of awesome color schemes for Neo/vim, merged for quick use.|2734|2024-05-28|
-|4|[learnbyexample/scripting_course](https://github.com/learnbyexample/scripting_course)|:notebook: Books, reference guides and resources on Regular Expressions, CLI one-liners, Scripting Languages and Vim.|1376|2024-09-16|
+|4|[learnbyexample/scripting_course](https://github.com/learnbyexample/scripting_course)|:notebook: Books, reference guides and resources on Regular Expressions, CLI one-liners, Scripting Languages and Vim.|1377|2024-09-16|
 |5|[antoniosarosi/dotfiles](https://github.com/antoniosarosi/dotfiles)|My dotfiles repo, here you can find all my window manager configs as well as documentation and a guide on how to make your own desktop environment.|858|2024-08-13|
 |6|[zenbones-theme/zenbones.nvim](https://github.com/zenbones-theme/zenbones.nvim)|🪨 A collection of contrast-based Vim/Neovim colorschemes|721|2024-10-03|
 |7|[fatso83/dotfiles](https://github.com/fatso83/dotfiles)|Cross-platform dotfiles shared by macOS and Linux (native and WSL2)|299|2024-10-08|
@@ -18,13 +18,13 @@
 |11|[yorickpeterse/vim-paper](https://github.com/yorickpeterse/vim-paper)|A light theme for (Neo)Vim, based on the colour of paper as found in various notebooks.|127|2024-05-19|
 |12|[utkuufuk/ubuntu-on-steroids](https://github.com/utkuufuk/ubuntu-on-steroids)|Developer setup & configuration guide for Ubuntu|122|2024-09-27|
 |13|[tony/vim-config-framework](https://github.com/tony/vim-config-framework)|:green_book: VIM / Neovim configuration framework|96|2024-09-07|
-|14|[jpalardy/dotfiles](https://github.com/jpalardy/dotfiles)|My collection of config files (shell, vim, …)|90|2024-10-09|
+|14|[jpalardy/dotfiles](https://github.com/jpalardy/dotfiles)|My collection of config files (shell, vim, …)|90|2024-10-11|
 |15|[anufrievroman/vim-angry-reviewer](https://github.com/anufrievroman/vim-angry-reviewer)|Vim plugin for style correction for academic writing and scientific papers|86|2024-06-06|
 |16|[majutsushi/etc](https://github.com/majutsushi/etc)|Collection of configuration files|83|2024-10-06|
 |17|[addy-dclxvi/debian-bspwm-dotfiles](https://github.com/addy-dclxvi/debian-bspwm-dotfiles)|My personal backup of my Debian 11 (Bullseye) Bspwm configurations including the documentation about how to recreate my setup|78|2024-08-24|
 |18|[Konfekt/vim-compilers](https://github.com/Konfekt/vim-compilers)|a collection of compilers for ready use by Vim's built-in compiler feature (see :help :compiler)|47|2024-10-05|
 |19|[MDGSF/MyVim](https://github.com/MDGSF/MyVim)|vim, vimrc, vimrc template, vim document, vim note, vim study, vimtutor, learn vim, vim practice, vim学习, vim笔记, vim训练营, vim教程, vim入门教程, vim简明教程, vim实操教程, vim入门文档, vimtutor中文版|43|2024-08-20|
-|20|[idbrii/daveconfig](https://github.com/idbrii/daveconfig)|A collection of settings and tiny scripts for many things. Note: only main branch is safe!|34|2024-10-03|
+|20|[idbrii/daveconfig](https://github.com/idbrii/daveconfig)|A collection of settings and tiny scripts for many things. Note: only main branch is safe!|34|2024-10-11|
 |21|[mrtazz/dotfiles](https://github.com/mrtazz/dotfiles)|collection of my dotfiles|29|2024-10-09|
 |22|[id774/scripts](https://github.com/id774/scripts)|Scripts collection for system administration|26|2024-09-17|
 |23|[vim-denops/denops-shared-server.vim](https://github.com/vim-denops/denops-shared-server.vim)|🎃 Vim plugin to help install/uninstall denops-shared-server|25|2024-08-18|
@@ -63,7 +63,7 @@
 |56|[sophiabrandt/TIL](https://github.com/sophiabrandt/TIL)|📝 Today I learned|4|2024-09-26|
 |57|[HaiboTu/ubuntuUserguide](https://github.com/HaiboTu/ubuntuUserguide)|Simple user guide on ubuntu.|4|2024-04-28|
 |58|[lukelbd/vim-succinct](https://github.com/lukelbd/vim-succinct)|🏃‍♂️ Tools for succinctly editing documents using snippets, delimiters, text objects, and templates|4|2024-08-13|
-|59|[arumoy-shome/dotfiles](https://github.com/arumoy-shome/dotfiles)|A collection of files that start with a dot.|4|2024-10-04|
+|59|[arumoy-shome/dotfiles](https://github.com/arumoy-shome/dotfiles)|A collection of files that start with a dot.|4|2024-10-11|
 |60|[quatauta/dotfiles](https://github.com/quatauta/dotfiles)|My collection of dotfiles for Linux, mostly used on Arch Linux|4|2024-09-27|
 |61|[Sean-Der/dot_files](https://github.com/Sean-Der/dot_files)|Collection of my configs and personal programs.|4|2024-09-18|
 |62|[vdboor/dotfiles](https://github.com/vdboor/dotfiles)|My collection of shell settings|4|2024-10-09|

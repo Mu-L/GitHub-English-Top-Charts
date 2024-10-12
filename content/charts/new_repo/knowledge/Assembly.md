@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Assembly
-<sub>Updated: 2024-10-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-10-12&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -28,26 +28,27 @@
 |21|[CHUN983/nuk_assembly_project](https://github.com/CHUN983/nuk_assembly_project)|the assembly learning|4|2024-06-13|2024-05-08|
 |22|[Omarmasalmah/Mips_assembly_medical_test_system](https://github.com/Omarmasalmah/Mips_assembly_medical_test_system)|MIPS Assembly project for Computer Architecture Course implements a patient medical record management system.|4|2024-04-30|2024-04-21|
 |23|[Optiroc/SHVC-LZ](https://github.com/Optiroc/SHVC-LZ)|A collection of decoders for various modern Lempel-Ziv compression variants targeting the Super Famicom/Nintendo system.|4|2024-09-21|2024-03-30|
-|24|[31b4/pte-proginf-bsc](https://github.com/31b4/pte-proginf-bsc)|zero to hero proginf bsc step by step tutorial|4|2024-09-02|2023-12-13|
-|25|[HsHs-dev/ICS-15-213-2015](https://github.com/HsHs-dev/ICS-15-213-2015)|My attempt to Carnegie Mellon University Introduction to Computer Systems course 15-213 2015.|3|2024-10-09|2024-09-21|
-|26|[Nikitat0/StarbirdOS](https://github.com/Nikitat0/StarbirdOS)|Operational system created by Alliance to Restore the Republic (SysPro OSE course project)|3|2024-10-08|2024-09-13|
-|27|[richardturnnidge/i2c_lessons](https://github.com/richardturnnidge/i2c_lessons)|code for all lessons on i2c|3|2024-10-09|2024-09-09|
-|28|[xfcasio/bento](https://github.com/xfcasio/bento)|A collection of macros intended at making assembly more convenient to write and a bit closer to C. Only for x86_64 linux and the FASM assembler (for now).|3|2024-08-20|2024-08-15|
-|29|[Ryzee119/visor_hello_world](https://github.com/Ryzee119/visor_hello_world)|Minimilast OG Xbox Visor Exploit to Hello World - Just me tinkering learning about it|3|2024-10-09|2024-08-07|
-|30|[cticenhour/moose-workshop-ukaea](https://github.com/cticenhour/moose-workshop-ukaea)|Tutorial files for the MOOSE portion of the 2024 UKAEA School on Open-Source Software for Fusion Engineering Simulation|3|2024-08-05|2024-08-01|
-|31|[bektidk/hello-world](https://github.com/bektidk/hello-world)|This repository contains "Hello, World!" scripts in multiple programming languages. It's a simple and useful resource for developers to see how to write a basic program in different languages.|3|2024-07-31|2024-07-31|
-|32|[bektidk/hello-world](https://github.com/bektidk/hello-world)|This repository contains "Hello, World!" scripts in multiple programming languages. It's a simple and useful resource for developers to see how to write a basic program in different languages.|3|2024-07-29|2024-07-29|
-|33|[maganharenan/SNES](https://github.com/maganharenan/SNES)|A study hub for SNES programming with assembly|3|2024-07-13|2024-06-06|
-|34|[Rafaelmdcarneiro/wb_sms](https://github.com/Rafaelmdcarneiro/wb_sms)|WonderBoy built for the Sega Master System in 1986.|3|2024-05-24|2024-05-24|
-|35|[winterrdog/x86-bootloader](https://github.com/winterrdog/x86-bootloader)|A hobby project to learn how to make a bootloader. Written in C and x86 Assembly|3|2024-05-02|2024-04-27|
-|36|[McHogardty/z80](https://github.com/McHogardty/z80)|A collection of docs and code for my breadboard z80 project.|3|2024-04-29|2024-04-04|
-|37|[KhaqanNasir/Assembly-Language](https://github.com/KhaqanNasir/Assembly-Language)|"Discover the magic of 8086 assembly with our easy-to-follow emulator-compatible codes! 🖥️ Dive into basic input/output, introductory algorithms, and more. Start your journey into assembly programming ...|3|2024-06-24|2024-03-30|
-|38|[brscn2/metuceng](https://github.com/brscn2/metuceng)|Collection of my course homeworks/projects at METU CEng|3|2024-05-31|2024-03-09|
-|39|[Logan-Hansen/PokemonCrystal](https://github.com/Logan-Hansen/PokemonCrystal)|Pokemon Crystal Disassembly Modded following tutorials|3|2024-10-05|2024-02-10|
-|40|[LinkHpp/TinyKernel](https://github.com/LinkHpp/TinyKernel)|Just a tiny kernel I'm trying to do to learn how they work|2|2024-08-27|2024-07-19|
-|41|[byte-engineer/my-drafts](https://github.com/byte-engineer/my-drafts)|Draft for learn programming language|2|2024-05-19|2024-05-13|
-|42|[MuhammadSarimWaseem/Assembly-Language](https://github.com/MuhammadSarimWaseem/Assembly-Language)|A repository featuring a collection of assembly language problems for practice and learning.|2|2024-05-01|2024-02-27|
-|43|[markmoxon/elite-over-econet](https://github.com/markmoxon/elite-over-econet)|Updated versions of Elite on the BBC Micro, BBC Master and 6502 Second Processor that load over Econet and support multiplayer scoreboards|2|2024-07-11|2024-01-14|
+|24|[31b4/pte-proginf-bsc](https://github.com/31b4/pte-proginf-bsc)|zero to hero proginf bsc step by step tutorial|4|2024-10-10|2023-12-13|
+|25|[HsHs-dev/ICS-15-213-2015](https://github.com/HsHs-dev/ICS-15-213-2015)|My attempt to Carnegie Mellon University Introduction to Computer Systems course 15-213 2015.|3|2024-10-10|2024-09-21|
+|26|[TheAndrewLa/sq_os](https://github.com/TheAndrewLa/sq_os)|An trainig operating system for my university course|3|2024-10-11|2024-09-13|
+|27|[Nikitat0/StarbirdOS](https://github.com/Nikitat0/StarbirdOS)|Operational system created by Alliance to Restore the Republic (SysPro OSE course project)|3|2024-10-08|2024-09-13|
+|28|[richardturnnidge/i2c_lessons](https://github.com/richardturnnidge/i2c_lessons)|code for all lessons on i2c|3|2024-10-10|2024-09-09|
+|29|[xfcasio/bento](https://github.com/xfcasio/bento)|A collection of macros intended at making assembly more convenient to write and a bit closer to C. Only for x86_64 linux and the FASM assembler (for now).|3|2024-08-20|2024-08-15|
+|30|[Ryzee119/visor_hello_world](https://github.com/Ryzee119/visor_hello_world)|Minimilast OG Xbox Visor Exploit to Hello World - Just me tinkering learning about it|3|2024-10-09|2024-08-07|
+|31|[cticenhour/moose-workshop-ukaea](https://github.com/cticenhour/moose-workshop-ukaea)|Tutorial files for the MOOSE portion of the 2024 UKAEA School on Open-Source Software for Fusion Engineering Simulation|3|2024-08-05|2024-08-01|
+|32|[bektidk/hello-world](https://github.com/bektidk/hello-world)|This repository contains "Hello, World!" scripts in multiple programming languages. It's a simple and useful resource for developers to see how to write a basic program in different languages.|3|2024-07-31|2024-07-31|
+|33|[bektidk/hello-world](https://github.com/bektidk/hello-world)|This repository contains "Hello, World!" scripts in multiple programming languages. It's a simple and useful resource for developers to see how to write a basic program in different languages.|3|2024-07-29|2024-07-29|
+|34|[maganharenan/SNES](https://github.com/maganharenan/SNES)|A study hub for SNES programming with assembly|3|2024-07-13|2024-06-06|
+|35|[Rafaelmdcarneiro/wb_sms](https://github.com/Rafaelmdcarneiro/wb_sms)|WonderBoy built for the Sega Master System in 1986.|3|2024-05-24|2024-05-24|
+|36|[winterrdog/x86-bootloader](https://github.com/winterrdog/x86-bootloader)|A hobby project to learn how to make a bootloader. Written in C and x86 Assembly|3|2024-05-02|2024-04-27|
+|37|[McHogardty/z80](https://github.com/McHogardty/z80)|A collection of docs and code for my breadboard z80 project.|3|2024-04-29|2024-04-04|
+|38|[KhaqanNasir/Assembly-Language](https://github.com/KhaqanNasir/Assembly-Language)|"Discover the magic of 8086 assembly with our easy-to-follow emulator-compatible codes! 🖥️ Dive into basic input/output, introductory algorithms, and more. Start your journey into assembly programming ...|3|2024-06-24|2024-03-30|
+|39|[brscn2/metuceng](https://github.com/brscn2/metuceng)|Collection of my course homeworks/projects at METU CEng|3|2024-05-31|2024-03-09|
+|40|[Logan-Hansen/PokemonCrystal](https://github.com/Logan-Hansen/PokemonCrystal)|Pokemon Crystal Disassembly Modded following tutorials|3|2024-10-05|2024-02-10|
+|41|[LinkHpp/TinyKernel](https://github.com/LinkHpp/TinyKernel)|Just a tiny kernel I'm trying to do to learn how they work|2|2024-08-27|2024-07-19|
+|42|[byte-engineer/my-drafts](https://github.com/byte-engineer/my-drafts)|Draft for learn programming language|2|2024-05-19|2024-05-13|
+|43|[MuhammadSarimWaseem/Assembly-Language](https://github.com/MuhammadSarimWaseem/Assembly-Language)|A repository featuring a collection of assembly language problems for practice and learning.|2|2024-05-01|2024-02-27|
+|44|[markmoxon/elite-over-econet](https://github.com/markmoxon/elite-over-econet)|Updated versions of Elite on the BBC Micro, BBC Master and 6502 Second Processor that load over Econet and support multiplayer scoreboards|2|2024-07-11|2024-01-14|
 
 <div align="center">
     <p><sub>↓ -- Thanks -- ↓</sub></p>

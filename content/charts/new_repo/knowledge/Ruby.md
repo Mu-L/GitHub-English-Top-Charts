@@ -1,14 +1,14 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Ruby
-<sub>Updated: 2024-10-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-10-12&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[mawise/bookshelf](https://github.com/mawise/bookshelf)|3D animated bookshelf for ebooks|387|2024-08-16|2024-08-12|
-|2|[TarteelAI/quranic-universal-library](https://github.com/TarteelAI/quranic-universal-library)|A comprehensive collection of Quran resources|193|2024-10-09|2024-06-11|
-|3|[skryukov/inertia_rails-contrib](https://github.com/skryukov/inertia_rails-contrib)|A collection of extensions, developer tools, and the community documentation for Inertia's Rails adapter.|96|2024-10-09|2024-06-04|
-|4|[trailofbits/ruzzy](https://github.com/trailofbits/ruzzy)|A coverage-guided fuzzer for pure Ruby code and Ruby C extensions|78|2024-08-23|2024-01-19|
+|2|[TarteelAI/quranic-universal-library](https://github.com/TarteelAI/quranic-universal-library)|A comprehensive collection of Quran resources|194|2024-10-10|2024-06-11|
+|3|[skryukov/inertia_rails-contrib](https://github.com/skryukov/inertia_rails-contrib)|A collection of extensions, developer tools, and the community documentation for Inertia's Rails adapter.|97|2024-10-10|2024-06-04|
+|4|[trailofbits/ruzzy](https://github.com/trailofbits/ruzzy)|A coverage-guided fuzzer for pure Ruby code and Ruby C extensions|79|2024-08-23|2024-01-19|
 |5|[sublayerapp/blueprints](https://github.com/sublayerapp/blueprints)|Blueprints is an open-source tool that integrates with your text editor to help you generate code with an LLM based on patterns you already have in your codebase. Download one of our official editor p ...|50|2024-09-09|2024-01-29|
 |6|[btholt/project-files-for-complete-intro-to-containers-v2](https://github.com/btholt/project-files-for-complete-intro-to-containers-v2)|Project files for the Complete Intro to Containers v2 as taught for Frontend Masters|43|2024-04-22|2024-04-17|
 |7|[devleo-m/code-playground](https://github.com/devleo-m/code-playground)|This repository is a collection of my learning journey in various programming languages, including Ruby, JavaScript, Java, and C++. Dive into code snippets, projects, and resources aimed at aiding you ...|37|2024-09-25|2023-11-24|

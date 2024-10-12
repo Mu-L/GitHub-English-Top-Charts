@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-English-Top-Charts#github-english-top-charts">Back to index</a> • <a href="/content/docs/feedback.md">Feedback</a>
 
 # New Project Ranking > Knowledge > Pascal
-<sub>Updated: 2024-10-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
+<sub>Updated: 2024-10-12&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;Tips：English projects refer to those with documents in English, usually displayed in the readme / wiki / official website.</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[FreddyVRetro/MODMXT](https://github.com/FreddyVRetro/MODMXT)|Mod Master XT Source|26|2024-09-22|2024-02-17|
-|2|[PascalCorpsman/mini_projects](https://github.com/PascalCorpsman/mini_projects)|Collection of small and easy to understand mini projects that are too big to be a example and to small to be a real project|12|2024-10-09|2023-11-21|
+|2|[PascalCorpsman/mini_projects](https://github.com/PascalCorpsman/mini_projects)|Collection of small and easy to understand mini projects that are too big to be a example and to small to be a real project|12|2024-10-11|2023-11-21|
 |3|[Embarcadero/DelphiBlogExamples](https://github.com/Embarcadero/DelphiBlogExamples)|Delphi examples used in Embarcadero Blogs|10|2024-07-08|2024-05-14|
 |4|[bero/InterFaceWithGUI](https://github.com/bero/InterFaceWithGUI)|Small demo shoing how to use interfaces with modal dialog|6|2024-07-28|2024-07-12|
 |5|[wp-xyz/GeoPattern](https://github.com/wp-xyz/GeoPattern)|Generator for geometric patterns|5|2024-05-19|2024-05-17|
